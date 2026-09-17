@@ -79,9 +79,25 @@ Usos. Nenhuma ilustração boa se perde depois de pregada uma vez.
 
 Um agente executa mensalmente uma busca por ilustrações de:
 
-- **Pregadores reformados clássicos e contemporâneos**: Spurgeon,
-  Lloyd-Jones, Sproul, Piper, Chandler, Alistair Begg (lista-base;
-  ampliável)
+**Pregadores e pensadores reformados — internacionais**: Charles Spurgeon,
+Martyn Lloyd-Jones, R.C. Sproul, John Piper, Matt Chandler, Alistair Begg,
+Tim Keller, Voddie Baucham, D.A. Carson, Sinclair Ferguson, Kevin DeYoung,
+Ligon Duncan, Ray Ortlund, Kevin Vanhoozer, Michael Horton, Jay Adams,
+Francis Schaeffer, os Puritanos (categoria — Owen, Baxter, Bunyan, Watson
+et al.)
+
+**Vozes cristãs mais amplas** (não estritamente reformadas, mas de peso
+apologético/cultural): C.S. Lewis, G.K. Chesterton, James K. A. Smith
+
+**Pregadores brasileiros**: Emílio Garófalo Neto (Igreja Presbiteriana
+Semear, Brasília), Guilherme de Carvalho (Igreja Esperança, Belo
+Horizonte), Igor Miguel (auxiliar de Guilherme de Carvalho na Igreja
+Esperança, Belo Horizonte), Jonas Madureira, Franklin Ferreira
+
+Lista-base, ampliável — Allan pode adicionar ou remover nomes a qualquer
+momento pedindo diretamente.
+
+Além dos pregadores, a varredura também busca:
 - **Eventos históricos e notícias atuais** com ressonância teológica
 - **Cenas de filmes** (qualquer origem, desde que a ilustração sirva a um
   ponto teológico claro)
@@ -89,8 +105,9 @@ Um agente executa mensalmente uma busca por ilustrações de:
   nunca a letra reproduzida)
 
 As ilustrações encontradas entram **diretamente no banco**, marcadas
-`Fonte: Varredura mensal`, seguindo o template acima. Allan audita e
-descarta o que não servir quando for usar.
+`Fonte: Varredura mensal`, seguindo o template acima — **só adicionando**,
+nunca apagando ou alterando entradas existentes. A curadoria (descartar o
+que for fraco) é sempre manual, feita pelo Allan quando for usar.
 
 ### Checklist antes de adicionar (própria ou por varredura)
 
