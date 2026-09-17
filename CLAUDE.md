@@ -153,7 +153,9 @@ assets/                             — identidade visual e recursos gráficos
 
 ilustracoes/                        — banco vivo de ilustrações de pregação
   banco-ilustracoes.md              — acervo com fonte, tags, fim homilético e
-                                      histórico de usos por entrada
+                                      histórico de usos por entrada; alimentado
+                                      manualmente (Fase 6a) e por rotina mensal
+                                      automatizada (append-only, nunca remove)
 
 estudos/                            — estudos bíblicos completos (saída do workflow)
   <livro>/                          — organizado por livro bíblico
@@ -165,6 +167,11 @@ estudos/                            — estudos bíblicos completos (saída do w
 Os três pilares metodológicos (Simeon Trust, Adams, Keller) estão
 documentados na íntegra desde 2026-09-16. O workflow de estudo integra os
 três pilares em um processo de 6 fases com validação interativa.
+
+Projeto versionado em `https://github.com/AllanAcioly/exegese-hermeneutica-homiletica`
+(privado). Rotina mensal na nuvem (`trig_017L6avuABu35xSx1cEE39z5`, dia 1 de
+cada mês, 08h São Paulo) faz varredura de ilustrações de pregação e
+commit/push direto em `main` — só adiciona, nunca remove.
 
 ## Skills disponíveis
 
