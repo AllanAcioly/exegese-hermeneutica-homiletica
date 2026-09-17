@@ -38,3 +38,246 @@ Nunca forçar uma boa ilustração num lugar que ela não serve.
 ---
 
 <!-- Novas entradas entram abaixo desta linha, mais recentes no topo -->
+
+## [IL-009] A singularidade do amor: gravidade que curva o espaço-tempo do coração
+
+- **Fonte**: Varredura mensal
+- **Origem específica**: Guilherme de Carvalho (pastor da Igreja Esperança, Belo
+  Horizonte), artigo "Um elogio do casamento", coluna na Gazeta do Povo
+  (gazetadopovo.com.br/vozes/guilherme-de-carvalho/um-elogio-do-casamento/)
+- **Tags**: `#ídolo-do-coração` `#tesouro` `#casamento` `#Mt6.21`
+  `#salvador-funcional`
+- **Descrição**: Carvalho usa a física de Einstein — uma massa
+  suficientemente grande curva o próprio espaço-tempo ao redor dela,
+  dobrando até a luz que passa perto — como figura para o casamento: um
+  grande amor cria uma espécie de "singularidade" no espaço-tempo do
+  coração, um nó gravitacional em torno do qual tudo o mais passa a se
+  curvar e se reorganizar.
+- **Fim homilético**: ilustra Mt 6.21 ("onde estiver o teu tesouro, aí
+  estará também o teu coração") — o que tratamos como de peso supremo
+  literalmente curva a órbita de tudo o mais na vida (tempo, atenção,
+  decisões). Serve tanto para descrever a beleza de um bem criado bem
+  ordenado (o casamento como dádiva) quanto — invertendo a mesma lógica
+  física — para diagnosticar a idolatria: quando um bem criado (cônjuge,
+  carreira, aprovação) vira a "massa" que curva tudo ao redor de si, ele
+  ocupou o lugar gravitacional que só pertence a Deus, e a órbita inteira
+  da vida sai distorcida.
+- **Adicionada em**: 2026-09-17
+
+### Usos
+
+| Data | Sermão/Perícope | Conexão específica que justificou o reuso |
+|------|------------------|---------------------------------------------|
+| —    | —                | —                                            |
+
+---
+
+## [IL-008] "Estamos bem no abrigo, os 33" — a mensagem que subiu antes do resgate
+
+- **Fonte**: Varredura mensal
+- **Origem específica**: resgate dos 33 mineiros da mina San José, deserto
+  do Atacama, Chile — soterrados em 5 de agosto de 2010, localizados com
+  vida 17 dias depois quando uma sonda de perfuração alcançou o abrigo e
+  trouxe de volta um bilhete confirmando que os 33 estavam vivos; o
+  resgate efetivo, um a um pela cápsula Fénix, só ocorreu em 13 de
+  outubro de 2010, quase 70 dias após o acidente
+- **Tags**: `#já-e-ainda-não` `#esperança` `#sofrimento-prolongado`
+  `#lamento` `#Sl40` `#Jn2`
+- **Descrição**: por 17 dias ninguém na superfície sabia se os mineiros
+  estavam vivos. Quando a sonda finalmente rompeu a rocha até o abrigo, a
+  primeira coisa que voltou não foi o resgate — foi uma palavra: estavam
+  vivos, estavam todos. O resgate real, trazendo cada um de volta à luz,
+  só aconteceu quase dois meses depois.
+- **Fim homilético**: ilustra a estrutura do "já e ainda não" da esperança
+  bíblica em meio a um sofrimento prolongado sem data para acabar (cf. Sl
+  40.1-3; Jn 2, o profeta no ventre do peixe) — a certeza de que fomos
+  ouvidos e estamos seguros no Deus que sabe onde estamos chega antes da
+  libertação completa e visível. A fé sustenta a espera não porque nega a
+  escuridão real da mina, mas porque já recebeu a palavra de que não
+  estamos abandonados nela.
+- **Adicionada em**: 2026-09-17
+
+### Usos
+
+| Data | Sermão/Perícope | Conexão específica que justificou o reuso |
+|------|------------------|---------------------------------------------|
+| —    | —                | —                                            |
+
+---
+
+## [IL-007] O irmão mais velho: perdido dentro de casa
+
+- **Fonte**: Pregador: Tim Keller
+- **Origem específica**: livro *O Deus Pródigo* (*The Prodigal God*, 2008),
+  exposição de Lc 15.11-32 — Keller argumenta que a parábola deveria se
+  chamar "dos Dois Filhos Perdidos", porque o irmão mais velho está tão
+  perdido quanto o caçula, só que pela via da obediência, não da rebeldia
+- **Tags**: `#moralismo` `#autojustiça` `#legalismo` `#Lc15`
+  `#evangelho-vs-religião`
+- **Descrição**: o filho mais velho nunca saiu de casa nem desperdiçou a
+  herança — mas obedeceu ao pai para negociar poder e reconhecimento, não
+  por amor. Quando o pai celebra o retorno do irmão caçula, o mais velho
+  se recusa a entrar na festa: sua obediência sempre foi instrumento de
+  controle, e por isso ele também está, no fundo, alienado do coração do
+  pai.
+- **Fim homilético**: ilustra que a obediência religiosa não é, por si só,
+  evidência de estar certo com Deus — o legalismo é uma segunda forma de
+  fugir do Pai, tão perdida quanto a libertinagem, só que sem os sinais
+  externos de rebeldia. Serve ao ponto de sermão que precisa confrontar a
+  autojustiça de uma audiência "de dentro da igreja", que julgaria o
+  filho pródigo mas reconhece pouco a própria necessidade de graça.
+- **Adicionada em**: 2026-09-17
+
+### Usos
+
+| Data | Sermão/Perícope | Conexão específica que justificou o reuso |
+|------|------------------|---------------------------------------------|
+| —    | —                | —                                            |
+
+---
+
+## [IL-006] "Não desperdice seu câncer"
+
+- **Fonte**: Pregador: John Piper
+- **Origem específica**: artigo/livreto *Don't Waste Your Cancer* (2006),
+  escrito por Piper na véspera de sua própria cirurgia de câncer de
+  próstata (13 de fevereiro de 2006), publicado depois como apêndice de
+  *Suffering and the Sovereignty of God*
+- **Tags**: `#sofrimento` `#soberania-de-deus` `#doença`
+  `#propósito-na-dor`
+- **Descrição**: Piper escreve a si mesmo, horas antes de entrar para a
+  cirurgia, uma lista de formas de "desperdiçar" o próprio câncer — por
+  exemplo, não crer que ele foi planejado por Deus, tratá-lo como
+  acidente sem sentido, ou não deixar que ele o aproxime mais de Cristo.
+  O ponto não é minimizar a doença, mas recusar-se a deixá-la passar sem
+  que produza mais fé, não menos.
+- **Fim homilético**: ilustra que a soberania de Deus sobre o sofrimento
+  não é resposta filosófica fria, mas convocação pastoral concreta e
+  imediata: o mesmo sofrimento pode ser "desperdiçado" (vivido como
+  acaso, amargura ou distração) ou "aproveitado" (vivido como terreno de
+  fé mais funda) — a diferença não está na dor em si, mas na crença de
+  que ela está debaixo da mão de um Deus bom. Serve à aplicação pastoral
+  a quem está diante de diagnóstico ou perda recente, evitando tanto o
+  fatalismo quanto o moralismo de "ache uma lição".
+- **Adicionada em**: 2026-09-17
+
+### Usos
+
+| Data | Sermão/Perícope | Conexão específica que justificou o reuso |
+|------|------------------|---------------------------------------------|
+| —    | —                | —                                            |
+
+---
+
+## [IL-005] O remédio amargo com açúcar por cima
+
+- **Fonte**: Pregador: Puritanos (Thomas Watson)
+- **Origem específica**: ditos de Thomas Watson (c.1620-1686) sobre
+  aflição, amplamente registrados em coletâneas de suas obras (ex.:
+  gracegems.org/Watson/wise_and_holy_sayings.htm)
+- **Tags**: `#aflição` `#providência` `#sofrimento` `#consolo`
+- **Descrição**: Watson compara a aflição enviada por Deus a um remédio
+  amargo prescrito por um médico — desagradável de tomar, mas
+  administrado com a dose exata de doçura (o consolo do Espírito, as
+  promessas) que torna possível engoli-lo, e cuja finalidade não é o
+  gosto, mas a cura: "Depois de uma pílula amarga, Deus dá o açúcar."
+- **Fim homilético**: ilustra que a aflição na vida do crente não é
+  punitiva nem aleatória, mas medicinal — Deus mistura a amargura da
+  provação com uma doçura proporcional de consolo, de modo que o próprio
+  remédio testemunha o cuidado do médico. Serve ao ponto de um sermão
+  sobre providência que precisa evitar dois erros: negar que a aflição
+  dói de verdade, ou apresentá-la como um mal sem propósito nas mãos de
+  Deus.
+- **Adicionada em**: 2026-09-17
+
+### Usos
+
+| Data | Sermão/Perícope | Conexão específica que justificou o reuso |
+|------|------------------|---------------------------------------------|
+| —    | —                | —                                            |
+
+---
+
+## [IL-004] O trem, os braços abertos e a máscara que cai
+
+- **Fonte**: Filme: Homem-Aranha 2 (Spider-Man 2, dir. Sam Raimi, 2004)
+- **Origem específica**: cena do trem descontrolado — Peter Parker, sem
+  forças, estica os braços entre os vagões para frear o trem à custa do
+  próprio corpo, desmaia com a máscara arrancada, e é erguido pelos
+  passageiros acima de suas cabeças; ao verem seu rosto exposto, um deles
+  promete não contar a ninguém — cena amplamente comentada por críticos
+  como referência deliberada de Raimi à Paixão e à Pietà
+- **Tags**: `#sacrifício` `#amor-que-se-entrega` `#tipologia-de-cristo`
+  `#graça`
+- **Descrição**: para salvar estranhos num trem, Peter gasta toda a sua
+  força até desfalecer com os braços estendidos; os mesmos que ele salvou
+  o erguem e o protegem, guardando o segredo de quem ele é mesmo depois
+  de vê-lo vulnerável e sem máscara.
+- **Fim homilético**: a cena funciona como eco visual — não equivalência —
+  da forma do amor que se entrega até o esgotamento por quem não pode se
+  salvar sozinho; serve para introduzir, por analogia, a lógica do
+  sacrifício substitutivo antes de ir ao texto bíblico. Cuidado
+  homilético: nomear explicitamente que é analogia de forma, não a coisa
+  em si, para não diluir a singularidade histórica da cruz.
+- **Adicionada em**: 2026-09-17
+
+### Usos
+
+| Data | Sermão/Perícope | Conexão específica que justificou o reuso |
+|------|------------------|---------------------------------------------|
+| —    | —                | —                                            |
+
+---
+
+## [IL-003] O sol que faz ver tudo o mais
+
+- **Fonte**: Pregador (voz cristã ampla): C.S. Lewis
+- **Origem específica**: ensaio "Is Theology Poetry?", lido à Oxford
+  Socratic Club, publicado no livro *The Weight of Glory* (1949)
+- **Tags**: `#fé-e-razão` `#apologética` `#revelação` `#visão-de-mundo`
+- **Descrição**: Lewis não defende o cristianismo como uma crença isolada
+  que precisa ser provada ponto a ponto, mas como o sol que se acredita
+  ter nascido — "não apenas porque o vejo, mas porque por meio dele vejo
+  tudo o mais" — a luz pela qual ciência, moral, sofrimento e beleza
+  passam a fazer sentido coerente.
+- **Fim homilético**: ilustra que a fé cristã não pede para ser vista
+  diretamente e sozinha, mas para ser aceita como o que ilumina e
+  organiza tudo o mais que já vemos — útil no ponto de um sermão
+  apologético que precisa mostrar que fé não é o oposto de evidência ou
+  razão, mas o marco interpretativo sem o qual as próprias evidências não
+  se encaixam.
+- **Adicionada em**: 2026-09-17
+
+### Usos
+
+| Data | Sermão/Perícope | Conexão específica que justificou o reuso |
+|------|------------------|---------------------------------------------|
+| —    | —                | —                                            |
+
+---
+
+## [IL-002] "Eu bem que creio, Senhor" — a graça que basta no cansaço
+
+- **Fonte**: Pregador: Charles Spurgeon
+- **Origem específica**: anedota amplamente registrada em antologias de
+  Spurgeon — voltando exausto e abatido de uma viagem, ele se lembra de
+  2Co 12.9 ("A minha graça te basta") e responde, rindo, "Eu bem que
+  creio, Senhor!"
+- **Tags**: `#graça` `#suficiência-de-cristo` `#fadiga-pastoral` `#2Co12.9`
+- **Descrição**: Spurgeon, cansado e deprimido numa estrada, não recebe
+  uma doutrina nova, mas lembra de uma promessa já conhecida — e a
+  reação não é alívio contido, mas riso: a promessa combinada ao cansaço
+  real produz uma alegria desproporcional ao problema.
+- **Fim homilético**: ilustra que a suficiência da graça de Cristo (2Co
+  12.9) não é verdade abstrata para ser sabida, mas promessa que,
+  aplicada num momento real de fraqueza, muda o tom emocional da situação
+  sem mudar as circunstâncias — útil para pregar a diferença entre
+  conhecer uma doutrina e ser alcançado por ela no momento exato de
+  fraqueza (relevante também para exaustão ministerial).
+- **Adicionada em**: 2026-09-17
+
+### Usos
+
+| Data | Sermão/Perícope | Conexão específica que justificou o reuso |
+|------|------------------|---------------------------------------------|
+| —    | —                | —                                            |
