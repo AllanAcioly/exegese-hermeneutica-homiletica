@@ -100,12 +100,12 @@ seguir o workflow completo de 6 fases definido em
 | Fase | O que faz | Pilar |
 |------|-----------|-------|
 | 1. Exegese | Histórico-gramatical: gênero, estrutura, contexto, argumento do autor | Simeon Trust |
-| 2. Telos | Propósito do Espírito Santo nesta passagem, em uma frase | Adams |
+| 2. Telos | Consulta `estudos/indice.md` (coerência) → propósito do Espírito Santo nesta passagem, em uma frase | Adams |
 | 3. Diagnóstico | Qual o problema/ídolo? Como Deus resolveu lá? A história e a lição | Adams + Keller |
 | 4. Exegese cultural | Manifestação contemporânea: ídolos atuais, desdobramentos, BCNs | Keller |
 | 5. Aplicação cristológica | O que é exigido e não cumprimos? Como Jesus cumpre? Implementação | Adams + Keller + Simeon Trust |
 | 6. Construção homilética | 6a: esboço estruturado → validação → 6b: rascunho na voz pastoral | Os três + skill de voz |
-| 7. Entrega | Perguntar formato (DOCX/PDF) para: sermão, esboço de púlpito, documento de estudo | Layout IPE |
+| 7. Entrega | Formato (DOCX/PDF) para sermão/esboço/estudo + registra linha em `estudos/indice.md` | Layout IPE |
 
 ### Saída
 
@@ -158,6 +158,9 @@ ilustracoes/                        — banco vivo de ilustrações de pregaçã
                                       automatizada (append-only, nunca remove)
 
 estudos/                            — estudos bíblicos completos (saída do workflow)
+  indice.md                         — tabela mestra: perícope, gênero, telos,
+                                      ídolo/tema, data, link — consultada na
+                                      Fase 2 (coerência) e atualizada na Fase 7
   <livro>/                          — organizado por livro bíblico
     <capítulo>-<versículos>.md      — estudo completo (markdown)
     <capítulo>-<versículos>.docx    — sermão ou estudo formatado

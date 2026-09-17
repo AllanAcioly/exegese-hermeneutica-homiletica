@@ -85,6 +85,16 @@ Apresentar a exegese completa ao usuário. Aguardar validação antes de avança
 **Pilar**: Jay Adams (hermenêutica télica)
 **Referência completa**: `context/adams-hermeneutica-telica.md`
 
+### 2.0 Consultar o índice de estudos
+
+Antes de formular o telos, consultar `estudos/indice.md` buscando por
+temas, ídolos ou palavras-chave semelhantes aos que a exegese (Fase 1) já
+sugere. Objetivo: **Escritura interpreta Escritura na prática** — checar
+se um tema parecido já foi tratado, para manter coerência entre estudos
+(não repetir uma formulação de telos de forma contraditória, e notar
+conexões canônicas legítimas entre passagens). Isso não substitui a
+exegese do texto atual — é uma checagem de coerência, não um atalho.
+
 ### 2.1 Identificar pistas télicas
 
 - Declarações explícitas do autor sobre propósito
@@ -446,6 +456,14 @@ estudos/<livro>/<capítulo>-<versículos>-pulpito.docx  — esboço de púlpito
 ```
 
 Entregar os arquivos ao usuário via SendUserFile.
+
+### 7.5 Registrar no índice de estudos
+
+Adicionar uma nova linha **no topo da tabela** em `estudos/indice.md` com:
+data, perícope, livro, gênero (Fase 1.1), telos em uma frase (Fase 2.2),
+ídolo/tema central (Fase 3.1), e link para o arquivo do estudo. Isso
+mantém o índice útil para a checagem de coerência (Fase 2.0) em estudos
+futuros.
 
 ---
 
