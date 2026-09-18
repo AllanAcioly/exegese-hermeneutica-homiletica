@@ -182,6 +182,12 @@ commit/push direto em `main` — só adiciona, nunca remove.
   corpus); usar para produção de sermões e esboços
 - `aula-indutiva-ipe` — formato indutivo/socrático para grupos; usar para
   transformar estudos em aulas de descoberta guiada
+- `polir-sermao` — revisão homilético-retórica em 4 passes (diagnóstico,
+  salvaguardas teológicas, revisão, coerência final); corta autoimplicações
+  escritas + marcas de oralidade + gordura retórica; preserva telos, combate
+  duplo, cristologia específica e implementação prática. Ver
+  `skills/polir-sermao/SKILL.md` (fonte no projeto, `.skill` empacotado
+  disponível em `skills/polir-sermao.skill`)
 
 ## Nota histórica
 
