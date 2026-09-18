@@ -377,11 +377,11 @@ já estabelecidos.
 2. **Rodar WebSearch** por citações novas relevantes, priorizando os
    grupos de autores da metodologia (pais da Igreja, puritanos,
    reformados clássicos e contemporâneos, C.S. Lewis, Chesterton,
-   Pascal, Kierkegaard, Dostoiévski, T.S. Eliot, N.T. Wright, brasileiros
-   como Guilherme de Carvalho, Emílio Garófalo Neto, Jonas Madureira, e
-   filósofos/literatos seculares quando iluminem a condição humana ou o
-   problema teológico). Buscar pelas ideias-chave do sermão, não só pelo
-   texto bíblico.
+   Dietrich Bonhoeffer, Pascal, Kierkegaard, Dostoiévski, T.S. Eliot,
+   N.T. Wright, brasileiros como Guilherme de Carvalho, Emílio Garófalo
+   Neto, Jonas Madureira, e filósofos/literatos seculares quando iluminem
+   a condição humana ou o problema teológico). Buscar pelas ideias-chave
+   do sermão, não só pelo texto bíblico.
 
 3. **Selecionar 5-8 candidatas de qualidade** — cada uma com fim
    argumentativo específico e nítido. Descartar candidatas vagas ou

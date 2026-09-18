@@ -87,7 +87,9 @@ Francis Schaeffer, os Puritanos (categoria — Owen, Baxter, Bunyan, Watson
 et al.)
 
 **Vozes cristãs mais amplas** (não estritamente reformadas, mas de peso
-apologético/cultural): C.S. Lewis, G.K. Chesterton, James K. A. Smith
+apologético/cultural/testemunhal): C.S. Lewis, G.K. Chesterton, James K. A.
+Smith, Dietrich Bonhoeffer (pastor luterano alemão martirizado pelos
+nazistas em 1945 — *Discipulado*, *Vida em Comunhão*, *Cartas do Cárcere*)
 
 **Pregadores brasileiros**: Emílio Garófalo Neto (Igreja Presbiteriana
 Semear, Brasília), Guilherme de Carvalho (Igreja Esperança, Belo
