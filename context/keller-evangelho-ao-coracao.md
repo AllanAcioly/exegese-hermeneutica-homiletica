@@ -462,12 +462,16 @@ Nuggets do Q&A que não estão no livro:
 
 ## Riscos e cuidados
 
-Levantados a partir da leitura completa dos dois estudos acadêmicos sobre a
-pregação de Keller (Nilsson e Hill, ambos favoráveis a ele — nenhum dos dois
-é uma crítica teológica) e de resenhas do livro *Engaging with Keller*
-(Campbell & Schweitzer, orgs., 2013), que é a crítica teológica dedicada mais
-citada a seu respeito. Não são motivos para descartar o método — são pontos
-de atenção para não repetir os mesmos deslizes ao adotá-lo.
+Levantados a partir da leitura completa (a) dos dois estudos acadêmicos
+sobre a pregação de Keller (Nilsson e Hill, ambos favoráveis — nenhum é
+crítica teológica), (b) do livro *Engaging with Keller* (Campbell &
+Schweitzer, orgs., 2013), e (c) das duas respostas públicas centrais ao
+livro: **Gavin Ortlund** (*Themelios*/TGC, 2013) e **David Robertson**
+(Free Church of Scotland, theweeflea.com, 2013), que rebatem a maioria das
+acusações do livro por misrepresentação, caricatura ou metodologia falha.
+Não são motivos para descartar o método — são **disciplinas pastorais**
+para não repetir os deslizes de quem imita o estilo sem o cuidado
+teológico de fundo.
 
 ### Da análise das próprias pregações de Keller
 
@@ -515,20 +519,56 @@ de atenção para não repetir os mesmos deslizes ao adotá-lo.
    disciplina a vigiar conscientemente a cada estudo, não algo que acontece
    sozinho por hábito.
 
-### Da crítica teológica externa (*Engaging with Keller*, lido na íntegra)
+### Da crítica teológica externa (*Engaging with Keller*, lido na íntegra) — com o contraponto público
 
 O livro reúne sete pastores-acadêmicos presbiterianos conservadores
-(majoritariamente do Reino Unido). É importante registrar o próprio tom que
-os editores (Campbell & Schweitzer) declaram na Introdução Geral: **não é
-um ataque pessoal**. Eles afirmam explicitamente terem se beneficiado do
-ministério de Keller, reconhecem sua ortodoxia geral (ordenado na PCA,
-professor em Westminster, autor do *New City Catechism*), e resumem o
-veredito do livro inteiro numa frase: **"imitem Keller, mas não nestes
-pontos específicos".** O problema, na visão deles, não é a ortodoxia de
-Keller, mas o risco de **overreach** no projeto de "traduzir" a ortodoxia
-para uma audiência pós-moderna — o mesmo risco, em escala menor, que corre
-qualquer um que tentar imitar seu estilo sem o mesmo cuidado teológico de
-fundo. Duas críticas do livro são diretamente relevantes a este projeto:
+(majoritariamente do Reino Unido). Os editores (Campbell & Schweitzer)
+declaram na Introdução Geral: **não é um ataque pessoal**. Eles afirmam
+terem se beneficiado do ministério de Keller, reconhecem sua ortodoxia
+geral (ordenado na PCA, professor em Westminster, autor do *New City
+Catechism*), e resumem o veredito do livro numa frase: **"imitem Keller,
+mas não nestes pontos específicos".** O problema, na visão deles, é o
+risco de **overreach** no projeto de "traduzir" a ortodoxia para uma
+audiência pós-moderna.
+
+**Registro importante: o livro foi rebatido publicamente por dois lados —
+inclusive de dentro do próprio TGC.**
+
+- **Gavin Ortlund**, no *Themelios* (a revista da Gospel Coalition, 2013),
+  declarou-se pró-Keller mas aberto a crítica, e ainda assim concluiu que
+  o livro **"fails to produce a compelling interpretation of Keller's
+  thought"** por quatro problemas sistemáticos: (a) **misrepresentação
+  direta** em vários capítulos (ex.: Campbell na p. 60 do próprio livro
+  *cita Keller afirmando* pecado como quebra da lei, e mesmo assim escreve
+  que Keller "dispensou defini-lo como desobediência" — Ortlund: *"It is
+  hard not to feel a sense of unfairness here"*); (b) **caricatura por
+  omissão de nuances** (ex.: Naylor ataca uma versão simplificada da
+  missiologia de Keller, ignorando que Keller **argumentou publicamente
+  contra o modelo simétrico "palavra + ação" do Stott**, propondo assimetria
+  com prioridade proclamacional em "The Gospel and the Poor", Themelios
+  33:3, 2008); (c) **análise de metáforas sem base** (ex.: Bidwell trata a
+  "dança divina" como se fosse a doutrina central da Trindade em Keller,
+  quando é uma metáfora entre muitas — Ortlund compara com avaliar Calvino
+  "exclusively through his metaphor of God 'lisping' to us"); (d)
+  **metodologia falha** (Schweitzer sobre criação não distingue quais dados
+  científicos seriam "acomodáveis" vs. "rejeitáveis" — nem revela sua
+  própria posição sobre idade da terra; Hart sobre eclesiologia *assume em
+  vez de demonstrar* que presbiterianismo proíbe cooperação
+  transdenominacional).
+- **David Robertson** (Free Church of Scotland), numa série em
+  theweeflea.com, argumenta que o livro é **procedimentalmente**
+  problemático (viola Mateus 18 ao publicar crítica sem confronto direto
+  prévio), **retoricamente enviesado** ("parece que", "aparenta que"), e
+  que a oposição pecado-como-idolatria × pecado-como-lei é falsa
+  dicotomia: **"Sin is both law-breaking and idol-making. We break God's
+  law because we set up other idols."**
+
+**Como este projeto trata isso**: registramos as duas críticas centrais
+abaixo não como vereditos contra Keller — Ortlund e Robertson mostram que
+a maioria das acusações específicas foi rebatida —, mas como **disciplinas
+pastorais úteis** para quem, como nós, imita o método sem o mesmo cuidado
+teológico de fundo. A **regra prática que sobra** em cada ponto vale mais
+que a acusação original.
 
 **1. Pecado como idolatria — risco de inverter causa e sintoma.**
 Keller define pecado, sobretudo em *The Reason for God* e *Counterfeit Gods*,
@@ -552,19 +592,50 @@ A crítica de Campbell (cap. 1) tem três camadas:
   busca) em vez do registro forense de culpa objetiva diante de um Deus
   pessoal e sua lei.
 
-**Relevância direta para este projeto**: o diagnóstico do "salvador
-funcional / ídolo do coração" já documentado nesta referência é construído
-exatamente sobre essa categoria de idolatria. A crítica não invalida o
-diagnóstico — Campbell reconhece que é "um uso oportuno de um motivo
-bíblico e teológico legítimo" (idolatria é ensino bíblico real, presente já
-no primeiro mandamento e em 1Jo 5.21) — mas exige disciplina: **nunca usar
-"ídolo do coração" como substituto da linguagem de transgressão, culpa e lei
-diante de Deus — sempre como uma camada adicional sobre ela, nunca no lugar
-dela.** Ao pregar sobre pecado, nomear primeiro o que a lei de Deus proíbe
-e o que ela expõe como culpa objetiva; só depois (não em vez disso) mostrar
-o ídolo por trás da transgressão.
+**O contraponto (Ortlund + Robertson):**
+
+- **Ortlund demonstra misrepresentação**: na p. 60 do próprio capítulo de
+  Campbell, ele *cita Keller afirmando* pecado como quebra da lei — e mesmo
+  assim escreve, poucas páginas antes e depois, que Keller "dispensou
+  defini-lo como desobediência". Keller trata idolatria e desobediência como
+  aspectos **complementares, não competitivos**, de uma doutrina bíblica do
+  pecado.
+- **Ortlund + Robertson chamam de falsa dicotomia**: Ortlund escreve que
+  Campbell "forces a false dichotomy between two equally valid and biblical
+  images for sin." Robertson: "Sin is both law-breaking and idol-making. We
+  break God's law because we set up other idols." O primeiro mandamento
+  (Ex 20.3), a Confissão de Westminster e a tradição reformada consistentemente
+  tratam idolatria como categoria bíblica central — não é invenção kelleriana.
+- **Robertson expõe o critério das "10 páginas"**: o próprio capítulo de
+  Campbell leva 8 páginas até citar Escritura. E *The Reason for God* é
+  dirigido a incrédulos que rejeitam a autoridade bíblica — usar Bíblia como
+  prova primária ali seria contraproducente. Não citar Bíblia como argumento
+  a incrédulos não equivale a não regarem-na como autoridade.
+- **A acusação "life coach" é frágil**: Keller descreve libertação por meio
+  da verdade — ecoando Jesus ("conhecereis a verdade, e a verdade vos
+  libertará", Jo 8.32). Enfatizar bem-estar por união com Deus não é
+  registro terapêutico incompatível com o registro forense.
+
+**A disciplina que sobra para este projeto** (mesmo com a acusação central
+substancialmente rebatida): o diagnóstico do "salvador funcional / ídolo do
+coração" documentado nesta referência é biblicamente legítimo — Campbell
+mesmo reconhece que é "um uso oportuno de um motivo bíblico e teológico
+legítimo". A disciplina que preservamos é pastoral, não corretiva a Keller:
+**nunca usar "ídolo do coração" como substituto da linguagem de transgressão,
+culpa e lei diante de Deus — sempre como camada adicional sobre ela.** Ao
+pregar sobre pecado, nomear ambos: o que a lei proíbe e expõe como culpa
+objetiva *e* o ídolo por trás dela — como o próprio Keller ensina quando lido
+com atenção às nuances.
 
 **2. Hermenêutica — o mesmo risco que o Simeon Trust já existe para vigiar.**
+
+*Nota sobre esta crítica*: das duas críticas centrais de *Engaging*, esta é
+a que **menos foi diretamente rebatida** — Ortlund não trata do capítulo
+de Holst em sua resenha do Themelios, e Robertson só toca de raspão. A
+disciplina resultante permanece útil independentemente da credibilidade
+global do livro, porque alinha com um princípio-mestre já independente:
+o "Permanecer na Linha" do Simeon Trust.
+
 O capítulo de Holst usa como padrão os Westminster Standards: "A Escritura
 interpreta a si mesma" (WCF 1.9) e três testes — (a) a interpretação
 representa a verdade *principalmente ensinada* naquele lugar? (b) usa as
@@ -609,41 +680,87 @@ principal de uma doutrina, ou um detalhe secundário como prova central, ou
 fechar um argumento com "logo, X" — voltar e perguntar se essa é a
 "consequência boa e necessária" do texto ou um salto retórico.
 
-**Outras críticas do livro** (lidas, menos centrais ao escopo deste
-projeto de exegese/homilética — registradas para referência):
-- **Inferno** (Schweitzer, cap. 2): para o público "pós-moderno", Keller
-  ensina um inferno nos moldes de C. S. Lewis — autoimposto, do qual
-  ninguém pede para sair, sem Deus enviando ativamente ninguém — o que
-  Schweitzer argumenta destoar da ênfase bíblica e confessional (WCF 33.2)
-  na ira e no juízo ativo de Deus.
-- **Trindade / "dança divina"** (Bidwell, cap. 3): a imagem da Trindade
-  como "dança" (*perichoresis* popularizada) enfatiza a unidade amorosa
-  entre as pessoas, mas — segundo os críticos — sem lastro histórico direto
-  e com risco de obscurecer a ordem eterna entre as pessoas (geração do
-  Filho, procissão do Espírito) e a relação de autoridade-submissão entre
-  Pai e Filho na obra da redenção. Dado curioso: um dos editores confrontou
-  Keller sobre isso por e-mail em 2008, e Keller respondeu por escrito que
-  **não** subscreve uma Trindade igualitária e afirma a ordem eterna — mas,
-  segundo os autores, sua linguagem pública em *King's Cross* nem sempre
-  reflete essa clarificação privada. Ou seja: a intenção teológica de
-  Keller é apontada como correta; a imagem/ilustração pública, nem sempre.
-- **Missão da igreja / justiça social** (Naylor, cap. 4): crítica de que
-  Keller aplica as leis do jubileu à redistribuição de riqueza de um jeito
-  que o texto não sustenta, e que borra a missão da igreja (pregar o
-  evangelho, fazer discípulos pelos meios ordinários de graça) com
-  transformação social direta como tarefa institucional da igreja.
-- **Criação/evolução** (Schweitzer, cap. 6) e **eclesiologia presbiteriana**
-  (Hart, cap. 7): fora do escopo de exegese/homilética deste projeto.
+**Outras críticas do livro** (registradas com o contraponto de Ortlund e Robertson):
 
-O Postscript do livro fecha registrando que os autores esperam uma
-**resposta pública** de Keller ou de quem o defenda — "se ele não usa os
-ensinos que discutimos, estamos sujeitos à correção; se usa, mas há boas
-razões exegéticas e teológicas que não consideramos, tanto melhor" — e que
-o objetivo não é vencer o debate, mas que a igreja receba a mensagem com
-clareza. Esse espírito (checar antes de aceitar, mas sem hostilidade) é o
-mesmo que vale para como este projeto deve tratar qualquer material de
-Keller: usar o que é sólido, mas testar tudo contra os pilares Simeon
-Trust/Adams antes de reproduzir.
+- **Inferno** (Schweitzer, cap. 2).
+  *A crítica*: para o público "pós-moderno", Keller ensina inferno à la
+  C. S. Lewis — autoimposto, ninguém pede para sair, sem Deus enviando
+  ativamente — destoando da ênfase bíblica e confessional (WCF 33.2) na
+  ira e no juízo ativo de Deus.
+  *Contraponto*: **Ortlund concede que a influência de Lewis (*The Great
+  Divorce*) é uma conversa legítima a se ter** — é o único ponto do livro
+  que ele registra como debate que vale continuar. **Robertson concede
+  que Packer tem razão** em insistir que inferno é presença iracunda de
+  Deus, não só ausência. Mas Robertson rejeita o strawman: Keller
+  reconhece o juízo ativo divino; "auto-escolhido" ecoa Rm 1 clássico
+  ("Deus os entregou às suas próprias concupiscências") — doutrina
+  reformada da responsabilidade humana, não deriva arminiana. Robertson
+  chama a genealogia Keller→Lewis→MacDonald de falácia guilt-by-association.
+  *Disciplina residual*: ao pregar sobre inferno, garantir sempre a dupla
+  nota — **auto-escolhido** (responsabilidade humana, Rm 1) *e* **presença
+  iracunda de Deus** (Packer, WCF 33.2).
+
+- **Trindade / "dança divina"** (Bidwell, cap. 3).
+  *A crítica*: a imagem da Trindade como "dança" (*perichoresis*
+  popularizada) obscureceria a ordem eterna entre as pessoas e a relação
+  de autoridade-submissão na obra da redenção.
+  *Contraponto*: **Ortlund expõe confusão de categorias** — Bidwell trata
+  uma metáfora entre muitas como se fosse *a* doutrina central e
+  comprehensiva de Keller sobre Trindade, "comparable to evaluating
+  Calvin's doctrine of revelation exclusively through his metaphor of God
+  'lisping' to us in the Institutes 1.13.1." A declaração conjunta de
+  Keller com D.A. Carson sobre o T.D. Jakes e o Elephant Room (TGC, 2012)
+  mostra que Keller tem muito mais a dizer sobre Trindade que essa
+  metáfora. E o próprio Keller, quando confrontado por e-mail em 2008,
+  esclareceu por escrito que **não** subscreve Trindade igualitária e
+  afirma a ordem eterna.
+  *Disciplina residual*: usar metáforas didáticas como iluminação parcial,
+  nunca como enunciado doutrinário completo; explicitar quando pregar que
+  a metáfora ilustra *um aspecto*, não substitui o dogma.
+
+- **Missão da igreja / justiça social** (Naylor, cap. 4).
+  *A crítica*: Keller borraria a missão da igreja (pregar o evangelho,
+  fazer discípulos pelos meios ordinários de graça) com transformação
+  social direta como tarefa institucional.
+  *Contraponto*: **Ortlund descobre que Naylor caricaturou a posição real
+  de Keller** — Keller argumentou publicamente **contra** o modelo
+  simétrico "palavra + ação" do John Stott, propondo *"relação assimétrica
+  e inseparável"* com **prioridade da proclamação** ("The Gospel and the
+  Poor", *Themelios* 33:3, 2008). Ou seja, Keller já ocupa uma posição
+  bastante próxima da que Naylor prescreve — a caricatura é de Naylor,
+  não de Keller.
+  *Disciplina residual*: não reduzir a discussão ao binário "só palavra
+  ou só ação"; manter a assimetria com prioridade proclamacional, coerente
+  com Keller lido corretamente.
+
+- **Criação/evolução** (Schweitzer, cap. 6) e **eclesiologia
+  presbiteriana** (Hart, cap. 7).
+  Fora do escopo de exegese/homilética deste projeto. Ambos os capítulos,
+  aliás, receberam **crítica metodológica dura de Ortlund**: Schweitzer
+  não distingue quais dados científicos seriam "acomodáveis" vs.
+  "rejeitáveis" (não revela nem sua própria posição sobre idade da
+  terra); Hart **assume em vez de demonstrar** que presbiterianismo
+  proíbe cooperação transdenominacional, e conclui com severidade
+  desproporcional — chega a acusar Keller de "trair seus votos de
+  ordenação" ao participar de esforços transdenominacionais. Robertson
+  chama o capítulo de Hart de "so bad that I am surprised it got through
+  the editorial process". Registro apenas para contexto.
+
+O Postscript do livro pede uma **resposta pública** de Keller ou de quem
+o defenda — "se ele não usa os ensinos que discutimos, estamos sujeitos à
+correção; se usa, mas há boas razões exegéticas e teológicas que não
+consideramos, tanto melhor". **Essa resposta veio**: Ortlund pela própria
+Gospel Coalition (Themelios, 2013), Robertson pela Free Church of Scotland
+(theweeflea.com, 2013). E o saldo pastoral para nós, como registrado
+acima, é este: **usar Keller com toda a força** — o diagnóstico do ídolo,
+a união com Cristo, o cristocentrismo, o combate duplo, a aplicação
+triperspectival — porque a maior parte das acusações do livro foi
+contestada com sucesso. Ao mesmo tempo, **manter as disciplinas residuais**
+que sobraram como salvaguardas pastorais úteis para quem imita o método
+sem ter o mesmo cuidado de fundo. E, acima de tudo, **deixar o pathway
+exegético do Simeon Trust ("Permanecer na Linha") funcionar como o freio
+final** sobre qualquer criatividade homilética — seja de Keller, seja
+nossa.
 
 ---
 
@@ -662,7 +779,24 @@ Trust/Adams antes de reproduzir.
   Pregação, Prof. Pedro Pamplona, com Tim Keller.
 - Iain D. Campbell; William M. Schweitzer (orgs.), *Engaging with Keller:
   Thinking Through the Theology of an Influential Evangelical* (Darlington:
-  EP Books, 2013) — lido na íntegra nesta sessão.
+  EP Books, 2013) — lido na íntegra.
+- Gavin Ortlund, resenha de *Engaging with Keller*, em *Themelios* 38.3
+  (2013) — resenha da própria Gospel Coalition, contendo o contraponto
+  acadêmico à maioria das críticas do livro.
+  <https://www.thegospelcoalition.org/themelios/review/engaging-with-keller-thinking-through-the-theology-of-an-influential-evange/>
+- David Robertson (Free Church of Scotland), série de resenhas de
+  *Engaging with Keller* no blog theweeflea.com (agosto-novembro 2013),
+  incluindo respostas específicas aos capítulos sobre pecado e inferno.
+  <https://theweeflea.com/2013/08/22/engaging-with-keller-a-review/>
+  <https://theweeflea.com/2013/09/03/rebranding-sin-campbell-keller-and-how-to-present-the-good-news-that-we-are-all-sinnners/>
+  <https://theweeflea.com/2013/11/05/keller-on-hell-engaging-with-keller-review-part-3/>
+- Timothy Keller, "The Gospel and the Poor", *Themelios* 33:3 (2008): 8-22
+  — texto citado por Ortlund como refutação direta da caricatura de
+  Naylor sobre a missiologia kelleriana.
+- D. A. Carson & Timothy Keller, "Carson and Keller on Jakes and the
+  Elephant Room", The Gospel Coalition Blog (3 fev. 2012) — declaração
+  conjunta sobre Trindade, citada por Ortlund como evidência de que a
+  crítica de Bidwell reduz Keller a uma metáfora.
 - Tim Keller, *Pregando para o Coração* — transcrição do workshop ministrado
   na Conferência Nacional 2015 do The Gospel Coalition, Orlando, FL
   (incluindo sessão de perguntas e respostas).
