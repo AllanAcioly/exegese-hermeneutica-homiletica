@@ -104,7 +104,7 @@ seguir o workflow completo de 6 fases definido em
 | 3. Diagnóstico | Qual o problema/ídolo? Como Deus resolveu lá? A história e a lição | Adams + Keller |
 | 4. Exegese cultural | Manifestação contemporânea: ídolos atuais, desdobramentos, BCNs | Keller |
 | 5. Aplicação cristológica | O que é exigido e não cumprimos? Como Jesus cumpre? Implementação | Adams + Keller + Simeon Trust |
-| 6. Construção homilética | 6a: esboço estruturado → validação → 6b: rascunho na voz pastoral | Os três + skill de voz |
+| 6. Construção homilética | 6a: esboço → 6b: pesquisa de citações no banco/web → 6c: rascunho na voz pastoral | Os três + banco de citações + skill de voz |
 | 7. Entrega | Formato (DOCX/PDF) para sermão/esboço/estudo + registra linha em `estudos/indice.md` | Layout IPE |
 
 ### Saída
@@ -146,6 +146,10 @@ context/                            — documentos de referência metodológica
   ilustracoes-metodologia.md        — princípio de reuso (fim homilético, não
                                       conveniência), template, regra de direitos
                                       autorais, fontes de alimentação do banco
+  citacoes-metodologia.md           — princípio de reuso (fim argumentativo),
+                                      escopo amplo (cristãos + seculares, clássicos
+                                      + contemporâneos), regra de ≤80 palavras para
+                                      citação direta, template do banco
 
 assets/                             — identidade visual e recursos gráficos
   identidade-visual-ipe.md          — especificações de cores, fontes, layout IPE
@@ -156,6 +160,12 @@ ilustracoes/                        — banco vivo de ilustrações de pregaçã
                                       histórico de usos por entrada; alimentado
                                       manualmente (Fase 6a) e por rotina mensal
                                       automatizada (append-only, nunca remove)
+
+citacoes/                           — banco vivo de citações de grandes pensadores
+  banco-citacoes.md                 — acervo com autor, origem, tags, fim
+                                      argumentativo e histórico de usos; alimentado
+                                      just-in-time na Fase 6b via WebSearch durante
+                                      a construção do sermão (append-only)
 
 estudos/                            — estudos bíblicos completos (saída do workflow)
   indice.md                         — tabela mestra: perícope, gênero, telos,

@@ -353,13 +353,62 @@ ilustração boa se perde depois de pregada uma vez.
 ### → PAUSA
 
 Apresentar o esboço ao usuário. Aguardar validação e ajustes antes de
-redigir o rascunho completo.
+avançar para a pesquisa de citações.
 
-### Fase 6b: Rascunho Completo
+### Fase 6b: Pesquisa de Citações
+
+Ver `context/citacoes-metodologia.md` para o princípio-guia, o template
+e as regras de escopo e direitos autorais.
+
+**Objetivo**: alimentar o argumento do sermão com peso de tradição
+intelectual e histórica, usando citações relevantes de grandes pensadores
+(cristãos e seculares, clássicos e contemporâneos) que sustentem ou
+iluminem o telos, o diagnóstico do ídolo e a cristologia específica
+já estabelecidos.
+
+**Passos**:
+
+1. **Consultar o banco existente primeiro** — buscar em
+   `citacoes/banco-citacoes.md` por tags relacionadas ao(s) tema(s)
+   central(is), ídolo(s) diagnosticado(s) e argumento cristológico. Se
+   encontrar entradas aplicáveis, listar candidatas de reuso (respeitando
+   o fim argumentativo registrado).
+
+2. **Rodar WebSearch** por citações novas relevantes, priorizando os
+   grupos de autores da metodologia (pais da Igreja, puritanos,
+   reformados clássicos e contemporâneos, C.S. Lewis, Chesterton,
+   Pascal, Kierkegaard, Dostoiévski, T.S. Eliot, N.T. Wright, brasileiros
+   como Guilherme de Carvalho, Emílio Garófalo Neto, Jonas Madureira, e
+   filósofos/literatos seculares quando iluminem a condição humana ou o
+   problema teológico). Buscar pelas ideias-chave do sermão, não só pelo
+   texto bíblico.
+
+3. **Selecionar 5-8 candidatas de qualidade** — cada uma com fim
+   argumentativo específico e nítido. Descartar candidatas vagas ou
+   apenas "bonitas".
+
+4. **Adicionar todas ao banco** como novas entradas (append-only),
+   seguindo o template exato de `context/citacoes-metodologia.md`,
+   respeitando o limite de ~80 palavras para citação direta (acima disso,
+   paráfrase).
+
+5. **Propor 2-3 melhores para uso imediato** no rascunho da Fase 6c,
+   sugerindo a posição de cada uma (introdução, ponto específico,
+   aplicação, conclusão) e o motivo (o argumento que ela sustenta).
+
+### → PAUSA
+
+Apresentar as candidatas de reuso do banco (se houver) + as 5-8 novas
++ a proposta de uso das 2-3 melhores. O usuário escolhe quais aceitar
+para o sermão atual. As descartadas permanecem no banco para uso futuro.
+
+### Fase 6c: Rascunho Completo
 
 - Usar a skill `allan-acioly-homiletica` para redigir na voz pastoral
   do Rev. Allan Acioly
-- Texto corrido com a estrutura validada no esboço
+- Texto corrido com a estrutura validada no esboço (6a)
+- **Integrar as citações aprovadas** (6b) nas posições sugeridas,
+  garantindo que cada uma sirva ao argumento onde entra
 - Tom: exposição reformada + diagnóstico cultural kelleriano +
   pastoralidade autoimplicada
 - O rascunho deve soar como o Rev. Allan pregando: direto, pessoal,
@@ -373,7 +422,7 @@ Apresentar o rascunho ao usuário para revisão final.
 
 ## Fase 7: Entrega
 
-Após a validação do rascunho completo (Fase 6b), perguntar ao usuário
+Após a validação do rascunho completo (Fase 6c), perguntar ao usuário
 sobre os formatos de entrega. Usar AskUserQuestion com estas perguntas:
 
 ### 7.1 Perguntas de entrega
@@ -413,7 +462,7 @@ Todos os documentos usam o **layout IPE** (ver `assets/identidade-visual-ipe.md`
 - Linha decorativa dourada como separador
 - Sem farol — branding leve
 
-**Documento do sermão** (Fase 6b formatado):
+**Documento do sermão** (Fase 6c formatado):
 - Capa simplificada
 - Texto corrido do rascunho validado
 - Referências bíblicas destacadas
