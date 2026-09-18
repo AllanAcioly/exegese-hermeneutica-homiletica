@@ -1,0 +1,11 @@
+# Lock files do Word/Office
+~$*
+*.tmp
+
+# Sistema
+.DS_Store
+Thumbs.db
+
+# IDE / editor
+.vscode/
+.idea/
