@@ -119,6 +119,33 @@ O telos é sempre da **perícope selecionada**, independentemente da série de
 sermões. Cada fase deve servir ao telos — se se desviou, corrigir antes de
 avançar.
 
+## Pequenos Grupos — do púlpito ao coração
+
+Os três pilares acima governam o **púlpito**. Durante a semana, o sermão é
+"reverberado" nos Pequenos Grupos — e ali o pilar é **Edward T. Welch,
+*Aconselhando uns aos outros***: o cuidado mútuo da alma feito por gente comum
+(Ef 4.11-13).
+
+O material de capacitação vive em `pequenos-grupos/` (ver o README de lá).
+Pontos que valem como referência ao produzir qualquer material para PG:
+
+- **Os seis movimentos de 90 min**: Acolher ("quem está aqui?") · Abrir ("como
+  vai você?") · Relembrar ("o que o texto disse?") · Descer ("o que o texto
+  encontra em nós?") · Andar ("o que faremos?") · Orar
+- **A ordem do movimento 4 é a doutrina**: existencial → evangelho → prática.
+  Invertida, o PG vira lista de tarefas para conquistar a Deus
+- **A regra das duas portas**: toda semana, ao menos uma pergunta que o cristão
+  *e* quem ainda não crê conseguem responder com honestidade. É Keller pregando
+  à cultura, reduzido a ferramenta semanal
+- **As quatro reuniões que não são um PG**: a sala de aula, o segundo culto, o
+  consultório, o churrasco — duas fogem pela cabeça, duas pelo alívio
+- **As duas mentiras de Welch (Lição 8)** são o combate duplo de
+  Keller/Ferguson: "você não é bom o bastante, se esforce mais" (legalismo) e
+  "você é bom o bastante, creia em si mesmo" (acomodação)
+- **Salvaguarda**: violência, abuso, ideação suicida, adultério ou separação,
+  vício sem controle e crime sobem ao pastor no mesmo dia; o líder nunca
+  promete sigilo absoluto antes de ouvir
+
 ## Princípios hermenêuticos não-negociáveis
 
 - **Escritura interpreta Escritura** — paralelos e esclarecimentos em outras
@@ -166,6 +193,17 @@ citacoes/                           — banco vivo de citações de grandes pens
                                       argumentativo e histórico de usos; alimentado
                                       just-in-time na Fase 6b via WebSearch durante
                                       a construção do sermão (append-only)
+
+pequenos-grupos/                    — capacitação de líderes de PG ("Do púlpito
+                                      ao coração"), base Edward T. Welch,
+                                      Aconselhando uns aos outros
+  README.md                         — índice, base metodológica e como gerar
+  roteiro-encontro-lideres.md/.docx — roteiro de 2h para o pastor conduzir
+  manual-do-lider.md/.docx          — o método completo, um por líder
+  ficha-semanal.md/.docx            — folha de preparo semanal do líder
+  cartao-de-bolso.md/.docx          — A5 frente e verso, para o encontro
+  docx/                             — geradores (ipe.js = infraestrutura visual
+                                      compartilhada, A4 e A5)
 
 estudos/                            — estudos bíblicos completos (saída do workflow)
   indice.md                         — tabela mestra: perícope, gênero, telos,
