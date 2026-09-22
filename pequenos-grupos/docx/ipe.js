@@ -439,7 +439,7 @@ function build({ children, titulo, cabecalho, pagina = A4, out, rodape = true })
           level: 0, format: LevelFormat.BULLET, text: "—", alignment: AlignmentType.LEFT,
           style: { run: { color: GOLD }, paragraph: { indent: { left: 460, hanging: 280 } } }
         }]
-      })).concat(["num", "num2", "num3"].map(ref => ({
+      })).concat(["num", "num2", "num3", "num4", "num5", "num6"].map(ref => ({
         reference: ref,
         levels: [{
           level: 0, format: LevelFormat.DECIMAL, text: "%1.", alignment: AlignmentType.LEFT,

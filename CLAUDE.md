@@ -202,6 +202,8 @@ pequenos-grupos/                    — capacitação de líderes de PG ("Do pú
   manual-do-lider.md/.docx          — o método completo, um por líder
   ficha-semanal.md/.docx            — folha de preparo semanal do líder
   cartao-de-bolso.md/.docx          — A5 frente e verso, para o encontro
+  ficha-modelo-lucas-15.md/.docx    — a ficha preenchida (Lc 15.1-10) como
+                                      exemplo, com notas de condução
   docx/                             — geradores (ipe.js = infraestrutura visual
                                       compartilhada, A4 e A5)
 

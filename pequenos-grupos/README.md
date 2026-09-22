@@ -49,6 +49,7 @@ Onde Welch encontra os pilares do projeto:
 | `manual-do-lider.docx` | cada líder | o método completo, para consulta permanente |
 | `ficha-semanal.docx` | cada líder | uma folha para preencher toda segunda ou terça a partir do sermão de domingo |
 | `cartao-de-bolso.docx` | cada líder | A5 frente e verso, para plastificar e levar ao encontro |
+| `ficha-modelo-lucas-15.docx` | cada líder | a mesma ficha **preenchida** a partir de Lucas 15.1-10, com uma página explicando por que cada campo foi preenchido assim |
 
 Cada `.docx` tem um `.md` correspondente com o mesmo conteúdo, para leitura e
 edição rápida no repositório.
@@ -76,7 +77,12 @@ node manual-do-lider.js
 node roteiro-encontro-lideres.js
 node ficha-semanal.js
 node cartao-de-bolso.js
+node ficha-modelo-lucas-15.js
 ```
+
+`ficha-base.js` concentra o vocabulário visual da ficha, compartilhado entre a
+versão em branco e as versões modelo — é isso que faz as duas serem idênticas
+em estrutura, e é essa identidade que faz o modelo ensinar.
 
 `ipe.js` concentra paleta, fontes, helpers e a montagem do `Document` com a
 identidade IPE (marinho, dourado, farol, Salmo 119.105), em A4 e A5. Editar
@@ -96,6 +102,11 @@ qualquer documento novo:
 A **Fase 7** (entrega) do `context/workflow-estudo-biblico.md` pode alimentar
 a ficha semanal: o telos da Fase 2, o ídolo da Fase 3/4 e o cumprimento em
 Cristo da Fase 5 são exatamente os três campos que travam o preparo do líder.
+
+A ficha modelo de Lucas 15.1-10 é exatamente essa ligação feita uma vez: telos
+da Fase 2, ídolo da Fase 3/4 e cumprimento em Cristo da Fase 5, transpostos
+para os campos da ficha. Ela se entrega **ao final** do Bloco 5 do encontro,
+nunca antes — senão os líderes copiam em vez de pensar.
 
 O roteiro sugere, no apêndice, que o pastor envie aos líderes até a
 segunda-feira três linhas sobre o sermão — **telos, ídolo, Cristo**. Três

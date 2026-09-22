@@ -47,7 +47,8 @@ C.push(
 
   subhead("Preparação e materiais", { before: 300 }),
   item("Manual do líder", " impresso — um por líder (entregue no início do Bloco 4)"),
-  item("Ficha semanal", " — três cópias por líder"),
+  item("Ficha semanal", " — três cópias por líder, em branco"),
+  item("Ficha modelo", " de Lucas 15.1-10 preenchida — um por líder (entregue só no FIM do Bloco 5)"),
   item("Cartão de bolso", " — um por líder (entregue no Bloco 6)"),
   item("Cópias do texto", " pregado no domingo passado"),
   item("Quadro ou flipchart"),
@@ -280,12 +281,12 @@ C.push(
 
   subhead("Trabalho em trios — 12 min", { before: 300 }),
   body("Cada trio preenche uma ficha para o texto de domingo:"),
-  item("O telos em uma frase", " — por que o Espírito pôs esse texto na Escritura?", "num"),
-  item("Três perguntas de relembrança", " (movimento 3)", "num"),
-  item("Uma pergunta de duas portas", " (movimento 4a)", "num"),
-  item("O ídolo / salvador funcional", " que o texto expõe", "num"),
-  item("Onde Cristo cumpre", " o que o texto exige", "num"),
-  item("Um passo prático concreto", " (quem, quando, onde)", "num"),
+  item("O telos em uma frase", " — por que o Espírito pôs esse texto na Escritura?", "num4"),
+  item("Três perguntas de relembrança", " (movimento 3)", "num4"),
+  item("Uma pergunta de duas portas", " (movimento 4a)", "num4"),
+  item("O ídolo / salvador funcional", " que o texto expõe", "num4"),
+  item("Onde Cristo cumpre", " o que o texto exige", "num4"),
+  item("Um passo prático concreto", " (quem, quando, onde)", "num4"),
   gap(100),
   nota([
     "Circule entre os trios. O erro mais comum vai ser o campo 3: eles vão escrever uma pergunta de uma porta só, ou uma pergunta com resposta certa. Corrija ali, um trio de cada vez, sem parar a sala."
@@ -299,7 +300,12 @@ C.push(
   ]),
   gap(140),
   body("Se a resposta à segunda for sim, a pergunta ainda não está pronta. Refaçam juntos, no quadro."),
-  aterrissar(["Uma pergunta consertada ao vivo ensina mais que dez explicadas."])
+  aterrissar(["Uma pergunta consertada ao vivo ensina mais que dez explicadas."]),
+  gap(180),
+  nota([
+    "Só agora entregue a FICHA MODELO de Lucas 15.1-10, já preenchida. Se entregar antes dos doze minutos, eles copiam em vez de pensar — e o laboratório vira ditado.",
+    "A última página dela explica por que cada campo foi preenchido daquele jeito. Peça que leiam em casa, não aqui."
+  ], "Ficha modelo — entregar ao final do bloco")
 );
 
 // ---------------- BLOCO 6 ----------------
