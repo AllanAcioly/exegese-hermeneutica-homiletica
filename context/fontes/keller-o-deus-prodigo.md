@@ -102,6 +102,9 @@ impagável" a **Kenneth Bailey, *Finding the Lost: Cultural Keys to Luke 15***
    novilho pertencia ao mais velho; logo a restauração do mais novo sai "às
    custas do mais velho" (cap. 5). Juridicamente plausível (a partilha foi
    feita, v. 12), mas o texto não explora esse ponto. Tratar como inferência
+   — **e Snodgrass o contesta**: pela m. *Baba Batra* 8.7, "tudo o que tenho é
+   teu" garante que a herança do mais velho **não será diminuída** pela volta do
+   irmão (ver registro B13 no estudo)
 4. **Exílio e volta para casa** (cap. 6): a parábola como história de toda a
    raça humana (Éden → exílio → Cristo exilado na cruz → Nova Jerusalém). Tema
    bíblico-teológico verdadeiro (Fase 5, "por tema"), mas **cuidado**: é o
