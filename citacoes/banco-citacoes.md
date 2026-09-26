@@ -58,7 +58,7 @@ Owen — cada voz tem seu peso próprio.
   Albert C. Outler (CCEL)
 - **Tags**: `#Lc15` `#pródigo` `#perdido-dentro-de-casa` `#distância-de-Deus`
   `#afeições` `#coração` `#Agostinho`
-- **Texto** (tradução do Rev. Allan / estudo, a partir do latim e de Outler):
+- **Texto** (tradução do estudo, a partir do latim e de Outler):
   > "Não é com os pés, nem mudando de lugar, que nos afastamos de ti ou voltamos
   > para ti. Aquele teu filho mais novo não alugou cavalos, nem carros, nem navios...
   > para gastar na terra distante tudo o que lhe deste. Estar num afeto
