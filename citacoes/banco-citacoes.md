@@ -21,23 +21,22 @@ Owen — cada voz tem seu peso próprio.
 - **Origem**: *Orthodoxy* (1908), capítulo IX "Authority and the Adventurer"
 - **Tags**: `#alegria` `#graça` `#paradoxo-cristão` `#evangelho`
   `#antinomia-fé-e-obra`
-- **Texto**:
-  > "A joy of God is bigger than the sorrow of the world; and if it is
-  > possible for man to be sad, it is impossible for God not to be
-  > joyous."
+- **Texto** *(corrigido em 2026-09-26: o texto anterior, "A joy of God is bigger
+  than the sorrow of the world...", não foi localizado em Ortodoxia nem em fontes
+  confiáveis e foi substituído pela frase verificada do mesmo capítulo)*:
+  > "Joy, which was the small publicity of the pagan, is the gigantic secret of the
+  > Christian."
   >
-  > Tradução: "A alegria de Deus é maior que a tristeza do mundo; e se é
-  > possível ao homem ser triste, é impossível a Deus não ser alegre."
-- **Contexto**: no fecho de *Ortodoxia*, Chesterton argumenta que o
-  cristianismo é a única cosmovisão que faz da alegria o *pano de fundo*
-  da realidade e da tristeza uma perturbação passageira — invertendo o
-  estoicismo antigo e o pessimismo moderno, que fazem da tristeza o
-  fundamento e da alegria o acidente
-- **Fim argumentativo**: ancora o ponto de sermão que precisa afirmar que
-  a alegria não é sentimento humano periférico, mas atributo divino
-  central — útil em Lc 15 (a alegria do céu como coração da parábola),
-  em Filipenses (alegrai-vos), ou onde quer que se combata uma
-  espiritualidade sombria/moralista
+  > Tradução: "A alegria, que era a pequena publicidade do pagão, é o gigantesco
+  > segredo do cristão."
+- **Contexto**: no fecho de *Ortodoxia* (cap. IX), Chesterton argumenta que o
+  cristianismo faz da alegria o fundamento e da tristeza algo pequeno e passageiro
+  ("pelo seu credo, a alegria se torna algo gigantesco e a tristeza, algo especial e
+  pequeno"), invertendo o paganismo e o pessimismo moderno
+- **Fim argumentativo**: ancora o ponto de sermão que precisa afirmar que a alegria
+  não é sentimento periférico, mas o coração da fé cristã. Útil em Lc 15 (a festa
+  do Pai, o *edei* do v. 32), em Filipenses, ou contra uma espiritualidade sombria
+  e moralista
 - **Adicionada em**: 2026-09-18
 
 ### Usos
