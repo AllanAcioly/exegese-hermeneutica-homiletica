@@ -39,6 +39,111 @@ Nunca forçar uma boa ilustração num lugar que ela não serve.
 
 <!-- Novas entradas entram abaixo desta linha, mais recentes no topo -->
 
+## [IL-013] O picolé do meu irmão
+
+- **Fonte**: Própria (Allan)
+- **Origem específica**: memória de infância do Rev. Allan Acioly, contada em
+  2026-09-26 na preparação do sermão sobre Lc 15.11-32
+- **Tags**: `#irmão-mais-velho` `#Lc15` `#autojustiça` `#injustiça-da-graça`
+  `#graça-como-presente` `#autoimplicação` `#Mt20` `#irmão-mais-velho-verdadeiro`
+- **Descrição**: o pai trazia sorvete e o picolé preferido do Allan menino. O
+  irmão do meio (na época o caçula) devorava o dele; Allan saboreava devagar. Ao
+  terminar, o irmão chorava pedindo um pedaço, e o pai obrigava Allan a dar. Ele
+  achava aquilo "extremamente injusto"
+- **Fim homilético**: dar voz, na primeira pessoa, ao sentimento de injustiça do
+  irmão mais velho diante da graça dada a outro, e então desmontá-lo. (1) Os dois
+  picolés eram presentes do pai; quem saboreava devagar não era dono do seu. (2) O
+  menino reclamava da generosidade do pai com o presente do pai na mão ("tu sempre
+  estás comigo, tudo o que é meu é teu"). (3) Inversão cristológica: o pai
+  precisava *obrigar* o menino a dar um pedaço; o verdadeiro Irmão mais velho deu
+  tudo por vontade própria (Jo 10.18; 2Co 8.9). **Cautela**: analogia de sentimento,
+  não de doutrina; na parábola o pai não tira nada do mais velho. Serve também a Mt
+  20.1-16 (os trabalhadores da vinha: "invejoso porque eu sou bom?")
+- **Adicionada em**: 2026-09-26
+
+### Usos
+
+| Data | Sermão/Perícope | Conexão específica que justificou o reuso |
+|------|------------------|---------------------------------------------|
+| 2026-09-26 (esboço) | Lc 15.11-32 — "Duas Formas de Fugir do Rei" | Uso original: introdução (a injustiça), ponto III (o picolé do pai na mão do filho que reclama, v. 29 × v. 31) e ponto IV (o Irmão que deu tudo sem ser obrigado) |
+
+---
+
+## [IL-012] "Volta o quanto puderes, que eu vou o resto"
+
+- **Fonte**: Evento histórico / literatura rabínica
+- **Origem específica**: *Pesiqta Rabbati* 44.9 (sobre Ml 3.7), citado por
+  Klyne Snodgrass, *Compreendendo Todas as Parábolas de Jesus*, seção sobre Lc
+  15.11-32 (fontes primárias)
+- **Tags**: `#graça-que-toma-a-iniciativa` `#Lc15` `#religião-vs-evangelho`
+  `#arrependimento`
+- **Descrição**: um príncipe está a cem dias de viagem do pai e diz que não tem
+  forças para voltar. O rei manda dizer: volte o quanto puder, e eu irei o
+  restante do caminho
+- **Fim homilético**: contraste. O melhor da religião humana é Deus vir até a metade
+  do caminho, depois que o homem fez a parte dele. Na parábola, o Pai **corre o
+  caminho inteiro** e beija antes da confissão (Lc 15.20). A graça não é ajuda para
+  completar o esforço; é iniciativa
+- **Adicionada em**: 2026-09-26
+
+### Usos
+
+| Data | Sermão/Perícope | Conexão específica que justificou o reuso |
+|------|------------------|---------------------------------------------|
+| 2026-09-26 (esboço) | Lc 15.11-32 — "Duas Formas de Fugir do Rei" | Uso original: ponto II (o Pai que corre), contraste com a religião do "meio caminho" |
+
+---
+
+## [IL-011] A carta do pródigo de Fayum
+
+- **Fonte**: Evento histórico
+- **Origem específica**: papiro do séc. II d.C. de Fayum (Egito), carta de Antonis
+  Longus à mãe Nilous (*Select Papyri*, LCL, 1.316-19), citada por Klyne Snodgrass,
+  *Compreendendo Todas as Parábolas de Jesus*, seção sobre Lc 15.11-32; também
+  mencionada por Kistemaker (via Danker)
+- **Tags**: `#pródigo` `#Lc15` `#consequências-do-pecado` `#vergonha` `#confissão`
+- **Descrição**: um filho escreve à mãe dizendo que teve vergonha de voltar para
+  casa porque está na sujeira e nu, pede que ela se reconcilie com ele e confessa
+  que sabe que pecou
+- **Fim homilético**: a "terra distante" não é invenção de pregador; é realidade
+  documentada do mundo antigo, e termina sempre do mesmo jeito: nudez, vergonha e o
+  desejo de voltar. Aproxima o Ato I do ouvinte (o pródigo é gente real) e prepara
+  a veste do v. 22, que cobre essa nudez
+- **Adicionada em**: 2026-09-26
+
+### Usos
+
+| Data | Sermão/Perícope | Conexão específica que justificou o reuso |
+|------|------------------|---------------------------------------------|
+| 2026-09-26 (esboço) | Lc 15.11-32 — "Duas Formas de Fugir do Rei" | Uso original: ponto I (o perdido longe de casa), onde a terra distante termina |
+
+---
+
+## [IL-010] Mozart para passar de ano × Mozart porque é lindo
+
+- **Fonte**: Pregador: Tim Keller
+- **Origem específica**: exposição "Duas Maneiras de Estar Perdido" (Lc 15),
+  seção "Obediência mecânica e sem alegria" — ver
+  `context/fontes/keller-sermoes-lucas15.md` (K2)
+- **Tags**: `#obediência` `#motivação` `#religião-vs-evangelho` `#irmão-mais-velho`
+  `#alegria`
+- **Descrição**: na faculdade, Keller ouvia Mozart por obrigação, para passar na
+  matéria, tirar o diploma e ganhar dinheiro. Anos depois, ouve Mozart só porque a
+  música é linda. É a mesma música e o mesmo ato, com outra razão
+- **Fim homilético**: a mesma obediência pode ser de empregado (pelas coisas que
+  rende) ou de filho (pelo próprio Deus). Serve ao ponto que diagnostica a
+  obediência sem alegria ("te sirvo como escravo", Lc 15.29) sem condenar a
+  obediência em si
+- **Adicionada em**: 2026-09-26
+
+### Usos
+
+| Data | Sermão/Perícope | Conexão específica que justificou o reuso |
+|------|------------------|---------------------------------------------|
+| 2026-09-26 (esboço) | Lc 15.11-32 — "Duas Formas de Fugir do Rei" | Uso original: ponto III (o perdido dentro de casa), a obediência de escravo do v. 29 |
+
+---
+
 ## [IL-009] A singularidade do amor: gravidade que curva o espaço-tempo do coração
 
 - **Fonte**: Varredura mensal
@@ -132,7 +237,7 @@ Nunca forçar uma boa ilustração num lugar que ela não serve.
 
 | Data | Sermão/Perícope | Conexão específica que justificou o reuso |
 |------|------------------|---------------------------------------------|
-| —    | —                | —                                            |
+| 2026-09-26 (esboço) | Lc 15.11-32 — "Duas Formas de Fugir do Rei" | O fim registrado ("o legalismo é uma segunda forma de fugir do Pai"; confrontar a autojustiça de quem está "dentro da igreja") é literalmente o ponto III e o título do sermão |
 
 ---
 
