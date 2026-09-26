@@ -46,7 +46,7 @@ Nunca forçar uma boa ilustração num lugar que ela não serve.
   2026-09-26 na preparação do sermão sobre Lc 15.11-32
 - **Tags**: `#irmão-mais-velho` `#Lc15` `#autojustiça` `#injustiça-da-graça`
   `#graça-como-presente` `#autoimplicação` `#Mt20` `#irmão-mais-velho-verdadeiro`
-- **Descrição**: o pai trazia sorvete e o picolé preferido do Allan menino. O
+- **Descrição**: o pai trazia sorvete e o picolé preferido do Allan menino, o Tablito (Kibon). O
   irmão do meio (na época o caçula) devorava o dele; Allan saboreava devagar. Ao
   terminar, o irmão chorava pedindo um pedaço, e o pai obrigava Allan a dar. Ele
   achava aquilo "extremamente injusto"
