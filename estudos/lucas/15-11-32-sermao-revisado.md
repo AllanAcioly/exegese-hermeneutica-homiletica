@@ -1,0 +1,320 @@
+# Duas Formas de Fugir do Rei
+**Lucas 15.1-3, 11-32** · Cap. 2, "O Coração do Rei" · sermão 2 · versão revisada (skill `polir-sermao`, 2026-09-26)
+
+> *Todos os publicanos e pecadores chegavam perto de Jesus para ouvi-lo. E tanto os fariseus como os escribas murmuravam, dizendo: "Este recebe pecadores e come com eles." Então Jesus lhes contou esta parábola: [...]*
+>
+> *— Certo homem tinha dois filhos. O mais moço deles disse ao pai: "Pai, quero que o senhor me dê a parte dos bens que me cabe." E o pai repartiu os bens entre eles. Passados não muitos dias, o filho mais moço, ajuntando tudo o que era seu, partiu para uma terra distante e lá desperdiçou todos os seus bens, vivendo de forma desenfreada. Depois de ter consumido tudo, sobreveio àquele país uma grande fome, e ele começou a passar necessidade. Então ele foi e se ofereceu a um dos cidadãos daquela terra, e este o mandou para os seus campos a cuidar de porcos. Ali, desejava encher o estômago com as alfarrobas que os porcos comiam, mas ninguém lhe dava nada. Então, caindo em si, disse: "Quantos trabalhadores de meu pai têm pão com fartura, e eu aqui estou morrendo de fome! Vou me levantar, irei até o meu pai e lhe direi: 'Pai, pequei contra o céu e diante do senhor; já não sou digno de ser chamado seu filho; trate-me como um dos seus trabalhadores.'" E, levantando-se, foi para o seu pai.*
+>
+> *— Vinha ele ainda longe, quando o seu pai o avistou e, compadecido dele, correndo, o abraçou e beijou. E o filho lhe disse: "Pai, pequei contra o céu e diante do senhor; já não sou digno de ser chamado seu filho." O pai, porém, disse aos seus servos: "Depressa! Tragam a melhor roupa e vistam-no; ponham um anel no dedo dele e sandálias nos pés. Tragam também o bezerro gordo e matem-no. Vamos comer e festejar, porque este meu filho estava morto e reviveu, estava perdido e foi achado." E começaram a festejar.*
+>
+> *— Ora, o filho mais velho estava no campo. Quando voltou e foi chegando perto de casa, ouviu a música e as danças. Chamou um dos criados e perguntou o que era aquilo. E ele informou: "O seu irmão voltou, e o seu pai mandou matar o bezerro gordo, porque o recuperou com saúde." Ele se indignou e não queria entrar. Então o pai saiu e procurava conciliá-lo. Mas ele respondeu ao pai: "Faz tantos anos que eu sirvo o senhor, sem jamais desobedecer a uma ordem sua, e o senhor nunca me deu um cabrito sequer para eu festejar com os meus amigos. Mas, quando veio esse seu filho, que desperdiçou os bens do senhor com prostitutas, o senhor mandou matar o bezerro gordo para ele." Então o pai respondeu: "Meu filho, você sempre está comigo, e tudo o que é meu é seu. Mas era preciso festejar e se alegrar, porque esse seu irmão estava morto e reviveu, estava perdido e foi achado."*
+>
+> (Lucas 15.1-3, 11-32, NAA)
+
+## Oração
+
+Pai, tu conheces esta sala melhor do que nós. Sabes quem chegou hoje de longe, com a roupa ainda cheirando à terra distante, e sabes quem nunca saiu daqui e está, mesmo assim, do lado de fora da tua festa. Não permitas que ninguém ouça esta história como se fosse sobre outra pessoa. Incomoda o que precisa ser incomodado em nós. Mostra a cada um o seu lugar nesta parábola, e mostra a todos o teu coração de Pai. Fala, Senhor, porque os teus servos estão ouvindo. Em nome de Jesus, amém.
+
+## A festa está acontecendo
+
+No domingo passado, terminamos com uma pergunta. Jesus tinha contado a história da ovelha perdida e da moeda perdida, e a gente viu que o céu inteiro faz festa quando um pecador se arrepende. E o sermão fechou assim: a festa está acontecendo, o Rei está convidando. Você vai entrar?
+
+Hoje Jesus conta a história de alguém que ouviu a música, sentiu o cheiro do churrasco, soube exatamente o motivo da festa, e não entrou.
+
+Durante muito tempo achei esta parábola injusta. E acho que muitos de vocês também acham, só que ninguém fala isso em voz alta dentro da igreja, porque pega mal.
+
+Quando eu era menino, meu pai de vez em quando chegava em casa com sorvete. E, às vezes, com o picolé que eu mais amava na vida. Quem tem mais de quarenta anos aqui vai lembrar: o Tablito, da Kibon. Para mim aquilo era um acontecimento. Éramos só dois em casa naquela época: eu e o meu irmão, o do meio, que na época era o caçula. E nós tínhamos dois jeitos muito diferentes de comer picolé. O meu irmão atacava o dele como quem não come há uma semana. Três, quatro mordidas, e acabou. Eu não. Eu saboreava. Devagarzinho. Uma lambida, olhava, outra lambida. Era o meu momento.
+
+Aí acontecia o inevitável. Ele terminava o dele, olhava para o meu, e começava a chorar. Queria um pedaço. E o meu pai, toda vez, me fazia dar um pedaço para ele.
+
+Eu sempre achei isso extremamente injusto.
+
+Você também acharia. Ele comeu o dele do jeito que quis. Eu cuidei do meu. E quem é premiado? Quem não soube cuidar.
+
+Essa história ainda não acabou. Por enquanto, basta isto: se você já leu Lucas 15 e sentiu um incômodo lá no fundo, se já pensou "espera aí, o que aprontou ganha festa, e o que trabalhou a vida inteira não ganha nem um cabrito?", então você entendeu esta parábola muito melhor do que imagina. Porque Jesus a contou exatamente para gente que se sente assim.
+
+Quem está ouvindo Jesus nos versos 1 e 2? Dois grupos. De um lado, os publicanos e pecadores, que "chegavam perto de Jesus para ouvi-lo". Do outro, os fariseus e os escribas, que murmuravam: "Este recebe pecadores e come com eles." E o verso 3 diz: "Então Jesus lhes contou esta parábola." A quem? Aos dois grupos, sim. Mas a pergunta que disparou as três histórias foi a murmuração dos religiosos. Estas histórias foram contadas, em primeiro lugar, para a turma que achava a graça de Deus injusta.
+
+E a primeira frase da história é esta: "Certo homem tinha **dois** filhos." Dois. Nós chamamos isso de "a parábola do filho pródigo", e o título já corta metade da história fora. Quase toda família conhece essa dupla. O filho que foi embora e o filho que ficou. O que deu trabalho e o que deu orgulho. O que a mãe chora e o que a mãe elogia. A pergunta que esta parábola faz é: qual dos dois estava perdido?
+
+E a resposta de Jesus vai incomodar muita gente boa hoje. Os dois. De jeitos diferentes, mas os dois.
+
+Então, se você esquecer tudo o que eu disser nesta manhã, guarde isso:
+
+> **Dá para fugir de Deus indo embora, ou ficando em casa sem amá-lo. E o Rei, que tem coração de Pai, sai atrás dos dois para chamá-los para dentro, não como empregados, mas como filhos.**
+
+Nesta série, a pergunta é quem é o Rei deste Reino. Hoje a resposta vem por um caminho que ninguém esperava: o Rei é um Pai que sai correndo pela estrada, e que depois sai de novo, de casa, para implorar. Começamos por onde todo mundo concorda que há perdição.
+
+## I. O perdido longe de casa: "Dá-me" (vv. 11-19)
+
+> *"O mais moço deles disse ao pai: 'Pai, quero que o senhor me dê a parte dos bens que me cabe.'"* (v. 12)
+
+O grego é mais seco do que a nossa tradução: "Pai, dá-me." Não tem "por favor", não tem "quando o senhor achar melhor". Dá-me.
+
+Naquele mundo, um filho recebia a herança quando o pai morria. Havia casos em que o pai dividia os bens ainda em vida, mas por iniciativa dele, e mesmo assim continuava usufruindo deles enquanto vivesse. Um filho chegar e exigir a parte dele, para levar embora, era desonroso. Muitos estudiosos dizem que equivalia a falar: "Pai, eu queria que o senhor já tivesse morrido." O texto não diz isso com essas palavras. Mas o sentido não está longe. O que esse rapaz quer são os bens do pai. O pai, ele dispensa.
+
+E o pai reparte. O verso diz, literalmente, que ele repartiu "a vida" entre os filhos. A palavra é *bios*, o sustento, aquilo de que a pessoa vive. O pai entrega a própria vida na mão de um filho que não o quer.
+
+> *"Passados não muitos dias, o filho mais moço, ajuntando tudo o que era seu, partiu para uma terra distante e lá desperdiçou todos os seus bens, vivendo de forma desenfreada."* (v. 13)
+
+"Ajuntando tudo." Ele converte a herança em dinheiro vivo. Terra não cabe na mala, dinheiro cabe. E vai para longe. Longe do pai, longe dos olhos da aldeia, longe de qualquer um que possa dizer "isso não se faz".
+
+"Vivendo de forma desenfreada." A palavra grega descreve uma vida sem freio, sem salvação, uma vida que se gasta. O texto não detalha. Quem vai detalhar, mais tarde, falando de prostitutas, é o irmão mais velho. O narrador não diz isso. Nós sabemos o suficiente: ele gastou tudo, e gastou mal.
+
+E aí começa a descida. Vem a fome. Ele começa a passar necessidade. E o verso 15 diz que ele "se ofereceu" a um cidadão daquela terra; o verbo quer dizer "grudou-se", "colou-se" nele. O rapaz que saiu de casa para não depender de ninguém termina grudado num estrangeiro para sobreviver. A liberdade que ele comprou virou dependência. E o emprego que ele arruma é cuidar de porcos. Para um judeu, não dava para descer mais. E, mesmo ali, ele queria comer a comida dos porcos, "mas ninguém lhe dava nada".
+
+*Ninguém lhe dava nada.* Enquanto ele tinha dinheiro, tinha amigo. Quando o dinheiro acabou, a terra distante mostrou quem ela é. A terra distante sempre cobra. Ela nunca dá. "O salário do pecado é a morte" (Rm 6.23): a terra distante paga salário, e o salário dela é esse. O dom gratuito vem de outro lugar, e já vamos chegar lá.
+
+Essa história não é invenção de pregador. Existe uma carta, num papiro do segundo século encontrado no Egito, na região de Fayum, escrita por um rapaz chamado Antonis Longus para a mãe dele. E ele diz a ela, mais ou menos: eu tive vergonha de voltar para casa, porque estou na sujeira, estou nu. Reconcilie-se comigo. Eu sei que pequei. Um pródigo de verdade, de carne e osso, com a mesma vergonha e a mesma nudez. A terra distante tem o mesmo final há dois mil anos.
+
+E hoje? A terra distante hoje não precisa de passaporte. Ela cabe no seu bolso. "Minha vida, minhas regras." Eu vou ser feliz do meu jeito, e ninguém tem nada a ver com isso. O cara que vive de *bet*, apostando o salário no celular de madrugada, porque dessa vez vai dar certo, e que esconde da esposa o extrato do cartão. A moça que foi embora da igreja porque cansou de ouvir "não", e agora descobriu que o mundo também diz "não", só que não diz por amor. O executivo que construiu tudo, tem tudo, e percebe numa segunda-feira de manhã que ninguém ali gosta dele; gostam do que ele dá.
+
+A terra distante também tem filial dentro da igreja. Existe uma pregação muito popular neste país que trata Deus exatamente como o filho mais novo tratou o pai. "Dá-me." Deus é a fonte da bênção, da prosperidade, da vitória, da casa própria, do carro na garagem. Deus é o caixa eletrônico, e a fé é o cartão. Isso tem cara de devoção, mas é o verso 12 com música gospel. Quer os bens do Pai. O Pai, dispensa.
+
+Você pode estar sentado aqui hoje, cantando, e morando na terra distante.
+
+> *"Então, caindo em si, disse: 'Quantos trabalhadores de meu pai têm pão com fartura, e eu aqui estou morrendo de fome!'"* (v. 17)
+
+"Caindo em si." É o primeiro passo real dele em toda a história. É como alguém que acorda de uma bebedeira e olha em volta: o que eu estou fazendo aqui? E, sendo honesto com o texto, o que o acorda é a fome. É a barriga que fala primeiro, e a memória do pão da casa do pai. Não é um despertar espiritual bonito. É um homem desesperado lembrando que em casa tinha comida. E Deus usa isso. Deus usa a fome.
+
+Aí ele monta um plano.
+
+> *"Vou me levantar, irei até o meu pai e lhe direi: 'Pai, pequei contra o céu e diante do senhor; já não sou digno de ser chamado seu filho; trate-me como um dos seus trabalhadores.'"* (vv. 18-19)
+
+Tem coisa verdadeira nesse discurso. "Pequei contra o céu e diante do senhor." Ele não põe a culpa na economia, na fome, nos amigos. Isso é confissão de verdade.
+
+Mas o problema está no final: "trate-me como um dos seus trabalhadores." A palavra é *misthios*, o diarista, o assalariado. Não é o escravo da casa. É o empregado de fora, que trabalha e recebe no fim do dia. O que ele está planejando? Ele vai voltar, trabalhar, receber salário e, aos poucos, pagar o que deve. Ele volta com um plano de pagamento no bolso. Ele quer se reaproximar do pai, mas pela porta dos fundos, como funcionário.
+
+Esta é a chave da parábola: o filho que se perdeu longe de casa está planejando voltar exatamente do jeito que o irmão mais velho vive. Como empregado. Trabalhando para merecer. Ele largou o "dá-me", e agora quer o "faça-me". Mudou o pecado, mas não mudou o coração. Continua não confiando que o pai possa querê-lo de graça.
+
+Tim Keller resume assim: "Há duas maneiras de ser seu próprio Salvador e Senhor. Uma delas é ao quebrar todas as leis morais e estabelecer seu próprio rumo, e a outra é ao seguir todas as leis morais e ao ser muito, muito bom." O mais novo, até agora, fez a primeira. E, no chiqueiro, ele já está ensaiando a segunda.
+
+Ele se levanta. Discurso decorado, plano no bolso, pé na estrada. E aí o texto vira de repente, porque quem se move primeiro nesta história não é o filho.
+
+## II. O Pai que corre (vv. 20-24)
+
+> *"Vinha ele ainda longe, quando o seu pai o avistou e, compadecido dele, correndo, o abraçou e beijou."* (v. 20)
+
+"Ainda longe." Como o pai o viu de longe? Só tem um jeito: estava olhando para a estrada. Jesus não diz há quanto tempo. Mas a frase deixa a gente imaginar um pai que, dia após dia, olhava para aquela curva.
+
+"Compadecido." É a palavra das entranhas, *splanchnizomai*, a mesma que Lucas usa para Jesus diante da viúva de Naim e para o samaritano diante do homem caído na estrada. Não é pena. É uma dor que mexe por dentro.
+
+E aí vem a palavra que os ouvintes de Jesus não esperavam: "correndo". No Oriente Médio antigo um patriarca não corria. Homem de posição andava devagar, com dignidade. Para correr, ele precisava levantar a túnica e mostrar as pernas, coisa vergonhosa para um homem da idade e da posição dele. Comentaristas de linhas diferentes concordam nisso: o pai se expôs ao ridículo na estrada. Ele troca a honra dele pelo filho.
+
+E a ordem importa. Ele corre, abraça e beija, e só depois, no verso 21, o filho fala. O perdão chega antes do discurso. O beijo chega antes da confissão. Keller diz: o arrependimento não dispara o beijo; o beijo é que facilita o arrependimento.
+
+> *"E o filho lhe disse: 'Pai, pequei contra o céu e diante do senhor; já não sou digno de ser chamado seu filho.'"* (v. 21)
+
+O verso 21 repete o verso 19, mas com um pedaço faltando. "Trate-me como um dos seus trabalhadores" não aparece. O plano de pagamento sumiu.
+
+Por quê? O texto não explica. Ele só omite, e não cabe inventar uma cena que Lucas não escreveu. Simon Kistemaker coloca isso com cuidado: o pai o impediu, beijando-o e tratando-o como filho. Não dá para apresentar um plano de pagamento com o credor te abraçando pelo pescoço e te beijando. Lloyd-Jones observa que Lucas nos deixou ouvir os pensamentos do rapaz no chiqueiro, e aqui, na hora do abraço, o narrador fica em silêncio. Tem coisa que não cabe em discurso.
+
+> *"O pai, porém, disse aos seus servos: 'Depressa! Tragam a melhor roupa e vistam-no; ponham um anel no dedo dele e sandálias nos pés.'"* (v. 22)
+
+"Depressa!" O pai não deixa o filho entrar na aldeia do jeito que está. A melhor roupa, e alguns estudiosos acham que era a roupa do próprio pai; o texto só diz "a melhor", e isso já basta. O anel, sinal de autoridade na casa. As sandálias, porque escravo andava descalço e filho andava calçado. Cada peça diz a mesma coisa: você não é empregado aqui, você é filho.
+
+E o bezerro gordo. Não se mata um bezerro para um jantar em família; bezerro gordo é festa grande, carne para muita gente. O pai não recebe o filho às escondidas, para evitar comentários. Ele faz festa.
+
+As três frases do filho contam a história. Primeiro: "Dá-me." Depois: "Faze-me", trata-me como empregado. E o pai responde com uma terceira coisa, que o filho nem teve coragem de pedir: filho. O pai não dá o que ele exigiu, nem o que ele propôs. Dá o que ele não ousava pedir.
+
+Os rabinos tinham uma história bonita sobre arrependimento. Um príncipe estava longe do pai, a cem dias de viagem, e disse que não tinha forças para voltar. O rei mandou dizer: "Volta o quanto puderes, que eu vou o resto do caminho." É o melhor que a religião humana consegue imaginar: você faz a sua parte e Deus vem ao seu encontro na metade. Mas não é o que Jesus conta. Aqui o filho não fez metade de nada. Estava "ainda longe". E o Pai correu o caminho inteiro.
+
+> *"...porque este meu filho estava morto e reviveu, estava perdido e foi achado."* (v. 24)
+
+Morto e reviveu. James Boice chama atenção para isso: não é reforma, é ressurreição. Ninguém se reforma de morto para vivo. Só Deus faz isso.
+
+Se você está longe hoje, você não precisa se consertar antes de voltar. Não precisa chegar arrumado, com o discurso perfeito e o plano de pagamento. O Pai corre antes do discurso. Paulo diz em Romanos 2.4 que é a bondade de Deus que nos conduz ao arrependimento. Não é a vergonha que te traz de volta. É a bondade dele.
+
+E temos aqui uma primeira resposta para a pergunta desta série. Quem é o Rei deste Reino? Não é o patrão que paga salário no fim do dia. Não é o banco onde você saca. É um Pai que corre.
+
+Se a história parasse no verso 24, seria o evangelho perfeito para os de fora. Os publicanos e pecadores do verso 1 iriam para casa felizes. Mas Jesus não parou. Porque os fariseus do verso 2 ainda não tinham se encontrado na história. E muitos de nós também não.
+
+## III. O perdido dentro de casa: "Olha!" (vv. 25-30)
+
+No século quarto, Agostinho, orando a Deus, escreveu sobre esta parábola: "Não é com os pés, nem mudando de lugar, que nos afastamos de ti ou voltamos para ti. Aquele teu filho mais novo não alugou cavalos, nem carros, nem navios... para gastar na terra distante tudo o que lhe deste. Estar num afeto desordenado, isto é, num coração em trevas: isso é estar longe da tua face."
+
+A distância de Deus não se mede em quilômetros. Ela se mede no coração. E, se é assim, dá para estar longe de Deus sem sair de casa. Dá para estar longe de Deus sem faltar a um culto.
+
+> *"Ora, o filho mais velho estava no campo. Quando voltou e foi chegando perto de casa, ouviu a música e as danças."* (v. 25)
+
+Onde ele estava? No campo. Trabalhando. Claro. Esse é o filho responsável. Ele chega, ouve a música, e não entra direto; chama um criado para saber o que está acontecendo. E o criado conta: "O seu irmão voltou, e o seu pai mandou matar o bezerro gordo."
+
+> *"Ele se indignou e não queria entrar."* (v. 28)
+
+Isso é muito mais grave do que parece para nós. Naquele mundo, a festa era do pai. Ele era o anfitrião. O esperado era que o filho mais velho estivesse na porta, recebendo os convidados, fazendo as honras da casa; e, se houvesse briga na família, o esperado era que o primogênito fosse o mediador da reconciliação. Em vez disso, ele se recusa a entrar, na frente de todo mundo. É uma afronta pública. No livro de Ester, o rei chamou a rainha Vasti para o banquete e ela se recusou a ir, e aquilo virou crise de Estado (Et 1.12). Recusar o banquete de quem manda na casa é dizer diante de todos: a sua autoridade não vale para mim.
+
+> *"Mas ele respondeu ao pai: 'Faz tantos anos que eu sirvo o senhor, sem jamais desobedecer a uma ordem sua, e o senhor nunca me deu um cabrito sequer para eu festejar com os meus amigos.'"* (v. 29)
+
+A primeira palavra, no grego, é *idou*. "Olha!" Aquele "olha aqui" que a gente fala quando está com o dedo na cara de alguém. E falta uma palavra. O filho mais novo, que desonrou o pai, chamou-o de "Pai" em todas as vezes que abriu a boca. O filho mais velho, que nunca saiu de casa, não diz "pai" uma vez sequer. Ele fala com o pai como quem fala com o patrão.
+
+E é isso que ele se considera. "Faz tantos anos que eu sirvo o senhor." O verbo é *douleuō*: servir como escravo. "Há tantos anos eu sou teu escravo." Esse homem morou a vida inteira na casa do pai e se via como empregado. O irmão mais novo queria voltar como empregado. O mais velho nunca deixou de se ver como um.
+
+"Sem jamais desobedecer a uma ordem sua." E o pai não discute. Não diz "mas e aquela vez...?" Talvez fosse verdade. Esse homem tinha uma ficha limpa.
+
+"E o senhor nunca me deu um cabrito." Aqui aparece o que estava no coração dele esse tempo todo. Uma contabilidade. Anos de serviço de um lado, nenhum pagamento do outro. Ele acha que o pai é mesquinho. O mais novo achava o pai tão mesquinho que precisou arrancar a herança e ir embora. O mais velho acha o pai tão mesquinho que precisa cobrar um cabrito. Os dois desconfiam da bondade do mesmo pai.
+
+"Para eu festejar com os meus amigos." Com quem ele queria a festa? Com os amigos dele. Não com o pai. O irmão mais velho quer exatamente o que o irmão mais novo quis: uma festa longe do pai, com os bens do pai. Só que o mais novo foi buscar isso na terra distante, e o mais velho estava esperando receber isso como pagamento pelo bom comportamento. Nenhum dos dois queria o pai. Os dois queriam as coisas do pai.
+
+> *"Mas, quando veio esse seu filho, que desperdiçou os bens do senhor com prostitutas, o senhor mandou matar o bezerro gordo para ele."* (v. 30)
+
+"Esse seu filho." Ele não diz "meu irmão". O desprezo nesse pronome é o mesmo dos fariseus no verso 2: "*Este* recebe pecadores." E ele acrescenta um detalhe que ninguém tinha contado: prostitutas. Como é que ele sabe? O narrador não disse isso. É acusação. E tem mais: a lei de Deuteronômio 21 falava do filho rebelde, "comilão e beberrão", que devia ser levado aos anciãos. É para lá que o irmão mais velho está empurrando o caçula. Ele não quer irmão; quer um réu.
+
+Agora a pergunta que dói: por que esse homem não entra na festa? Por causa de algum pecado escandaloso? Não. Ele não entra justamente porque "nunca desobedeceu". A bondade dele é a razão de ele ficar do lado de fora. Keller diz: o filho mais novo estava perdido por causa da sua maldade, mas o filho mais velho estava perdido por causa da sua bondade. Não apesar dela. Por causa dela. O que o separa do pai não são os pecados dele. São as boas obras que ele usa como moeda.
+
+A escritora americana Flannery O'Connor, que era católica e escrevia sobre o Sul religioso dos Estados Unidos, tem um romance chamado *Sangue Sábio*. Ela descreve um rapaz criado no meio da religião e escreve assim: "Já havia nele uma convicção profunda, negra e sem palavras de que o jeito de evitar Jesus era evitar o pecado." O jeito de evitar Jesus é evitar o pecado. Porque, se eu nunca desobedeço, eu não preciso de ninguém que me salve. Eu não preciso de graça. Eu preciso de reconhecimento.
+
+Esse é o perdido que não sabe que está perdido. E ele é muito mais difícil de alcançar, porque está sentado na igreja, conhece a doutrina, e não tem nada visível para confessar.
+
+Como saber se esse sou eu? O texto mostra cinco marcas.
+
+**A primeira é a ira quando a vida não sai como você acha que merecia.** O filho mais velho ferve porque a conta não fechou. E quantas vezes a gente não fala, ou pelo menos pensa: "Depois de tudo o que eu fiz por Deus..."? Eu fui fiel, eu servi, eu dei o dízimo, e agora meu filho se desvia, o casamento aperta, o diagnóstico chega. "Depois de tudo o que eu fiz." Esse "depois de tudo o que eu fiz" é o verso 29 saindo da sua boca. Quando o dízimo vira contrato, a fidelidade vira fatura, e todo sofrimento vira calote.
+
+**A segunda é a obediência sem alegria.** "Há tantos anos te sirvo como escravo." Keller conta que, na faculdade, ele ouvia Mozart porque era obrigado: tinha prova, precisava passar na matéria, pegar o diploma. Anos depois, ouvia Mozart porque Mozart é lindo. Mesma música, mesmo ato, outra razão. Tem gente que ora, lê a Bíblia, vem ao culto, serve no ministério, tudo certinho, e faz tudo isso como quem ouve Mozart para passar de ano. A obediência não está errada. O problema é a razão dela. E uma forma de perceber isso é a sua oração: ela é quase só pedido e cobrança? Ela só esquenta quando a vida aperta?
+
+**A terceira é não conseguir se alegrar quando a graça alcança alguém "complicado".** Alguém se converte de uma vida bagunçada, e a sua primeira reação é "vamos ver se é de verdade". Alguém volta para a igreja depois de anos, e você comenta: "Ah, agora voltou?" É a música tocando lá dentro, e você do lado de fora, de braços cruzados.
+
+**A quarta é não perdoar.** Ninguém perdoa de verdade enquanto pensa "eu nunca faria isso". O irmão mais velho não perdoa o caçula porque se vê numa categoria moral diferente da dele.
+
+**A quinta é não evangelizar.** Keller diz que os irmãos mais velhos são péssimos evangelistas. Faz sentido. O irmão mais velho nunca saiu de casa para procurar o irmão. Quem ficou na janela olhando a estrada foi o pai. Se você acha que sua salvação foi uma conquista, é difícil ter esperança por alguém que, na sua avaliação, não tem jeito. E é difícil ir até ele sem olhar de cima.
+
+E essa atitude não mora só na igreja. O Brasil está cheio de irmão mais velho secular. O "cidadão de bem", que paga imposto, trabalha, não rouba, e que diz "direitos humanos para humanos direitos". A lógica é exatamente a do verso 30: esse aí não merece festa, merece julgamento. A nossa polarização segue a mesma lógica. A direita olha para a esquerda e diz: "Esses aí são os perdidos, imorais, destruidores da família." A esquerda olha para a direita e diz: "Esses aí são os perdidos, hipócritas, opressores." E cada um é o irmão mais velho do outro, de pé no quintal, apontando para dentro da casa: "esse seu filho".
+
+Existe uma tentação muito específica para quem é reformado, para quem ama a doutrina da graça como nós amamos. Nós conhecemos a teologia da graça melhor do que quase todo mundo. E é justamente por isso que podemos transformar a graça em distintivo. "Nós é que entendemos a graça. Aqueles irmãos lá, coitados, são arminianos, são pentecostais, são superficiais." A doutrina da graça vira o nosso cabrito. Vira o motivo para nos sentirmos melhores do que os outros. E aí somos irmãos mais velhos com a teologia certa.
+
+E aqui o picolé volta. Quando eu leio o verso 29, eu escuto a minha própria voz de menino, segurando o Tablito: "o senhor nunca me deu...". E só adulto eu percebi uma coisa que aquele menino não via. Eu estava com o picolé do meu pai na mão. O meu picolé também era presente dele. Eu não tinha comprado nada. Eu estava reclamando da generosidade do meu pai segurando a generosidade do meu pai.
+
+É isso que o irmão mais velho faz. O pai diz: "Você sempre está comigo, e tudo o que é meu é seu." E ele reclamando de um cabrito. Tudo o que ele tinha, a casa, a comida, o campo onde trabalhava, o próprio pai, era presente. E ele vivia como quem não tinha nada. O meu jeito cuidadoso de saborear o picolé não estava errado, assim como a obediência do irmão mais velho não estava errada. Mas cuidar bem do presente não me tornava dono dele.
+
+Henri Nouwen passou anos meditando nesta parábola diante do quadro de Rembrandt, e chegou a esta conclusão sobre si mesmo: "Quanto mais reflito sobre o filho mais velho em mim, mais percebo quão profundamente enraizada é essa forma de perdição e quão difícil é voltar para casa a partir dela. Voltar de uma aventura de luxúria parece muito mais fácil do que voltar de uma ira fria que se enraizou nos cantos mais profundos do meu ser."
+
+Uma ira fria. O irmão mais novo sabe que está perdido; ele está no chiqueiro. O irmão mais velho está no quintal da casa do pai, e acha que é o único que tem direito de estar ali.
+
+Richard Lovelace, um historiador de avivamentos, explica de onde vem isso. Ele diz que as pessoas "que perdem a certeza de que Deus as ama e as aceita em Jesus, exceto quando por meio das realizações espirituais, são pessoas radical e subconscientemente inseguras... Tal insegurança se revela sob a forma do orgulho, uma afirmação agressiva e defensiva de sua própria retidão e por meio da crítica defensiva feita aos outros." O irmão mais velho parece orgulhoso, mas por baixo do orgulho existe medo. Se a minha posição diante do Pai depende do meu desempenho, então cada pecador que é aceito de graça é uma ameaça ao meu sistema. Por isso eu preciso criticar. Por isso eu preciso do "esse seu filho".
+
+Três perguntas, para responder com honestidade:
+
+Quando alguém que, na sua avaliação, não merece é abençoado, o que você sente?
+
+Quando a vida aperta, a sua primeira frase é "depois de tudo o que eu fiz"?
+
+A sua oração mais adora ou mais cobra?
+
+Quem respondeu mal a essas perguntas não está, só por isso, declarado fora da fé. Nenhum pastor tem esse raio-X. Muitos crentes verdadeiros têm o coração do irmão mais velho em muitas áreas da vida; o evangelho está na cabeça e ainda não desceu inteiro. Mas é possível, sim, que alguém aqui tenha vivido a vida inteira dentro da igreja sem nunca ter entrado na festa. Quem é, só você sabe. E isso não é condenação: é o Pai saindo de casa para te chamar.
+
+Jesus não é farisaico com os fariseus. Ele não conta esta história para humilhá-los. Ele a conta para chamá-los.
+
+E o pai? Qualquer pai daquele tempo teria deserdado esse filho ali mesmo, na frente dos convidados. Este sai de casa pela segunda vez no mesmo dia.
+
+## IV. O Pai que sai de novo, e o Filho que veio buscar os dois (vv. 28, 31-32)
+
+> *"Então o pai saiu e procurava conciliá-lo."* (v. 28)
+
+O pai saiu. De novo. No verso 20 ele correu pela estrada atrás do filho que foi embora. Agora ele deixa os convidados, deixa a própria festa e sai para o quintal atrás do filho que ficou. É a segunda humilhação pública do dia. E o verbo diz que ele "procurava conciliá-lo", ou "suplicava" a ele. O pai implora. O dono da casa implora ao filho que o insultou na frente de todos.
+
+E ele não repreende:
+
+> *"Meu filho, você sempre está comigo, e tudo o que é meu é seu."* (v. 31)
+
+"Meu filho." A palavra é *teknon*, uma palavra de carinho; algo como "meu filho querido". O rapaz o tratou como patrão, e o pai responde como pai.
+
+"Você sempre está comigo." O filho disse "nunca": "nunca me deu um cabrito". O pai diz "sempre": "você sempre está comigo". O "nunca" do filho contra o "sempre" do pai. E "tudo o que é meu é seu". O pai não está falando de um acerto de herança naquele dia. Está descrevendo a vida inteira que tiveram juntos. Todos aqueles anos, tudo o que era do pai estava à disposição dele. Ele poderia ter feito festa com um cabrito em qualquer dia. Ele tinha o pai. E viveu como quem não tinha nada.
+
+> *"Mas era preciso festejar e se alegrar, porque esse seu irmão estava morto e reviveu, estava perdido e foi achado."* (v. 32)
+
+"Esse seu irmão." O filho disse "esse seu filho". O pai devolve: "esse seu *irmão*". Você não pode ter a mim como pai e recusar o meu filho como seu irmão. Kistemaker resume assim: porque você é meu filho, eu sou seu pai; e, porque o pródigo é meu filho, ele é seu irmão.
+
+"Era preciso." A palavra é *edei*, a mesma que Lucas usa para as coisas que precisam acontecer no plano de Deus. A alegria do Reino não é opcional. Quando um perdido volta, festejar não é gentileza. É necessário.
+
+E a história acaba. Assim. Jesus não conta se ele entrou.
+
+Era isso o que estava acontecendo naquele dia, em Lucas 15. Quando Jesus recebia publicanos e pecadores e comia com eles, ele estava fazendo o que o pai fez na estrada: correndo para os perdidos longe de casa. E, quando ele contou esta parábola para os fariseus que murmuravam, ele estava fazendo o que o pai fez no quintal: saindo para suplicar aos perdidos dentro de casa. A própria parábola é o Pai saindo para chamar.
+
+Mas esta história tem um buraco. Falta alguém nela. Falta o irmão mais velho que o caçula merecia. Um irmão que tivesse ido para a terra distante procurar o mais novo. Que tivesse pago o preço para trazê-lo de volta. Que tivesse se alegrado quando ele chegou.
+
+Esse irmão não aparece na parábola. Mas estava ali, contando a parábola.
+
+**Jesus é o verdadeiro Irmão mais velho.** Ele é tudo o que o irmão da história deveria ter sido. Na véspera da cruz, orando ao Pai, Jesus diz: "Tudo o que é meu é teu, e o que é teu é meu" (Jo 17.10). É a frase do verso 31 na boca de um Filho que realmente vivia assim. Ele obedeceu ao Pai a vida inteira, e não como escravo. O salmo diz dele: "Agrada-me fazer a tua vontade, ó Deus meu" (Sl 40.8). E ele não ficou em casa. Ele mesmo diz: "o Filho do Homem veio buscar e salvar o perdido" (Lc 19.10). Ele saiu de casa, atravessou a distância inteira, e foi à terra distante nos buscar. E, quando nos encontra, "não se envergonha de nos chamar irmãos" (Hb 2.11).
+
+**E ele foi tratado como o filho rebelde.** O irmão mais velho queria enquadrar o caçula na lei do filho rebelde, o "comilão e beberrão" de Deuteronômio 21. Sabem de quem disseram exatamente isso? De Jesus. "Eis aí um comilão e bebedor de vinho, amigo de publicanos e pecadores" (Lc 7.34). E logo depois daquela lei, em Deuteronômio 21, vem isto: "O que for pendurado no madeiro é maldito de Deus" (Dt 21.23). E Paulo diz: "Cristo nos resgatou da maldição da lei, fazendo-se ele próprio maldição em nosso lugar" (Gl 3.13). Esta ligação não está na parábola; é a Escritura inteira que a faz. Mas ela é real: o Irmão mais velho verdadeiro recebeu a sentença do filho rebelde, para que o filho rebelde recebesse a veste, o anel e as sandálias.
+
+**E ele perdeu o "Pai" para que nós pudéssemos dizê-lo.** O irmão mais velho da parábola, dentro de casa, não disse "pai" nenhuma vez. Jesus sempre disse "Pai". Até na cruz, em Lucas, ele diz: "Pai, perdoa-lhes" (Lc 23.34). Mas houve um momento naquela cruz, que Marcos e Mateus registram, em que ele não disse "Pai". Disse: "Deus meu, Deus meu, por que me desamparaste?" (Mc 15.34). Ele nunca deixou de ser o Filho. Mas, naquela hora, foi tratado como quem não é filho. Recebeu o que o filho rebelde merecia e o que o filho que se achava justo também merecia. E depois, em Lucas, ele termina: "Pai, nas tuas mãos entrego o meu espírito" (Lc 23.46). E por isso, diz Paulo, "Deus enviou aos nossos corações o Espírito de seu Filho, que clama: Aba, Pai!" (Gl 4.6). Ele perdeu, na cruz, o "Pai", para que nós, que falávamos com Deus como patrão, pudéssemos chamá-lo de Pai.
+
+Cristo viveu uma vida que ninguém desejou ter, para que quem merece ter possa viver uma vida que não merece.
+
+William Cowper, o poeta amigo de John Newton, que lutou a vida inteira contra a depressão, escreveu num hino uma estrofe que é esta parábola inteira em quatro linhas: "Ver a Lei por Cristo cumprida / e ouvir a sua voz que perdoa / transforma um escravo em filho / e o dever em escolha."
+
+Você não deixa de ser o irmão mais velho se esforçando para ser menos fariseu. Isso só te faz um fariseu mais cansado. O que transforma o escravo em filho é ver a Lei cumprida por Cristo e ouvir a voz dele perdoando você. O Mozart continua o mesmo. Muda a razão.
+
+**E ele é a resposta ao "nunca me deu".** O irmão mais velho acusou o pai de mesquinharia por causa de um cabrito. Paulo responde a isso em Romanos 8.32: "Aquele que não poupou o seu próprio Filho, antes, por todos nós o entregou, porventura não nos dará graciosamente com ele todas as coisas?" Um Pai que deu o Filho não é mesquinho. Se você tem Cristo, não existe cabrito que Deus esteja negando a você por avareza.
+
+E aqui o picolé termina de virar do avesso. O meu pai precisava me obrigar a dar um pedaço do meu picolé para o meu irmão. E eu dava chorando. O verdadeiro Irmão mais velho não foi obrigado. Ele diz: "Ninguém a tira de mim; pelo contrário, eu espontaneamente a dou" (Jo 10.18). E ele não deu um pedaço. Deu tudo. "Sendo rico, se fez pobre por amor de vocês, para que, pela sua pobreza, vocês se tornassem ricos" (2Co 8.9). Tudo o que era dele, e só dele, ele reparte conosco: somos "herdeiros de Deus e coerdeiros com Cristo" (Rm 8.17).
+
+Se isso é verdade, a veste do verso 22 é nossa. "Todos vocês que foram batizados em Cristo se revestiram de Cristo" (Gl 3.27). Aquele que não conheceu pecado, Deus o fez pecado por nós, "para que, nele, fôssemos feitos justiça de Deus" (2Co 5.21). O pródigo entra na festa vestido com a roupa do Pai. Nós entramos vestidos com a justiça do Filho.
+
+## E agora? Como se entra na festa
+
+Um alerta antes: é muito fácil sair desta parábola para o lado errado.
+
+Sinclair Ferguson diz que o legalismo e o antinomismo, a religião do mérito e a vida sem lei, não são opostos completos. São "gêmeos não idênticos do mesmo ventre". Nascem da mesma mentira, a mentira da serpente no Éden (Gn 3.1-5): a de que Deus não é bom, que ele está segurando alguma coisa de você. O mais novo acreditou nisso e disse "dá-me". O mais velho acreditou nisso e disse "nunca me deste". Por isso, diz Ferguson, você não cura um com uma dose do outro. Pregar ao irmão mais novo "agora comporte-se" fabrica mais um irmão mais velho. Pregar ao irmão mais velho "relaxa, a obediência não importa" o manda para a terra distante. A única cura para os dois é a mesma: o próprio Cristo, recebido de graça.
+
+Três palavras, para três grupos.
+
+### A quem está longe de casa: "Levanta-te e volta"
+
+Talvez você esteja na terra distante. Todo mundo em volta acha que você vai bem, mas você sabe onde passa as madrugadas.
+
+Primeiro, como **não** voltar. Não volte com plano de pagamento. Não espere ficar digno, porque você nunca vai ficar; esperar isso é só outro jeito de ficar no chiqueiro. E não volte para virar irmão mais velho, trocando os pecados de antes por uma religião de desempenho.
+
+Agora, **como** voltar. Caia em si: dê nome à sua terra distante. Não "estou passando por uma fase". Dê o nome certo: aposta, pornografia, adultério, bebida, dinheiro, ou simplesmente "eu decidi que minha vida é minha". Confesse sem eufemismo, como ele fez: "pequei contra o céu e diante de ti". E volte de mãos vazias, para receber a roupa que você não tem.
+
+E, de forma concreta, esta semana: procure um pastor ou um irmão maduro desta igreja e conte. Não precisa ser tudo de uma vez; mas diga em voz alta a alguém. Se a sua terra distante mora no celular, apague o aplicativo hoje, antes de dormir, e peça a alguém que te acompanhe nisso. E volte à mesa do Senhor com a igreja. O Pai não está parado na porta de braços cruzados. Ele está correndo.
+
+### A quem está dentro de casa: "Entra e alegra-te"
+
+Talvez esta parábola tenha deixado você desconfortável. Que bom. Esse desconforto pode ser o Pai saindo de casa para falar com você.
+
+Primeiro, como **não** reagir. Não finja alegria; isso só faz de você um irmão mais velho sorridente. Não tente ser "menos fariseu" na base do esforço. E não largue a obediência por cansaço, dizendo: "Então nada disso importa." Importa. O problema nunca foi a obediência; foi a razão dela.
+
+Agora, **como** entrar. Arrependa-se das razões pelas quais você fez as coisas certas. Os pecados você já confessa; o irmão mais velho precisa confessar as boas obras. Pergunte: onde está o meu "depois de tudo o que eu fiz"? Com o que eu estou tentando deixar Deus em dívida comigo? Pregue Romanos 8.32 a você mesmo, sempre que o "nunca me deste" subir: quem não poupou o próprio Filho não é avarento comigo. E mude a sua oração. Passe um tempo esta semana orando sem pedir nada, só dizendo a Deus quem ele é e agradecendo. Se isso te parecer estranho ou difícil, é um sinal.
+
+A tarefa desta semana vem da acusação dos fariseus no verso 2: "Este recebe pecadores e *come com eles*." No domingo passado, o pedido foi uma mensagem para alguém que está longe. Hoje o pedido é maior. Convide para a sua mesa alguém que você trata, no seu coração, como "filho mais novo". Um almoço de domingo, um café, um jantar em casa. Aquele irmão que se desviou e voltou, e que você ainda olha de lado. O convertido "complicado", que fala palavrão e ainda não sabe as músicas. O parente que todo mundo evita na ceia de Natal. Coloque essa pessoa à sua mesa. Não para consertá-la; para comer com ela. É assim que o irmão mais velho entra na festa: sentando à mesa com o irmão.
+
+### À igreja: falar a língua do Pai
+
+O criado diz ao filho mais velho, no verso 27: "O seu irmão voltou." Lloyd-Jones chama atenção para isso: até o criado sabia chamar o rapaz de "seu irmão". Quando alguém volta para esta igreja, a pergunta que vão ouvir aqui dentro é "por onde você andou?" ou "que bom que você voltou, irmão"? Uma igreja de irmãos mais velhos fabrica irmãos mais novos. As pessoas olham para nós, acham que o cristianismo é isso, e vão embora para a terra distante.
+
+E uma igreja que prega este evangelho vai ser mal compreendida pelos dois lados. Keller dizia isso: uns vão achar que soa liberal demais, porque fala de graça para quem não merece; outros vão achar que soa conservadora demais, porque chama pecado de pecado e chama o bom moço de perdido. Tudo bem. Foi exatamente assim com Jesus. Os pecadores se aproximavam, e os religiosos murmuravam.
+
+### Para cada um de nós
+
+Você que não é cristão. Talvez você tenha vivido na terra distante; talvez você seja um "cidadão de bem" que nunca precisou de Deus para nada. Nos dois casos, a notícia é a mesma: o Pai corre antes do discurso, e a herança não se compra. Nem com pecado, nem com bom comportamento. Se recebe.
+
+Você que veio de longe, que conhece o chiqueiro, que foi alcançado pela graça há algum tempo: cuidado. O maior risco para quem foi pródigo é, depois de uns anos, virar irmão mais velho. Esquecer de onde veio e começar a olhar os recém-chegados como o irmão olhou para a festa.
+
+E você que nasceu na igreja, cresceu no banco, nunca foi para a terra distante: Deus te deu um presente enorme. Mas é para você que o Pai está dizendo agora: "Meu filho, você sempre está comigo, e tudo o que é meu é seu." Pare de trabalhar para ganhar o que já é seu. Entra.
+
+## A cortina fecha
+
+Jesus termina a história aqui. O filho que se perdeu longe de casa está dentro, comendo o bezerro gordo, vestido com a melhor roupa. O filho que nunca saiu de casa está do lado de fora, no escuro do quintal, ouvindo a música. O pródigo está dentro. O bom moço está do lado de fora.
+
+Um estudioso árabe desta parábola escreveu que a cortina se fecha sobre este drama com o filho mais velho ainda do lado de fora. Jesus não conta se ele entrou. Kistemaker diz que, deixando a história inacabada, Jesus indicava que a porta continuava aberta. Ela estava aberta para os fariseus que ouviram Jesus naquele dia. E está aberta para você hoje.
+
+Pascal escreveu, no século dezessete: "Há apenas dois tipos de homens: os justos, que se creem pecadores; e os outros, os pecadores, que se creem justos." Esta parábola coloca cada um de nós diante dessa divisão. A pergunta não é se você é pecador. Os dois filhos eram. A pergunta é se você sabe disso.
+
+E a história do picolé termina assim. Hoje eu entendo o que o meu pai queria. Ele não estava tirando nada de mim; na semana seguinte haveria picolé de novo. Ele queria que eu comesse *com* o meu irmão, e não *contra* ele. "Esse seu irmão."
+
+Então, quem é o Rei deste Reino? É um Rei com coração de Pai. Ele reparte a própria vida com filhos que não o querem. Ele corre pela estrada para o que está longe. Ele sai de casa, de novo, para suplicar ao que está na porta. E ele deu o próprio Filho, o verdadeiro Irmão mais velho, para que os dois pudessem entrar, não como empregados, mas como filhos.
+
+A música está tocando. O Pai está à porta. A história não terminou, porque o fim dela é você.
+
+Vai entrar?
+
+## Oração final
+
+Pai, nós somos os dois filhos desta história. Alguns de nós dissemos "dá-me" e fomos embora; outros ficamos em casa, dizendo "nunca me deste", e te servimos como quem serve a um patrão. Os dois duvidamos da tua bondade. Perdoa-nos.
+
+Obrigado por teres corrido pela estrada e por teres saído de casa de novo. Obrigado por teres enviado o teu Filho, o verdadeiro Irmão mais velho, que deixou a tua casa para nos buscar, que levou a maldição do filho rebelde e foi tratado como quem não é filho, para que nós, vestidos com a justiça dele, pudéssemos te chamar de Aba, Pai.
+
+A quem está longe, dá coragem de se levantar e voltar de mãos vazias. A quem está dentro de casa com o coração frio, dá arrependimento das nossas boas obras e alegria na tua festa. Derrete a nossa ira fria. Ensina-nos a dizer "meu irmão" a quem chamávamos de "esse aí", e a abrir a nossa mesa esta semana.
+
+Faz desta igreja uma casa onde a música toca sempre que alguém volta. Em nome de Jesus, o Filho que te chamou de Pai por nós, amém.
