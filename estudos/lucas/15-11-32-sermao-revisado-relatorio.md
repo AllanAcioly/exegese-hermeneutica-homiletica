@@ -146,3 +146,20 @@ Também sem autorreferência: "**Se eu pregar** para o irmão mais novo..." → 
 **Versículos novos citados de memória (conferir na NAA de púlpito)**: Mc 14.36; Mc 15.33; Hb 13.12; Gl 4.7. Também Sl 40.8, que está na forma "Agrada-me fazer a tua vontade, ó Deus meu", mais próxima da ARA.
 
 **Documentos gerados**: `Duas-Formas-de-Fugir-do-Rei_Lc15-11-32_revisado.docx` (sermão final, 22 págs.) e o esboço de púlpito atualizado (mesma NAA, ponto IV ampliado, os três passos da igreja, Sa'id; 5 págs.).
+
+---
+
+## 6. Terceira rodada (2026-09-27): notas de rodapé
+
+- **86 notas** acrescentadas ao sermão, marcadas pelo tipo: *Grego* (palavra original, tradução e pronúncia aproximada), *Para aprofundar*, *Fonte*, *Estudo* e *Cautela*. No DOCX, são notas de rodapé reais do Word; no markdown, notas `[^n]` com a lista no fim.
+- **Bibliografia** no fim do sermão: os oito comentários e sermões fichados, as obras citadas no púlpito e as referências de apoio.
+- As páginas seguem os fichamentos em `context/fontes/`. Onde o fichamento não traz página (Keller, Kistemaker, Boice), a nota cita o capítulo.
+
+**Duas correções no corpo do sermão, feitas junto com as notas:**
+
+| # | Antes | Depois | Por quê |
+|---|-------|--------|---------|
+| 59 | "o verbo grego é mais forte: 'grudou-se', 'colou-se' nele [...] termina grudado num estrangeiro" | "o verbo grego é *kolláō*, da mesma raiz de 'cola': ele se agregou, se pendurou num estrangeiro [...] termina preso a um estranho" | O sentido comum de *kolláō* é "juntar-se"; a "cola" é da raiz, não é ênfase do texto (ver nota) |
+| 60 | "**Lloyd-Jones observa que** Lucas nos deixou ouvir os pensamentos do rapaz no chiqueiro..." | "Lucas nos deixou ouvir os pensamentos do rapaz no chiqueiro; aqui, na hora do abraço, o narrador fica em silêncio." | **Atribuição errada.** A observação é do próprio estudo (veredito B11); entrou por engano como de Lloyd-Jones no esboço da Fase 6a e passou ao sermão. Corrigido também no esboço do estudo e no esboço de púlpito |
+
+**Ainda a conferir:** o prenome de Sa'id na nota de Bailey (p. 248); os versículos citados de memória (Mc 14.36; 15.33; Hb 13.12; Gl 4.7; Sl 40.8).
