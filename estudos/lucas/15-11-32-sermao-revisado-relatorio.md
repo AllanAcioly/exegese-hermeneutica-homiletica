@@ -163,3 +163,53 @@ Também sem autorreferência: "**Se eu pregar** para o irmão mais novo..." → 
 | 60 | "**Lloyd-Jones observa que** Lucas nos deixou ouvir os pensamentos do rapaz no chiqueiro..." | "Lucas nos deixou ouvir os pensamentos do rapaz no chiqueiro; aqui, na hora do abraço, o narrador fica em silêncio." | **Atribuição errada.** A observação é do próprio estudo (veredito B11); entrou por engano como de Lloyd-Jones no esboço da Fase 6a e passou ao sermão. Corrigido também no esboço do estudo e no esboço de púlpito |
 
 **Ainda a conferir:** o prenome de Sa'id na nota de Bailey (p. 248); os versículos citados de memória (Mc 14.36; 15.33; Hb 13.12; Gl 4.7; Sl 40.8).
+
+---
+
+## 7. Quarta rodada (2026-09-27): a terra distante hoje e a conferência da NAA
+
+**Ponto I, aplicação reescrita a pedido do Rev. Allan.** Saiu o parágrafo das apostas,
+da moça que deixou a igreja e do executivo ("a terra distante cabe no seu bolso").
+Entraram duas formas de viver na terra distante:
+
+- **A facilidade da vida dissoluta**, com três "encantos": o eu sem dono (cosmovisão
+  secular, "meu corpo, minhas regras", falsa autossuficiência), a razão sem Deus
+  (filosofias, academicismo, tribo universitária) e o reino sem Rei (partidarismo e
+  ideologia política)
+- **A versão gospel**: a fé guiada por sentimentos e relacionamentos, o culto com o
+  homem no centro e a teologia da prosperidade, que quer o que Deus tem sem querer
+  Deus
+
+Novas citações no corpo: C. S. Lewis (*Surprised by Joy*) e Abraham Kuyper
+(registradas no banco como CT-010 e CT-011). Novas notas: Taylor, Weber, Calvino,
+Edwards, Smith e Denton (deísmo moralista terapêutico) e o dado do Pew Research
+Center (2014): 56% dos protestantes no Brasil creem que Deus dá riqueza e saúde a
+quem tem fé suficiente.
+
+**Aplicação "a quem está longe de casa" alinhada:** os nomes da terra distante agora
+incluem a tribo, a ideologia e a fé do sentimento; entraram passos concretos para
+cada forma (trazer as perguntas; inverter o tempo de noticiário e de Palavra por
+sete dias; ler um Evangelho inteiro no mês). O passo do celular ficou genérico.
+
+**Conferência da NAA (por busca, YouVersion):**
+
+| Texto | Antes (de memória) | Agora (NAA) |
+|-------|--------------------|-------------|
+| Jo 17.10 | "Tudo o que é meu é teu, e o que é teu é meu" | "Todas as minhas coisas são tuas, e as tuas coisas são minhas" |
+| Hb 2.11 | "não se envergonha de nos chamar irmãos" | "não se envergonha de chamá-los de irmãos" |
+| Lc 7.34 | "comilão e bebedor de vinho" ("exatamente isso") | "glutão e bebedor de vinho" ("quase a mesma coisa") |
+| Gl 4.6 | "Deus enviou aos nossos corações..." | paráfrase + "Aba, Pai!" |
+| Gl 4.7 | "você já não é escravo, mas filho; e, se é filho..." | "você já não é mais escravo, porém filho; e, sendo filho, também é herdeiro por Deus" |
+| Rm 8.32 | redação da ARA ("antes... porventura") | "mas por todos nós o entregou, será que não nos dará..." |
+| Jo 10.18 | "Ninguém a tira de mim" | "Ninguém tira a minha vida" |
+| 2Co 8.9 | "pela sua pobreza" | "por meio da pobreza dele" |
+| Gl 3.27 | "se revestiram de Cristo" | "de Cristo se revestiram" |
+| Hb 13.12 | citado entre aspas | parafraseado |
+
+Conferidos e mantidos: Mc 14.36; Mc 15.34; Sl 40.8 (já estava na NAA); Lc 19.10;
+Lc 23.34, 46; Rm 6.23; Rm 8.17; 2Co 5.21; Gl 3.13; Dt 21.23. Mc 15.33: a NAA traduz
+as horas ("meio-dia"); a nota foi ajustada.
+
+**Extensão:** o sermão passou de ~8.650 para ~9.750 palavras, contando leitura e
+oração (~9.200 de fala): perto de 55 minutos. Ver as sugestões de corte na conversa
+de 27/9.

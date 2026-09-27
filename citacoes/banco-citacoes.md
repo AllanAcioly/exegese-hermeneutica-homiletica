@@ -49,6 +49,73 @@ Owen — cada voz tem seu peso próprio.
 
 <!-- Novas entradas entram abaixo desta linha, mais recentes no topo -->
 
+## [CT-011] "Não há um centímetro quadrado..." — Abraham Kuyper
+
+- **Autor**: Abraham Kuyper (1837-1920), teólogo reformado holandês, fundador da
+  Universidade Livre de Amsterdã, líder partidário e primeiro-ministro da Holanda
+  (1901-1905)
+- **Origem**: discurso *Souvereiniteit in eigen kring* ("Soberania nas esferas
+  próprias"), inauguração da Universidade Livre de Amsterdã, 20 de outubro de 1880
+- **Tags**: `#soberania-de-Cristo` `#política` `#ideologia` `#reino` `#Rei`
+  `#universidade` `#cosmovisão` `#Lc15`
+- **Texto** (tradução do estudo, a partir da versão inglesa corrente):
+  > "Não há um centímetro quadrado, em todo o domínio da existência humana, sobre o
+  > qual Cristo, que é soberano sobre tudo, não clame: 'É meu!'"
+  >
+  > Versão inglesa: "there is not a square inch in the whole domain of our human
+  > existence over which Christ, who is Sovereign over all, does not cry: 'Mine!'"
+- **Contexto**: fecho do discurso que fundou a universidade; a soberania das
+  esferas foi pensada, em boa parte, contra o Estado que quer ocupar todos os
+  espaços
+- **Fim argumentativo**: a política e a academia não são terras sem dono; pertencem
+  ao Rei. Serve para confrontar a ideologia que quer ser rei (o "reino sem Rei")
+  sem cair no escapismo que foge da vida pública. Casa com a pergunta da série
+  "Quem é o Rei deste Reino?"
+- **Adicionada em**: 2026-09-27 (fonte conferida por busca: Naugle/DBU,
+  christianstudylibrary.org)
+
+### Usos
+
+| Data | Sermão/Perícope | Onde entrou | Conexão que justificou |
+|------|------------------|-------------|-----------------------|
+| 2026-09-27 | Lc 15.11-32 — "Duas Formas de Fugir do Rei" | Ponto I, "o reino sem Rei" | A ideologia política como terra distante: um reino sem o Rei. Kuyper, reformado e político, mostra o lugar certo da política debaixo de Cristo |
+
+---
+
+## [CT-010] "O filho pródigo pelo menos voltou com os próprios pés" — C. S. Lewis
+
+- **Autor**: C. S. Lewis (1898-1963), professor de literatura em Oxford e
+  Cambridge, apologista
+- **Origem**: *Surprised by Joy* (1955), cap. 14, "Checkmate"; ed. bras.
+  *Surpreendido pela Alegria* (Mundo Cristão, 1998; Ultimato, 2015)
+- **Tags**: `#Lc15` `#pródigo` `#conversão` `#graça-soberana` `#academia`
+  `#ateísmo` `#Lc14`
+- **Texto** (tradução do estudo):
+  > "No período letivo da Trindade de 1929, eu cedi, admiti que Deus era Deus, me
+  > ajoelhei e orei: talvez, naquela noite, o convertido mais abatido e relutante
+  > de toda a Inglaterra."
+  >
+  > "O filho pródigo pelo menos voltou para casa com os próprios pés. Mas quem pode
+  > adorar devidamente aquele Amor que abre os portões altos a um pródigo que é
+  > trazido esperneando, lutando, ressentido, e procurando com os olhos, em todas
+  > as direções, uma chance de fugir?"
+- **Contexto**: Lewis narra a rendição ao teísmo (1929); a fé em Cristo viria em
+  1931. Logo depois, lembra o *compelle intrare* de Lc 14.23. No cap. 13, define o
+  "esnobismo cronológico", curado pelo amigo Owen Barfield
+- **Fim argumentativo**: o Pai busca até o filho que foi para a terra distante
+  intelectual e volta resistindo; a graça não depende da boa vontade do pródigo.
+  Serve à aplicação a quem se perdeu na "tribo universitária"
+- **Adicionada em**: 2026-09-27 (texto conferido por busca: PBS, *The Question of
+  God*; Goodreads; C. S. Lewis Institute)
+
+### Usos
+
+| Data | Sermão/Perícope | Onde entrou | Conexão que justificou |
+|------|------------------|-------------|-----------------------|
+| 2026-09-27 | Lc 15.11-32 — "Duas Formas de Fugir do Rei" | Ponto I, "a razão sem Deus" | Um professor ateu de Oxford que voltou para casa; a esperança para quem está na terra distante intelectual |
+
+---
+
 ## [CT-009] "Não é com os pés que nos afastamos de ti" — Agostinho
 
 - **Autor**: Agostinho de Hipona (354-430), bispo e Pai da Igreja
@@ -73,7 +140,7 @@ Owen — cada voz tem seu peso próprio.
 
 | Data | Sermão/Perícope | Onde entrou | Conexão que justificou |
 |------|------------------|-------------|-----------------------|
-| —    | —                | —           | — (candidata da Fase 6b de Lc 15.11-32, 2026-09-26) |
+| 2026-09-27 | Lc 15.11-32 — "Duas Formas de Fugir do Rei" | Abertura do ponto III | A distância se mede no coração: transição do perdido longe de casa para o perdido dentro de casa |
 
 ---
 
@@ -101,7 +168,7 @@ Owen — cada voz tem seu peso próprio.
 
 | Data | Sermão/Perícope | Onde entrou | Conexão que justificou |
 |------|------------------|-------------|-----------------------|
-| —    | —                | —           | — (candidata da Fase 6b de Lc 15.11-32, 2026-09-26) |
+| 2026-09-27 | Lc 15.11-32 — "Duas Formas de Fugir do Rei" | Conclusão | A inversão da parábola: o pródigo dentro, o "bom" do lado de fora |
 
 ---
 
@@ -132,7 +199,7 @@ Owen — cada voz tem seu peso próprio.
 
 | Data | Sermão/Perícope | Onde entrou | Conexão que justificou |
 |------|------------------|-------------|-----------------------|
-| —    | —                | —           | — (candidata da Fase 6b de Lc 15.11-32, 2026-09-26) |
+| 2026-09-27 | Lc 15.11-32 — "Duas Formas de Fugir do Rei" | Ponto IV, depois do "Aba" | Do *douleuō* ("te sirvo como escravo") ao filho: ver a Lei cumprida por Cristo |
 
 ---
 
@@ -161,7 +228,7 @@ Owen — cada voz tem seu peso próprio.
 
 | Data | Sermão/Perícope | Onde entrou | Conexão que justificou |
 |------|------------------|-------------|-----------------------|
-| —    | —                | —           | — (candidata da Fase 6b de Lc 15.11-32, 2026-09-26) |
+| 2026-09-27 | Lc 15.11-32 — "Duas Formas de Fugir do Rei" | Ponto III, depois do picolé | A "ira fria" do irmão mais velho; o pregador se reconhece nele |
 
 ---
 
@@ -189,7 +256,7 @@ Owen — cada voz tem seu peso próprio.
 
 | Data | Sermão/Perícope | Onde entrou | Conexão que justificou |
 |------|------------------|-------------|-----------------------|
-| —    | —                | —           | — (candidata da Fase 6b de Lc 15.11-32, 2026-09-26) |
+| 2026-09-27 | Lc 15.11-32 — "Duas Formas de Fugir do Rei" | Ponto III | Perdido por causa da bondade: evitar Jesus evitando o pecado |
 
 ---
 
@@ -219,7 +286,7 @@ Owen — cada voz tem seu peso próprio.
 
 | Data | Sermão/Perícope | Onde entrou | Conexão que justificou |
 |------|------------------|-------------|-----------------------|
-| —    | —                | —           | — (candidata da Fase 6b de Lc 15.11-32, 2026-09-26) |
+| 2026-09-27 | Lc 15.11-32 — "Duas Formas de Fugir do Rei" | Ponto III, depois das marcas | A raiz das marcas: insegurança vestida de orgulho e crítica |
 
 ---
 
@@ -247,7 +314,7 @@ Owen — cada voz tem seu peso próprio.
 
 | Data | Sermão/Perícope | Onde entrou | Conexão que justificou |
 |------|------------------|-------------|-----------------------|
-| —    | —                | —           | — (candidata da Fase 6b de Lc 15.11-32, 2026-09-26) |
+| 2026-09-27 | Lc 15.11-32 — "Duas Formas de Fugir do Rei" | Abertura da aplicação | Combate duplo: os dois filhos nascem da mesma desconfiança da bondade de Deus |
 
 ---
 
@@ -274,6 +341,6 @@ Owen — cada voz tem seu peso próprio.
 
 | Data | Sermão/Perícope | Onde entrou | Conexão que justificou |
 |------|------------------|-------------|-----------------------|
-| —    | —                | —           | — (candidata da Fase 6b de Lc 15.11-32, 2026-09-26) |
+| 2026-09-27 | Lc 15.11-32 — "Duas Formas de Fugir do Rei" | Fim do ponto I | Tese das duas maneiras de ser o próprio salvador; anuncia o irmão mais velho |
 
 ---
