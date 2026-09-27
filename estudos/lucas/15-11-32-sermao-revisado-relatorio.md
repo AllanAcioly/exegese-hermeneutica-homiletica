@@ -126,3 +126,23 @@ Também sem autorreferência: "**Se eu pregar** para o irmão mais novo..." → 
 > **Leitura bíblica** — continua pendente conferir o texto da NAA com a Bíblia de púlpito (foi reproduzido de memória).
 
 > **"Um estudioso árabe"** (conclusão) — continua sem nome. Ibrahim Sa'id, via Bailey: nomear ou retirar.
+
+---
+
+## 5. Segunda rodada (2026-09-27): decisões do Rev. Allan
+
+| # | Decisão | O que foi feito |
+|---|---------|-----------------|
+| 52 | Crescer no ponto IV, do "Deus meu" ao "Aba" | O parágrafo virou cinco: Jesus sempre diz "Pai" (Getsêmani, Mc 14.36; Lc 23.34); as trevas e o grito de Mc 15.33-34 (Sl 22.1), a única oração sem "Pai"; o irmão da parábola ficou fora porque quis, Jesus foi posto "fora da porta" (Hb 13.12); "Pai, nas tuas mãos" (Lc 23.46) e a ressurreição ("estava morto e reviveu"); "Aba" (Gl 4.6) e "já não é escravo, mas filho... herdeiro" (Gl 4.7) como resposta direta ao v. 29 |
+| 53 | Aplicação à igreja: sugestão aceita no texto | Três passos, tirados do próprio texto: **a primeira palavra** ("que bom que você voltou"; a conversa vem depois, a sós); **a estrada** (presbíteros e líderes de célula anotam os nomes de quem se afastou no último ano; cada um procura um); **a mesa** (quem volta não senta sozinho no culto nem no almoço) |
+| 54 | Leitura bíblica: NAA fornecida pelo Rev. Allan | Leitura trocada pelo texto oficial, com numeração dos versos; todas as citações de Lucas 15 no corpo ajustadas (v. 1, 15, 18-19, 20, 21, 22, 27, 28, 29, 30, 31, 32). Ajustes de sentido: "foi pedir trabalho" (v. 15) com nota de que o grego diz "colou-se"; "procurava convencê-lo" (v. 28) com nota de que o grego diz "suplicava"; "tudo o que eu tenho é seu" (v. 31), com a observação de que, no grego, é quase a mesma frase de Jo 17.10; "este seu irmão" (v. 32) contra "esse seu filho" (v. 30) |
+| 55 | Nomear o "estudioso árabe" | "O comentarista árabe Ibrahim Sa'id, citado por Kenneth Bailey", com a citação direta de Bailey (p. 248) |
+| 56 | Fórmula da Ideia Central ("se você esquecer tudo...") | **Mantida**: é marca de voz registrada no perfil homilético |
+| 57 | "Quem tem mais de quarenta anos aqui vai lembrar" | **Cortada**: fica "O Tablito, da Kibon." |
+| 58 | Mc 15.34 | Harmonizado com a NAA: "Meu Deus, meu Deus, por que me abandonaste?" |
+
+**Extensão após a segunda rodada**: ~8.650 palavras com a leitura (~8.300 de fala), dentro do alvo de 50 minutos.
+
+**Versículos novos citados de memória (conferir na NAA de púlpito)**: Mc 14.36; Mc 15.33; Hb 13.12; Gl 4.7. Também Sl 40.8, que está na forma "Agrada-me fazer a tua vontade, ó Deus meu", mais próxima da ARA.
+
+**Documentos gerados**: `Duas-Formas-de-Fugir-do-Rei_Lc15-11-32_revisado.docx` (sermão final, 22 págs.) e o esboço de púlpito atualizado (mesma NAA, ponto IV ampliado, os três passos da igreja, Sa'id; 5 págs.).
