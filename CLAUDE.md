@@ -104,14 +104,20 @@ seguir o workflow completo de 6 fases definido em
 | 3. Diagnóstico | Qual o problema/ídolo? Como Deus resolveu lá? A história e a lição | Adams + Keller |
 | 4. Exegese cultural | Manifestação contemporânea: ídolos atuais, desdobramentos, BCNs | Keller |
 | 5. Aplicação cristológica | O que é exigido e não cumprimos? Como Jesus cumpre? Implementação | Adams + Keller + Simeon Trust |
-| 6. Construção homilética | 6a: esboço → 6b: pesquisa de citações no banco/web → 6c: rascunho na voz pastoral | Os três + banco de citações + skill de voz |
-| 7. Entrega | Formato (DOCX/PDF) para sermão/esboço/estudo + registra linha em `estudos/indice.md` | Layout IPE |
+| 6. Construção homilética | 6a: esboço → 6b: pesquisa de citações no banco/web → 6c: rascunho na voz pastoral, já com notas de rodapé | Os três + banco de citações + skill de voz |
+| 7. Entrega | Formato (DOCX/PDF) para sermão/esboço/estudo, com notas de rodapé reais do Word + registra linha em `estudos/indice.md` | Layout IPE |
 
 ### Saída
 
 - Estudo em markdown: `estudos/<livro>/<capítulo>-<versículos>.md`
 - Documentos formatados (DOCX/PDF) com layout IPE (capa simplificada)
   salvos na mesma pasta, entregues via SendUserFile
+- **Notas de rodapé obrigatórias na entrega final**, de três tipos, onde
+  forem necessárias: **Grego/Hebraico** (sentido do termo original,
+  simples, para consulta rápida no púlpito), **Aprofundamento** (o que
+  alongaria demais o sermão) e **Fonte** (de onde vieram ideias e
+  citações, em ABNT, sem nunca inventar página ou edição). Padrão
+  completo na Fase 6c.1 de `context/workflow-estudo-biblico.md`
 
 ### Regra fundamental
 
@@ -142,7 +148,8 @@ context/                            — documentos de referência metodológica
   adams-hermeneutica-telica.md      — telos, aplicação, "como fazer", pregar ao
                                       coração, pregar segundo o Espírito
   workflow-estudo-biblico.md        — workflow completo de 7 fases: do texto ao
-                                      sermão, com entrega formatada
+                                      sermão, com entrega formatada e padrão
+                                      de notas de rodapé (Fase 6c.1)
   ilustracoes-metodologia.md        — princípio de reuso (fim homilético, não
                                       conveniência), template, regra de direitos
                                       autorais, fontes de alimentação do banco
@@ -195,7 +202,7 @@ commit/push direto em `main` — só adiciona, nunca remove.
 - `polir-sermao` — revisão homilético-retórica em 4 passes (diagnóstico,
   salvaguardas teológicas, revisão, coerência final); corta autoimplicações
   escritas + marcas de oralidade + gordura retórica; preserva telos, combate
-  duplo, cristologia específica e implementação prática. Ver
+  duplo, cristologia específica, implementação prática e notas de rodapé. Ver
   `skills/polir-sermao/SKILL.md` (fonte no projeto, `.skill` empacotado
   disponível em `skills/polir-sermao.skill`)
 

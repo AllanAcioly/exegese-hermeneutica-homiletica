@@ -89,6 +89,7 @@ Antes de aplicar qualquer corte do Passe 1, checar se ele enfraquece alguma dest
 - **Diagnóstico cultural específico** — se o texto identifica um ídolo/BCN concreto (ex.: "o ídolo da aprovação profissional"), preservar. Se era genérico ("nossa cultura moderna"), corte ok.
 - **Imagens concretas e analogias** — se ajudam a "tornar sensível a ideia" (Keller/Edwards: afeições verdadeiras exigem percepção sensível), preservar. Cortar analogia é raro e deve ter justificativa forte.
 - **Diagnóstico afiado do coração** — nunca suavizar afirmações duras com "talvez", "de certa forma", "em alguma medida". Se o texto dizia "isso é idolatria", não vira "isso pode ter traços de idolatria".
+- **Notas de rodapé** (`[^n]` + definições sob `## Notas`) — sobrevivem à revisão. Se um corte elimina o trecho que carrega o marcador, a nota migra para o trecho que herdou a ideia ou sai junto (registrar no log); depois, renumerar em ordem de aparição. Nota **Fonte** de trecho que permaneceu nunca é apagada. As notas em si seguem as regras de **Estudo** (prosa escrita, sem oralidade); dados bibliográficos (autor, obra, página, editora) não são alterados.
 
 ### Como aplicar a salvaguarda
 
@@ -140,7 +141,7 @@ Entregar sempre nesta ordem:
 
 ### 1. Texto revisado
 
-Versão final, limpa, para uso.
+Versão final, limpa, para uso — com as notas de rodapé preservadas, renumeradas se preciso, e sem marcador órfão.
 
 ### 2. Log de mudanças
 

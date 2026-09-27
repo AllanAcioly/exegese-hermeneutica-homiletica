@@ -18,6 +18,14 @@ completo de exegese → hermenêutica → homilética sobre um texto específico
   (ex: `estudos/lucas/15-1-10.md`)
 - **Princípios não-negociáveis**: Sola Scriptura, Escritura interpreta
   Escritura, leitura cristocêntrica e redentivo-histórica, Permanecer na Linha
+- **Notas de rodapé**: toda entrega final leva notas de rodapé de três
+  tipos — língua original, aprofundamento e fonte (padrão na Fase 6c.1).
+  O material é colhido ao longo das fases e as notas nascem no rascunho
+  (6c), não na formatação (7)
+- **Rastrear fontes desde a Fase 1**: sempre que uma leitura exegética,
+  formulação ou ideia vier de um autor ou comentário (inclusive dos três
+  pilares), registrar autor e obra no próprio estudo. É isso que torna
+  possíveis as notas de fonte sem reconstruir de memória no final
 
 ---
 
@@ -65,6 +73,11 @@ público original com este texto?*
 
 Termos que carregam peso teológico ou cujo significado original ilumina a
 passagem de maneira decisiva.
+
+Para cada termo, registrar: forma no original (grego, ou hebraico/aramaico
+no AT), transliteração, sentido básico em linguagem simples e por que ele
+importa *nesta* passagem. Esse registro é a matéria-prima das notas de
+língua original do sermão (Fase 6c.1).
 
 ### Princípio-mestre
 
@@ -395,6 +408,8 @@ já estabelecidos.
 5. **Propor 2-3 melhores para uso imediato** no rascunho da Fase 6c,
    sugerindo a posição de cada uma (introdução, ponto específico,
    aplicação, conclusão) e o motivo (o argumento que ela sustenta).
+   Cada citação aprovada vai gerar, no rascunho, uma nota **Fonte** com
+   os dados do campo *Origem* da entrada no banco.
 
 ### → PAUSA
 
@@ -413,10 +428,93 @@ para o sermão atual. As descartadas permanecem no banco para uso futuro.
   pastoralidade autoimplicada
 - O rascunho deve soar como o Rev. Allan pregando: direto, pessoal,
   com diagnóstico cultural penetrante e aplicação ao coração
+- **Inserir as notas de rodapé** conforme 6c.1, no próprio rascunho
+
+### 6c.1 Notas de rodapé
+
+**Princípio**: o sermão se sustenta sozinho — a congregação nunca ouve as
+notas. A nota serve ao pregador (consulta rápida no púlpito, preparo) e
+ao leitor do documento; nunca carrega o argumento principal. Se o
+argumento depende da nota, o conteúdo pertence ao corpo do texto.
+
+**Três tipos**, cada um aberto por um rótulo em negrito, numa única
+numeração sequencial no documento:
+
+| Rótulo | Tipo | Quando usar |
+|--------|------|-------------|
+| **Grego.** (ou **Hebraico.** / **Aramaico.**) | Língua original | O sentido do termo original ilumina o texto de um jeito que a tradução não mostra. Vem dos termos registrados na Fase 1.5 — não é glossário: só os que servem ao telos |
+| **Aprofundamento.** | Explicativa | A ideia tem mais camadas do que o sermão comporta sem perder o fôlego: pano de fundo histórico-cultural, conexão canônica, debate interpretativo, nuance doutrinária, desdobramento que alongaria demais |
+| **Fonte.** | Bibliográfica | Toda citação direta ou paráfrase; toda ideia, leitura exegética ou formulação específica tomada de um autor (inclusive Keller, Adams, Simeon Trust e comentaristas) |
+
+**Língua original — simples, para bater o olho no púlpito**:
+- 1 a 3 linhas: transliteração em itálico + original entre parênteses +
+  versículo — sentido básico — por que importa aqui
+- Sem jargão solto: se um detalhe gramatical importa, dizer o *efeito*
+  em palavras comuns ("ação contínua: *continuavam* murmurando"), com o
+  termo técnico no máximo entre parênteses
+- Hebraico/aramaico no AT seguem o mesmo formato
+
+**Aprofundamento**:
+- 2 a 6 linhas de prosa clara, sem marcas de oralidade
+- Se o aprofundamento se apoia em um autor, a referência fecha a própria
+  nota — não abrir uma nota Fonte separada para o mesmo ponto
+
+**Fonte — padrão ABNT (NBR 6023)**:
+- Livro: `SOBRENOME, Nome. *Título*: subtítulo. Tradução de Nome. Cidade: Editora, ano. p. X.`
+- Mesma obra citada de novo: forma curta — `SOBRENOME. *Título abreviado*, p. X.`
+  (evitar *Ibid.* / *op. cit.*, que atrapalham a consulta rápida)
+- Citação de segunda mão: `SOBRENOME, Nome apud SOBRENOME, Nome. *Título*...`
+- Página web: `AUTOR. Título. *Nome do site*, ano. Disponível em: URL. Acesso em: dd mês abr. aaaa.`
+- Citação do banco sem obra verificada (ex.: entradas do Álbum de Frases):
+  `Atribuída a Nome Autor; fonte original não verificada (Banco de Citações, CT-NNN).`
+
+**Integridade das fontes (inegociável)**:
+- **Nunca inventar** página, edição, editora, ano ou tradutor. Citar só
+  o que foi verificado (na obra, no catálogo da editora/biblioteca ou em
+  fonte confiável via WebSearch). Nota incompleta e honesta vale mais que
+  nota completa e falsa
+- Citação direta cuja página não foi verificada leva `[p. a conferir]`,
+  para o Allan completar com o livro em mãos
+- Lugar-comum da tradição reformada não precisa de nota; ideia com dono
+  (formulação específica, esquema, insight característico de um autor)
+  precisa
+
+**Posição do número**:
+- Língua original: logo depois da palavra, antes da pontuação — para o
+  olho achar no púlpito
+- Aprofundamento e Fonte: depois da pontuação da frase ou do fecho da
+  citação
+- Uma nota, um tipo — não misturar grego com fonte na mesma nota
+
+**Critério de "onde necessárias"**: para cada nota, perguntar — *o
+pregador ou o leitor perde algo real sem ela?* Se não, cortar. Nota não
+é enfeite acadêmico.
+
+**No markdown do rascunho**: marcador `[^n]` no ponto exato e as
+definições reunidas no fim do arquivo, sob `## Notas`, na ordem de
+aparição. Exemplo:
+
+```markdown
+Os fariseus e os escribas murmuravam[^1], dizendo: "Este recebe
+pecadores e come com eles."[^2]
+
+## Notas
+
+[^1]: **Grego.** *diagongyzō* (διαγογγύζω), v. 2 — "murmurar entre si";
+o prefixo *dia-* intensifica, e o tempo do verbo indica ação contínua:
+*continuavam* murmurando. É o verbo da Septuaginta para a murmuração de
+Israel no deserto (Êx 16.2) — os fariseus repetem o pecado do povo que
+não confiou em Deus.
+
+[^2]: **Aprofundamento.** Comer junto, no mundo de Jesus, era sinal de
+aceitação e comunhão, não mera cortesia. Por isso a queixa não é sobre
+etiqueta: é sobre quem Deus aceita à mesa.
+```
 
 ### → PAUSA
 
-Apresentar o rascunho ao usuário para revisão final.
+Apresentar o rascunho ao usuário para revisão final — com as notas, para
+que ele valide também o que foi para o rodapé.
 
 ---
 
@@ -454,6 +552,12 @@ Todos os documentos usam o **layout IPE** (ver `assets/identidade-visual-ipe.md`
 - Cores: marinho `#252544`, dourado `#C8955B`, tinta `#2B2B33`
 - Cabeçalho/rodapé a partir da página 2
 - Selo de fechamento: *Soli Deo Gloria*
+- **Notas de rodapé** (padrão da Fase 6c.1): notas de rodapé reais do
+  Word, no pé da página, não notas de fim. Texto da nota em Cambria 9pt,
+  cor tinta; rótulo (**Grego.**, **Aprofundamento.**, **Fonte.**) em
+  negrito marinho; transliteração em itálico. Grego em Cambria; hebraico
+  em fonte com glifos hebraicos (ex.: Times New Roman), com direção da
+  direita para a esquerda
 
 **Capa simplificada** (para sermões e documentos de estudo):
 - Título do sermão (Constantia, marinho, centralizado)
@@ -467,6 +571,7 @@ Todos os documentos usam o **layout IPE** (ver `assets/identidade-visual-ipe.md`
 - Texto corrido do rascunho validado
 - Referências bíblicas destacadas
 - Seções com títulos em Constantia marinho
+- Notas de rodapé dos três tipos, exatamente como validadas no rascunho
 
 **Esboço de púlpito** (se solicitado):
 - Capa simplificada (ou sem capa — documento compacto)
@@ -474,12 +579,17 @@ Todos os documentos usam o **layout IPE** (ver `assets/identidade-visual-ipe.md`
 - Referências bíblicas em destaque
 - Espaço para anotações à mão (margem direita ampliada ou linhas)
 - Fonte corpo um pouco maior (12-13pt) para leitura de relance
+- Só as notas de **língua original** — são as de consulta rápida no
+  púlpito; aprofundamento e fonte ficam no documento do sermão
 
 **Documento de estudo** (Fases 1-6a, se solicitado):
 - Capa simplificada com subtítulo "Estudo Exegético-Hermenêutico"
 - Cada fase como seção com título e separador
 - Todas as notas exegéticas, diagnóstico, aplicação cristológica
 - O esboço homilético (6a) como seção final
+- Notas de rodapé onde necessárias — sobretudo **Fonte** (de onde vieram
+  as leituras exegéticas e as ideias) e **Aprofundamento**; o vocabulário
+  original já está no corpo (Fase 1.5)
 
 ### 7.3 Geração técnica
 
@@ -487,6 +597,19 @@ Usar `docx` (npm) para DOCX. Para PDF, usar a skill `pdf` ou converter
 via LibreOffice (`soffice`). Base técnica: infraestrutura do
 `build_template.js` da skill `aula-indutiva-ipe`, adaptando a região de
 conteúdo para o tipo de documento.
+
+**Notas de rodapé no `docx`**: declarar as notas na opção `footnotes` do
+`Document` (`{ 1: { children: [Paragraph] }, 2: ... }`) e inserir
+`new FootnoteReferenceRun(n)` no ponto de cada marcador `[^n]` do
+markdown. Formatar diretamente os runs de cada nota (Cambria 9pt; rótulo
+em negrito marinho). Para hebraico, run com `rightToLeft: true` e fonte
+com glifos hebraicos. Na conversão para PDF via LibreOffice, as notas de
+rodapé são preservadas.
+
+**Verificação antes de entregar**: o número de marcadores `[^n]` no
+markdown tem de bater com o de `w:footnoteReference` em
+`word/document.xml`, e nenhuma nota pode ficar órfã (definida e não
+referenciada, ou o contrário).
 
 Assets disponíveis em `assets/`:
 - `farol.png` / `farol.svg` — logo IPE (usar só se o usuário pedir

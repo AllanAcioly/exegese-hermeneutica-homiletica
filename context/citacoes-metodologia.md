@@ -118,6 +118,10 @@ sermão, entre as fases 6a (esboço) e 6c (rascunho completo). Ver
 6. **Pausa para validação**: usuário escolhe quais aceitar e quais
    descartar do sermão atual (as descartadas permanecem no banco para
    uso futuro).
+7. **No rascunho (6c)**, cada citação usada recebe uma nota de rodapé
+   **Fonte** em ABNT, montada a partir do campo *Origem* (padrão na Fase
+   6c.1 do workflow). Entradas sem obra verificada — como as do Álbum de
+   Frases — saem como "Atribuída a…; fonte original não verificada".
 
 ### Checklist antes de adicionar cada entrada
 
