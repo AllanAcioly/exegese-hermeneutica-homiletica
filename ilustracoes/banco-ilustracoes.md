@@ -39,6 +39,214 @@ Nunca forçar uma boa ilustração num lugar que ela não serve.
 
 <!-- Novas entradas entram abaixo desta linha, mais recentes no topo -->
 
+## [IL-016] Os castiçais do bispo: a graça que precede a transformação
+
+- **Fonte**: Filme: *Os Miseráveis* (adaptações de *Les Misérables*, romance de
+  Victor Hugo, 1862 — cena presente no romance e recorrente nas adaptações
+  para cinema e teatro musical)
+- **Origem específica**: cena inicial em que Jean Valjean, recém-saído da
+  prisão, é trazido pela polícia de volta à casa do bispo Myriel acusado de
+  ter furtado sua prataria; o bispo diz aos soldados que a prataria foi um
+  presente e ainda lhe entrega os castiçais de prata que "esqueceu" de
+  levar
+- **Tags**: `#graça` `#regeneração` `#justificação-precede-santificação`
+  `#transformação`
+- **Descrição**: pego com a prataria furtada, Valjean é salvo da prisão
+  por uma mentira do próprio bispo que o havia acolhido, que ainda lhe dá
+  os castiçais dizendo ter usado aquela prata para "comprar" sua alma para
+  Deus. Valjean sai livre — mas carregando uma dívida de graça que o
+  persegue e o refaz pelo resto da vida.
+- **Fim homilético**: ilustra que a graça que salva não espera a reforma
+  moral para agir — ela age primeiro, sem credencial alguma, e é essa
+  graça recebida imerecidamente, não o medo da punição, que gera a
+  verdadeira transformação de caráter. Serve ao ponto de sermão que
+  precisa mostrar que a ordem bíblica é graça → transformação, nunca
+  transformação → graça, evitando tanto o legalismo (exigir prova antes de
+  aceitar) quanto a leitura da graça como permissividade sem efeito.
+- **Adicionada em**: 2026-10-01
+
+### Usos
+
+| Data | Sermão/Perícope | Conexão específica que justificou o reuso |
+|------|------------------|---------------------------------------------|
+| —    | —                | —                                            |
+
+---
+
+## [IL-015] O corredor celestial: correr para alcançar, não para merecer
+
+- **Fonte**: Pregador: Puritanos (John Bunyan)
+- **Origem específica**: sermão/tratado *O Correio Celestial* (*The
+  Heavenly Footman*, publicado postumamente em 1698), exposição de 1Co
+  9.24 ("correi de tal maneira que o alcanceis")
+- **Tags**: `#perseverança` `#santificação` `#disciplina-espiritual` `#1Co9`
+- **Descrição**: Bunyan desenvolve a imagem de uma corrida em que só um
+  corredor leva o prêmio — não basta começar a correr ou correr sem
+  direção: é preciso correr com decisão, largando pesos que atrasam, sem
+  se deixar deter pelo que distrai pelo caminho, até a meta.
+- **Fim homilético**: ilustra que a vida cristã não é progresso automático
+  nem esforço que gera a salvação, mas resposta disciplinada e urgente de
+  quem já foi chamado para a corrida — a mesma graça que salva é a que
+  convoca a correr a sério, largando o que atrapalha. Serve ao ponto de
+  sermão sobre santificação que precisa evitar tanto o passivismo ("Deus
+  faz tudo, eu não corro") quanto o moralismo ("eu corro para merecer o
+  prêmio").
+- **Adicionada em**: 2026-10-01
+
+### Usos
+
+| Data | Sermão/Perícope | Conexão específica que justificou o reuso |
+|------|------------------|---------------------------------------------|
+| —    | —                | —                                            |
+
+---
+
+## [IL-014] O ladrão na cruz do meio: salvo sem currículo religioso
+
+- **Fonte**: Pregador: Alistair Begg
+- **Origem específica**: sermão "The Man on the Middle Cross", exposição de
+  Lc 23.39-43, Truth For Life
+- **Tags**: `#graça` `#salvação-pela-fé` `#obras` `#Lc23`
+  `#ladrão-arrependido`
+- **Descrição**: Begg imagina a surpresa do ladrão arrependido ao se ver no
+  paraíso sem nunca ter frequentado um culto, sido batizado ou lido as
+  Escrituras — pregado e salvo poucas horas antes da morte, só pela
+  palavra de Jesus: "hoje estarás comigo no paraíso".
+- **Fim homilético**: ilustra que a salvação não é o acúmulo de prática
+  religiosa, mas resposta imediata e incondicional à graça de Cristo — o
+  ladrão prova que não existe um mínimo de obras necessário para ser
+  aceito, só fé no Cristo que está ao lado. Serve ao ponto de sermão sobre
+  graça que precisa confrontar tanto o desespero de quem se acha tarde
+  demais quanto o orgulho de quem mede salvação por currículo religioso.
+- **Adicionada em**: 2026-10-01
+
+### Usos
+
+| Data | Sermão/Perícope | Conexão específica que justificou o reuso |
+|------|------------------|---------------------------------------------|
+| —    | —                | —                                            |
+
+---
+
+## [IL-013] O bispo luterano preso 600 vezes: soberania de Deus vivida, não só defendida
+
+- **Fonte**: Pregador: D.A. Carson
+- **Origem específica**: relato usado por Carson em palestra/pregação sobre
+  soberania divina e responsabilidade humana (tema também tratado em *How
+  Long, O Lord? Reflections on Suffering and Evil*) — encontro com um
+  bispo luterano da Lituânia, preso pelo regime comunista cerca de 600
+  vezes e torturado repetidamente
+- **Tags**: `#soberania-de-deus` `#perseguição` `#sofrimento`
+  `#perseverança`
+- **Descrição**: Carson descreve ter conhecido um bispo luterano que, sob o
+  regime comunista na Lituânia, foi preso centenas de vezes e torturado
+  repetidamente — e que, apesar disso, permaneceu firme na fé e no
+  ministério por décadas, sem que o sofrimento acumulado o afastasse de
+  Cristo.
+- **Fim homilético**: ilustra que a soberania de Deus sobre o sofrimento
+  não é tese abstrata testada só em teoria, mas realidade vivida por quem
+  perseverou sob décadas de perseguição real — a fé que resiste a
+  centenas de prisões não nasce de otimismo humano, mas de confiança num
+  Deus soberano mesmo sobre o mal que o Seu povo sofre. Serve à aplicação
+  pastoral a quem enfrenta sofrimento prolongado ou injusto, por
+  contraste com queixas desproporcionais a dificuldades menores.
+- **Adicionada em**: 2026-10-01
+
+### Usos
+
+| Data | Sermão/Perícope | Conexão específica que justificou o reuso |
+|------|------------------|---------------------------------------------|
+| —    | —                | —                                            |
+
+---
+
+## [IL-012] Graça barata, graça preciosa
+
+- **Fonte**: Pregador (voz cristã ampla): Dietrich Bonhoeffer
+- **Origem específica**: livro *Discipulado* (*Nachfolge*, 1937), capítulo
+  de abertura "Graça Barata e Graça Preciosa" — escrito a partir do
+  trabalho pastoral de Bonhoeffer na Igreja Confessante e da supervisão do
+  seminário clandestino de Finkenwalde
+- **Tags**: `#graça` `#discipulado` `#legalismo` `#antinomismo`
+  `#custo-do-seguimento`
+- **Descrição**: Bonhoeffer distingue graça barata — perdão pregado sem
+  arrependimento, justificação do pecado sem exigir seguimento — de graça
+  preciosa, que custou a vida de Cristo para ser dada e por isso convoca a
+  vida do discípulo: é dom gratuito que, precisamente por ser dom, chama a
+  "deixar tudo e seguir".
+- **Fim homilético**: ilustra que o antídoto tanto ao legalismo quanto ao
+  antinomismo não é equilibrar regra com liberdade, mas recuperar o preço
+  real da graça — ela é inteiramente gratuita e, por isso mesmo, custosa,
+  porque é a vida de Cristo entregue que agora reivindica a vida de quem a
+  recebe. Serve ao ponto de sermão sobre graça que precisa evitar tanto a
+  complacência moral quanto o moralismo compensatório.
+- **Adicionada em**: 2026-10-01
+
+### Usos
+
+| Data | Sermão/Perícope | Conexão específica que justificou o reuso |
+|------|------------------|---------------------------------------------|
+| —    | —                | —                                            |
+
+---
+
+## [IL-011] O golfista irritado: a santidade que incomoda sem acusar
+
+- **Fonte**: Pregador: R.C. Sproul
+- **Origem específica**: livro *A Santidade de Deus* (*The Holiness of
+  God*, 1985) — anedota de uma partida de golfe de Billy Graham com o
+  presidente Gerald Ford e dois profissionais do PGA Tour
+- **Tags**: `#santidade-de-deus` `#pecado` `#convicção` `#Is6`
+- **Descrição**: após uma rodada de golfe com o presidente Ford e Billy
+  Graham, um dos profissionais do PGA, já a sós com Sproul, solta um
+  palavrão e reclama que não precisava de Graham "empurrando religião"
+  nele — incomodado só pela presença do pregador, que nada havia dito ou
+  pregado durante o jogo.
+- **Fim homilético**: ilustra que a santidade de Deus — e de quem a
+  reflete — não precisa de acusação verbal para perturbar o pecador; sua
+  mera presença já expõe e incomoda, como luz que revela o que se
+  preferia manter escondido (cf. Is 6). Serve ao ponto de sermão que
+  precisa mostrar que a hostilidade ao evangelho muitas vezes nasce da
+  convicção de pecado já em curso, não de um argumento mal colocado.
+- **Adicionada em**: 2026-10-01
+
+### Usos
+
+| Data | Sermão/Perícope | Conexão específica que justificou o reuso |
+|------|------------------|---------------------------------------------|
+| —    | —                | —                                            |
+
+---
+
+## [IL-010] A corda e o tronco: o objeto certo da fé
+
+- **Fonte**: Pregador: Charles Spurgeon
+- **Origem específica**: anedota amplamente registrada em antologias de
+  ilustrações de Spurgeon (coletâneas de "Spurgeon's Illustrations") — os
+  dois homens arrastados pela correnteza
+- **Tags**: `#fé` `#segurança-da-salvação` `#objeto-da-fé` `#assurance`
+- **Descrição**: dois homens são arrastados por uma correnteza forte rumo
+  a uma cachoeira. Da margem, alguém lança uma corda. Um agarra a corda e
+  é puxado em segurança; o outro, em pânico, prefere um tronco que passa
+  flutuando, parecendo mais robusto — e é levado pela cachoeira, nunca
+  mais visto.
+- **Fim homilético**: ilustra que a fé salvadora não se mede pela
+  intensidade ou pela aparente solidez do que se agarra, mas pelo objeto
+  correto — a corda presa a quem pode puxar, não o tronco que só parece
+  seguro. Serve ao ponto de sermão sobre segurança da salvação que precisa
+  distinguir fé genuína (ligada a Cristo, que de fato salva) de uma fé
+  sincera, porém mal direcionada, agarrada a algo que parece sólido mas
+  não tem ligação alguma com o resgate.
+- **Adicionada em**: 2026-10-01
+
+### Usos
+
+| Data | Sermão/Perícope | Conexão específica que justificou o reuso |
+|------|------------------|---------------------------------------------|
+| —    | —                | —                                            |
+
+---
+
 ## [IL-009] A singularidade do amor: gravidade que curva o espaço-tempo do coração
 
 - **Fonte**: Varredura mensal
