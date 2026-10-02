@@ -39,6 +39,103 @@ Nunca forçar uma boa ilustração num lugar que ela não serve.
 
 <!-- Novas entradas entram abaixo desta linha, mais recentes no topo -->
 
+## [IL-019] Torrey e o presbítero de trinta anos: o serviço que virou crédito
+
+- **Fonte**: Pregador: James Montgomery Boice, relatando episódio de R. A.
+  Torrey
+- **Origem específica**: J. M. Boice, *As Parábolas de Jesus*, capítulo
+  "Trabalhadores na vinha" (Mt 20.1-16); o episódio aconteceu numa série de
+  reuniões de Torrey em Melbourne, Austrália
+- **Tags**: `#mérito` `#serviço-como-crédito` `#oração` `#legalismo`
+  `#Mt20` `#autojustiça`
+- **Descrição**: antes de uma reunião sobre oração, Torrey recebe um bilhete
+  de um homem perplexo: membro da igreja presbiteriana há trinta anos,
+  superintendente da escola dominical há vinte e cinco, presbítero há vinte
+  — e Deus não respondia sua oração. Torrey explica em público que o homem
+  achava que seu currículo obrigava Deus a responder: estava "orando em seu
+  próprio nome". No fim, o autor do bilhete o procura e reconhece que
+  Torrey acertou.
+- **Fim homilético**: ilustra que o serviço fiel, quando vira crédito,
+  transforma Deus em devedor e a oração em cobrança — e que isso acontece
+  justamente entre os mais dedicados. Serve ao ponto de sermão que precisa
+  expor a lógica do salário dentro da igreja ("pensaram que receberiam
+  mais", Mt 20.10) sem caricaturar o servo: o problema não é o serviço, é a
+  fatura.
+- **Adicionada em**: 2026-10-02
+
+### Usos
+
+| Data | Sermão/Perícope | Conexão específica que justificou o reuso |
+|------|------------------|---------------------------------------------|
+| 2026-10-02 | Mt 20.1-16 — "Recompensas nos Moldes do Reino" (ponto II) | Uso original: o presbítero espera mais de Deus por causa do currículo, como os primeiros trabalhadores esperam mais pelo tempo de serviço |
+
+---
+
+## [IL-018] O ponto de diária: "ninguém nos contratou"
+
+- **Fonte**: Própria (Allan)
+- **Origem específica**: criada na Fase 6a do estudo de Mt 20.1-16
+  (`estudos/mateus/20-1-16.md`), a partir da realidade da Baixada
+  Fluminense
+- **Tags**: `#graça-que-busca` `#iniciativa-divina` `#últimos` `#Mt20`
+  `#chamado` `#Baixada`
+- **Descrição**: cinco da manhã, num ponto conhecido da Baixada, homens com
+  a ferramenta no ombro esperam um carro parar para "pegar uma diária".
+  Os mais fortes e conhecidos saem primeiro. Ao longo do dia o grupo vai
+  diminuindo. Às cinco da tarde ainda há alguém ali — o que ninguém quis
+  levar — que já sabe que não vai ter pão em casa à noite.
+- **Fim homilético**: torna concreta a situação de quem "ninguém
+  contratou" (Mt 20.7) e a surpresa de ser chamado no fim do dia, sem
+  promessa e sem currículo. Serve ao ponto de sermão que precisa mostrar
+  que a bondade de Deus começa na iniciativa de sair e chamar, antes de
+  qualquer pagamento; útil também para Lc 14.21-23 e Lc 15 (o Deus que
+  busca).
+- **Adicionada em**: 2026-10-02
+
+### Usos
+
+| Data | Sermão/Perícope | Conexão específica que justificou o reuso |
+|------|------------------|---------------------------------------------|
+| 2026-10-02 | Mt 20.1-16 — "Recompensas nos Moldes do Reino" (ponto I) | Uso original: o dono que sai à praça às cinco da tarde |
+
+---
+
+## [IL-017] Judas e o ladrão: o contador e o último
+
+- **Fonte**: Pregador: John MacArthur (contraste), desenvolvido com
+  ligações verbais do próprio Mateus
+- **Origem específica**: J. MacArthur, *As Parábolas de Jesus*, capítulo
+  "Uma lição sobre justiça e graça" (Mt 20.1-16), abertura; ligações
+  textuais: Jo 12.5-6 ("trezentos denários"), Mt 26.15 ("que me quereis
+  dar?"), Mt 26.50 ("amigo"), Lc 23.39-43
+- **Tags**: `#mérito` `#graça` `#Mt20` `#Lc23` `#ladrão-arrependido`
+  `#Judas` `#justiça-e-graça`
+- **Descrição**: Judas passou três anos ao lado de Jesus, pregou, curou e
+  era o tesoureiro do grupo; sabia o preço exato do perfume de Maria
+  ("trezentos denários") e acabou perguntando aos sacerdotes "que me
+  quereis dar?". O ladrão na cruz viveu de crimes, zombou de Jesus nas
+  primeiras horas da crucificação e, nos últimos minutos, pediu "lembra-te
+  de mim" — e ouviu "hoje estarás comigo no paraíso". A pergunta que a
+  gente faz: isso é justo?
+- **Fim homilético**: contrasta o olho que mede tudo em denários com a
+  graça que chega sem currículo, abrindo a pergunta "isso é justo?" para
+  que o texto a transforme em "quem é bom?". Serve a introduções e
+  conclusões de sermões sobre mérito × graça (Mt 20.1-16; Rm 4.4-5).
+  Cuidado: não sugerir que Judas se perdeu por "fazer contas" — ele se
+  perdeu pela traição e pela incredulidade; a imagem é a do olho
+  contabilista levado ao extremo. Não usar em conjunto com IL-014 na mesma
+  posição (as duas giram em torno do ladrão; podem formar arco
+  introdução → aplicação).
+- **Adicionada em**: 2026-10-02
+
+### Usos
+
+| Data | Sermão/Perícope | Conexão específica que justificou o reuso |
+|------|------------------|---------------------------------------------|
+| 2026-10-02 | Mt 20.1-16 — "Recompensas nos Moldes do Reino" (introdução e conclusão) | Uso original: Pedro pergunta "que teremos?" (19.27), o dono diz "quero dar" (20.14) e Judas pergunta "que me quereis dar?" (26.15) |
+
+---
+
 ## [IL-016] Os castiçais do bispo: a graça que precede a transformação
 
 - **Fonte**: Filme: *Os Miseráveis* (adaptações de *Les Misérables*, romance de
@@ -124,7 +221,7 @@ Nunca forçar uma boa ilustração num lugar que ela não serve.
 
 | Data | Sermão/Perícope | Conexão específica que justificou o reuso |
 |------|------------------|---------------------------------------------|
-| —    | —                | —                                            |
+| 2026-10-02 | Mt 20.1-16 — "Recompensas nos Moldes do Reino" (aplicação aos incrédulos) | O fim registrado (contra o desespero do "tarde demais" e o orgulho do currículo) é exatamente o dos trabalhadores da undécima hora; fecha o arco aberto pela introdução (IL-017) |
 
 ---
 
@@ -340,7 +437,7 @@ Nunca forçar uma boa ilustração num lugar que ela não serve.
 
 | Data | Sermão/Perícope | Conexão específica que justificou o reuso |
 |------|------------------|---------------------------------------------|
-| —    | —                | —                                            |
+| 2026-10-02 | Mt 20.1-16 — "Recompensas nos Moldes do Reino" (ponto III, só como eco) | O irmão mais velho (já pregado na série) e os primeiros trabalhadores têm o mesmo olho: autojustiça de quem está dentro e se ressente da bondade do pai/dono |
 
 ---
 
