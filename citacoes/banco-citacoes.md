@@ -50,6 +50,38 @@ Owen — cada voz tem seu peso próprio.
 
 <!-- Novas entradas entram abaixo desta linha, mais recentes no topo -->
 
+## [CT-013] Só justiça? Então o inferno — D. A. Carson
+
+- **Autor**: D. A. Carson (1946-), biblista reformado evangélico, Trinity
+  Evangelical Divinity School
+- **Origem**: *How Long, O Lord? Reflections on Suffering and Evil* (2ª ed.,
+  2006), p. 161; citado por David Platt, *Exalting Jesus in Matthew*
+  (Christ-Centered Exposition, 2013), pp. 269-270 (via notas do Rev. Allan)
+- **Tags**: `#justiça-e-graça` `#graça` `#Mt20` `#juízo` `#mérito`
+- **Texto**:
+  > "Do you really want nothing but totally effective, instantaneous
+  > justice? Then go to hell."
+  >
+  > Tradução: "Você realmente não quer nada além de justiça totalmente
+  > eficaz e instantânea? Então vá para o inferno."
+- **Contexto**: Carson responde a quem acusa Deus de injustiça; Platt usa a
+  frase para Mt 20.1-16 ao afirmar que a graça de Deus na salvação é, por
+  definição, "não justa".
+- **Fim argumentativo**: leva a queixa "isso não é justo" até o fim: quem
+  pede só justiça pede o próprio juízo (Rm 6.23). Desarma a murmuração ao
+  mostrar que ninguém deveria querer ser tratado só pelo que merece.
+  Cuidado de tom: em português soa como xingamento — explicar logo em
+  seguida que é a conta levada até o fim, não ofensa.
+- **Adicionada em**: 2026-10-02
+
+### Usos
+
+| Data | Sermão/Perícope | Onde entrou | Conexão que justificou |
+|------|------------------|-------------|-----------------------|
+| 2026-10-02 | Mt 20.1-16 — "Recompensas nos Moldes do Reino" | Ponto III (v. 13) | Os que receberam justiça reclamaram de injustiça; Carson leva a conta até o fim: só justiça é o inferno |
+
+---
+
 ## [CT-012] Como se eu mesmo tivesse cumprido toda a obediência — Catecismo de Heidelberg, P. 60
 
 - **Autor**: Catecismo de Heidelberg (1563), Zacarias Ursino e Gaspar
@@ -73,7 +105,7 @@ Owen — cada voz tem seu peso próprio.
 
 | Data | Sermão/Perícope | Onde entrou | Conexão que justificou |
 |------|------------------|-------------|-----------------------|
-| —    | —                | —           | —                     |
+| 2026-10-02 | Mt 20.1-16 — "Recompensas nos Moldes do Reino" | Ponto IV | Âncora confessional de "repartiu conosco o salário que não ganhamos" |
 
 ---
 
@@ -100,7 +132,7 @@ Owen — cada voz tem seu peso próprio.
 
 | Data | Sermão/Perícope | Onde entrou | Conexão que justificou |
 |------|------------------|-------------|-----------------------|
-| —    | —                | —           | —                     |
+| 2026-10-02 | Mt 20.1-16 — "Recompensas nos Moldes do Reino" | Ponto II (v. 10) | Contrato × aliança contra as versões grosseira e sutil do contrato com Deus |
 
 ---
 
@@ -127,7 +159,7 @@ Owen — cada voz tem seu peso próprio.
 
 | Data | Sermão/Perícope | Onde entrou | Conexão que justificou |
 |------|------------------|-------------|-----------------------|
-| —    | —                | —           | —                     |
+| 2026-10-02 | Mt 20.1-16 — "Recompensas nos Moldes do Reino" | Ponto II (v. 10) | O serviço por recompensa gera irritação com a bondade de Deus |
 
 ---
 
@@ -153,7 +185,7 @@ Owen — cada voz tem seu peso próprio.
 
 | Data | Sermão/Perícope | Onde entrou | Conexão que justificou |
 |------|------------------|-------------|-----------------------|
-| —    | —                | —           | —                     |
+| 2026-10-02 | Mt 20.1-16 — "Recompensas nos Moldes do Reino" | Ponto III (v. 13) | Paradoxo: os que receberam justiça reclamaram de injustiça |
 
 ---
 
@@ -180,7 +212,7 @@ Owen — cada voz tem seu peso próprio.
 
 | Data | Sermão/Perícope | Onde entrou | Conexão que justificou |
 |------|------------------|-------------|-----------------------|
-| —    | —                | —           | —                     |
+| 2026-10-02 | Mt 20.1-16 — "Recompensas nos Moldes do Reino" | Ponto I (vv. 6-7) — opcional | A bondade do dono na contratação é absurda pelos padrões do mercado |
 
 ---
 
@@ -213,7 +245,7 @@ Owen — cada voz tem seu peso próprio.
 
 | Data | Sermão/Perícope | Onde entrou | Conexão que justificou |
 |------|------------------|-------------|-----------------------|
-| —    | —                | —           | —                     |
+| 2026-10-02 | Mt 20.1-16 — "Recompensas nos Moldes do Reino" | Ponto II (v. 9 / v. 14) | O denário não se fraciona: o pôndio existia, a duodécima parte do amor de Deus não |
 
 ---
 
@@ -245,7 +277,7 @@ Owen — cada voz tem seu peso próprio.
 
 | Data | Sermão/Perícope | Onde entrou | Conexão que justificou |
 |------|------------------|-------------|-----------------------|
-| —    | —                | —           | —                     |
+| 2026-10-02 | Mt 20.1-16 — "Recompensas nos Moldes do Reino" | Ponto II — entre colchetes, pendente de conferência | Duas escalas: graça × mérito |
 
 ---
 
@@ -281,7 +313,7 @@ Owen — cada voz tem seu peso próprio.
 
 | Data | Sermão/Perícope | Onde entrou | Conexão que justificou |
 |------|------------------|-------------|-----------------------|
-| —    | —                | —           | —                     |
+| 2026-10-02 | Mt 20.1-16 — "Recompensas nos Moldes do Reino" | Ponto III (20.20-24) | A disputa de quem é o maior em toda comunidade cristã; olho mau dentro da igreja sem nomear grupos |
 
 ---
 
@@ -317,7 +349,7 @@ Owen — cada voz tem seu peso próprio.
 
 | Data | Sermão/Perícope | Onde entrou | Conexão que justificou |
 |------|------------------|-------------|-----------------------|
-| —    | —                | —           | —                     |
+| 2026-10-02 | Mt 20.1-16 — "Recompensas nos Moldes do Reino" | Ponto III (aplicação) — opcional | A comparação como prisão do comparador (redes, inventário, igreja) |
 
 ---
 
@@ -350,7 +382,7 @@ Owen — cada voz tem seu peso próprio.
 
 | Data | Sermão/Perícope | Onde entrou | Conexão que justificou |
 |------|------------------|-------------|-----------------------|
-| —    | —                | —           | —                     |
+| 2026-10-02 | Mt 20.1-16 — "Recompensas nos Moldes do Reino" | Ponto III (v. 15b) — opcional | Define o "olho mau": o bem do outro sentido como mal próprio; com a etimologia de invidia |
 
 ---
 
@@ -385,6 +417,6 @@ Owen — cada voz tem seu peso próprio.
 
 | Data | Sermão/Perícope | Onde entrou | Conexão que justificou |
 |------|------------------|-------------|-----------------------|
-| —    | —                | —           | —                     |
+| 2026-10-02 | Mt 20.1-16 — "Recompensas nos Moldes do Reino" | Ponto III (v. 12) | Explica por que "iguais a nós" fere: a igualdade apaga a distância, único prazer do orgulho |
 
 ---
