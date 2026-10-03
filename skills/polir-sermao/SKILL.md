@@ -34,6 +34,8 @@ Os sermões do Allan têm forma de **conversa/diálogo**, não de discurso: ele 
 - **Perkins** (*A arte de profetizar*, 1592): estilo simples, sem ornamento; do sentido do texto, extrair a **doutrina** e aplicá-la em **usos** à vida. É a matriz puritana do sermão que ensina doutrina para mudar a vida.
 - **Robinson**: três perguntas movem o sermão — *o que significa?* (explicar), *é verdade?* (provar), *que diferença faz?* (aplicar). São as perguntas do ouvinte, feitas em voz alta pelo pregador.
 
+**A conversa mora na estrutura, não nas marcas do púlpito.** Três formas de expressão do Allan são do momento da pregação, do discernimento ao vivo, e **nunca entram no manuscrito**: vocativos ("irmãos"), meta-comentários sobre o próprio sermão ("hoje vou pregar sobre", "meu ponto agora é") e autoimplicação escrita ("eu vivo isso também"). O registro de conversa nunca serve de justificativa para mantê-las.
+
 **Limite reformado do diálogo.** Craddock e Howe valorizaram a participação do ouvinte, mas a ponto de deixar a conclusão em aberto, como algo que o próprio ouvinte completa. Aqui, não: a conversa é a *forma*; a *conclusão* é do texto. O pregador conversa com autoridade e ousadia (*parresia*, Adams) — fala a partir da Escritura sobre a congregação. O ouvinte participa do caminho, não decide o destino.
 
 ### O que a oratória secular acrescenta
@@ -45,7 +47,7 @@ Dentro desse filtro, os especialistas seculares confirmam e afinam o registro do
 | Autor | Ideia | Regra na revisão |
 |-------|-------|------------------|
 | **Reinaldo Polito** (Brasil) | O melhor estilo é falar "como se estivesse conversando de forma animada com alguns amigos" — mas naturalidade não é desleixo | Confirma o registro de conversa; corta o desleixo (frase frouxa, imprecisão), não o tom |
-| **Polito** | Na abertura, conquistar a atenção, a benevolência e a disposição de aprender do ouvinte; dizer sobre o que se vai falar e por que importa; não entrar no assunto a frio | A introdução tem de deixar claro, cedo, o que está em jogo para o ouvinte e qual pergunta o texto vai responder. Anunciar o tema dessa forma não é meta-comentário |
+| **Polito** | Na abertura, conquistar a atenção, a benevolência e a disposição de aprender do ouvinte; dizer sobre o que se vai falar e por que importa; não entrar no assunto a frio | A introdução tem de deixar claro, cedo, o que está em jogo para o ouvinte e qual pergunta o texto vai responder — sem falar do sermão: abrir pela pergunta do texto, nunca por "hoje vou pregar sobre" |
 | **Polito** | Mostrar o problema antes da solução | Converge com Chapell (a condição caída) e com a Fase 3 do workflow: o ouvinte sente o problema antes de ouvir a resposta de Cristo |
 | **Polito** | Preparar-se para as objeções reais — mas não refutar objeções que ninguém levantaria | Afina o diálogo silencioso de Stott: só entram as perguntas que *esta* congregação faria. Objeção inventada para ser derrubada é gordura |
 | **Polito** | Vocabulário adequado ao público; conhecer os ouvintes | O termo técnico entra quando é ensinado; o resto, em palavra comum |
@@ -106,8 +108,10 @@ Percorrer o texto listando candidatos a corte/reescrita. Para cada candidato, re
 - Transições vazias ("mas ainda mais", "e outra coisa", "além disso")
 - Qualificadores supérfluos ("é importante notar que", "vale ressaltar", "cabe destacar", "vale mencionar")
 
+**Meta-comentários sobre o próprio sermão — SEMPRE CORTAR**
+Toda frase em que o sermão fala de si mesmo: "hoje vou pregar sobre X", "meu ponto agora é", "meu primeiro ponto", "neste sermão", "antes de terminar", "como eu disse no início". O manuscrito fala do texto e ao ouvinte, nunca do sermão. A função de orientar se preserva pela **sinalização**, que aponta sempre para o *texto* ("o texto faz dois movimentos", "no versículo 4, Lucas…"). Na introdução, a abertura não anuncia o tema — faz a pergunta que o texto responde: "vou pregar sobre a alegria de Deus" vira "por que a alegria de Deus pelos perdidos incomoda tanto quem já está dentro?"
+
 **Meta-camadas e distrações**
-- Meta-comentários autorreferentes sobre o próprio sermão ("vou pregar sobre X hoje", "meu ponto agora é") — cortar ou reescrever. **Não confundir com sinalização**, que orienta o ouvinte dentro do texto e fica (ver "O que não é gordura" abaixo). Na introdução, dizer do que o sermão trata é necessário (Polito, Cícero), mas na forma da pergunta que o texto responde e do que está em jogo para o ouvinte: "vou pregar sobre a alegria de Deus" vira "por que a alegria de Deus pelos perdidos incomoda tanto quem já está dentro?"
 - Jargões teológicos sem explicação ao ouvinte — **não cortar por reflexo**. Se o termo é palavra-chave do texto ou da doutrina em jogo (justificação, propiciação, aliança, *hesed*), **ensinar**: manter o termo e explicá-lo em linguagem simples. Se não é essencial, trocar por palavra comum
 - Pensamentos rasos ou irrelevantes ao ouvinte (curiosidades acadêmicas sem função)
 - Explicação que não serve ao telos — contexto ou detalhe de língua original que não muda a compreensão do ouvinte. Se é bom mas alonga demais, migra para nota de rodapé **Aprofundamento**, em vez de sumir
@@ -116,7 +120,7 @@ Percorrer o texto listando candidatos a corte/reescrita. Para cada candidato, re
 Trechos do tipo "Eu vou pregar para mim mesmo agora, tá?", "Eu vivo isso também, irmãos", "Eu conheço essa voz porque ela mora dentro de mim". Autoimplicação é recurso **oral**, do momento do púlpito, do discernimento pastoral no instante — não deve estar no manuscrito escrito. Deixar espaço para o Espírito guiar isso ao vivo.
 
 **Marcas de oralidade escrita — SEMPRE CORTAR**
-Vocativos ("Irmãos", "meus irmãos"), fáticas ("tá?", "tá bom?", "certo?", "entendeu?"), didáticas de púlpito ("olha comigo", "veja o texto", "presta atenção agora"). Todas são preciosas na fala, poluentes no papel. **Corta-se a fórmula, preserva-se a função**: "olha comigo o versículo 4" vira "No versículo 4, Lucas…" — o ouvinte continua sendo levado ao texto, só que sem o enchimento.
+Vocativos ("Irmãos", "meus irmãos", "amados", "meus queridos", "igreja") — saem todos, sem exceção; o "você" e o "nós" ficam, porque não são vocativo, são endereçamento. Fáticas ("tá?", "tá bom?", "certo?", "entendeu?"), didáticas de púlpito ("olha comigo", "veja o texto", "presta atenção agora"). Todas são preciosas na fala, poluentes no papel. **Corta-se a fórmula, preserva-se a função**: "olha comigo o versículo 4" vira "No versículo 4, Lucas…" — o ouvinte continua sendo levado ao texto, só que sem o enchimento.
 
 ### O que NÃO é gordura no registro de conversa — preservar e, se fraco, fortalecer
 
@@ -129,9 +133,9 @@ A conversa do Allan mora na **estrutura do pensamento**, não nas muletas. Estes
 | **As três perguntas do ouvinte** | O que isto significa? Isto é verdade? Que diferença faz para mim? | Robinson |
 | **Ensino de palavra-chave** | O termo (do original ou da doutrina), seu sentido em palavras simples e por que importa *aqui* | Perkins (doutrina); Agostinho (*docere*) |
 | **Contexto que ilumina** | O mundo do texto explicado em poucas frases, para o ouvinte enxergar o que o primeiro leitor enxergava | Simeon Trust; Broadus |
-| **Sinalização** | "A palavra-chave aqui é…", "o texto faz dois movimentos", "guarde isto" | Quem ouve não pode voltar a página: precisa de placas na estrada |
+| **Sinalização** | "A palavra-chave aqui é…", "o texto faz dois movimentos", "Lucas volta a essa palavra no versículo 7" — sempre sobre o *texto*, nunca sobre o sermão | Quem ouve não pode voltar a página: precisa de placas na estrada |
 | **Recapitulação curta** | Uma frase que amarra o ponto antes de avançar | Pedagogia oral |
-| **Endereçamento direto** | "você", "nós" — falar *com*, não *sobre* | Broadus (conversa); *parresia* (Adams) |
+| **Endereçamento direto** | "você", "nós" — falar *com*, não *sobre*; sem vocativos ("irmãos") | Broadus (conversa); *parresia* (Adams) |
 | **Ilustração como janela** | Imagem que faz a verdade entrar pelos sentidos | Spurgeon (citando Thomas Fuller): os argumentos são os pilares do sermão; as ilustrações, as janelas que deixam entrar a luz |
 
 **Muleta × recurso de diálogo — o teste**: retire a expressão. Se o pensamento continua idêntico, era muleta (sai). Se some uma pergunta, uma objeção, uma explicação ou uma placa de orientação, era recurso (fica).
@@ -170,7 +174,7 @@ Antes de aplicar qualquer corte do Passe 1, checar se ele enfraquece alguma dest
 - **Diagnóstico cultural específico** — se o texto identifica um ídolo/BCN concreto (ex.: "o ídolo da aprovação profissional"), preservar. Se era genérico ("nossa cultura moderna"), corte ok.
 - **Imagens concretas e analogias** — se ajudam a "tornar sensível a ideia" (Keller/Edwards: afeições verdadeiras exigem percepção sensível), preservar. Cortar analogia é raro e deve ter justificativa forte.
 - **Diagnóstico afiado do coração** — nunca suavizar afirmações duras com "talvez", "de certa forma", "em alguma medida". Se o texto dizia "isso é idolatria", não vira "isso pode ter traços de idolatria".
-- **Registro de conversa** — perguntas do ouvinte, objeções respondidas, ensino de palavras-chave, sinalização e endereçamento direto (ver "O que não é gordura"). Um corte que transforma conversa em discurso é proibido.
+- **Registro de conversa** — perguntas do ouvinte, objeções respondidas, ensino de palavras-chave, sinalização e endereçamento direto (ver "O que não é gordura"). Um corte que transforma conversa em discurso é proibido. Esta salvaguarda nunca protege vocativo, meta-comentário sobre o sermão ou autoimplicação — esses saem sempre.
 - **Movimento do ensino ao coração** (Agostinho: ensinar → mover) — cada ponto que ensina precisa chegar à mente *e* ao coração e terminar na vontade: o que o texto manda mudar. Se o corte interrompe esse movimento, revogar.
 - **Notas de rodapé** (`[^n]` + definições sob `## Notas`) — sobrevivem à revisão. Se um corte elimina o trecho que carrega o marcador, a nota migra para o trecho que herdou a ideia ou sai junto (registrar no log); depois, renumerar em ordem de aparição. Nota **Fonte** de trecho que permaneceu nunca é apagada. As notas em si seguem as regras de **Estudo** (prosa escrita, sem oralidade); dados bibliográficos (autor, obra, página, editora) não são alterados.
 
@@ -215,7 +219,7 @@ Reler o texto revisado como se fosse um texto novo, sem lembrar do que foi corta
 4. **Cristo específico** — Cristo ainda aparece como resposta específica, não genérica?
 5. **Implementação concreta** — o texto diz *como* fazer, não só *o quê*?
 6. **Ritmo do tipo** — se sermão, texto respira quando lido em voz alta? Se estudo, argumento flui em prosa densa sem quebrar?
-7. **Conversa viva** *(sermão)* — o ouvinte é tratado como interlocutor? As perguntas e objeções que ele faria estão no texto, e cada uma recebe resposta?
+7. **Conversa viva** *(sermão)* — o ouvinte é tratado como interlocutor? As perguntas e objeções que ele faria estão no texto, e cada uma recebe resposta? E nenhum vocativo, meta-comentário sobre o sermão ou autoimplicação sobrou no manuscrito?
 8. **Ensino que chega** *(sermão)* — as palavras-chave e doutrinas centrais foram ensinadas em linguagem simples, e nenhum ponto parou na explicação?
 9. **Mente, coração e vontade** *(sermão)* — ao fim, o ouvinte sabe o que o texto diz (mente), sente o peso e a beleza disso (coração) e sabe o que o texto o chama a mudar (vontade)?
 10. **Abertura e fio condutor** *(sermão)* — nos primeiros parágrafos, o ouvinte já sabe que pergunta o texto vai responder e por que isso importa para ele? Todo trecho se liga ao telos (Anderson), ou há desvios?
@@ -279,6 +283,7 @@ Exemplo:
 - Escrever novas autoimplicações — a skill *remove*, não gera. Autoimplicação é oral.
 - Reintroduzir marcas de oralidade que foram cortadas em outro ponto — decisão de corte é global no texto.
 - Transformar conversa em discurso — cortar perguntas do ouvinte, objeções respondidas, explicações de palavras-chave ou sinalização como se fossem gordura.
+- Usar o registro de conversa como desculpa para manter ou criar vocativos, meta-comentários sobre o sermão ou autoimplicação — são do púlpito, não do manuscrito.
 - Transformar sermão em aula — acrescentar ou manter ensino que não desemboca no coração e na vontade.
 - Deixar a conclusão em aberto "para o ouvinte decidir" — no diálogo, o caminho é compartilhado; o destino é do texto.
 
