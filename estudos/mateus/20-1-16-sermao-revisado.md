@@ -83,8 +83,8 @@ cem vezes mais, vida eterna (19.28-29).[^moldura1930] E logo em seguida contou e
 parábola.
 
 Só que a parábola não termina com a pergunta "isso é justo?". Ela termina
-com outra pergunta, feita pelo dono da vinha: **"O teu olho é mau porque eu
-sou bom?"** (v. 15).[^olho-literal]
+com outra pergunta, feita pelo dono da vinha. Ao pé da letra, ela diz: **"O teu
+olho é mau porque eu sou bom?"** (v. 15).[^olho-literal]
 
 Uma ressalva: Judas não se perdeu por fazer conta.
 Ele se perdeu porque traiu o Senhor e não creu.[^judas] Mas a imagem fica: um olho
@@ -95,8 +95,8 @@ Jesus.
 
 ## I. Um só é bom: o Rei que sai à praça (vv. 1-7)
 
-**V.1: "O reino dos céus é semelhante a um dono de casa que saiu de
-madrugada..."**
+**V.1: "Porque o Reino dos Céus é semelhante a um homem, dono de terras,
+que saiu de madrugada..."**
 
 Para entender essa parábola, é preciso ver a moldura em que Mateus a
 colocou, no capítulo 19.
@@ -118,13 +118,13 @@ Essa palavra, "bom", vai voltar no fim da parábola, na boca do dono da
 vinha.
 
 A parábola não começa assim: "Alguns
-trabalhadores procuravam emprego...". Ela começa com o Senhor: "um dono de
-casa que **saiu**". Reino, Senhor, saída, trabalhadores, vinha. A primeira
+trabalhadores procuravam emprego...". Ela começa com o Senhor: "um homem, dono
+de terras, que **saiu**". Reino, Senhor, saída, trabalhadores, vinha. A primeira
 pessoa a se mexer nessa história é o dono.
 
-E ele não sai uma vez só. Verso 3: "**saindo** pela terceira hora".
-Verso 5: "**saindo** outra vez, perto da hora sexta e da nona". Verso 6:
-"**saindo** por volta da hora undécima". O verbo "sair" aparece quatro
+E ele não sai uma vez só. Verso 3: "**Saindo** por volta de nove horas da
+manhã". Verso 5: "Tendo **saído** de novo, perto do meio-dia e às três horas
+da tarde". Verso 6: "E, **saindo** por volta de cinco horas da tarde". O verbo "sair" aparece quatro
 vezes.[^exelthon] É ele quem sai. É ele quem procura. Ninguém se candidata nessa
 história; todo mundo é chamado.
 
@@ -133,8 +133,8 @@ ou menos seis da manhã, até o pôr do sol, mais ou menos seis da tarde.[^horas
 seis da manhã, ele contrata o primeiro grupo e combina o preço: um denário
 pelo dia (v. 2).[^denario] O denário era o salário de um dia de trabalho braçal. Era o
 pão da família naquele dia. Às nove, ele volta e contrata mais gente, agora
-sem valor definido: "Ide vós também para a vinha, e vos darei o que for
-justo" (v. 4).[^justo] Ao meio-dia e às três da tarde, a mesma coisa.
+sem valor definido: "Vão vocês também trabalhar na vinha, e eu lhes pagarei o
+que for justo" (v. 4).[^justo] Ao meio-dia e às três da tarde, a mesma coisa.
 
 Às cinco da tarde, faltando uma hora para acabar o dia, ele sai de
 novo. E Mateus troca o verbo. Nas outras vezes, ele "viu" gente na praça.
@@ -149,12 +149,12 @@ pão em casa.
 
 **V.7: "Porque ninguém nos contratou."**
 
-O dono pergunta: "Por que estivestes aqui desocupados o dia todo?". E a
+O dono pergunta: "Por que vocês ficaram desocupados o dia todo?". E a
 resposta corta o coração: "**Porque ninguém nos contratou**". Não é
 preguiça. A palavra "desocupados"[^argoi] não quer dizer vagabundo; quer dizer sem
 trabalho. Eles ficaram o dia inteiro ali porque precisavam, e ninguém quis.
 
-E o dono diz: "Ide vós também para a vinha". Para esse grupo, não
+E o dono diz: "Vão vocês também trabalhar na vinha". Para esse grupo, não
 tem promessa nenhuma. Não tem "um denário", não tem "o que for justo". Só o
 convite. Do ponto de vista do negócio, contratar alguém às cinco da tarde
 não faz sentido nenhum.[^josefo] Ele não precisa desses homens. São eles que
@@ -185,8 +185,8 @@ chega a tarde. E chega a hora do pagamento.
 
 ## II. Reparte como Rei, não paga como patrão (vv. 8-10)
 
-**V.8: "Chama os trabalhadores e paga-lhes o salário, começando pelos
-últimos, indo até aos primeiros."**
+**V.8: "Chame os trabalhadores e pague-lhes o salário, começando pelos
+últimos, indo até os primeiros."**
 
 Ao cair da tarde, o dono chama o administrador e dá uma ordem estranha:
 paga, mas começa pelos últimos.[^ultimos]
@@ -197,7 +197,8 @@ receberam. A ordem invertida existe para uma coisa: para que os primeiros
 **vejam**. Jesus monta a cena para que os primeiros trabalhadores — e nós
 com eles — assistam à bondade do dono com os outros.
 
-**V.9: "Vindo os da hora undécima, recebeu cada um deles um denário."**
+**V.9: "Chegando os que foram contratados às cinco da tarde, cada um deles
+recebeu um denário."**
 
 Um denário. O salário do dia inteiro, para quem trabalhou uma hora. Esses
 homens saíram de casa sem nada, passaram o dia na praça, já imaginavam a
@@ -205,8 +206,8 @@ conversa com a mulher à noite. E voltam com o pão do dia inteiro na mão.
 
 O grego guarda um detalhe precioso. No verso 8, o dono manda "pagar"
 (*apodidōmi*, devolver o devido). No verso 14, quando ele explica o que
-fez, ele não fala mais em pagar. Ele diz: "Eu **quero dar** a este último
-tanto quanto a ti". A linguagem muda do salário para o presente. O que os
+fez, ele não fala mais em pagar. Ele diz: "Pois **quero dar** a este último
+tanto quanto dei a você". A linguagem muda do salário para o presente. O que os
 últimos receberam não foi pagamento. Foi presente.[^dar]
 
 O biblista inglês T. W. Manson lembrou de uma moeda daquela época,
@@ -292,7 +293,7 @@ E quando o Rei reparte como Rei, alguém sempre reclama.
 
 ## III. "O teu olho é mau porque eu sou bom?" (vv. 11-15)
 
-**V.11: "Murmuravam contra o dono da casa."**
+**V.11: "Começaram a murmurar contra o dono das terras."**
 
 "Murmurar" é palavra do deserto. É o verbo que a Bíblia usa para Israel no
 deserto reclamando de Deus e de Moisés (Êx 16; Nm 14).[^gogguzo] Comendo maná todo
@@ -302,12 +303,12 @@ E eles murmuram "contra o **dono**". Não contra os
 colegas. O problema não é com os outros trabalhadores. No fundo, o
 ressentimento é contra o próprio Senhor.[^contra-dono]
 
-**V.12: "Estes últimos trabalharam apenas uma hora; contudo, os igualaste a
+**V.12: "Estes últimos trabalharam apenas uma hora, mas você os igualou a
 nós."**
 
-Eles não dizem "você pagou pouco". Não podiam: receberam exatamente o combinado. Eles dizem: "**tu os fizeste
-iguais a nós**". Não é "tu nos fizeste iguais a eles". É "tu os
-fizeste iguais a nós". O foco está no que o outro recebeu.[^isous]
+Eles não dizem "você pagou pouco". Não podiam: receberam exatamente o combinado. Eles dizem: "**você os igualou
+a nós**". Não é "você nos igualou a eles". É "você os igualou
+a nós". O foco está no que o outro recebeu.[^isous]
 
 E aí vem o currículo: "nós suportamos a fadiga e o calor do dia". É o
 sofrimento apresentado como fatura.[^kauson] "Com tudo o que eu passei, eu
@@ -324,13 +325,14 @@ Perderam a distância. E quando a nossa identidade depende da distância,
 basta o outro subir para a gente se sentir menor — mesmo sem ter perdido
 coisa nenhuma.
 
-**V.13: "Amigo, não te faço injustiça; não combinaste comigo um denário?"**
+**V.13: "Amigo, não estou sendo injusto com você. Você não combinou comigo
+trabalhar por um denário?"**
 
 Agora o dono responde. E responde a um deles, olho no olho. A resposta tem
 três tempos, e cada um expõe uma camada do coração desses homens.[^tres-tempos]
 
-Primeiro, **justiça**: "Amigo, não te faço injustiça. Não combinaste comigo
-um denário?". Ninguém foi lesado. O contrato foi cumprido à risca.
+Primeiro, **justiça**: "Amigo, não estou sendo injusto com você. Você não
+combinou comigo trabalhar por um denário?". Ninguém foi lesado. O contrato foi cumprido à risca.
 
 A palavra "amigo", em grego, é *hetaire*.[^hetaire] Mateus a usa só
 três vezes no Evangelho inteiro: aqui, com o murmurador; no capítulo 22,
@@ -360,27 +362,29 @@ pedindo o inferno. Porque o único salário que nós conquistamos é a morte
 (Rm 6.23).[^opsonia] Ninguém aqui deveria querer só justiça. A gente precisa
 desesperadamente de graça.
 
-**Vv.14-15a: "Toma o que é teu, e vai-te; pois quero dar a este último,
-tanto quanto a ti. Porventura não me é lícito fazer o que quero do que é
-meu?"**
+**Vv.14-15a: "Pegue o que é seu e saia daqui. Pois quero dar a este último
+tanto quanto dei a você. Será que não me é lícito fazer o que quero com o
+que é meu?"**[^saia]
 
-Segundo tempo, **soberania**: "Eu quero dar... Não me é lícito fazer o que
-quero com o que é meu?".
+Segundo tempo, **soberania**: "Quero dar... Será que não me é lícito fazer o
+que quero com o que é meu?".
 
 Mateus amarrou essa seção numa moldura. No começo do capítulo 19, os fariseus chegam perguntando a Jesus:
 "**É lícito** ao marido repudiar a sua mulher por qualquer motivo?" (19.3).
 Religião perguntando qual é o mínimo que eu preciso cumprir. E a seção
-termina com o dono da vinha perguntando: "**Não me é lícito** fazer o que
-quero com o que é meu?".[^exestin] Começa com o homem perguntando o que Deus exige
+termina com o dono da vinha perguntando: "Será que **não me é lícito** fazer
+o que quero com o que é meu?".[^exestin] Começa com o homem perguntando o que Deus exige
 dele, e termina com o homem tentando dizer a Deus o que ele pode ou não
 fazer com o que é dele.
 
 Quem estava tentando ser dono do quê?
 
-**V.15b: "Ou são maus os teus olhos porque eu sou bom?"**
+**V.15b: "Ou o teu olho é mau porque eu sou bom?"** (tradução literal)
 
-E o terceiro tempo é o **diagnóstico**. Literalmente: "O teu olho é mau
-porque eu sou bom?".[^poneros]
+E o terceiro tempo é o **diagnóstico**. A versão que lemos traduz pelo
+sentido: "Ou você ficou com inveja porque eu sou bom?". E está certa: é de
+inveja que o dono fala. Mas Jesus disse isso com uma imagem, e a imagem
+importa. Literalmente: "O teu olho é mau porque eu sou bom?".[^poneros]
 
 A palavra "bom" voltou. O jovem rico perguntou o que fazer de bom. Jesus
 disse: "Bom só existe um". E agora o dono da vinha diz: "Eu sou bom". Ele
@@ -499,10 +503,10 @@ Então, como se cura um olho mau?
 
 ## IV. "Que se abram os nossos olhos" (20.17-34)
 
-**V.15: "...do que é meu."**
+**V.15: "...com o que é meu."**
 
-No verso 15, o dono diz: "Não me é lícito
-fazer o que quero do que é **meu**?". De onde saiu o denário dos últimos?
+No verso 15, o dono diz: "Será que não me é
+lícito fazer o que quero com o que é **meu**?". De onde saiu o denário dos últimos?
 Do bolso do dono. A generosidade custou para quem deu.
 
 Logo depois da parábola, Mateus coloca o verso 17: "Estando
@@ -727,9 +731,10 @@ Em nome de Jesus, amém.
   fica para o momento, ao vivo.
 - **Leituras**: Mt 20.1-16 no início; Mt 20.29-34 no ponto IV. As demais
   referências são citadas de passagem.
-- **Versão bíblica**: as citações curtas de versículos dentro do texto seguem
-  a redação da ARA; ajustar para a NAA, se preferir uniformizar com a
-  leitura.
+- **Versão bíblica**: leituras e citações na NAA. Exceção: o v. 15b é citado
+  em tradução literal ("o teu olho é mau"), avisando no púlpito, porque a
+  NAA traduz pelo sentido ("inveja") e a imagem do olho sustenta o sermão
+  (ver nota de rodapé).
 
 ---
 
@@ -785,9 +790,13 @@ Em nome de Jesus, amém.
 
 [^olho-literal]: **Grego.** *ho ophthalmos sou ponēros estin hoti egō
     agathos eimi* (ὁ ὀφθαλμός σου πονηρός ἐστιν ὅτι ἐγὼ ἀγαθός εἰμι),
-    literalmente "o teu olho é mau porque eu sou bom?". Algumas versões
-    traduzem pela ideia ("inveja"). O sermão mantém o literal porque a
-    imagem do olho costura a seção até a cura dos cegos (20.33-34).
+    literalmente "o teu olho é mau porque eu sou bom?". A NAA, lida no
+    culto, traduz pelo sentido: "Ou você ficou com inveja porque eu sou
+    bom?". A tradução é correta, porque "olho mau" era expressão para
+    inveja e mesquinhez, mas a imagem some. O sermão mantém o literal,
+    avisando "ao pé da letra", porque o olho costura a seção: o olho
+    generoso ou mesquinho (6.22-23; Pv 22.9), o olho mau dos primeiros
+    (20.15) e os olhos abertos dos cegos (20.33-34).
 
 [^judas]: **Aprofundamento.** O Novo Testamento liga a perdição de Judas à
     incredulidade e à traição (Jo 6.64, 70-71; 13.2, 27; Mt 26.24). Em
@@ -815,17 +824,24 @@ Em nome de Jesus, amém.
 [^horas]: **Aprofundamento.** Os judeus contavam as horas do dia a partir
     do nascer do sol (cf. Jo 11.9, "não são doze as horas do dia?"). Assim,
     a terceira hora ≈ 9h, a sexta ≈ 12h, a nona ≈ 15h e a undécima ≈ 17h.
-    São aproximações, já que a duração do dia variava com a estação.
+    São aproximações, já que a duração do dia variava com a estação. A NAA
+    já converte as horas para o relógio de hoje (nove da manhã, meio-dia,
+    três e cinco da tarde); o sermão usa também a expressão tradicional
+    "undécima hora" (a hora onze, cinco da tarde) para os que chegam no
+    fim.
 
 [^denario]: **Grego.** *symphōnēsas ek dēnariou* (συμφωνήσας ἐκ
     δηναρίου), "tendo combinado por um denário". O dono retoma o mesmo
-    verbo no v. 13 ("não *combinaste* comigo um denário?"): ele cumpre o
+    verbo no v. 13 ("Você não *combinou* comigo trabalhar por um denário?"): ele cumpre o
     contrato à risca. O denário era uma moeda romana de prata,
     correspondente ao salário usual de um dia de trabalho braçal.
 
 [^justo]: **Grego.** *ho ean ē dikaion* (ὃ ἐὰν ᾖ δίκαιον), "o que for
     justo". Quem define o justo é o dono, e a palavra volta no v. 13: *ouk
-    adikō se* (οὐκ ἀδικῶ σε), "não te faço injustiça".
+    adikō se* (οὐκ ἀδικῶ σε), "não estou sendo injusto com você". O verbo
+    do v. 4 é *dōsō* (δώσω), "darei"; a NAA traduz "pagarei". O contraste
+    entre "pagar" e "dar" do sermão está entre o v. 8 e o v. 14, onde a
+    própria NAA diz "pague-lhes" e "quero dar".
 
 [^encontrou]: **Grego.** No v. 3 o dono "viu" (*eiden*, εἶδεν); no v. 6
     ele "encontrou" (*heuren*, εὗρεν), verbo de quem procura. John Nolland
@@ -1016,6 +1032,15 @@ Em nome de Jesus, amém.
     a ração paga ao soldado. Paulo contrasta o soldo do pecado com o
     *charisma* (χάρισμα), o dom gratuito de Deus. É a mesma passagem do
     salário (v. 8) ao presente (v. 14) que a parábola faz.
+
+[^saia]: **Grego.** "Saia daqui" traduz *hypage* (ὕπαγε), o verbo comum
+    para "ir", o mesmo do convite dos vv. 4 e 7 ("Vão vocês também",
+    *hypagete*). A NAA soa como expulsão; a ARA traz "vai-te". **Aprofundamento:**
+    os comentaristas divergem. Osborne ouve aqui tom de juízo; France,
+    Nolland e Snodgrass leem uma despedida comum, em que todos são pagos e
+    vão para casa. O sermão não afirma que o murmurador perde o denário,
+    porque o texto não descreve esse desfecho (Permanecer na Linha); prega o
+    perigo do olho mau sem afirmar o fim que a parábola deixa em aberto.
 
 [^exestin]: **Grego.** *ei exestin* (εἰ ἔξεστιν), "é lícito?" (19.3,
     fariseus) ↔ *ouk exestin moi* (οὐκ ἔξεστίν μοι), "não me é lícito?"
