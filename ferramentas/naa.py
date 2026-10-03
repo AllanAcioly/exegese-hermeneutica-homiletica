@@ -34,7 +34,11 @@ def capitulo(livro, cap):
         raise SystemExit(f"texto não encontrado em {url}")
     vs = {}
     for k, (pos, n) in enumerate(marcas):
-        fim = marcas[k + 1][0] if k + 1 < len(marcas) else x.find("</p>", pos)
+        if k + 1 < len(marcas):
+            fim = marcas[k + 1][0]
+        else:  # último versículo: até o fim do último trecho marcado com ele
+            ult = x.rfind(f'data-v=".{n}."')
+            fim = x.find("</span></span>", ult) + len("</span></span>")
         seg = re.sub(r"<[^>]*$", "", x[pos:fim])  # corta a tag do próximo versículo
         seg = re.sub(r"^[^>]*>\s*\d+(?:<!-- -->)?\s*</span>", "", seg)  # número do versículo
         seg = re.sub(r"<(?:sup|button)[ >].*?</(?:sup|button)>", "", seg, flags=re.S)  # chamadas de nota
