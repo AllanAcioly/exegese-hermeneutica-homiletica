@@ -193,11 +193,114 @@ Apresentar o diagnóstico ao usuário. Aguardar validação antes de avançar
 **Pilar**: Timothy Keller (BCNs + contextualização ativa)
 **Referência completa**: `context/keller-evangelho-ao-coracao.md`
 
+### 4.0 Horizonte: a humanidade comum e o olhar carioca
+
+O público não é uma região delimitada (nem a Baixada, nem a Zona Sul),
+mas as principais cidades do Rio de Janeiro — e, por trás delas, a
+humanidade como um todo. A exegese cultural trabalha em duas camadas:
+
+1. **A humanidade comum — camada principal.** Vivemos num mundo
+   conectado e sem barreiras: as mesmas telas, mercados, narrativas e
+   ídolos circulam no Rio, em São Paulo, em Lisboa ou em Seul. O ídolo
+   diagnosticado é, por padrão, humano, e deve ser descrito primeiro
+   assim, com exemplos que qualquer ouvinte urbano e conectado
+   reconheça.
+2. **O olhar carioca — camada específica.** O que o carioca tem de
+   próprio não são outros ídolos, mas uma *forma de ver o mundo*: um
+   jeito particular de sentir, interpretar e lidar com a vida. Essa
+   lente muda o "sotaque" com que o ídolo comum aparece, sem trocar o
+   diagnóstico.
+
+**Traços de partida do olhar carioca** (lista viva — o Allan valida,
+corrige e amplia; cada traço indica a BCN que mais toca):
+
+| Traço | Como costuma aparecer | BCN |
+|-------|----------------------|-----|
+| Leveza como defesa | Humor, ironia, "deixa a vida me levar"; nada (nem Deus) levado muito a sério | Identidade / Racionalidade |
+| Intimidade rápida, compromisso leve | Calor imediato, informalidade; o "passa lá em casa" que não é convite | Sociedade |
+| Malandragem e jeitinho | Esperteza como virtude; regra como algo negociável | Moralidade |
+| Rua, praia e corpo | Vida pública ao ar livre; corpo e aparência como vitrine | Identidade |
+| Maliciosidade | Leitura do mundo com segunda intenção: o duplo sentido, a piada de insinuação, o "ninguém me passa a perna"; desconfiar das intenções alheias como sinal de esperteza | Racionalidade / Moralidade |
+| Percepção sexual do corpo exposto | O corpo à mostra (calor, praia, rua) lido com carga erótica naturalizada; sensualidade como linguagem social; o corpo ao mesmo tempo liberdade e objeto de desejo e consumo | Identidade / Moralidade |
+| Morro e asfalto lado a lado | Desigualdade vizinha, violência cotidiana, medo naturalizado | Sociedade / História |
+| Orgulho e ferida da "Cidade Maravilhosa" | Beleza que convive com decadência; saudade de um Rio que "já foi" | História |
+| Religiosidade plural e fluida | Catolicismo popular, religiões afro-brasileiras, pentecostalismo de massa; trânsito entre crenças; fé como proteção | Racionalidade / Sociedade |
+| Liturgias de pertencimento | Futebol, samba, carnaval como lugares de identidade e devoção | Sociedade / Identidade |
+
+**Inflexão da Baixada Fluminense**. Uma inflexão regional dentro do olhar
+carioca, não um recorte padrão: usar quando o texto pedir e o público
+presente for da Baixada.
+
+| Traço | Como costuma aparecer | BCN |
+|-------|----------------------|-----|
+| A vida no trânsito | Horas diárias no trem, no ônibus, na Avenida Brasil e na Dutra; cidade-dormitório; o cansaço como pano de fundo e o tempo roubado da família. No Censo 2022, o estado do Rio lidera o país em trabalhadores que levam 2h ou mais até o trabalho, e a Baixada tem os piores índices: em Queimados, 12,5%, contra 5,6% na capital e 1,8% na média nacional | Sociedade / Identidade |
+| Periferia que se vê pelos olhos de fora | Estigma ("lá na Baixada"), sentir-se o "outro Rio"; orgulho defensivo e vergonha ao mesmo tempo — "moro perto do Rio". Do mesmo chão vem um movimento crescente de afirmação da identidade local | Identidade |
+
+**Chaves de leitura do olhar carioca** (sociologia brasileira). Os
+traços acima não são soltos: quatro clássicos explicam a lógica que os
+une. São o instrumental mais fértil para o **combate duplo** de Keller,
+porque todos tratam da relação do brasileiro com a *lei* — e é na lei
+que se decide se a graça será ouvida como graça, como "jeitinho de
+Deus" ou como novo código de desempenho.
+
+| Chave | O que diz | Onde toca o evangelho |
+|-------|-----------|----------------------|
+| **O homem cordial** (Sérgio Buarque de Holanda, *Raízes do Brasil*, 1936) | "Cordial" vem de *cor*, coração — não é gentileza. É o primado do afeto, do íntimo e da família sobre o público e o impessoal; a inimizade pode ser tão cordial quanto a amizade | A tentação de tratar Deus como um conhecido que "a gente conversa": intimidade sem reverência, relação sem aliança. E o reverso: a dificuldade de receber uma lei que não faz acepção de pessoas (Rm 2.11) |
+| **Casa e rua; indivíduo e pessoa** (Roberto DaMatta, *Carnavais, malandros e heróis*, 1979; *A casa e a rua*, 1985) | O Brasil oscila entre a lei universal (feita para o "indivíduo" anônimo) e as relações pessoais (que tornam alguém "pessoa"). A lei vale para quem não tem relações | O "você sabe com quem está falando?" religioso: quem acha que está acima da regra por posição, cargo ou tempo de igreja — a versão **moralista** |
+| **Malandragem e jeitinho** (DaMatta; Lívia Barbosa) | O jeitinho é a mediação entre a lei rígida e o caso pessoal: nem obedecer, nem afrontar, mas "dar um jeito" | A graça mal ouvida como jeitinho divino — Deus que "dá um jeito" no pecado sem cruz e sem arrependimento: a versão **antinomista**. O evangelho não é jeitinho: a lei é cumprida inteira, por outro, em nosso lugar (Rm 3.26) |
+| **A dialética da ordem e da desordem** (Antonio Candido, "Dialética da malandragem", 1970) | O malandro transita entre a ordem e a desordem sem culpa moral, num mundo que parece "sem pecado" | O desafio de anunciar pecado e culpa a quem aprendeu que tudo se negocia; e a boa notícia para quem cansou de negociar com a vida |
+
+**Dados de apoio para os traços** (verificados; usar com nota **Fonte**):
+- *Morro e asfalto*: cerca de um terço da população da Região
+  Metropolitana (34,9%, ~4 milhões de pessoas) vive sob controle ou
+  influência de grupos armados — milícia ou tráfico (Mapa Histórico dos
+  Grupos Armados, GENI/UFF e Instituto Fogo Cruzado). A expressão
+  "cidade partida" vem do livro de Zuenir Ventura (1994), escrito a
+  partir da chacina de Vigário Geral (1993)
+- *Religiosidade plural e fluida*: no Censo 2022 os evangélicos chegam a
+  26,9% da população brasileira (21,6% em 2010). Nas favelas do Rio,
+  Christina Vital da Cunha (*Oração de traficante*) descreve uma
+  "gramática pentecostal" que passa a moldar a vida cotidiana, a
+  economia e até a criminalidade local — a fé que protege pode virar
+  linguagem do próprio poder armado
+- *Orgulho e ferida*: Nova Iguaçu foi a "Cidade Perfume" — entre as
+  décadas de 1920 e 1940, seus laranjais abasteciam a Europa e a
+  Argentina, até a Segunda Guerra fechar os portos e as frutas
+  apodrecerem nos pés. Memória concreta de uma glória que "já foi"
+
+**Regras da camada carioca**:
+- Começar sempre pelo humano comum; o traço carioca entra depois, como
+  inflexão
+- Usar um traço só quando ele de fato muda a forma como o ídolo deste
+  texto aparece. Se não acrescenta nada, não forçar
+- Nunca folclorizar nem caricaturar: o traço é tratado com respeito, e
+  o que há de bom nele (a hospitalidade, a leveza, a vida compartilhada)
+  é reconhecido no movimento **Entrar** (4.4)
+- Exemplos espalhados pela região, não presos a um recorte geográfico
+  ou social
+- **Dado cultural também exige fonte.** Afirmação sobre cidade, região
+  ou povo que entra no sermão segue a mesma integridade das notas
+  **Fonte** (6c.1): verificada em censo, pesquisa acadêmica ou
+  jornalismo sério. Resumo gerado por IA não é fonte — é ponto de
+  partida a verificar
+
+**Fontes da seção 4.0** (dados verificados; completar editora e página
+com as obras em mãos):
+- HOLANDA, Sérgio Buarque de. *Raízes do Brasil*. 1936. Cap. "O homem cordial".
+- DAMATTA, Roberto. *Carnavais, malandros e heróis*: para uma sociologia do dilema brasileiro. 1979.
+- DAMATTA, Roberto. *A casa e a rua*. 1985.
+- BARBOSA, Lívia. *O jeitinho brasileiro*: a arte de ser mais igual que os outros. [ano a conferir].
+- CANDIDO, Antonio. Dialética da malandragem. 1970.
+- VENTURA, Zuenir. *Cidade partida*. São Paulo: Companhia das Letras, 1994.
+- CUNHA, Christina Vital da. *Oração de traficante*: uma etnografia. [editora e ano a conferir].
+- IBGE. Censo Demográfico 2022: religião (divulgado em jun. 2025) e deslocamento para o trabalho (divulgado em out. 2025).
+- GENI/UFF; INSTITUTO FOGO CRUZADO. *Mapa Histórico dos Grupos Armados no Rio de Janeiro*. Atualizações de 2022 em diante.
 ### 4.1 Como esse problema se manifesta/revela hoje?
 
-Traduzir o problema do texto para equivalentes contemporâneos. Quando
-aplicável, usar as cinco **Narrativas Culturais de Base** (BCNs de Keller
-via Charles Taylor) como lentes:
+Traduzir o problema do texto para equivalentes contemporâneos — primeiro
+na experiência humana comum, depois, quando houver, na inflexão carioca
+(4.0). Quando aplicável, usar as cinco **Narrativas Culturais de Base**
+(BCNs de Keller via Charles Taylor) como lentes:
 
 - **Racionalidade**: o que conta como verdade, evidência, autoridade
   epistêmica na cultura atual
@@ -215,7 +318,9 @@ via Charles Taylor) como lentes:
   ídolo/problema do texto?
 - Em que o coração moderno confia para segurança, felicidade, identidade
   ou significado último, no lugar de Deus?
-- Exemplos concretos e reconhecíveis (não abstrações teológicas genéricas)
+- Exemplos concretos e reconhecíveis (não abstrações teológicas genéricas):
+  primeiro os que qualquer pessoa conectada reconhece; depois, se o
+  texto pedir, a forma carioca do mesmo ídolo
 
 ### 4.3 Desdobramentos do ídolo/pecado hoje
 
@@ -511,10 +616,40 @@ aceitação e comunhão, não mera cortesia. Por isso a queixa não é sobre
 etiqueta: é sobre quem Deus aceita à mesa.
 ```
 
+### 6c.2 Conferência das citações bíblicas (automática)
+
+**Versão do púlpito: NAA (Nova Almeida Atualizada).** Antes de apresentar
+o rascunho, conferir **toda** citação bíblica literal — no corpo, nas
+notas de rodapé, na epígrafe e no título — contra o texto da NAA online.
+Nunca citar de memória.
+
+**Onde conferir** (nesta ordem):
+1. **Bíblia Online** — `https://www.bibliaonline.com.br/naa/<livro>/<capítulo>`
+   (abreviação do livro como o site usa; ex.: `naa/lc/15`)
+2. **YouVersion**, se o primeiro falhar — `https://www.bible.com/pt/bible/1840/<LIVRO>.<capítulo>.NAA`
+   (código do livro em três letras; ex.: `LUK.15.NAA`)
+
+**O que conferir**:
+- Redação exata, palavra por palavra, incluindo a pontuação e o travessão
+  de fala da NAA
+- Referência: livro, capítulo e versículos corretos, no formato do
+  projeto (`Lc 15.1-2`)
+- Citação literal vai entre aspas e só com o texto da NAA. Paráfrase
+  pode, mas sem aspas; alusão leva `cf.`
+- Outra versão só se o Allan pedir, e sempre identificada entre
+  parênteses — ex.: `(ARA)`
+
+**Se os dois sites falharem**: marcar a citação com `[conferir NAA]` e
+avisar na pausa — nunca preencher de memória.
+
+**Na pausa**, informar em uma linha quantas citações foram conferidas e
+listar as que foram corrigidas (como estava → como ficou na NAA).
+
 ### → PAUSA
 
 Apresentar o rascunho ao usuário para revisão final — com as notas, para
-que ele valide também o que foi para o rodapé.
+que ele valide também o que foi para o rodapé — e o resultado da
+conferência bíblica (6c.2).
 
 ---
 

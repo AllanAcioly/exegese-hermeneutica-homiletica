@@ -102,9 +102,9 @@ seguir o workflow completo de 6 fases definido em
 | 1. Exegese | Histórico-gramatical: gênero, estrutura, contexto, argumento do autor | Simeon Trust |
 | 2. Telos | Consulta `estudos/indice.md` (coerência) → propósito do Espírito Santo nesta passagem, em uma frase | Adams |
 | 3. Diagnóstico | Qual o problema/ídolo? Como Deus resolveu lá? A história e a lição | Adams + Keller |
-| 4. Exegese cultural | Manifestação contemporânea: ídolos atuais, desdobramentos, BCNs | Keller |
+| 4. Exegese cultural | Manifestação contemporânea: ídolos atuais, desdobramentos, BCNs — horizonte da humanidade comum + o olhar carioca das principais cidades do RJ | Keller |
 | 5. Aplicação cristológica | O que é exigido e não cumprimos? Como Jesus cumpre? Implementação | Adams + Keller + Simeon Trust |
-| 6. Construção homilética | 6a: esboço → 6b: pesquisa de citações no banco/web → 6c: rascunho na voz pastoral, já com notas de rodapé | Os três + banco de citações + skill de voz |
+| 6. Construção homilética | 6a: esboço → 6b: pesquisa de citações no banco/web → 6c: rascunho na voz pastoral, já com notas de rodapé e com toda citação bíblica conferida na NAA (Bíblia Online / YouVersion) | Os três + banco de citações + skill de voz |
 | 7. Entrega | Formato (DOCX/PDF) para sermão/esboço/estudo, com notas de rodapé reais do Word + registra linha em `estudos/indice.md` | Layout IPE |
 
 ### Saída
@@ -196,7 +196,10 @@ commit/push direto em `main` — só adiciona, nunca remove.
 ## Skills disponíveis
 
 - `allan-acioly-homiletica` — perfil de voz pastoral completo (99 peças de
-  corpus); usar para produção de sermões e esboços
+  corpus); usar para produção de sermões e esboços. O perfil da skill cita
+  a Baixada Fluminense, mas o horizonte cultural vigente é o da Fase 4.0
+  do workflow (humanidade comum + olhar carioca, sem recorte regional) —
+  ele prevalece sobre o perfil
 - `aula-indutiva-ipe` — formato indutivo/socrático para grupos; usar para
   transformar estudos em aulas de descoberta guiada
 - `polir-sermao` — revisão homilético-retórica em 4 passes (diagnóstico,
