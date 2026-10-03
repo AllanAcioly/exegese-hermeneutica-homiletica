@@ -205,7 +205,13 @@ commit/push direto em `main` — só adiciona, nunca remove.
 - `polir-sermao` — revisão homilético-retórica em 4 passes (diagnóstico,
   salvaguardas teológicas, revisão, coerência final); corta autoimplicações
   escritas + marcas de oralidade + gordura retórica; preserva telos, combate
-  duplo, cristologia específica, implementação prática e notas de rodapé. Ver
+  duplo, cristologia específica, implementação prática e notas de rodapé.
+  Calibrada para o registro do Allan — **conversa que ensina e persuade**
+  (Agostinho, Broadus, Perkins, Stott, Robinson, Lloyd-Jones; e, da oratória
+  secular, Cícero, Quintiliano, Ong, Perelman, Polito, Heath, Anderson,
+  Monroe — sob o filtro de 1Co 2.4 e 2Co 4.2): preserva
+  perguntas do ouvinte, ensino de palavras-chave e sinalização; leva cada
+  ponto da mente ao coração e à vontade. Ver
   `skills/polir-sermao/SKILL.md` (fonte no projeto, `.skill` empacotado
   disponível em `skills/polir-sermao.skill`)
 
