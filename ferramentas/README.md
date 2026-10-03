@@ -71,3 +71,24 @@ não usadas. Um marcador `[^id]` sem definição interrompe a geração com erro
 Depois de gerar, validar com o script da skill `docx`
 (`scripts/office/validate.py <arquivo.docx>`; requer
 `pip install defusedxml lxml`).
+
+## `naa.py` — texto da NAA
+
+Busca versículos da Nova Almeida Atualizada em bibliaonline.com.br, para
+conferir as citações (padrão do projeto; ver "Versão bíblica" em
+`context/workflow-estudo-biblico.md`). Só usa a biblioteca padrão do Python.
+
+```bash
+python3 ferramentas/naa.py mt 20 1-16    # trecho
+python3 ferramentas/naa.py gn 15 1       # um versículo
+python3 ferramentas/naa.py sl 73         # capítulo inteiro
+```
+
+O livro é a abreviação usada pelo site (`gn`, `ex`, `1sm`, `sl`, `pv`,
+`jn`, `mt`, `mc`, `lc`, `jo`, `rm`, `1co`, `2co`...). Os títulos de seção
+do site são descartados.
+
+**Rede:** no ambiente de nuvem, `www.bibliaonline.com.br` precisa estar em
+*Allowed domains* (seletor de ambiente → engrenagem → **Network access**:
+**Custom**, mantendo marcada a lista padrão de gerenciadores de pacotes).
+Sem acesso, a citação fica pendente; não reproduzir a NAA de memória.

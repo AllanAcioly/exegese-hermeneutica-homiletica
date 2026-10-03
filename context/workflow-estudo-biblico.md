@@ -20,6 +20,44 @@ completo de exegese → hermenêutica → homilética sobre um texto específico
   Escritura, leitura cristocêntrica e redentivo-histórica, Permanecer na Linha
 - **Notas de rodapé**: obrigatórias em todo sermão e estudo bíblico
   entregue (ver "Notas de rodapé" abaixo)
+- **Versão bíblica**: NAA em leituras e citações, sempre conferida em fonte
+  (ver "Versão bíblica" abaixo)
+
+## Versão bíblica (padrão: NAA)
+
+A **Nova Almeida Atualizada (NAA)** é a versão padrão de todo sermão e
+estudo: leituras, citações no corpo do texto, títulos de versículos, esboço
+de púlpito e notas de rodapé. O original (grego/hebraico) e outras versões
+aparecem só para explicar o texto, sempre identificados.
+
+1. **Conferir sempre em fonte, nunca de memória.** Buscar cada versículo
+   citado com `python3 ferramentas/naa.py <livro> <cap> <vv>` (lê
+   bibliaonline.com.br; ver `ferramentas/README.md`). As notas de
+   preparação do Rev. Allan também valem como fonte quando trazem o texto
+   NAA. Se nenhuma fonte estiver acessível, não reproduzir de memória:
+   marcar a citação como pendente e avisar o Rev. Allan.
+2. **Ao pé da letra, com aviso**, quando a NAA traduz pelo sentido e a
+   imagem ou a palavra do original sustenta o argumento do sermão (ex.: Mt
+   20.15b, "o teu olho é mau", onde a NAA traz "inveja"; Pv 22.9, "o de olho
+   bom", onde a NAA traz "o generoso"). Nesses casos:
+   - citar a NAA e dizer no púlpito que a tradução está certa, mas que ao pé
+     da letra o texto diz outra coisa, e por que a imagem importa;
+   - marcar "(tradução literal)" no título do versículo, se for o caso;
+   - explicar em nota de rodapé de **Grego/Hebraico**;
+   - registrar a exceção nas "Notas para o pregador".
+3. **Checar se a redação da NAA muda o argumento.** Antes de fechar o
+   rascunho, reler cada citação perguntando se a frase do sermão ainda se
+   sustenta com a NAA. Ex.: em Gn 15.1 a NAA ("lhe darei uma grande
+   recompensa") não sustenta sozinha "a recompensa é o próprio Deus", que a
+   ARA ("o teu grandíssimo galardão") parecia sustentar. Quando isso
+   acontecer, ajustar o texto ou buscar outro apoio bíblico (no caso, Sl
+   73.25-26) e explicar em nota (Permanecer na Linha).
+4. **Ajustar o entorno à redação da NAA**: pronomes e tratamento ("você",
+   "vocês"), horas ("cinco horas da tarde", não "hora undécima"), nomes
+   ("Abrão" antes de Gn 17). Expressões tradicionais podem ficar no texto do
+   pregador ("gente da undécima hora"), com nota de rodapé quando ajudarem.
+   Orações do pregador seguem o tratamento próprio do Rev. Allan ("tu"),
+   porque não são citação.
 
 ## Notas de rodapé (padrão obrigatório)
 
@@ -458,6 +496,9 @@ para o sermão atual. As descartadas permanecem no banco para uso futuro.
   pastoralidade autoimplicada
 - O rascunho deve soar como o Rev. Allan pregando: direto, pessoal,
   com diagnóstico cultural penetrante e aplicação ao coração
+- **Versão bíblica** (padrão NAA, ver seção própria): todas as citações
+  conferidas com `ferramentas/naa.py`; ao pé da letra, com aviso e nota,
+  quando a imagem do original sustenta o argumento
 - **Notas de rodapé** (padrão obrigatório, ver seção própria): Grego/Hebraico,
   Aprofundamento e Fonte, colocadas onde forem necessárias. Toda citação,
   ideia de comentarista e ilustração de terceiros recebe nota de Fonte; as

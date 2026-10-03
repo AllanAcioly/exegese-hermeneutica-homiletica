@@ -8,8 +8,9 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 interpretação bíblica do Rev. Allan Acioly, cobrindo qualquer gênero literário
 das Escrituras (narrativa, discurso/epístola, poesia, profecia, parábola,
 lei, sabedoria, apocalíptica). Não é um repositório de código — não existem
-comandos de build, lint ou teste. A única ferramenta é o gerador de DOCX da
-Fase 7 (`ferramentas/gerar-docx-ipe.js`; ver `ferramentas/README.md`).
+comandos de build, lint ou teste. As únicas ferramentas são o gerador de
+DOCX da Fase 7 (`ferramentas/gerar-docx-ipe.js`) e o leitor da NAA
+(`ferramentas/naa.py`); ver `ferramentas/README.md`.
 
 ## Metodologia de interpretação
 
@@ -118,6 +119,11 @@ seguir o workflow completo de 6 fases definido em
   ilustrações). No markdown: `[^id]` + seção final `## Notas`; no DOCX,
   notas de rodapé reais do Word. Ver "Notas de rodapé" em
   `context/workflow-estudo-biblico.md`
+- **Versão bíblica padrão: NAA**, em leituras e citações, sempre conferida
+  em fonte (`ferramentas/naa.py`), nunca de memória. Ao pé da letra, com
+  aviso no púlpito e nota de rodapé, quando a NAA traduz pelo sentido e a
+  imagem do original sustenta o argumento. Ver "Versão bíblica" em
+  `context/workflow-estudo-biblico.md`
 - Estudo em markdown: `estudos/<livro>/<capítulo>-<versículos>.md`
 - Documentos formatados (DOCX/PDF) com layout IPE (capa simplificada)
   salvos na mesma pasta, entregues via SendUserFile
@@ -162,7 +168,8 @@ context/                            — documentos de referência metodológica
 
 ferramentas/                        — gerar-docx-ipe.js: markdown → DOCX layout IPE
                                       (sermão, púlpito, estudo) com notas de rodapé
-                                      reais; uso em ferramentas/README.md
+                                      reais; naa.py: busca versículos da NAA em
+                                      bibliaonline.com.br; uso em ferramentas/README.md
 
 assets/                             — identidade visual e recursos gráficos
   identidade-visual-ipe.md          — especificações de cores, fontes, layout IPE
