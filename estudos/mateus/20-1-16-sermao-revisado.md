@@ -54,22 +54,22 @@ dinheiro do grupo. Era o tesoureiro.[^tesoureiro]
 
 Um dia, em Betânia, uma mulher chamada Maria quebra um frasco de perfume e
 derrama nos pés de Jesus. A casa inteira se enche do cheiro. E esse homem
-faz a conta na hora: "Por que não se vendeu esse perfume por **trezentos
-denários** e não se deu aos pobres?" (Jo 12.5).[^trezentos] Trezentos denários. Ele
+faz a conta na hora: "Por que este perfume não foi vendido por **trezentos
+denários** e o valor não foi dado aos pobres?" (Jo 12.5).[^trezentos] Trezentos denários. Ele
 sabia o preço exato. Era um homem que olhava para a devoção e enxergava
 denário.
 
 Meses depois, esse mesmo homem vai até os chefes dos sacerdotes e faz uma
-pergunta. Mateus registra a pergunta assim: **"Que me quereis dar, e eu vo-lo
-entregarei?"** (Mt 26.15). Trinta moedas de prata.[^trinta] O nome dele é Judas.
+pergunta. Mateus registra a pergunta assim: **"Quanto me darão para que eu o
+entregue a vocês?"** (Mt 26.15). Trinta moedas de prata.[^trinta] O nome dele é Judas.
 
 O segundo homem nunca ouviu um sermão de Jesus, até onde a gente sabe.
 Viveu do crime. Foi condenado à morte mais humilhante que Roma conhecia. E
 nas primeiras horas da crucificação, ele zombou de Jesus junto com o outro
 ladrão (Mt 27.44).[^ladroes] Mas em algum momento daquelas horas, alguma coisa
 mudou. Ele olhou para o homem pregado ao lado dele e disse: "Jesus,
-lembra-te de mim quando vieres no teu Reino". E ouviu: "Hoje estarás
-comigo no paraíso" (Lc 23.42-43).
+lembre-se de mim quando você vier no seu Reino". E ouviu: "Em verdade lhe
+digo que hoje você estará comigo no paraíso" (Lc 23.42-43).
 
 Três anos de serviço terminam em perdição. Uma vida inteira de crime termina
 no paraíso. E aí a gente faz a pergunta que está engasgada desde o começo:
@@ -77,8 +77,8 @@ no paraíso. E aí a gente faz a pergunta que está engasgada desde o começo:
 
 Jesus contou uma história para gente que fazia
 exatamente essa pergunta. E não eram os fariseus. Eram os discípulos dele.[^audiencia]
-Pedro tinha acabado de dizer: "Eis que nós tudo deixamos e te seguimos;
-que, pois, teremos?" (19.27).[^teremos] Jesus prometeu que eles teriam, sim — tronos,
+Pedro tinha acabado de dizer: "Eis que nós deixamos tudo e seguimos o
+senhor; que será, pois, de nós?" (19.27).[^teremos] Jesus prometeu que eles teriam, sim — tronos,
 cem vezes mais, vida eterna (19.28-29).[^moldura1930] E logo em seguida contou essa
 parábola.
 
@@ -103,15 +103,15 @@ colocou, no capítulo 19.
 
 No verso 13, trazem crianças para Jesus abençoar, e os discípulos tentam
 afastar. Criança, no primeiro século, era gente sem currículo.[^moldura] Não produzia,
-não tinha status, não contava. Era "última". E Jesus diz: "Deixai os
-pequeninos, não os embaraceis de vir a mim, porque dos tais é o reino dos
-céus" (19.14). Os religiosos queriam fazer fila por mérito; Jesus abre a
+não tinha status, não contava. Era "última". E Jesus diz: "Deixem os
+pequeninos e não os impeçam de vir a mim, porque dos tais é o Reino dos
+Céus" (19.14). Os religiosos queriam fazer fila por mérito; Jesus abre a
 porta para quem não tem nada a apresentar.
 
-Logo depois, chega um jovem rico com uma pergunta: "Mestre, que farei eu de
+Logo depois, chega um jovem rico com uma pergunta: "Mestre, que farei de
 **bom** para alcançar a vida eterna?" (19.16). A lógica é esta: o que eu
 preciso fazer de bom pra ganhar? E Jesus responde de um jeito estranho:
-"Por que me perguntas acerca do que é bom? **Bom só existe um**" (19.17).[^agathos]
+"Por que você me pergunta a respeito do que é bom? **Bom só existe um**" (19.17).[^agathos]
 O jovem quer fazer o bem pra merecer. Jesus diz: espera aí, só um é bom.
 
 Essa palavra, "bom", vai voltar no fim da parábola, na boca do dono da
@@ -168,8 +168,8 @@ R. T. France resume:
 A bondade de Deus começa antes do pagamento. Começa na praça.
 Começa quando ele sai para buscar gente que ninguém quis.
 
-Você que está aqui há muito tempo: você também estava na praça um dia. Ninguém aqui se contratou sozinho. "Que tens tu que
-não tenhas recebido?" (1Co 4.7). Ser chamado para trabalhar na vinha do
+Você que está aqui há muito tempo: você também estava na praça um dia. Ninguém aqui se contratou sozinho. "E o que é que
+você tem que não tenha recebido?" (1Co 4.7). Ser chamado para trabalhar na vinha do
 Senhor já é, em si, uma recompensa.[^intrinseca] Você tinha esquecido disso?
 
 E para você que talvez esteja hoje se sentindo na praça às cinco da tarde
@@ -337,8 +337,8 @@ combinou comigo trabalhar por um denário?". Ninguém foi lesado. O contrato foi
 A palavra "amigo", em grego, é *hetaire*.[^hetaire] Mateus a usa só
 três vezes no Evangelho inteiro: aqui, com o murmurador; no capítulo 22,
 com o homem que entrou na festa de casamento sem a roupa de festa; e no
-capítulo 26, quando Jesus olha para Judas no Getsêmani e diz: "Amigo, para
-que vieste?". É sempre alguém que está dentro e está errado. É uma
+capítulo 26, quando Jesus olha para Judas no Getsêmani e diz: "Amigo, o que
+você veio fazer?". É sempre alguém que está dentro e está errado. É uma
 repreensão gentil — mas é repreensão. E a porta, ainda assim, não é
 batida.
 
@@ -370,7 +370,7 @@ Segundo tempo, **soberania**: "Quero dar... Será que não me é lícito fazer o
 que quero com o que é meu?".
 
 Mateus amarrou essa seção numa moldura. No começo do capítulo 19, os fariseus chegam perguntando a Jesus:
-"**É lícito** ao marido repudiar a sua mulher por qualquer motivo?" (19.3).
+"**É lícito** ao homem repudiar a sua mulher por qualquer motivo?" (19.3).
 Religião perguntando qual é o mínimo que eu preciso cumprir. E a seção
 termina com o dono da vinha perguntando: "Será que **não me é lícito** fazer
 o que quero com o que é meu?".[^exestin] Começa com o homem perguntando o que Deus exige
@@ -391,8 +391,9 @@ disse: "Bom só existe um". E agora o dono da vinha diz: "Eu sou bom". Ele
 está dizendo quem ele é.
 
 "Olho mau" era um jeito judeu de falar da inveja, da mesquinharia. Provérbios
-diz o contrário: "O de olhos bons será abençoado, porque dá do seu pão ao
-pobre" (Pv 22.9).[^pv229] O jovem rico não quis dar aos pobres. O
+diz o contrário: "O generoso será abençoado, porque reparte o seu pão com os
+pobres" (Pv 22.9). Em hebraico, "o generoso" é, ao pé da letra, "o de olho
+bom". O de olho bom reparte.[^pv229] O jovem rico não quis dar aos pobres. O
 dono da vinha deu a quem ninguém contratou. Deus é bom porque dá. E os
 primeiros trabalhadores, que tinham deixado tudo, descobrem dentro de si o
 mesmo olho do homem que não quis deixar nada.
@@ -411,9 +412,10 @@ trabalhadores. Mas eles sentiram o bem dos outros como se fosse um mal
 contra eles.
 
 E por baixo disso tem uma mentira muito antiga. No Éden, Deus
-disse: "De **toda** árvore do jardim comerás livremente" (Gn 2.16). A
-serpente chegou e reescreveu: "É assim que Deus disse: não comereis de toda
-árvore?" (Gn 3.1).[^gn3] Ela pegou a generosidade de Deus e pintou de mesquinhez.
+disse: "De **toda** árvore do jardim você pode comer livremente" (Gn 2.16).
+A serpente chegou e reescreveu: "É verdade que Deus disse: 'Não comam do
+fruto de **nenhuma** árvore do jardim'?" (Gn 3.1).[^gn3] De "toda" para
+"nenhuma". Ela pegou a generosidade de Deus e pintou de mesquinhez.
 O primeiro olho mau da história é esse: olhar para a bondade de Deus e
 chamar de injustiça. A mentira é sempre a mesma: Deus não é bom de verdade.[^ferguson]
 
@@ -422,9 +424,9 @@ que termina com Deus perguntando ao profeta ressentido.[^jonas] Jesus não respo
 
 Mas Mateus não deixa a gente esperar muito pela resposta errada. No verso
 20, alguns minutos depois, na mesma estrada para Jerusalém, a mãe dos
-filhos de Zebedeu se ajoelha diante de Jesus. Jesus pergunta: "**Que
-queres?**".[^thelo] E ela pede: "Manda que, no teu reino, estes meus dois filhos se
-assentem, um à tua direita, e o outro à tua esquerda" (20.21). E quando os
+filhos de Zebedeu se ajoelha diante de Jesus. Jesus pergunta: "**O que
+você quer?**".[^thelo] E ela pede: "Mande que, no seu reino, estes meus dois filhos se
+assentem um à sua direita e o outro à sua esquerda" (20.21). E quando os
 outros dez ouvem isso, ficam **indignados** com os dois irmãos (20.24).[^aganakteo]
 Indignados porque todo mundo queria o mesmo lugar.
 
@@ -510,18 +512,18 @@ lícito fazer o que quero com o que é **meu**?". De onde saiu o denário dos ú
 Do bolso do dono. A generosidade custou para quem deu.
 
 Logo depois da parábola, Mateus coloca o verso 17: "Estando
-Jesus para subir a Jerusalém, chamou à parte os doze e, em caminho, lhes
-disse: Eis que subimos para Jerusalém, e o Filho do Homem será entregue aos
-principais sacerdotes e aos escribas. Eles o condenarão à morte. E o
-entregarão aos gentios para ser escarnecido, açoitado e crucificado" (vv.
-17-19).[^fundamento] E no verso 28: "o Filho do Homem não veio para ser servido, mas
+Jesus para subir a Jerusalém, chamou os doze discípulos para um lado e, no
+caminho, lhes disse: Eis que subimos para Jerusalém, e o Filho do Homem será
+entregue aos principais sacerdotes e aos escribas. Eles vão condená-lo à
+morte e entregá-lo aos gentios para ser zombado, açoitado e crucificado" (vv.
+17-19).[^fundamento] E no verso 28: "o Filho do Homem, que não veio para ser servido, mas
 para servir e dar a sua vida em **resgate** por muitos".[^lytron]
 
 Resgate. O preço da libertação. A bondade do Rei custa ao próprio
 Rei.
 
 Como o Deus justo pode ser bom com quem não merece sem deixar de ser justo?
-Na cruz. Lá, Deus é ao mesmo tempo "justo e justificador daquele que tem fé
+Na cruz. Lá, Deus é ao mesmo tempo "justo e o justificador daquele que tem fé
 em Jesus" (Rm 3.26).[^dikaios] A graça não significa que Deus deixou de ser justo.
 Significa que, em Cristo, pecadores recebem misericórdia sem que a justiça
 divina seja comprometida.
@@ -531,10 +533,10 @@ o calor do dia". Mas só existe um trabalhador que poderia dizer isso de
 verdade diante de Deus. Jesus é o único trabalhador que suportou o peso do
 dia inteiro — e repartiu conosco o salário que não ganhamos.[^sintese]
 
-As horas da parábola — sexta hora, nona hora — voltam em Mateus, no
-capítulo 27: "Desde a hora sexta até a hora
-nona, houve trevas sobre toda a terra" (27.45).[^horas-cruz] Foi ali, entre a sexta e a
-nona hora, que o Filho suportou o calor de verdade — o calor do juízo que
+As horas da parábola voltam em Mateus. No verso 5, o dono sai "perto do
+meio-dia e às três horas da tarde". No capítulo 27: "A partir do meio-dia,
+houve trevas sobre toda a terra até as três horas da tarde" (27.45).[^horas-cruz]
+Foi ali, entre o meio-dia e as três da tarde, que o Filho suportou o calor de verdade — o calor do juízo que
 era nosso. A parábola não foi escrita como um código das horas da cruz. Mas, quando a
 gente olha para a cruz, entende quem realmente aguentou o peso do dia.
 
@@ -547,8 +549,8 @@ Na pergunta 60, ele pergunta como somos justos diante de Deus, e responde:
 > algum, e como se eu mesmo tivesse cumprido toda a obediência que Cristo
 > cumpriu por mim".[^heidelberg]
 
-É o que Paulo diz: "Aquele que não conheceu pecado, ele o fez pecado por
-nós; para que, nele, fôssemos feitos justiça de Deus" (2Co 5.21).[^2co521] "Como se
+É o que Paulo diz: "Aquele que não conheceu pecado, Deus o fez pecado por
+nós, para que, nele, fôssemos feitos justiça de Deus" (2Co 5.21).[^2co521] "Como se
 eu mesmo tivesse cumprido toda a obediência" é ser tratado como quem
 trabalhou o dia inteiro. Gente da undécima hora — ou nem
 isso — recebendo o salário de quem trabalhou de sol a sol.
@@ -556,29 +558,29 @@ isso — recebendo o salário de quem trabalhou de sol a sol.
 Uma cena do Antigo Testamento ajuda a enxergar isso. Em 1
 Samuel 30, Davi volta de uma batalha com o despojo. Duzentos homens tinham
 ficado para trás, exaustos demais para lutar, guardando a bagagem. E alguns
-dos que lutaram — a Bíblia chama de "maus e filhos de Belial"[^belial] — disseram:
-"esses aí não vão receber nada". E Davi, o rei, decretou: "Qual é a parte
-dos que desceram à peleja, tal será a parte dos que ficaram com a bagagem;
-**igualmente repartirão**" (1Sm 30.24). E aquilo virou estatuto em Israel.
+dos que lutaram — a Bíblia chama de "perversos e malignos"[^belial] — disseram:
+"esses aí não vão receber nada". E Davi, já ungido rei, mas ainda sem trono,
+decretou: "A mesma parte que cabe aos que foram à batalha será também a parte
+dos que ficaram com a bagagem; **receberão partes iguais**" (1Sm 30.24). E aquilo virou estatuto em Israel.
 
-O Rei venceu e repartiu igual. E o Filho de Davi venceu a batalha sozinho,
+O rei ungido venceu e repartiu igual. E o Filho de Davi venceu a batalha sozinho,
 na cruz, e reparte o despojo com quem ficou para trás.
 
 **[Ler Mateus 20.29-34, NAA]**
 
 O último quadro dessa moldura: Jesus está saindo de Jericó, a
 caminho de Jerusalém, a caminho da cruz. Dois cegos estão à beira do
-caminho. E eles gritam: "**Senhor, Filho de Davi, tem compaixão de nós!**"
+caminho. E eles gritam: "**Senhor, Filho de Davi, tenha compaixão de nós!**"
 (20.30).[^cegos] A multidão manda calar a boca. Eles gritam mais alto.
 
 E Jesus para. E faz a mesmíssima pergunta que fez à mãe dos filhos de
-Zebedeu: "**Que quereis que eu vos faça?**" (20.32).
+Zebedeu: "**O que vocês querem que eu lhes faça?**" (20.32).
 
-A mãe ouviu "que queres?" e pediu tronos. Os cegos ouvem "que quereis?" e
-pedem: "**Senhor, que se nos abram os olhos**" (20.33).
+A mãe ouviu "o que você quer?" e pediu tronos. Os cegos ouvem "o que vocês
+querem?" e pedem: "**Senhor, que se abram os nossos olhos**" (20.33).
 
-E Mateus diz: "Condoído, Jesus tocou-lhes os olhos, e imediatamente
-recuperaram a vista e o foram seguindo" (20.34).[^splanchna]
+E Mateus diz: "Profundamente compadecido, Jesus tocou nos olhos
+deles. E imediatamente recuperaram a vista e o seguiram" (20.34).[^splanchna]
 
 A seção que começou diagnosticando o olho mau
 termina com Jesus curando olhos. O olho mau não se cura com esforço. Se cura
@@ -588,7 +590,7 @@ Os cegos não pedem recompensa. Não apresentam
 currículo. Não dizem "a gente esperou o dia inteiro na beira da estrada".
 Eles pedem misericórdia. Essa é a postura da undécima hora.
 
-E depois da cura: "o foram seguindo". O fruto do
+E depois da cura: "e o seguiram". O fruto do
 olho curado não é status. Não é trono à direita ou à esquerda. É seguir
 Jesus.[^akoloutheo]
 
@@ -596,8 +598,12 @@ Quando você vê a cruz direito, deixa de precisar estar acima de
 alguém. Se o Rei pagou a própria bondade com a própria vida, ninguém aqui
 pode cobrar nada dele. E ninguém aqui precisa competir com ninguém. O que
 ele reparte não é um bolo que diminui quando outro come. Lá em
-Gênesis 15, Deus disse a Abraão: "Eu sou o teu escudo, o teu grandíssimo
-galardão" (Gn 15.1).[^misthos] A recompensa, no fim das contas, é ele mesmo. E não se
+Gênesis 15, Deus disse a Abrão: "Não tenha medo, Abrão, eu sou o seu
+escudo, e lhe darei uma grande recompensa" (Gn 15.1).[^misthos] Antes da
+recompensa vem o "eu sou". E o salmista entendeu onde isso termina: "Quem
+tenho eu no céu além de ti? [...] Deus é a fortaleza do meu coração e a
+minha herança para sempre" (Sl 73.25-26). A recompensa, no fim das contas,
+é ele mesmo. E não se
 divide por horas aquilo que é uma Pessoa.
 
 ---
@@ -631,7 +637,7 @@ salário de Cristo no lugar do seu.
 queria — o novo convertido no ministério, o colega promovido, o irmão
 abençoado —, faça três coisas concretas. Agradeça a Deus por ele, pelo
 nome. Diga a ele uma palavra de alegria sincera. E, se puder, ajude-o a
-florescer. "Alegrai-vos com os que se alegram" (Rm 12.15) é o mandamento
+florescer. "Alegrem-se com os que se alegram" (Rm 12.15) é o mandamento
 mais difícil para o olho mau. Por isso mesmo é o remédio. E faça, nesta
 semana, um serviço que ninguém vai saber (Mt 6.1-4).[^apechousin] Serviço escondido
 desliga o caixa.
@@ -649,7 +655,7 @@ foram assim que foram chamados.
 Você que ainda não crê, ou que acha que é tarde demais: lembra do ladrão
 na cruz? Ele nunca foi batizado. Nunca participou de um culto. Nunca leu um
 versículo. Não tinha um minuto de serviço pra apresentar. E ouviu: "hoje
-estarás comigo no paraíso". O Rei ainda sai à praça às cinco da tarde.
+você estará comigo no paraíso". O Rei ainda sai à praça às cinco da tarde.
 "Ninguém me contratou" não é o fim da sua história. Ele está chamando
 agora. E ele paga o dia inteiro.
 
@@ -667,9 +673,9 @@ ninguém contratou.
 Os dois homens do começo.
 
 Judas teve três anos ao lado de Jesus e uma conta sempre aberta. Ele sabia
-o preço de tudo. E fez a pergunta do patrão: "Que me quereis dar?". O
+o preço de tudo. E fez a pergunta do patrão: "Quanto me darão?". O
 ladrão teve poucas horas e nenhuma conta. Não tinha nada para apresentar. E
-fez o pedido da undécima hora: "Lembra-te de mim".
+fez o pedido da undécima hora: "Lembre-se de mim".
 
 A diferença entre os dois não foi o tempo de serviço. Foi o que cada um
 quis. E para onde cada um olhou.
@@ -679,7 +685,8 @@ fica com você: **"O teu olho é mau
 porque eu sou bom?"**
 
 Há uma resposta possível: a oração dos cegos.
-"Senhor, Filho de Davi, tem compaixão de nós. Abre os nossos olhos."
+"Senhor, Filho de Davi, tenha compaixão de nós. Que se abram os nossos
+olhos."
 
 O Rei bom reparte, não paga — e cura o olho ressentido.
 
@@ -731,10 +738,13 @@ Em nome de Jesus, amém.
   fica para o momento, ao vivo.
 - **Leituras**: Mt 20.1-16 no início; Mt 20.29-34 no ponto IV. As demais
   referências são citadas de passagem.
-- **Versão bíblica**: leituras e citações na NAA. Exceção: o v. 15b é citado
-  em tradução literal ("o teu olho é mau"), avisando no púlpito, porque a
-  NAA traduz pelo sentido ("inveja") e a imagem do olho sustenta o sermão
-  (ver nota de rodapé).
+- **Versão bíblica**: leituras e citações na NAA (texto conferido em
+  bibliaonline.com.br). Exceção: o v. 15b é citado em tradução literal ("o
+  teu olho é mau"), avisando no púlpito, porque a NAA traduz pelo sentido
+  ("inveja") e a imagem do olho sustenta o sermão. O mesmo cuidado vale para
+  Pv 22.9 ("o generoso" = "o de olho bom"). Em Gn 15.1, a NAA ("lhe darei
+  uma grande recompensa") não sustenta sozinha "a recompensa é ele mesmo";
+  por isso entrou o Sl 73.25-26. Ver as notas de rodapé.
 
 ---
 
@@ -746,9 +756,9 @@ Em nome de Jesus, amém.
     Judas aparece como o discípulo que "mantinha a conta atualizada"
     (banco de ilustrações, IL-017).
 
-[^tesoureiro]: **Aprofundamento.** João registra que Judas "tinha a bolsa"
-    do grupo (Jo 13.29) e acrescenta, sobre o episódio de Betânia, que ele
-    "era ladrão" e tirava do que nela se lançava (Jo 12.6).
+[^tesoureiro]: **Aprofundamento.** João registra que Judas "trazia a bolsa
+    do dinheiro" (Jo 13.29) e acrescenta, sobre o episódio de Betânia, que
+    ele "era ladrão" e "tirava o que era colocado nela" (Jo 12.6).
 
 [^trezentos]: **Aprofundamento.** Se o denário era a diária de um
     trabalhador (Mt 20.2), trezentos denários equivaliam a cerca de um ano
@@ -762,10 +772,10 @@ Em nome de Jesus, amém.
     Jeremias, combinando os dois profetas).
 
 [^ladroes]: **Aprofundamento.** Mateus e Marcos dizem que os dois ladrões
-    injuriavam Jesus (Mt 27.44; Mc 15.32); Lucas registra que um deles,
-    depois, repreendeu o outro e pediu: "lembra-te de mim" (Lc 23.39-43). A
-    harmonização antiga e comum, seguida no sermão, é que os dois começaram
-    zombando e um deles mudou durante as horas da cruz.
+    injuriavam Jesus (Mt 27.44; Mc 15.32); Lucas registra que um deles
+    blasfemava e o outro o repreendeu e pediu: "lembre-se de mim" (Lc
+    23.39-43). A harmonização antiga e comum, seguida no sermão, é que os
+    dois começaram zombando e um deles mudou durante as horas da cruz.
 
 [^audiencia]: **Fonte.** Que a audiência são os discípulos é posição de
     Turner, Snodgrass, France, Wright, Doriani, MacArthur, Morris e Nolland.
@@ -1057,12 +1067,14 @@ Em nome de Jesus, amém.
     "olho mau" como inveja (J. H. Elliott, Hagner, Luz), como mesquinhez
     (Morris) ou como as duas coisas e mais o ressentimento (Osborne).
 
-[^pv229]: **Hebraico.** *tov-'ayin* (טוֹב־עַיִן), "bom de olho" = generoso
-    (Pv 22.9). O oposto é *ra' 'ayin* (רַע עָיִן), "mau de olho" =
-    avarento (Pv 23.6; 28.22; cf. Dt 15.9, o olho mau contra o irmão
-    pobre). **Fonte:** a ligação com o jovem rico, que não quis dar aos
-    pobres (19.21-22), é de K. Snodgrass, *Compreendendo Todas as Parábolas
-    de Jesus*, pp. 510-534.
+[^pv229]: **Hebraico.** A NAA traduz pelo sentido: "o generoso". O
+    hebraico diz *tov-'ayin* (טוֹב־עַיִן), "bom de olho" (Pv 22.9). O oposto
+    é *ra' 'ayin* (רַע עָיִן), "mau de olho" = avarento (Pv 23.6; 28.22; cf.
+    Dt 15.9, o olho mau contra o irmão pobre). É o mesmo caso do v. 15b:
+    a tradução é correta, mas a imagem do olho, que o sermão segue, só
+    aparece ao pé da letra. **Fonte:** a ligação com o jovem rico, que não
+    quis dar aos pobres (19.21-22), é de K. Snodgrass, *Compreendendo Todas
+    as Parábolas de Jesus*, pp. 510-534.
 
 [^invidia]: **Latim.** *invidia*, de *invidere*: *in-* + *videre*, "olhar
     contra", olhar com má vontade.
@@ -1073,9 +1085,11 @@ Em nome de Jesus, amém.
     do corpo do artigo (tradução livre).
 
 [^gn3]: **Hebraico.** Em Gn 2.16, Deus diz *mikkol 'ets … 'akhol tokhel*:
-    "de toda árvore comer comerás", isto é, "comerás livremente". A
-    serpente reescreve: "não comereis de toda árvore?" (Gn 3.1). A
-    generosidade enfática de Deus vira proibição na boca da serpente.
+    "de toda árvore comer comerás", isto é, "você pode comer livremente". A
+    pergunta da serpente em Gn 3.1 é ambígua em hebraico (a ARA traduz
+    "não comereis de toda árvore?"); a NAA explicita o exagero: "de nenhuma
+    árvore". A generosidade enfática de Deus vira proibição na boca da
+    serpente.
 
 [^ferguson]: **Fonte.** A mentira da serpente ("Deus não é bom de
     verdade") como raiz comum do legalismo e do antinomismo é a leitura de
@@ -1083,14 +1097,15 @@ Em nome de Jesus, amém.
     retomada por Timothy Keller em *Pregação* (Vida Nova, 2017).
 
 [^jonas]: **Aprofundamento.** Jonas também se ressentiu da bondade de Deus
-    com os que não mereciam: "eu sabia que és Deus clemente e
-    misericordioso" (Jn 4.2). O livro termina com uma pergunta de Deus sem
-    resposta do profeta (Jn 4.10-11), como a parábola.
+    com os que não mereciam: "sabia que tu és Deus bondoso e compassivo,
+    tardio em irar-se e grande em misericórdia" (Jn 4.2). O livro termina
+    com uma pergunta de Deus sem resposta do profeta (Jn 4.10-11), como a
+    parábola.
 
-[^thelo]: **Grego.** Na boca de Jesus, "que queres?" é *ti theleis?* (τί
-    θέλεις;, 20.21); aos cegos, "que quereis que eu vos faça?" é *ti
-    thelete poiēsō hymin?* (τί θέλετε ποιήσω ὑμῖν;, 20.32). É o mesmo verbo
-    do dono: "eu *quero* dar" (*thelō*, 20.14). **Fonte:** a ligação entre
+[^thelo]: **Grego.** Na boca de Jesus, "o que você quer?" é *ti theleis?*
+    (τί θέλεις;, 20.21); aos cegos, "o que vocês querem que eu lhes faça?" é
+    *ti thelete poiēsō hymin?* (τί θέλετε ποιήσω ὑμῖν;, 20.32). É o mesmo
+    verbo do dono: "quero dar" (*thelō*, 20.14). **Fonte:** a ligação entre
     as duas perguntas é de Snodgrass.
 
 [^aganakteo]: **Grego.** *ēganaktēsan* (ἠγανάκτησαν), "ficaram
@@ -1101,7 +1116,7 @@ Em nome de Jesus, amém.
 
 [^bonhoeffer]: **Fonte.** Dietrich Bonhoeffer, *Life Together*
     (*Gemeinsames Leben*, 1939), cap. 4, "Ministry", comentando Lc 9.46
-    ("levantou-se entre eles uma discussão sobre qual deles seria o
+    ("Surgiu entre os discípulos uma discussão sobre qual deles seria o
     maior"); ed. bras. *Vida em Comunhão*. Conferir a página na edição
     usada.
 
@@ -1139,7 +1154,9 @@ Em nome de Jesus, amém.
 [^horas-cruz]: **Fonte.** D. L. Turner anota "cf. 27:45-46" ao comentar as
     horas da parábola (*Matthew*, BECNT, pp. 477-481); G. R. Osborne lembra
     que Marcos divide a crucificação em blocos de três horas (Mc 15.25,
-    33-34). É ressonância homilética, não chave de leitura.
+    33-34). Na NAA a ligação fica visível, porque as mesmas horas aparecem
+    nos dois textos: "meio-dia" e "três horas da tarde" (20.5; 27.45). É
+    ressonância homilética, não chave de leitura.
 
 [^heidelberg]: **Fonte.** Catecismo de Heidelberg (1563), Domingo 23,
     Pergunta 60. Texto em redação próxima à tradução corrente; conferir
@@ -1152,34 +1169,46 @@ Em nome de Jesus, amém.
     lançado sobre Cristo ("o fez pecado", *hamartian epoiēsen*) e a justiça
     de Deus creditada a nós "nele".
 
-[^belial]: **Hebraico.** *benê beliyya'al* (בְנֵי בְלִיַּעַל), "filhos de
-    Belial": gente sem valor, imprestável. Davi transforma a partilha igual
-    em "estatuto e direito" (*choq umishpat*) para Israel (1Sm 30.25).
+[^belial]: **Hebraico.** "Malignos" traduz *benê beliyya'al* (בְנֵי
+    בְלִיַּעַל), "filhos de Belial" na ARA: gente sem valor, imprestável.
+    Davi transforma a partilha igual em "estatuto e direito" (*choq
+    umishpat*) para Israel (1Sm 30.25). **Aprofundamento:** Davi já tinha
+    sido ungido (1Sm 16.13), mas só seria rei depois da morte de Saul (2Sm
+    2.4); por isso o sermão diz "já ungido rei, mas ainda sem trono".
 
 [^cegos]: **Aprofundamento.** Marcos (10.46-52) e Lucas (18.35-43) falam de
     um cego (Bartimeu, em Marcos); Mateus fala de dois, como já em 9.27-31.
     "Filho de Davi" é título messiânico (2Sm 7.12-16): o mesmo Rei que, na
     figura de Davi, repartiu igual em 1Sm 30.
 
-[^splanchna]: **Grego.** "Condoído" traduz *splanchnistheis* (σπλαγχνισθείς),
-    "movido nas entranhas": compaixão visceral. É o verbo da compaixão de
-    Jesus pelas multidões (9.36; 14.14; 15.32) e o do pai que vê o filho de
-    longe em Lc 15.20, sermão anterior da série.
+[^splanchna]: **Grego.** "Profundamente compadecido" traduz
+    *splanchnistheis* (σπλαγχνισθείς), "movido nas entranhas": compaixão
+    visceral. É o verbo da compaixão de Jesus pelas multidões (9.36; 14.14;
+    15.32) e o do pai que vê o filho de longe em Lc 15.20, sermão anterior
+    da série.
 
 [^akoloutheo]: **Grego.** *ēkolouthēsan autō* (ἠκολούθησαν αὐτῷ), "o
-    seguiram": verbo do discipulado. É o "segue-me" dirigido ao jovem rico
-    (19.21) e o "nós te seguimos" de Pedro (19.27). Os cegos curados fazem
-    o que o jovem rico não quis fazer.
+    seguiram": verbo do discipulado. É o "siga-me" dirigido ao jovem rico
+    (19.21) e o "seguimos o senhor" de Pedro (19.27). Os cegos curados
+    fazem o que o jovem rico não quis fazer.
 
-[^misthos]: **Hebraico/Grego.** "Galardão" é *sekhar* (שָׂכָר), "salário,
-    recompensa"; a Septuaginta traduz por *misthos* (μισθός), a mesma
-    palavra do "salário" em Mt 20.8. Deus mesmo é o salário de Abraão.
+[^misthos]: **Hebraico/Grego.** O hebraico de Gn 15.1 (*'anokhi magen
+    lakh, sekharkha harbeh me'od*) admite duas leituras: "eu sou o teu
+    escudo, o teu grandíssimo galardão" (ARA: Deus mesmo é a recompensa) ou
+    "a tua recompensa será muito grande" (Septuaginta, *ho misthos sou polys
+    estai sphodra*; a NAA segue essa linha: "lhe darei uma grande
+    recompensa"). *Sekhar* é "salário, recompensa", e *misthos* é a mesma
+    palavra do "salário" em Mt 20.8. Como Gn 15.1 admite as duas leituras,
+    o sermão não apoia nele, sozinho, a afirmação de que a recompensa é o
+    próprio Deus: o apoio explícito vem do Sl 73.25-26 (cf. Sl 16.5: "O
+    Senhor é a porção da minha herança e o meu cálice").
 
 [^doriani]: **Fonte.** Daniel M. Doriani: "somos fariseus em recuperação";
     a "Graça Maravilhosa" pode virar "graça entediante" (*Matthew*, REC,
     cap. 71).
 
 [^apechousin]: **Grego.** Em Mt 6.2, 5 e 16, sobre quem pratica a piedade
-    para ser visto, Jesus diz: "já receberam a recompensa" (*apechousin ton
-    misthon*). *Apechō* era o termo dos recibos comerciais: "recebido,
-    quitado". Quem serve para ser visto já recebeu tudo o que vai receber.
+    para ser visto, Jesus diz: "eles já receberam a sua recompensa"
+    (*apechousin ton misthon*). *Apechō* era o termo dos recibos comerciais:
+    "recebido, quitado". Quem serve para ser visto já recebeu tudo o que vai
+    receber.

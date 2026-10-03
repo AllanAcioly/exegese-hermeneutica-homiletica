@@ -33,27 +33,27 @@
 - **Judas:**
   - três anos com Jesus; pregou, curou, era o tesoureiro;
   - diante do perfume de Maria, em Betânia: "trezentos denários" (Jo 12.5). Olhava para a devoção e enxergava denário;
-  - aos sacerdotes: "**Que me quereis dar, e eu vo-lo entregarei?**" (Mt 26.15). Trinta moedas.
+  - aos sacerdotes: "**Quanto me darão para que eu o entregue a vocês?**" (Mt 26.15). Trinta moedas.
 - **O ladrão:**
   - viveu do crime; zombou de Jesus nas primeiras horas (Mt 27.44);
-  - depois: "lembra-te de mim quando vieres no teu Reino" → "hoje estarás comigo no paraíso" (Lc 23.42-43).
+  - depois: "Jesus, lembre-se de mim quando você vier no seu Reino" → "hoje você estará comigo no paraíso" (Lc 23.42-43).
 - **A pergunta engasgada:** três anos terminam em perdição; uma vida de crime termina no paraíso. **Isso é justo?**
 - **A virada:** Jesus contou a história para **discípulos**, não para fariseus.
-  - Pedro: "nós tudo deixamos e te seguimos; que, pois, teremos?" (19.27);
+  - Pedro: "Eis que nós deixamos tudo e seguimos o senhor; que será, pois, de nós?" (19.27);
   - Jesus promete tronos, cem vezes mais, vida eterna (19.28-29);
-  - a parábola termina com outra pergunta: "**O teu olho é mau porque eu sou bom?**" (v. 15).
+  - a parábola termina com outra pergunta, ao pé da letra: "**O teu olho é mau porque eu sou bom?**" (v. 15).
 - **Ressalva:** Judas não se perdeu por fazer conta, e sim pela traição e pela incredulidade. A imagem é a do olho que mede tudo em denário, levado até o fim.
 
 ## I. Um só é bom: o Rei que sai à praça (19.13-17; 20.1-7)
 
 - **A moldura do capítulo 19:**
-  - **crianças** afastadas pelos discípulos, gente sem currículo, os "últimos": "dos tais é o reino dos céus" (19.13-15). Os religiosos faziam fila por mérito; Jesus abre a porta para quem não tem nada a apresentar;
-  - **jovem rico:** "que farei eu de **bom**?" → "**Bom só existe um**" (19.16-17). Quer fazer o bem para merecer. A palavra "bom" vai voltar na boca do dono.
+  - **crianças** afastadas pelos discípulos, gente sem currículo, os "últimos": "dos tais é o Reino dos Céus" (19.13-15). Os religiosos faziam fila por mérito; Jesus abre a porta para quem não tem nada a apresentar;
+  - **jovem rico:** "que farei de **bom**?" → "**Bom só existe um**" (19.16-17). Quer fazer o bem para merecer. A palavra "bom" vai voltar na boca do dono.
 - **A parábola começa com o Senhor**, não com trabalhadores procurando emprego: Reino → Senhor → saída → trabalhadores → vinha.
 - **"Saindo" 4×** (vv. 1, 3, 5, 6). É ele quem sai, quem procura. Ninguém se candidata; todos são chamados.
 - **O relógio:**
   - 6h: contrato, um denário (o pão da família no dia);
-  - 9h: "o que for justo";
+  - 9h: "eu lhes pagarei o que for justo" (v. 4);
   - 12h e 15h: a mesma coisa;
   - **17h**: faltando uma hora. "Viu" vira "**encontrou**" (v. 6). Parece que ele estava procurando.
 - **Ilustração — o ponto de diária na Baixada (IL-018):** 5h, ferramenta no ombro, esperando um carro parar. Os mais fortes saem primeiro. Às 17h ainda tem um, o que ninguém quis levar, e já sabe que não vai ter pão em casa.
@@ -66,7 +66,7 @@
 
 - **A bondade de Deus começa antes do pagamento.** Começa na praça.
 - **Aplicação:**
-  - **veterano:** você também estava na praça. "Que tens tu que não tenhas recebido?" (1Co 4.7). Ser chamado já é recompensa. Você tinha esquecido?
+  - **veterano:** você também estava na praça. "E o que é que você tem que não tenha recebido?" (1Co 4.7). Ser chamado já é recompensa. Você tinha esquecido?
   - **quem se sente na praça às 17h:** o Rei ainda sai.
 - **Transição:** "Até aqui, uma história feliz. Todo mundo vai comer. Mas chega a tarde. E chega a hora do pagamento."
 
@@ -101,10 +101,10 @@
 
 ## III. "O teu olho é mau porque eu sou bom?" (20.11-15; 20.20-24)
 
-- **v. 11 — "murmuravam":** verbo do deserto (Êx 16; Nm 14), comendo maná e reclamando. **Contra o dono**, não contra os colegas: no fundo, o ressentimento é contra o Senhor.
-- **v. 12 — "tu os fizeste iguais a nós":**
+- **v. 11 — "começaram a murmurar contra o dono das terras":** verbo do deserto (Êx 16; Nm 14), comendo maná e reclamando. **Contra o dono**, não contra os colegas: no fundo, o ressentimento é contra o Senhor.
+- **v. 12 — "você os igualou a nós":**
   - não reclamam do pagamento; receberam o combinado;
-  - não é "tu nos fizeste iguais a eles"; o foco está no que o outro recebeu;
+  - não é "você nos igualou a eles"; o foco está no que o outro recebeu;
   - "suportamos a fadiga e o calor do dia": o sofrimento apresentado como fatura.
 
 > **C. S. Lewis**, *Cristianismo Puro e Simples*: "O orgulho não sente prazer em ter algo, só em ter mais do que o vizinho. [...] É a comparação que nos torna orgulhosos: o prazer de estar acima dos outros."
@@ -112,7 +112,7 @@
 - Não perderam nada; perderam a vantagem, a distância. Quando a identidade depende da distância, basta o outro subir.
 - **A resposta do dono, a um deles, olho no olho, em três tempos:**
 
-1. **Justiça (v. 13):** "Amigo, não te faço injustiça; não combinaste comigo um denário?" Ninguém foi lesado.
+1. **Justiça (v. 13):** "Amigo, não estou sendo injusto com você. Você não combinou comigo trabalhar por um denário?" Ninguém foi lesado.
    - *Hetaire*: só 3× em Mateus — o murmurador (20.13), o homem sem veste nupcial (22.12), Judas no Getsêmani (26.50). Sempre alguém de dentro e errado. Repreensão gentil; a porta não é batida.
 
 > **R. C. Sproul**, *Estudos Bíblicos Expositivos em Mateus*: "O primeiro grupo recebeu justiça. Todos os grupos que vieram depois receberam graça e misericórdia. Aqueles, entretanto, que receberam justiça queixaram-se de ter sido vítimas de injustiça."
@@ -121,19 +121,20 @@
 
    - **Logo em seguida:** "Ele não está xingando ninguém. Está fazendo a conta até o fim." Quem quer só justiça pede o inferno; o único salário que conquistamos é a morte (Rm 6.23). A gente precisa desesperadamente de graça.
 
-2. **Soberania (vv. 14-15a):** "quero dar... Não me é lícito fazer o que quero com o que é meu?"
+2. **Soberania (vv. 14-15a):** "Pegue o que é seu e saia daqui. Pois quero dar... Será que não me é lícito fazer o que quero com o que é meu?"
    - A moldura de Mateus: 19.3, os fariseus perguntam "**é lícito** repudiar a mulher?" (o mínimo a cumprir) → 20.15, o dono: "**não me é lícito**?";
    - começa com o homem perguntando o que Deus exige; termina com o homem tentando dizer a Deus o que ele pode fazer. Quem estava tentando ser dono do quê?
-3. **Diagnóstico (v. 15b):** "O teu olho é mau porque eu sou **bom**?"
+3. **Diagnóstico (v. 15b), em tradução literal:** "O teu olho é mau porque eu sou **bom**?"
+   - Avisar: a NAA lida traduz pelo sentido ("Ou você ficou com inveja porque eu sou bom?"); está certa, mas Jesus falou com uma imagem, e a imagem importa;
    - "Bom" volta de 19.17: o dono diz quem ele é;
-   - "olho mau" = inveja, mesquinharia. Pv 22.9: "o de olhos bons... dá do seu pão ao pobre". O jovem rico não deu; o dono deu a quem ninguém contratou. Os primeiros descobrem em si o olho do homem que não quis deixar nada;
+   - "olho mau" = inveja, mesquinharia. Pv 22.9: "O generoso será abençoado, porque reparte o seu pão com os pobres" (em hebraico, "o generoso" é "o de olho bom": o de olho bom reparte). O jovem rico não deu; o dono deu a quem ninguém contratou. Os primeiros descobrem em si o olho do homem que não quis deixar nada;
    - *invidia*, de *in-videre*, "olhar contra" *(opcional)*.
 
 > **Tomás de Aquino** *(opcional)*, *Suma Teológica* II-II, q. 36: "A inveja é tristeza pelo bem alheio." [...] "O bem do outro pode ser contado como mal próprio, na medida em que diminui a própria fama ou excelência."
 
-- **A mentira antiga:** "de **toda** árvore comerás livremente" (Gn 2.16) → "não comereis de toda árvore?" (Gn 3.1). A serpente pinta a generosidade de mesquinhez. Olhar para a bondade de Deus e chamar de injustiça: "Deus não é bom de verdade".
+- **A mentira antiga:** "De **toda** árvore do jardim você pode comer livremente" (Gn 2.16) → "Não comam do fruto de **nenhuma** árvore do jardim" (Gn 3.1). A serpente pinta a generosidade de mesquinhez. Olhar para a bondade de Deus e chamar de injustiça: "Deus não é bom de verdade".
 - **Sem resposta**, como Jonas 4. Jesus deixa a pergunta no ar.
-- **20.20-24 — a resposta errada, minutos depois, na mesma estrada:** a mãe dos filhos de Zebedeu se ajoelha; "**Que queres?**" → um à direita, outro à esquerda (20.21); os dez **indignados** (20.24). O olho mau em ação.
+- **20.20-24 — a resposta errada, minutos depois, na mesma estrada:** a mãe dos filhos de Zebedeu se ajoelha; "**O que você quer?**" → um à direita, outro à esquerda (20.21); os dez **indignados** (20.24). O olho mau em ação.
 
 > **Dietrich Bonhoeffer**, *Vida em Comunhão*: "Nenhuma comunidade cristã se reúne sem que esse pensamento brote imediatamente como semente de discórdia. Assim, no próprio início da comunhão cristã, há [...] uma disputa invisível, muitas vezes inconsciente, de vida ou morte."
 
@@ -155,25 +156,25 @@
 
 ## IV. "Que se abram os nossos olhos" (20.15, 17-19, 28; 20.29-34)
 
-- **"Do que é meu" (v. 15):** o denário dos últimos saiu do bolso do dono. A generosidade custa a quem dá.
-- **20.17-19:** entregue, condenado, escarnecido, açoitado, crucificado. **20.28:** "dar a sua vida em **resgate** por muitos". A bondade do Rei custa ao próprio Rei.
-- **Rm 3.26:** "justo e justificador". A graça não significa que Deus deixou de ser justo; em Cristo, pecadores recebem misericórdia sem que a justiça seja comprometida.
+- **"Com o que é meu" (v. 15):** o denário dos últimos saiu do bolso do dono. A generosidade custa a quem dá.
+- **20.17-19:** entregue, condenado, zombado, açoitado, crucificado. **20.28:** "dar a sua vida em **resgate** por muitos". A bondade do Rei custa ao próprio Rei.
+- **Rm 3.26:** "justo e o justificador". A graça não significa que Deus deixou de ser justo; em Cristo, pecadores recebem misericórdia sem que a justiça seja comprometida.
 - **Frase-tese:** "Jesus é o único trabalhador que suportou o peso do dia inteiro — e repartiu conosco o salário que não ganhamos."
-- **Imagem:** "desde a hora sexta até a hora nona, houve trevas" (27.45). Ali ele suportou o calor do juízo que era nosso. A parábola não é código das horas da cruz, mas a cruz mostra quem aguentou o peso do dia.
+- **Imagem:** "perto do meio-dia e às três horas da tarde" (20.5) → "A partir do meio-dia, houve trevas [...] até as três horas da tarde" (27.45). Ali ele suportou o calor do juízo que era nosso. A parábola não é código das horas da cruz, mas a cruz mostra quem aguentou o peso do dia.
 
 > **Catecismo de Heidelberg**, pergunta 60: Deus, "sem nenhum mérito meu, por pura graça, me concede e imputa a perfeita satisfação, justiça e santidade de Cristo, como se eu nunca tivesse tido nem cometido pecado algum, e como se eu mesmo tivesse cumprido toda a obediência que Cristo cumpriu por mim".
 
-- **2Co 5.21:** "Aquele que não conheceu pecado, ele o fez pecado por nós; para que, nele, fôssemos feitos justiça de Deus." Gente da undécima hora recebendo o salário de quem trabalhou de sol a sol.
-- **1Sm 30.21-25** *(opcional)*: 200 exaustos com a bagagem; os "maus e filhos de Belial" não queriam repartir; Davi decreta: "**igualmente repartirão**", e vira estatuto. O Filho de Davi vence sozinho na cruz e reparte o despojo.
+- **2Co 5.21:** "Aquele que não conheceu pecado, Deus o fez pecado por nós, para que, nele, fôssemos feitos justiça de Deus." Gente da undécima hora recebendo o salário de quem trabalhou de sol a sol.
+- **1Sm 30.21-25** *(opcional)*: 200 exaustos com a bagagem; os "perversos e malignos" não queriam repartir; Davi, já ungido rei, mas ainda sem trono, decreta: "**receberão partes iguais**" (30.24), e vira estatuto. O Filho de Davi vence sozinho na cruz e reparte o despojo.
 - **[Ler Mt 20.29-34, NAA]**
-  - Saindo de Jericó, a caminho da cruz. Dois cegos: "**Senhor, Filho de Davi, tem compaixão de nós!**" A multidão manda calar; gritam mais;
-  - Jesus para: "**Que quereis que eu vos faça?**", a mesma pergunta feita à mãe;
-  - ela pediu tronos; eles pedem: "**que se nos abram os olhos**";
-  - "Condoído, Jesus tocou-lhes os olhos, e imediatamente recuperaram a vista e o foram seguindo" (20.34).
+  - Saindo de Jericó, a caminho da cruz. Dois cegos: "**Senhor, Filho de Davi, tenha compaixão de nós!**" A multidão manda calar; gritam mais;
+  - Jesus para: "**O que vocês querem que eu lhes faça?**", a mesma pergunta feita à mãe;
+  - ela pediu tronos; eles pedem: "**Senhor, que se abram os nossos olhos**" (20.33);
+  - "Profundamente compadecido, Jesus tocou nos olhos deles. E imediatamente recuperaram a vista e o seguiram" (20.34).
 - **A seção que diagnostica o olho mau termina com Jesus curando olhos.** Não se cura com esforço; cura-se com o toque de Cristo.
   - os cegos pedem misericórdia, não recompensa, nem apresentam currículo: a postura da undécima hora;
   - o fruto do olho curado não é trono; é **seguir**.
-- **Ver a cruz direito:** ninguém pode cobrar e ninguém precisa competir. Não é um bolo que diminui quando outro come. Gn 15.1: "Eu sou o teu grandíssimo galardão". Não se divide por horas aquilo que é uma Pessoa.
+- **Ver a cruz direito:** ninguém pode cobrar e ninguém precisa competir. Não é um bolo que diminui quando outro come. Gn 15.1: "eu sou o seu escudo" vem antes da recompensa; Sl 73.25-26: "Deus é [...] a minha herança para sempre". A recompensa é ele mesmo. Não se divide por horas aquilo que é uma Pessoa.
 
 ## E agora? — o "como fazer"
 
@@ -191,15 +192,15 @@
 - **Para cada público:**
   - **Veteranos e cansados:** o sacrifício foi visto (19.29); nada do que Deus der ao novato diminui o seu. Descanse da contabilidade. O Senhor da vinha vê.
   - **Recém-chegados:** não confundam graça com desprezo por quem veio antes; honrem e vão trabalhar já.
-  - **Quem não crê ou acha que é tarde (IL-014):** o ladrão, sem batismo, sem culto, sem um minuto de serviço, ouviu "hoje estarás comigo". "Ninguém me contratou" não é o fim; o Rei sai às 17h e paga o dia inteiro.
+  - **Quem não crê ou acha que é tarde (IL-014):** o ladrão, sem batismo, sem culto, sem um minuto de serviço, ouviu "hoje você estará comigo no paraíso". "Ninguém me contratou" não é o fim; o Rei sai às 17h e paga o dia inteiro.
   - **Quem se acha melhor que muito crente:** contando horas, a graça vai parecer injustiça. O Reino só se abre para quem descobre que estava na praça.
   - **Igreja:** o dono sai à praça; a igreja sai com ele, para os que ninguém contratou.
 
 ## Conclusão e oração
 
-- **Os dois homens do começo:** Judas, três anos e uma conta aberta ("Que me quereis dar?"); o ladrão, poucas horas e nenhuma conta ("Lembra-te de mim"). A diferença não foi o tempo de serviço; foi o que cada um quis e para onde olhou.
+- **Os dois homens do começo:** Judas, três anos e uma conta aberta ("Quanto me darão?"); o ladrão, poucas horas e nenhuma conta ("Lembre-se de mim"). A diferença não foi o tempo de serviço; foi o que cada um quis e para onde olhou.
 - **Devolver a pergunta, sem responder por eles:** "O teu olho é mau porque eu sou bom?"
-- **Resposta possível:** a oração dos cegos: "Senhor, Filho de Davi, tem compaixão de nós. Abre os nossos olhos."
+- **Resposta possível:** a oração dos cegos: "Senhor, Filho de Davi, tenha compaixão de nós. Que se abram os nossos olhos."
 - **Refrão:** "O Rei bom reparte, não paga — e cura o olho ressentido."
 - "Que a palavra do Senhor faça morada em vocês."
 - **Oração final:**
@@ -216,4 +217,4 @@
 - **Spurgeon:** só usar depois de conferir (*Sermões de Spurgeon sobre as Parábolas*, no Drive).
 - **Carson:** explicar o tom logo em seguida.
 - **Autoimplicação (ponto III):** oral, ao vivo; chegar com um episódio real em mente. Deixar implícito quem carregou a obra desde o começo.
-- **Versículos:** citados no texto em redação ARA; a leitura é NAA.
+- **Versículos:** leitura e citações na NAA. Ditos ao pé da letra, com aviso: Mt 20.15b ("o teu olho é mau") e Pv 22.9 ("o de olho bom").
