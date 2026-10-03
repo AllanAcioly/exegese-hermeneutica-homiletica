@@ -8,7 +8,8 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 interpretação bíblica do Rev. Allan Acioly, cobrindo qualquer gênero literário
 das Escrituras (narrativa, discurso/epístola, poesia, profecia, parábola,
 lei, sabedoria, apocalíptica). Não é um repositório de código — não existem
-comandos de build, lint ou teste.
+comandos de build, lint ou teste. A única ferramenta é o gerador de DOCX da
+Fase 7 (`ferramentas/gerar-docx-ipe.js`; ver `ferramentas/README.md`).
 
 ## Metodologia de interpretação
 
@@ -158,6 +159,10 @@ context/                            — documentos de referência metodológica
                                       escopo amplo (cristãos + seculares, clássicos
                                       + contemporâneos), regra de ≤80 palavras para
                                       citação direta, template do banco
+
+ferramentas/                        — gerar-docx-ipe.js: markdown → DOCX layout IPE
+                                      (sermão, púlpito, estudo) com notas de rodapé
+                                      reais; uso em ferramentas/README.md
 
 assets/                             — identidade visual e recursos gráficos
   identidade-visual-ipe.md          — especificações de cores, fontes, layout IPE

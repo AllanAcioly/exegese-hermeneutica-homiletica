@@ -537,10 +537,22 @@ Todos os documentos usam o **layout IPE** (ver `assets/identidade-visual-ipe.md`
 
 ### 7.3 Geração técnica
 
-Usar `docx` (npm) para DOCX. Para PDF, usar a skill `pdf` ou converter
-via LibreOffice (`soffice`). Base técnica: infraestrutura do
-`build_template.js` da skill `aula-indutiva-ipe`, adaptando a região de
-conteúdo para o tipo de documento.
+Gerar os DOCX com a ferramenta do projeto, `ferramentas/gerar-docx-ipe.js`
+(tipos `sermao`, `pulpito` e `estudo`; uso e markdown reconhecido em
+`ferramentas/README.md`). Ela já aplica o layout IPE e converte os
+marcadores `[^id]` em notas de rodapé reais do Word. Exemplo:
+
+```bash
+node ferramentas/gerar-docx-ipe.js sermao estudos/<livro>/<cap>-<vv>-sermao-revisado.md \
+  estudos/<livro>/<cap>-<vv>-sermao.docx --titulo "..." --referencia "..." \
+  --serie "..." --data "Mês de AAAA"
+```
+
+Validar cada arquivo com `scripts/office/validate.py` da skill `docx`. Para
+PDF, usar a skill `pdf` ou converter via LibreOffice (`soffice`). Se um tipo
+novo de documento for necessário, estender a ferramenta (a infraestrutura
+vem do `build_template.js` da skill `aula-indutiva-ipe`) em vez de criar um
+script avulso.
 
 Assets disponíveis em `assets/`:
 - `farol.png` / `farol.svg` — logo IPE (usar só se o usuário pedir

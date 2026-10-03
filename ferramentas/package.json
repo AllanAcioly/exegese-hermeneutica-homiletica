@@ -1,0 +1,8 @@
+{
+  "name": "exegese-ferramentas",
+  "private": true,
+  "description": "Gerador de DOCX no layout IPE para sermões, esboços de púlpito e estudos",
+  "dependencies": {
+    "docx": "^9.7.1"
+  }
+}

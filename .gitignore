@@ -9,3 +9,7 @@ Thumbs.db
 # IDE / editor
 .vscode/
 .idea/
+
+# Dependências da ferramenta de DOCX
+node_modules/
+package-lock.json
