@@ -26,8 +26,8 @@ def capitulo(livro, cap):
     req = urllib.request.Request(url, headers={"User-Agent": "Mozilla/5.0"})
     with urllib.request.urlopen(req, timeout=30) as r:
         x = r.read().decode("utf-8")
-    # Títulos de seção (h2) não fazem parte do texto bíblico.
-    x = re.sub(r"<h2[ >].*?</h2>", " ", x, flags=re.S)
+    # Títulos de seção (h1-h6) não fazem parte do texto bíblico.
+    x = re.sub(r"<h([1-6])[ >].*?</h\1>", " ", x, flags=re.S)
     marcas = [(m.start(), int(m.group(1)))
               for m in re.finditer(r'data-vn="" data-v="\.(\d+)\."', x)]
     if not marcas:
