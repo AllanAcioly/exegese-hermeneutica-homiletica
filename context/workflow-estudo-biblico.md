@@ -18,6 +18,51 @@ completo de exegese → hermenêutica → homilética sobre um texto específico
   (ex: `estudos/lucas/15-1-10.md`)
 - **Princípios não-negociáveis**: Sola Scriptura, Escritura interpreta
   Escritura, leitura cristocêntrica e redentivo-histórica, Permanecer na Linha
+- **Notas de rodapé**: obrigatórias em todo sermão e estudo bíblico
+  entregue (ver "Notas de rodapé" abaixo)
+
+## Notas de rodapé (padrão obrigatório)
+
+Todo sermão final e todo estudo bíblico entregue traz notas de rodapé,
+colocadas **onde forem necessárias** (não acumuladas no fim de seção). São
+três tipos, e cada nota começa com o rótulo do seu tipo, em negrito, para
+consulta rápida no púlpito:
+
+1. **Grego / Hebraico** (ou Latim, Aramaico): a palavra original,
+   transliterada e no alfabeto original, com explicação **simples** do
+   sentido e do porquê ela importa (tempo verbal, eco com outro texto,
+   repetição). Escrita para ser lida de relance durante a pregação, sem
+   jargão técnico.
+2. **Aprofundamento**: ideias que acrescentam ao entendimento mas
+   alongariam demais o sermão: pano de fundo histórico-cultural, debates
+   entre comentaristas e a posição adotada, paralelos bíblicos,
+   harmonizações, ressalvas de Permanecer na Linha.
+3. **Fonte**: a referência bibliográfica de onde saíram citações, ideias,
+   reflexões e ilustrações. Formato: Autor, *Obra* (série; cidade:
+   editora, ano), página. Quando a citação veio por terceiros, dizer "citado
+   por". Tradução livre, fonte não conferida ou atribuição incerta são
+   sinalizadas na própria nota. Nunca inventar editora, ano ou página: na
+   dúvida, omitir o dado ou escrever "conferir na edição usada". As ideias
+   do próprio Rev. Allan (notas de preparação) também são creditadas.
+
+Uma nota pode combinar tipos ("**Grego.** ... **Fonte:** ...").
+
+**Onde as notas aparecem**:
+- **Sermão final** (Fase 6c e DOCX da Fase 7): todos os três tipos.
+- **Documento de estudo** (DOCX das Fases 1-6a): todas as referências
+  bibliográficas vão para notas de rodapé; as notas de Grego e
+  Aprofundamento entram onde a explicação no corpo ficaria longa.
+- **Aula indutiva / outros estudos bíblicos**: mesmo padrão, adaptado ao
+  formato (notas para o facilitador).
+- **Esboço de púlpito**: não é obrigatório; as notas ficam no manuscrito
+  do sermão.
+
+**Formato no markdown**: marcador `[^id]` logo depois do trecho anotado
+(depois da pontuação) e as definições `[^id]: texto` numa seção final
+`## Notas`, na ordem de aparição. Na geração do DOCX, os marcadores viram
+notas de rodapé reais do Word (`FootnoteReferenceRun` do pacote `docx`),
+numeradas automaticamente, em Cambria 8,5 pt; a seção `## Notas` não
+aparece no corpo do documento.
 
 ---
 
@@ -413,6 +458,11 @@ para o sermão atual. As descartadas permanecem no banco para uso futuro.
   pastoralidade autoimplicada
 - O rascunho deve soar como o Rev. Allan pregando: direto, pessoal,
   com diagnóstico cultural penetrante e aplicação ao coração
+- **Notas de rodapé** (padrão obrigatório, ver seção própria): Grego/Hebraico,
+  Aprofundamento e Fonte, colocadas onde forem necessárias. Toda citação,
+  ideia de comentarista e ilustração de terceiros recebe nota de Fonte; as
+  fontes vêm do banco de citações, do banco de ilustrações e da Consulta
+  aos Comentaristas do estudo
 
 ### → PAUSA
 
@@ -467,6 +517,8 @@ Todos os documentos usam o **layout IPE** (ver `assets/identidade-visual-ipe.md`
 - Texto corrido do rascunho validado
 - Referências bíblicas destacadas
 - Seções com títulos em Constantia marinho
+- **Notas de rodapé reais do Word** (Grego/Hebraico, Aprofundamento,
+  Fonte), geradas a partir dos marcadores `[^id]` do markdown
 
 **Esboço de púlpito** (se solicitado):
 - Capa simplificada (ou sem capa — documento compacto)
@@ -480,6 +532,8 @@ Todos os documentos usam o **layout IPE** (ver `assets/identidade-visual-ipe.md`
 - Cada fase como seção com título e separador
 - Todas as notas exegéticas, diagnóstico, aplicação cristológica
 - O esboço homilético (6a) como seção final
+- **Notas de rodapé reais do Word**, com todas as referências
+  bibliográficas
 
 ### 7.3 Geração técnica
 

@@ -109,6 +109,14 @@ seguir o workflow completo de 6 fases definido em
 
 ### Saída
 
+- **Notas de rodapé obrigatórias** em todo sermão e estudo bíblico entregue,
+  colocadas onde forem necessárias, de três tipos: **Grego/Hebraico**
+  (palavra original com explicação simples, para consulta rápida no
+  púlpito), **Aprofundamento** (ideias que alongariam demais o sermão) e
+  **Fonte** (referência bibliográfica de citações, ideias, reflexões e
+  ilustrações). No markdown: `[^id]` + seção final `## Notas`; no DOCX,
+  notas de rodapé reais do Word. Ver "Notas de rodapé" em
+  `context/workflow-estudo-biblico.md`
 - Estudo em markdown: `estudos/<livro>/<capítulo>-<versículos>.md`
 - Documentos formatados (DOCX/PDF) com layout IPE (capa simplificada)
   salvos na mesma pasta, entregues via SendUserFile
