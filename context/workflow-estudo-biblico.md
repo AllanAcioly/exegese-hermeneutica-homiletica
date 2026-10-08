@@ -158,6 +158,44 @@ Diagnosticar em dois níveis (Keller):
 - **Nível de raiz**: o ídolo do coração → a mentira que o ídolo promete →
   o que o coração busca no ídolo em vez de buscar em Deus
 
+### 3.1a Os três níveis do conflito
+
+Todo texto encena um conflito, e ele costuma operar em três níveis ao
+mesmo tempo. Nomear os três dá ao sermão conexão: o ouvinte se reconhece
+no externo, é alcançado no interno e é corrigido no teológico.
+
+| Nível | Pergunta | Exemplo: o leproso (Mc 1.40-42) |
+|-------|----------|--------------------------------|
+| **Externo** | O que o personagem (ou o leitor original) enfrenta de fora? | A doença, a exclusão social, a impureza ritual que o afastava do povo e do culto (Lv 13.45-46) |
+| **Interno** | O que se passa no coração diante disso — medo, dúvida, vergonha, ídolo? | "Se o senhor quiser, pode me purificar": ele não duvida do *poder* de Jesus, duvida da *vontade* |
+| **Teológico** | Que verdade sobre Deus está em jogo — que oposição o texto põe em cena? | Puro × impuro: pela Lei, o contato com o impuro contaminava. Jesus toca — e, em vez de se contaminar, purifica |
+
+**Ligação com o diagnóstico de Keller**: o nível interno é onde mora o
+ídolo; o teológico é onde mora a mentira sobre Deus. No leproso, a dúvida
+"se o senhor quiser" é a forma mais antiga dessa mentira — a de que Deus
+não é bom (Ferguson). Por isso a resposta "Quero, sim" é evangelho.
+
+**Regras**:
+- **O interno só com evidência no texto** (Permanecer na Linha). O
+  conflito interno sai de uma pista textual — "se o senhor quiser", um
+  silêncio, uma pergunta, uma reação. Sem pista, não inventar psicologia
+  do personagem
+- **Respeitar a ordem que o texto dá.** Em Mc 1.41, Jesus se compadece,
+  estende a mão, toca e só então diz "Quero, sim". O toque vem antes da
+  palavra: a primeira resposta à dúvida do leproso é um gesto. Não
+  reorganizar a cena para que ela caiba num esquema
+- **Fora da narrativa**, os três níveis se aplicam aos leitores originais:
+  nas epístolas, o externo é a situação da igreja (perseguição, conflito,
+  falso ensino); o interno, o que isso produz no coração; o teológico, a
+  verdade sobre Deus que o autor reafirma
+- **Em 3.2 e 5.3**, mostrar como Deus responde em cada nível — no texto
+  e em Cristo
+
+**Origem do modelo**: a divisão em externo, interno e "filosófico" vem do
+marketing narrativo (Donald Miller, *StoryBrand*), onde o herói é o
+cliente. Aqui ela é aproveitada como ferramenta de diagnóstico, com a
+mesma correção feita a Nancy Duarte: o herói é Cristo.
+
 ### 3.2 Como Deus resolveu esse problema lá?
 
 - A ação, resposta, intervenção ou revelação divina no contexto original
@@ -385,6 +423,9 @@ criação → queda → redenção → consumação.
   identificado na Fase 3
 - Não um Cristo genérico, mas o aspecto específico de Cristo que responde
   ao problema específico do texto
+- Quando o texto permitir, mostrar a resposta de Cristo nos três níveis
+  do conflito (3.1a): o que Ele faz com a circunstância, com o coração e
+  com a mentira sobre Deus
 
 ### 5.4 Como praticar essa lição em sua essência?
 
@@ -427,6 +468,25 @@ teológico(s) e gênero da perícope (Fases 3-5). Reutilizar uma entrada
 atual precisa** — nunca por conveniência. Ao reutilizar, registrar a nova
 linha na tabela de Usos daquela entrada, explicando a conexão específica.
 
+**Triagem antes do esboço.** Depois das Fases 1-5, a mesa está cheia:
+palavras, contextos, paralelos, curiosidades. O problema deixa de ser
+pesquisar e passa a ser organizar. Três perguntas, nesta ordem:
+
+1. **Qual é a ideia principal que este texto me dá para pregar?** É a
+   espinha dorsal — e já está pronta: o telos (Fase 2) em linguagem de
+   sermão
+2. **Que ideias secundárias defendem a principal?** Cada informação
+   levantada passa por um filtro: ela ajuda a explicar, provar ou aplicar
+   a ideia principal? Se sim, entra no esboço. Se é boa mas não serve à
+   espinha, vai para nota de rodapé **Aprofundamento** ou fica só no
+   estudo (.md). Se é só curiosidade, sai
+3. **Em que ordem o ouvinte vai entender?** A ordem padrão é a do texto
+   (Fase 1.2): o sermão segue o movimento que o autor deu. Dentro de
+   cada ponto, a ordem é a do ouvinte — do conhecido para o
+   desconhecido, do problema para a resposta. Alterar a sequência do
+   texto só quando a compreensão oral exigir e sem distorcer o argumento
+   do autor — e registrar o motivo no esboço
+
 Produzir um esboço completo do sermão com:
 
 1. **Título** — breve, evocativo, conectado ao telos; não um resumo, mas
@@ -435,7 +495,8 @@ Produzir um esboço completo do sermão com:
    de sermão: uma frase que carrega o peso de tudo
 3. **Introdução**
    - O problema (Keller: "o que todo mundo sente") — entrar na experiência
-     humana comum
+     humana comum, de preferência pelo conflito externo ou interno do
+     texto (3.1a), que é onde o ouvinte se reconhece
    - A pergunta que o texto responde — criar expectativa
 4. **Pontos principais** — derivados da estrutura do texto (Fase 1)
    - Cada ponto contém:
