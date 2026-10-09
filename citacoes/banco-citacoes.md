@@ -3507,3 +3507,173 @@ Owen — cada voz tem seu peso próprio.
 
 ---
 
+
+## [CT-184] Só há dois tipos de homens — Blaise Pascal
+
+- **Autor**: Blaise Pascal (1623-1662), matemático, físico e apologista cristão francês
+- **Origem**: PASCAL, Blaise. *Pensamentos*. Fragmento 533 na numeração de Brunschvicg (seguida na tradução inglesa de W. F. Trotter), segundo as fontes consultadas; numeração de Lafuma a conferir [edição em português a conferir: p. ex., São Paulo: Martins Fontes]. Original: "Il n'y a que deux sortes d'hommes : les uns justes, qui se croient pécheurs ; les autres pécheurs, qui se croient justes."
+- **Tags**: `#justificação` `#autojustiça` `#fariseu` `#publicano` `#Lc18` `#pecado` `#autoconhecimento`
+- **Texto** (tradução livre):
+  > "Há apenas dois tipos de homens: os justos, que se creem pecadores; e os outros, pecadores, que se creem justos."
+- **Contexto**: fragmento dos *Pensamentos* (publicação póstuma, 1670), na seção sobre a condição humana e a necessidade do Redentor
+- **Fim argumentativo**: resume a inversão de Lc 18.9-14 numa frase: quem se considera justo (v. 9) está entre os pecadores; quem se chama "o pecador" (v. 13) desce justificado (v. 14). Prova que a autoavaliação é, ela mesma, o sintoma
+- **Adicionada em**: 2026-10-09
+
+### Usos
+
+| Data | Sermão/Perícope | Onde entrou | Conexão que justificou |
+|------|------------------|-------------|-----------------------|
+| —    | —                | —           | — |
+
+---
+
+## [CT-185] Quem olha para baixo não vê o que está acima — C.S. Lewis
+
+- **Autor**: C. S. Lewis (1898-1963), crítico literário e apologista anglicano
+- **Origem**: LEWIS, C. S. *Cristianismo puro e simples*. Livro III, cap. 8, "O grande pecado" [edição em português e página a conferir; em inglês: *Mere Christianity*. London: Geoffrey Bles, 1952; palestras na BBC, 1942-1944]. Original: "A proud man is always looking down on things and people: and, of course, as long as you are looking down, you cannot see something that is above you."
+- **Tags**: `#orgulho` `#autojustiça` `#desprezo` `#fariseu` `#Lc18` `#idolo-eu`
+- **Texto** (tradução livre):
+  > "O orgulhoso está sempre olhando de cima para as coisas e para as pessoas; e, é claro, enquanto você estiver olhando para baixo, não consegue ver algo que está acima de você."
+- **Contexto**: no capítulo sobre o orgulho, que Lewis chama de "o grande pecado", o estado mental "completamente anti-Deus". No mesmo capítulo: o orgulho não tem prazer em ter algo, só em ter mais do que o outro; é a comparação que torna orgulhoso
+- **Fim argumentativo**: mostra que o desprezo pelos outros (v. 9) e a cegueira para Deus são o mesmo movimento: o fariseu, olhando de cima para "este publicano", não vê Deus; o publicano, que nem ousa levantar os olhos, é o que de fato está diante de Deus
+- **Adicionada em**: 2026-10-09
+
+### Usos
+
+| Data | Sermão/Perícope | Onde entrou | Conexão que justificou |
+|------|------------------|-------------|-----------------------|
+| —    | —                | —           | — |
+
+---
+
+## [CT-186] Um termo negativo no lugar de um positivo — C.S. Lewis
+
+- **Autor**: C. S. Lewis (1898-1963), crítico literário e apologista anglicano
+- **Origem**: LEWIS, C. S. "O peso da glória" (sermão pregado na igreja de St Mary the Virgin, Oxford, 8 jun. 1942), parágrafo de abertura. In: *O peso da glória* [edição em português e página a conferir; em inglês: *The Weight of Glory and Other Addresses*]
+- **Tags**: `#lei` `#amor` `#moralismo` `#religião-negativa` `#evangelho` `#virtude` `#Lc18`
+- **Texto** (tradução livre de trechos):
+  > "Se você perguntasse a vinte homens bons de hoje qual é a mais alta das virtudes, dezenove responderiam: o altruísmo. Mas se perguntasse a quase qualquer um dos grandes cristãos de outrora, ele responderia: o amor. […] Um termo negativo foi posto no lugar de um positivo."
+- **Paráfrase do que segue**: a ideia negativa de altruísmo sugere não tanto garantir coisas boas para os outros quanto privar-nos delas, como se a nossa abstinência, e não a felicidade deles, fosse o ponto importante. O Novo Testamento fala muito de abnegação, mas nunca como fim em si mesma
+- **Contexto**: abertura do sermão sobre o desejo e a glória; Lewis diagnostica a moral moderna que mede a virtude pelo que se deixa de fazer
+- **Fim argumentativo**: dá peso de tradição ao fio "religião negativa × evangelho positivo": a religião morta se mede pelos "nãos" (Lc 18.11) e se sente quite; a Lei sempre foi um "sim", amar (Lc 10.27; Rm 13.8-10). Útil também contra o moralismo de abstinência em geral
+- **Adicionada em**: 2026-10-09
+
+### Usos
+
+| Data | Sermão/Perícope | Onde entrou | Conexão que justificou |
+|------|------------------|-------------|-----------------------|
+| —    | —                | —           | — |
+
+---
+
+## [CT-187] Remissão dos pecados e imputação da justiça de Cristo — João Calvino
+
+- **Autor**: João Calvino (1509-1564), reformador de Genebra
+- **Origem**: CALVINO, João. *A instituição da religião cristã*. Livro III, cap. 11, seção 2 (ed. definitiva de 1559) [edição em português e página a conferir: p. ex., São Paulo: Unesp; ou *As Institutas*, São Paulo: Cultura Cristã]. Na tradução inglesa de F. L. Battles: "we explain justification simply as the acceptance with which God receives us into his favor as righteous men. And we say that it consists in the remission of sins and the imputation of Christ's righteousness"
+- **Tags**: `#justificação` `#imputação` `#perdão` `#obediência-ativa` `#cristologia` `#Lc18` `#reforma`
+- **Texto** (tradução livre):
+  > "Explicamos a justificação simplesmente como a aceitação com que Deus nos recebe em seu favor como justos. E dizemos que ela consiste na remissão dos pecados e na imputação da justiça de Cristo."
+- **Contexto**: definição formal da justificação, no início do tratamento da doutrina nas *Institutas*, contra a ideia de justiça infundida
+- **Fim argumentativo**: sustenta "a justificação de dois lados": a remissão zera a conta (os "nãos" quebrados); a imputação a enche (o "sim" do amor que nunca demos, dado por Cristo). Mostra que "justificado" (Lc 18.14, *dedikaiōmenos*) é mais que perdoado. Converge com CFW XI.1 e Breve Catecismo, perg. 33
+- **Adicionada em**: 2026-10-09
+
+### Usos
+
+| Data | Sermão/Perícope | Onde entrou | Conexão que justificou |
+|------|------------------|-------------|-----------------------|
+| —    | —                | —           | — |
+
+---
+
+## [CT-188] Tu és a minha justiça, eu sou o teu pecado — Martinho Lutero
+
+- **Autor**: Martinho Lutero (1483-1546), reformador alemão, então monge agostiniano em Wittenberg
+- **Origem**: LUTERO, Martinho. Carta a Georg Spenlein, frade agostiniano em Memmingen, 7 ou 8 abr. 1516 (a data varia conforme a edição). WA Br 1, 35; em inglês: *Luther's Works*, v. 48 [página a conferir; provavelmente p. 12-13]
+- **Tags**: `#justificação` `#grande-troca` `#imputação` `#cruz` `#cristologia` `#autojustiça` `#Lc18`
+- **Texto** (tradução livre):
+  > "Aprende a Cristo, e a este crucificado. Aprende a cantar-lhe e, desesperando de ti mesmo, a dizer: 'Tu, Senhor Jesus, és a minha justiça, e eu sou o teu pecado. Tomaste sobre ti o que era meu e me deste o que era teu.'"
+- **Contexto**: carta pastoral a um confrade que buscava a paz com Deus pelas próprias obras; Lutero, ainda antes das 95 teses, o exorta a desesperar da própria justiça
+- **Fim argumentativo**: põe na boca do pregador e do ouvinte a "grande troca" de 2Co 5.21: o publicano pede propiciação; Cristo toma o pecado e dá a justiça. Responde à tensão de Pv 17.15 (como Deus justifica o ímpio?) com a substituição
+- **Adicionada em**: 2026-10-09
+
+### Usos
+
+| Data | Sermão/Perícope | Onde entrou | Conexão que justificou |
+|------|------------------|-------------|-----------------------|
+| —    | —                | —           | — |
+
+---
+
+## [CT-189] A comunhão piedosa não permite que ninguém seja pecador — Dietrich Bonhoeffer
+
+- **Autor**: Dietrich Bonhoeffer (1906-1945), pastor e teólogo luterano alemão, mártir sob o nazismo
+- **Origem**: BONHOEFFER, Dietrich. *Vida em comunhão*. Cap. 5, "Confissão e Ceia" (original alemão: *Gemeinsames Leben*, 1939) [edição em português e página a conferir]. Na tradução inglesa clássica (J. W. Doberstein): "The pious fellowship permits no one to be a sinner. So everybody must conceal his sin from himself and from the fellowship. We dare not be sinners"
+- **Tags**: `#igreja` `#confissão` `#autojustiça` `#comunhão` `#hipocrisia` `#Lc18` `#fariseu`
+- **Texto** (tradução livre):
+  > "A comunhão piedosa não permite que ninguém seja pecador. Por isso cada um precisa esconder o seu pecado de si mesmo e da comunhão. Não ousamos ser pecadores."
+- **Contexto**: Bonhoeffer observa que muitos cristãos têm comunhão como crentes e devotos, mas não como pecadores; a ruptura para a verdadeira comunhão acontece na confissão
+- **Fim argumentativo**: mostra o fariseu coletivo: a igreja que vive da reputação produz membros que oram "graças te dou" por fora e escondem o publicano por dentro. Serve à aplicação aos crentes e à igreja local (confissão, liturgia, comunhão de pecadores justificados)
+- **Adicionada em**: 2026-10-09
+
+### Usos
+
+| Data | Sermão/Perícope | Onde entrou | Conexão que justificou |
+|------|------------------|-------------|-----------------------|
+| —    | —                | —           | — |
+
+---
+
+## [CT-190] Se a sua pregação nunca foi mal-entendida assim — D. Martyn Lloyd-Jones
+
+- **Autor**: D. Martyn Lloyd-Jones (1899-1981), pregador galês, Westminster Chapel, Londres
+- **Origem**: LLOYD-JONES, D. Martyn. *Romans: an exposition of chapter 6 — The New Man*. Edinburgh: Banner of Truth, 1972, p. 8-9 [conferir; edição em português a conferir: *Romanos: exposição sobre o capítulo 6, O novo homem*, São Paulo: PES]
+- **Tags**: `#graça` `#antinomismo` `#pregação` `#evangelho` `#Rm6` `#justificação`
+- **Paráfrase** (com âncora em citação curta, redação a conferir no livro): comentando Rm 6.1 ("Continuaremos no pecado, para que a graça aumente?"), Lloyd-Jones afirma que a verdadeira pregação da salvação somente pela graça sempre se expõe à acusação de que encoraja o pecado; e aconselha os pregadores: "se a sua pregação da salvação nunca foi mal-entendida dessa forma, é melhor examinar de novo os seus sermões"
+- **Contexto**: abertura da exposição de Rm 6, sobre a objeção antinomiana que Paulo antecipa
+- **Fim argumentativo**: transforma a objeção "pastor, isso abre a porteira" num sinal de que o evangelho foi pregado, sem conceder ao antinomismo (a resposta é Rm 6.2). Protege o sermão de recuar para o moralismo ao ser acusado
+- **Adicionada em**: 2026-10-09
+
+### Usos
+
+| Data | Sermão/Perícope | Onde entrou | Conexão que justificou |
+|------|------------------|-------------|-----------------------|
+| —    | —                | —           | — |
+
+---
+
+## [CT-191] Dois subiram para orar? Um foi gabar-se — Richard Crashaw
+
+- **Autor**: Richard Crashaw (c. 1613-1649), poeta metafísico inglês
+- **Origem**: CRASHAW, Richard. "Two went up into the Temple to pray". In: *Steps to the Temple*. London, 1646 (*Divine Epigrams*). Domínio público. Texto inglês: "Two went to pray? O rather say / One went to brag, th'other to pray: // One stands up close and treads on high, / Where th'other dares not send his eye. // One nearer to God's altar trod, / The other to the altar's God." (variantes entre edições: "send"/"lend")
+- **Tags**: `#Lc18` `#fariseu` `#publicano` `#oração` `#orgulho` `#humildade` `#poesia`
+- **Texto** (tradução livre):
+  > "Dois subiram para orar? Diga antes: / um foi gabar-se, e o outro, orar. // Um fica de pé, bem perto, lá no alto; / o outro nem ousa erguer até lá o olhar. // Um chegou mais perto do altar de Deus; / o outro, do Deus do altar."
+- **Contexto**: epigrama sobre Lc 18.10-14; o último dístico é o achado: proximidade física do altar não é proximidade de Deus
+- **Fim argumentativo**: diz em seis versos o veredito do v. 14: o fariseu estava perto do altar, o publicano perto de Deus. Bom fecho de ponto ou de sermão, e boa ponte para o propiciatório (Ponto II)
+- **Adicionada em**: 2026-10-09
+
+### Usos
+
+| Data | Sermão/Perícope | Onde entrou | Conexão que justificou |
+|------|------------------|-------------|-----------------------|
+| —    | —                | —           | — |
+
+---
+
+## [CT-192] O poder expulsivo de uma nova afeição — Thomas Chalmers
+
+- **Autor**: Thomas Chalmers (1780-1847), pregador e teólogo presbiteriano escocês
+- **Origem**: CHALMERS, Thomas. "The Expulsive Power of a New Affection", sermão sobre 1Jo 2.15 [ano e coletânea a conferir; edição moderna: Wheaton: Crossway, Short Classics, com prefácio de John Piper; edição em português a conferir]
+- **Tags**: `#santificação` `#afeições` `#lei` `#religião-negativa` `#evangelho` `#idolatria` `#fruto`
+- **Paráfrase** (com âncora curta, redação a conferir): Chalmers argumenta que há duas maneiras de tentar arrancar do coração o amor ao mundo: mostrar a vaidade do mundo, ou apresentar Deus como mais digno do afeto. A primeira não basta, porque o coração não suporta o vazio; só a segunda resgata o coração. A frase-síntese: o coração está constituído de tal modo que "a única maneira de desalojá-lo de uma antiga afeição é pelo poder expulsivo de uma nova"
+- **Contexto**: sermão clássico sobre a santificação pelo afeto, contra a moral da simples proibição
+- **Fim argumentativo**: explica por que o "não" sozinho não transforma e por que o evangelho produz o "sim": o fariseu tem uma lista de "nãos"; Zaqueu, alcançado por um amor maior, reparte (Lc 19.8). Sustenta o "sim" como fruto da graça, não como nova régua
+- **Adicionada em**: 2026-10-09
+
+### Usos
+
+| Data | Sermão/Perícope | Onde entrou | Conexão que justificou |
+|------|------------------|-------------|-----------------------|
+| —    | —                | —           | — |
+
+---
