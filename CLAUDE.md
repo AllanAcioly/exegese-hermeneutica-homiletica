@@ -110,6 +110,12 @@ seguir o workflow completo de 6 fases definido em
 ### Saída
 
 - Estudo em markdown: `estudos/<livro>/<capítulo>-<versículos>.md`
+- **O estudo entregue é sempre a consolidação de tudo o que foi estudado e
+  anexado** (regra do Allan, 2026-10-09): antes da Fase 7, as Fases 1-5 são
+  reescritas incorporando as contribuições, correções e decisões vindas dos
+  materiais anexados e das validações, com a fonte indicada; os apêndices
+  de análise ficam no `.md` como registro. Ver Fase 7.0 de
+  `context/workflow-estudo-biblico.md`
 - Documentos formatados (DOCX/PDF) com layout IPE (capa simplificada)
   salvos na mesma pasta, entregues via SendUserFile
 - **Notas de rodapé obrigatórias na entrega final**, de três tipos, onde

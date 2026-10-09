@@ -738,6 +738,33 @@ sobre os formatos de entrega. Usar AskUserQuestion com estas perguntas:
 "Quer o documento completo do estudo (exegese até esboço) em DOCX ou PDF?"
 - Opções: DOCX / PDF / Não preciso (ficar só no .md)
 
+### 7.0 Consolidação do estudo (regra permanente, desde 2026-10-09)
+
+**Todo estudo, na entrega final, é a consolidação de tudo o que foi
+estudado e anexado** — não o estudo inicial das Fases 1-5. Antes de gerar
+qualquer documento da Fase 7 (e antes de registrar o índice):
+
+1. **Reescrever as Fases 1-5 no `.md`** incorporando tudo o que os
+   materiais anexados pelo Allan (comentários, especialistas, expositores,
+   sermões, esboços e compilações dele) e as rodadas de validação
+   acrescentaram, corrigiram ou decidiram. Cada decisão nova entra no
+   lugar onde pertence (ex.: uma decisão exegética vai para a Fase 1, não
+   fica só num apêndice), com a **fonte** indicada (autor e página quando
+   houver)
+2. **Onde o estudo inicial mudou**, a versão consolidada diz a posição
+   final e, quando ajuda, o porquê (ex.: "leitura provável, não apenas
+   inferência — Bailey, Snodgrass"); não mantém lado a lado a versão
+   superada
+3. **Erros de fontes** identificados durante a análise dos anexos entram
+   como correção no lugar pertinente (ou numa seção curta de correções),
+   para não voltarem num estudo futuro
+4. **Os apêndices de análise dos anexos continuam no `.md`** como registro
+   da pesquisa; o documento de estudo consolidado remete a eles, mas não
+   depende deles para ser completo
+5. **O documento de estudo (DOCX/PDF) é gerado a partir da versão
+   consolidada**: Fases 1-5 consolidadas + esboço final (6a) + citações
+   (6b); versões superadas do esboço ficam só no `.md`
+
 ### 7.2 Geração dos documentos
 
 Todos os documentos usam o **layout IPE** (ver `assets/identidade-visual-ipe.md`):
@@ -778,7 +805,8 @@ Todos os documentos usam o **layout IPE** (ver `assets/identidade-visual-ipe.md`
 - Só as notas de **língua original** — são as de consulta rápida no
   púlpito; aprofundamento e fonte ficam no documento do sermão
 
-**Documento de estudo** (Fases 1-6a, se solicitado):
+**Documento de estudo** (Fases 1-6a, se solicitado — sempre a versão
+**consolidada**, ver 7.0):
 - Capa simplificada com subtítulo "Estudo Exegético-Hermenêutico"
 - Cada fase como seção com título e separador
 - Todas as notas exegéticas, diagnóstico, aplicação cristológica
