@@ -3523,7 +3523,7 @@ Owen — cada voz tem seu peso próprio.
 
 | Data | Sermão/Perícope | Onde entrou | Conexão que justificou |
 |------|------------------|-------------|-----------------------|
-| —    | —                | —           | — |
+| 2026-10-09 | Lc 18.9-14 — "O Veredito do Rei: eu mereço justiça?" | Ponto III | Logo depois de "e não aquele": a inversão da parábola numa frase |
 
 ---
 
@@ -3562,7 +3562,7 @@ Owen — cada voz tem seu peso próprio.
 
 | Data | Sermão/Perícope | Onde entrou | Conexão que justificou |
 |------|------------------|-------------|-----------------------|
-| —    | —                | —           | — |
+| 2026-10-09 | Lc 18.9-14 — "O Veredito do Rei: eu mereço justiça?" | Ponto I | Abre o fio "religião negativa × evangelho positivo": a justiça do fariseu feita de "nãos" |
 
 ---
 
@@ -3581,7 +3581,7 @@ Owen — cada voz tem seu peso próprio.
 
 | Data | Sermão/Perícope | Onde entrou | Conexão que justificou |
 |------|------------------|-------------|-----------------------|
-| —    | —                | —           | — |
+| 2026-10-09 | Lc 18.9-14 — "O Veredito do Rei: eu mereço justiça?" | Ponto IV, nota 35 (Aprofundamento) | A justificação de dois lados: o perdão zera a conta, a imputação a enche |
 
 ---
 
@@ -3600,7 +3600,7 @@ Owen — cada voz tem seu peso próprio.
 
 | Data | Sermão/Perícope | Onde entrou | Conexão que justificou |
 |------|------------------|-------------|-----------------------|
-| —    | —                | —           | — |
+| 2026-10-09 | Lc 18.9-14 — "O Veredito do Rei: eu mereço justiça?" | Ponto IV | Depois do "Sim. Em Cristo", na grande troca (2Co 5.21) |
 
 ---
 
@@ -3656,7 +3656,7 @@ Owen — cada voz tem seu peso próprio.
 
 | Data | Sermão/Perícope | Onde entrou | Conexão que justificou |
 |------|------------------|-------------|-----------------------|
-| —    | —                | —           | — |
+| 2026-10-09 | Lc 18.9-14 — "O Veredito do Rei: eu mereço justiça?" | Conclusão | O último dístico: o fariseu perto do altar de Deus, o publicano perto do Deus do altar |
 
 ---
 
@@ -3693,6 +3693,6 @@ Owen — cada voz tem seu peso próprio.
 
 | Data | Sermão/Perícope | Onde entrou | Conexão que justificou |
 |------|------------------|-------------|-----------------------|
-| —    | —                | —           | — |
+| 2026-10-09 | Lc 18.9-14 — "O Veredito do Rei: eu mereço justiça?" | Ponto I | A oração do fariseu sem nenhum pedido: quem não pede acha que não precisa de nada |
 
 ---

@@ -39,6 +39,155 @@ Nunca forçar uma boa ilustração num lugar que ela não serve.
 
 <!-- Novas entradas entram abaixo desta linha, mais recentes no topo -->
 
+## [IL-021] O disjuntor do evangelho: religar a graça todos os dias
+
+- **Fonte**: Própria (Allan)
+- **Origem específica**: imagem-assinatura do Allan ("disjuntor da graça que
+  cai", registrada no perfil de voz); usada no sermão "Três modos de viver e
+  o um que agrada a Deus" (Lc 18.9-14, jan. 2022) e retomada em "O Veredito
+  do Rei: eu mereço justiça?" (Lc 18.9-14, 2026), Ponto V
+- **Tags**: `#evangelho-para-crentes` `#autojustiça` `#moralismo`
+  `#pregar-a-si-mesmo` `#santificação` `#Lc18`
+- **Descrição**: o disjuntor do quadro de luz desarma quando há sobrecarga
+  e a casa fica no escuro até alguém religá-lo. O coração do crente tem um
+  disjuntor assim: se a gente "der mole", ele desarma e o coração entra no
+  "modo fariseu", tentando comprar a própria justificação com o desempenho.
+  É preciso religá-lo todo dia, pregando o evangelho a si mesmo.
+- **Fim homilético**: ilustra que a recaída na autojustiça não é exceção
+  rara, mas tendência constante do coração justificado, e que a resposta
+  não é esforço moral redobrado, e sim voltar ao veredito já dado em Cristo
+  (pregar o evangelho a si mesmo, Lloyd-Jones). Serve à implementação
+  ("como fazer") de sermões sobre justificação e graça para crentes; a
+  imagem permite diagnosticar sinais concretos do "apagão" (só se sentir
+  perdoado depois de muita miséria; orgulho e rudeza; sensação constante
+  de fracasso).
+- **Adicionada em**: 2026-10-09
+
+### Usos
+
+| Data | Sermão/Perícope | Conexão específica que justificou o reuso |
+|------|------------------|---------------------------------------------|
+| 2026-10-09 | Lc 18.9-14 — "O Veredito do Rei: eu mereço justiça?" (Ponto V) | Imagem-guia da implementação: o crente justificado volta ao "modo fariseu" e precisa religar o evangelho diariamente; desdobrada nos três sinais de Keller |
+
+---
+
+## [IL-020] Edmundo, o Justo: o traidor coroado por causa de outro
+
+- **Fonte**: Livro: C. S. Lewis, *O leão, a feiticeira e o guarda-roupa*
+  (As Crônicas de Nárnia); sugerida em sermão de Michel Medeiros sobre Lc
+  18.9-14
+- **Origem específica**: o enredo de Edmundo (a traição dos irmãos, a morte
+  de Aslan na Mesa de Pedra) e o último capítulo, em que os quatro irmãos
+  são coroados em Cair Paravel e recebem seus títulos [edição em português
+  e página a conferir]
+- **Tags**: `#justificação` `#substituição` `#imputação` `#exaltação`
+  `#graça` `#Lc18` `#Narnia`
+- **Descrição**: Edmundo trai os irmãos e se entrega à Feiticeira; Aslan
+  morre no lugar dele. No fim, o traidor é coroado rei e passa a ser
+  chamado "Edmundo, o Justo".
+- **Fim homilético**: ilustra que a justificação é uma declaração (um
+  título) dada ao culpado por causa da morte de outro, e não um
+  reconhecimento de mérito; e que a exaltação de quem se humilha vem de
+  Deus. Serve a textos sobre justificação forense (Lc 18.14; Rm 4.5) e à
+  passagem da cruz (substituição) para a nova identidade. Cuidado: Aslan é
+  figura de Cristo na ficção de Lewis, não alegoria a ser forçada em
+  detalhes.
+- **Adicionada em**: 2026-10-09
+
+### Usos
+
+| Data | Sermão/Perícope | Conexão específica que justificou o reuso |
+|------|------------------|---------------------------------------------|
+| 2026-10-09 | Lc 18.9-14 — "O Veredito do Rei: eu mereço justiça?" (Ponto V) | "O que se humilha será exaltado" (v. 14b) e "desceu justificado": o traidor recebe o título de justo e a coroa porque outro morreu no lugar dele |
+
+---
+
+## [IL-019] O diploma: a justificação conquistada por outro
+
+- **Fonte**: Própria (Allan), a partir de aula do Rev. Franklin Ferreira
+  (comunicação oral)
+- **Origem específica**: sermão do Allan "Três modos de viver e o um que
+  agrada a Deus" (Lc 18.9-14, jan. 2022), no ponto sobre o v. 14; retomada
+  em "O Veredito do Rei: eu mereço justiça?" (2026), Ponto III
+- **Tags**: `#justificação` `#imputação` `#graça` `#autojustiça`
+  `#porta-do-céu` `#Lc18`
+- **Descrição**: ser justificado é receber um diploma pendurado para a
+  eternidade. Na porta do céu, o anjo nem pergunta por que você acha que
+  deve entrar; olha o diploma e diz "entra". O detalhe: quem fez a prova
+  não foi você; o diploma foi conquistado por outro e registrado no seu
+  nome.
+- **Fim homilético**: ilustra que a justificação é um status declarado e
+  permanente (*dedikaiōmenos*), recebido e não conquistado, e que se apoia
+  na obediência de Cristo imputada. Formular sempre como "declarado justo"
+  (não "feito justo"). Funciona bem em contraste com a cena do religioso
+  que dá carteirada na porta do céu (IL-018).
+- **Adicionada em**: 2026-10-09
+
+### Usos
+
+| Data | Sermão/Perícope | Conexão específica que justificou o reuso |
+|------|------------------|---------------------------------------------|
+| 2026-10-09 | Lc 18.9-14 — "O Veredito do Rei: eu mereço justiça?" (Ponto III) | O veredito do v. 14 ("desceu justificado") como diploma registrado no nome do publicano, conquistado por outro; fecha a cena da carteirada do Ponto I |
+
+---
+
+## [IL-018] A carteirada na porta do céu: "Você sabe com quem está falando?"
+
+- **Fonte**: Própria (Allan), com base na leitura de Roberto DaMatta
+- **Origem específica**: cena usada pelo Allan no sermão "Três modos de
+  viver e o um que agrada a Deus" (Lc 18.9-14, jan. 2022); o rito da frase
+  é analisado em DAMATTA, Roberto. *Carnavais, malandros e heróis*. Rio de
+  Janeiro: Zahar, 1979, ensaio "Você sabe com quem está falando?"
+  [capítulo e página a conferir]
+- **Tags**: `#autojustiça` `#fariseu` `#credenciais-religiosas`
+  `#cultura-brasileira` `#olhar-carioca` `#Lc18` `#porta-do-céu`
+- **Descrição**: o religioso chega à porta do céu; o anjo pergunta,
+  educado, por que ele acha que deve entrar. Ele pega o anjo pelo colarinho:
+  "Você sabe com quem está falando? Eu sou crente! Presbítero! Trinta anos
+  de escola dominical!". É a carteirada diante de Deus.
+- **Fim homilético**: ilustra a autojustiça como apresentação de
+  credenciais para obter tratamento privilegiado, na gramática cultural
+  brasileira de quem deixa de ser "indivíduo" diante da lei e se impõe como
+  "pessoa" (DaMatta). Serve a textos sobre justiça própria e currículo
+  religioso (Lc 18.9-12; Fp 3.4-9; Mt 7.21-23). Cuidado: o alvo é o coração
+  do ouvinte de igreja, não "os outros".
+- **Adicionada em**: 2026-10-09
+
+### Usos
+
+| Data | Sermão/Perícope | Conexão específica que justificou o reuso |
+|------|------------------|---------------------------------------------|
+| 2026-10-09 | Lc 18.9-14 — "O Veredito do Rei: eu mereço justiça?" (Ponto I) | A oração do fariseu (vv. 11-12) como carteirada diante de Deus; abre o arco das três cenas à porta do céu (carteirada, diploma, IL-014) |
+
+---
+
+## [IL-017] A oração em modo selfie
+
+- **Fonte**: Própria (Allan)
+- **Origem específica**: criada na preparação de "O Veredito do Rei: eu
+  mereço justiça?" (Lc 18.9-14, 2026), Fase 6a do estudo
+  (`estudos/lucas/18-9-14.md`), Ponto I
+- **Tags**: `#autojustiça` `#oração` `#comparação` `#desprezo`
+  `#exibicionismo-da-virtude` `#Lc18`
+- **Descrição**: a oração do fariseu é uma selfie: a câmera virada para o
+  próprio rosto, Deus lá atrás como paisagem de fundo e, no canto da foto,
+  para dar contraste, "este publicano". Sem alguém pior no enquadramento, a
+  foto não fica tão boa. O publicano não tira foto: nem levanta os olhos.
+- **Fim homilético**: ilustra que a autojustiça faz de Deus cenário e
+  precisa de alguém abaixo para se sentir justa (as duas comparações do v.
+  11: "não sou como os demais homens" e "nem ainda como este publicano").
+  Serve a textos sobre oração centrada no eu, comparação e desprezo. Pode
+  ser contraposta ao raio-X (a oração revela o que se crê).
+- **Adicionada em**: 2026-10-09
+
+### Usos
+
+| Data | Sermão/Perícope | Conexão específica que justificou o reuso |
+|------|------------------|---------------------------------------------|
+| 2026-10-09 | Lc 18.9-14 — "O Veredito do Rei: eu mereço justiça?" (Ponto I) | Os cinco verbos na primeira pessoa e "este publicano" no canto da foto: a oração do v. 11 centrada no eu e dependente de alguém abaixo |
+
+---
+
 ## [IL-016] Os castiçais do bispo: a graça que precede a transformação
 
 - **Fonte**: Filme: *Os Miseráveis* (adaptações de *Les Misérables*, romance de
@@ -124,7 +273,7 @@ Nunca forçar uma boa ilustração num lugar que ela não serve.
 
 | Data | Sermão/Perícope | Conexão específica que justificou o reuso |
 |------|------------------|---------------------------------------------|
-| —    | —                | —                                            |
+| 2026-10-09 | Lc 18.9-14 — "O Veredito do Rei: eu mereço justiça?" (Ponto IV) | O malfeitor da cruz (Lc 23.41-43) como o publicano cumprido na história: sem currículo, só com o clamor, recebe o veredito "hoje"; fecha a opção do ex-presidiário e o arco das três cenas à porta do céu |
 
 ---
 
