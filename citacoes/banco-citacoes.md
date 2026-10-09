@@ -3677,3 +3677,22 @@ Owen — cada voz tem seu peso próprio.
 | —    | —                | —           | — |
 
 ---
+
+## [CT-193] Conveniente a um anjo, mas não a um pecador — J.C. Ryle
+
+- **Autor**: J. C. Ryle (1816-1900), bispo anglicano evangélico de Liverpool
+- **Origem**: RYLE, J. C. *Meditações no Evangelho de Lucas*. Org. Tiago J. Santos Filho. 2. ed. São José dos Campos: Fiel, 2018, p. 420-423 (comentário a Lc 18.9-14). Original: *Expository Thoughts on the Gospels: Luke* (1858)
+- **Tags**: `#oração` `#autojustiça` `#fariseu` `#publicano` `#Lc18` `#súplica` `#gratidão`
+- **Texto**:
+  > "Uma oração que só contém ações de graça e afirmações, sem qualquer súplica, é uma oração deficiente. Pode ser conveniente a um anjo, mas não a um pecador."
+- **Contexto**: primeiro dos cinco aspectos da excelência da oração do publicano, em contraste com a do fariseu, que "não continha nenhuma confissão, súplica… nenhum pedido de misericórdia"
+- **Fim argumentativo**: mostra que a ausência de pedido na oração do fariseu (cinco verbos na primeira pessoa, nenhuma petição) não é detalhe: quem não pede não se vê como pecador. A gratidão não é o problema; a gratidão sem súplica é oração de quem acha que não precisa de nada
+- **Adicionada em**: 2026-10-09
+
+### Usos
+
+| Data | Sermão/Perícope | Onde entrou | Conexão que justificou |
+|------|------------------|-------------|-----------------------|
+| —    | —                | —           | — |
+
+---
