@@ -128,6 +128,7 @@
 **O veredito**
 - Justos (v. 9) → injustos (v. 11) → **justificado** (v. 14)
 - "Justificado"[^5]: **declarado** justo; concluído e permanente; quem declara é Deus
+- 1Co 4.3-4: "nem eu julgo a mim mesmo… nem por isso me dou por justificado, pois quem me julga é o Senhor" (mesmo verbo do v. 14) → a versão verdadeira do "só Deus pode me julgar": no mundo, fuga; em Paulo, descanso. Fecha o tribunal de dentro
 - "e não aquele"[^6]: não existe meia justificação
 - **Subiram iguais, desceram diferentes**: a diferença está no objeto da confiança
 - **Pascal:** "Há apenas dois tipos de homens: os justos, que se creem pecadores; e os outros, pecadores, que se creem justos." Em qual você está?
@@ -268,6 +269,7 @@
 - Não quem se acha digno: Lc 5.31-32, "Os sãos não precisam de médico, e sim os doentes"
 - **A mesa dos publicanos** que batem no peito, não dos que fazem pose
 - 1Co 11.28: "Que cada um examine a si mesmo e, assim, coma do pão e beba do cálice": reconhecer o pecado, voltar-se dele, confiar só em Cristo; o senso de pecado não dá direito, o sangue dá
+- **O disjuntor religado**: a Palavra religou; o pão e o cálice religam de novo: o que você ouviu, vai ver, tocar e provar
 - Venha com as mãos vazias. O pão e o cálice repetem o veredito: **justificado, por causa de outro**
 
 *[Celebração da Ceia]*

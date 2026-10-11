@@ -2,7 +2,7 @@
 
 **Lucas 18.9-14** · Série *Parábolas do Reino* · Cap. 2, *O Coração do Rei* · 10º sermão
 
-*Versão revisada pela skill `polir-sermao` (2026-10-09), a partir do rascunho
+*Versão revisada pela skill `polir-sermao` (2026-10-09; acréscimos do Apêndice J do estudo em 2026-10-11), a partir do rascunho
 da Fase 6c (`18-9-14-sermao.md`). Culto com Santa Ceia. Os colchetes em
 itálico são indicações para o pregador; os lugares de autoimplicação estão só
 marcados, para o Allan preencher no púlpito.*
@@ -309,7 +309,18 @@ verbo indica algo concluído que permanece: ele foi declarado justo e continua
 justo. Quem declarou? Deus. O publicano não se declarou justo. Deus o
 declarou.
 
-E o final: "e não aquele".[^24] O publicano não saiu "mais justificado" e o
+Paulo usa esse mesmo verbo numa frase que desmonta o "só Deus pode me
+julgar" do mundo: "Mas a mim pouco importa ser julgado por vocês ou por um
+tribunal humano; nem eu julgo a mim mesmo. Porque a consciência não me acusa
+de nada. Mas nem por isso me dou por justificado, pois quem me julga é o
+Senhor" (1Co 4.3-4).[^24] Essa é a versão verdadeira da frase. Na boca do
+mundo, ela é fuga. Na boca de Paulo, é descanso. O fariseu dá a si mesmo o
+veredito. Paulo se recusa a dar, mesmo de consciência limpa. O publicano
+recebe o veredito de Deus. E quem recebeu o veredito de Deus pode fechar o
+tribunal que vive aberto dentro de si, onde passava os dias se condenando ou
+se absolvendo.
+
+E o final: "e não aquele".[^25] O publicano não saiu "mais justificado" e o
 fariseu "um pouco menos". Não existe meia justificação. Um desceu
 justificado; o outro desceu do jeito que subiu.
 
@@ -319,7 +330,7 @@ fariseu ganhava fácil. A diferença estava no objeto da confiança.
 
 Blaise Pascal, o matemático, disse numa frase o que essa parábola diz numa
 história: "Há apenas dois tipos de homens: os justos, que se creem pecadores;
-e os outros, pecadores, que se creem justos".[^25] Em qual dos dois tipos você
+e os outros, pecadores, que se creem justos".[^26] Em qual dos dois tipos você
 está?
 
 **Mas por que o fariseu não foi justificado?** Ele não roubava, não traía,
@@ -339,18 +350,18 @@ amar a Deus de todo o coração e amar o próximo como a si mesmo (Lc 10.27). E 
 "sim" do amor não se deixa contar como os "nãos". Paulo diz: "Não fiquem
 devendo nada a ninguém, exceto o amor de uns para com os outros" (Rm 13.8). A
 dívida do amor nunca fica quitada. Quem lê a Lei inteira, e não só a parte dos
-"nãos", descobre que está sempre devendo.[^26]
+"nãos", descobre que está sempre devendo.[^27]
 
 Ryle aconselhou: "sempre que examinarmos a nós mesmos, não procuremos
 avaliar-nos por meio de comparação com o padrão dos homens. Olhemos apenas
 para as exigências de Deus. Aquele que age de acordo com esse princípio nunca
-será um fariseu".[^27] Quando a régua é "este publicano", eu sempre passo.
+será um fariseu".[^28] Quando a régua é "este publicano", eu sempre passo.
 Quando a régua é o amor de Deus, ninguém passa. Diante da Lei inteira, todos
 estamos no lugar do publicano.
 
 Volte à porta do céu, onde o fariseu pegou o anjo pelo colarinho. Agora quem
 chega é o publicano. Ele não tem currículo para gritar. Mas tem um
-diploma.[^28] Justificado é isso: receber um diploma pendurado para a
+diploma.[^29] Justificado é isso: receber um diploma pendurado para a
 eternidade. Na porta, o anjo nem pergunta. Olha o diploma e diz: "Entra". Só
 que esse diploma tem um detalhe: quem fez a prova não foi ele. Foi
 conquistado por outro e registrado no nome dele.
@@ -364,12 +375,12 @@ do que cada um merece. O publicano merecia ser justificado? Não. Ele mesmo
 disse que não. Então isso é justo? A própria Lei de Deus diz: "não justificarei
 o ímpio" (Êx 23.7). E Provérbios: "O Senhor detesta quem justifica o ímpio e
 quem condena o justo" (Pv 17.15). E Jesus diz que o ímpio "desceu
-justificado"![^29]
+justificado"![^30]
 
 Ou Deus deixou de ser justo, ou alguém pagou.
 
 Lucas responde no mesmo capítulo. Dois homens "subiram" ao templo para
-orar.[^30] Poucos versos depois, Jesus chama os doze e diz: "Eis que subimos
+orar.[^31] Poucos versos depois, Jesus chama os doze e diz: "Eis que subimos
 para Jerusalém" (Lc 18.31). Os dois homens subiram para orar. Jesus sobe para
 morrer.
 
@@ -402,7 +413,7 @@ malfeitores'" (Lc 22.37).
 **Na cruz, no capítulo 23, a parábola se repete quase palavra por palavra.**
 
 O verso 9 dizia que eles "desprezavam" os outros. Lucas usa o mesmo verbo
-quando Herodes "tratou Jesus com desprezo" (23.11).[^31] E o "este publicano",
+quando Herodes "tratou Jesus com desprezo" (23.11).[^32] E o "este publicano",
 dito com nojo, volta na boca das autoridades, que zombam: "Salvou os outros.
 Que salve a si mesmo" (23.35). O desprezo que o fariseu jogava no publicano
 agora cai sobre Jesus.
@@ -421,7 +432,7 @@ O ex-presidiário está aqui, no texto. Não como ilustração: como gente de
 verdade. Alistair Begg imagina esse homem chegando ao céu e os anjos
 perguntando: "O que você está fazendo aqui? Você conhece a doutrina da
 justificação? Foi batizado?". E ele responde: "Eu não sei nada disso. Só sei
-que o homem da cruz do meio disse que eu podia vir".[^32] Três homens à porta
+que o homem da cruz do meio disse que eu podia vir".[^33] Três homens à porta
 do céu. O fariseu chegou com a carteirada. O publicano, com um diploma que
 outro conquistou. O malfeitor, só com a palavra do Rei.
 
@@ -442,7 +453,7 @@ multidão inteira está na posição do publicano.
 **O que o publicano pediu no templo, Deus deu na cruz.** O publicano pediu: "sê
 propício". E Hebreus usa o mesmo verbo, uma única vez, com Jesus como sujeito:
 ele se tornou "misericordioso e fiel sumo sacerdote nas coisas referentes a
-Deus e para fazer propiciação pelos pecados do povo" (Hb 2.17).[^33] O
+Deus e para fazer propiciação pelos pecados do povo" (Hb 2.17).[^34] O
 publicano pediu propiciação; Jesus fez a propiciação.
 
 **Propiciação não é suborno.** Não é a gente oferecendo alguma coisa para
@@ -482,7 +493,7 @@ Martinho Lutero, ainda jovem, escreveu a um amigo que tentava encontrar paz
 com Deus pelas próprias obras. Disse a ele: aprende a Cristo, e este
 crucificado; e, desesperando de ti mesmo, aprende a dizer: "Tu, Senhor Jesus,
 és a minha justiça, e eu sou o teu pecado. Tomaste sobre ti o que era meu e me
-deste o que era teu".[^34] É a grande troca: "Aquele que não conheceu pecado,
+deste o que era teu".[^35] É a grande troca: "Aquele que não conheceu pecado,
 Deus o fez pecado por nós, para que, nele, fôssemos feitos justiça de Deus"
 (2Co 5.21).
 
@@ -491,7 +502,7 @@ vezes: nós quebramos os "nãos", e precisávamos de perdão; e nunca demos o
 "sim" do amor, e precisávamos de uma justiça que não temos. Na cruz, a morte
 de Cristo pagou os "nãos" que quebramos: o perdão **zera** a nossa conta. E a
 vida de Cristo, a vida de quem andou fazendo o bem, é creditada a nós: a
-justiça dele **enche** a nossa conta.[^35] Se a justiça fosse só "não fazer",
+justiça dele **enche** a nossa conta.[^36] Se a justiça fosse só "não fazer",
 bastaria o perdão. Como a justiça é amar, precisamos da justiça de outro. E ele
 nos deu.
 
@@ -515,7 +526,7 @@ exaltar ou se humilhar; quem humilha e quem exalta, no fim, é Deus.
 
 E esse princípio Jesus cumpriu primeiro. Paulo diz que Cristo "se humilhou,
 tornando-se obediente até a morte, e morte de cruz. Por isso também Deus o
-exaltou sobremaneira" (Fp 2.8-9).[^36] Ele desceu mais do que qualquer
+exaltou sobremaneira" (Fp 2.8-9).[^37] Ele desceu mais do que qualquer
 publicano, e Deus o exaltou acima de tudo. A humildade cristã não é técnica
 para ganhar a exaltação. É seguir o caminho que ele já abriu.
 
@@ -532,7 +543,7 @@ glória e o que exalta a minha cabeça" (Sl 3.3).
 Em *O leão, a feiticeira e o guarda-roupa*, de C. S. Lewis, o menino Edmundo
 trai os próprios irmãos. E Aslan, o leão, morre no lugar dele, na Mesa de
 Pedra. No fim da história, Edmundo é coroado rei em Cair Paravel. E passa a ser
-chamado Edmundo, o Justo.[^37] O traidor recebe o título de justo, e uma
+chamado Edmundo, o Justo.[^38] O traidor recebe o título de justo, e uma
 coroa, porque outro morreu no lugar dele. Isso é Lucas 18.14: o que se humilha
 será exaltado.
 
@@ -584,11 +595,11 @@ desempenho. *[lugar para autoimplicação: o disjuntor que desarma em mim]* Aí 
 preciso religar o disjuntor. Todo dia. Pregar o evangelho a si mesmo.
 
 Religar o disjuntor inclui o que Tim Keller chamava de arrepender-se do pecado
-debaixo do pecado.[^38] A gente se arrepende das coisas ruins que fez. Ótimo.
+debaixo do pecado.[^39] A gente se arrepende das coisas ruins que fez. Ótimo.
 Mas raramente se arrepende da razão pela qual fez as coisas boas. E às vezes a
 razão é a mesma: ser o próprio salvador.
 
-Como saber se o disjuntor desarmou? Três sinais.[^39]
+Como saber se o disjuntor desarmou? Três sinais.[^40]
 
 - Se você não consegue se sentir perdoado depois de um pecado antes de passar
   bastante tempo se sentindo miserável, talvez esteja confiando na sua miséria
@@ -642,7 +653,7 @@ alguém e desprezar essa pessoa ao mesmo tempo. Se der, tome um café com ela.
 
 A segunda: **ore a oração do publicano todos os dias**, na primeira pessoa.
 Ryle dizia que deixar o "nós" e passar para o "eu", o "meu" e o "me" é um
-grande passo em direção ao céu.[^40] "Ó Deus, sê propício a **mim**, o
+grande passo em direção ao céu.[^41] "Ó Deus, sê propício a **mim**, o
 pecador." Com nomes: o pecado de hoje, com nome. E termine a oração com a
 sentença, em voz alta se puder: "Já não existe nenhuma condenação para os que
 estão em Cristo Jesus".
@@ -656,19 +667,19 @@ filas: a de quem apresenta o currículo e a de quem bate no peito. Só uma desce
 justificada.
 
 E o fariseu? Também voltou para casa. Do mesmo jeito que subiu. Hendriksen
-comenta que ele bem que poderia ter ficado em casa naquele dia.[^41]
+comenta que ele bem que poderia ter ficado em casa naquele dia.[^42]
 
 O poeta Richard Crashaw escreveu sobre esta parábola há quase quatrocentos
 anos, e terminou assim: "Um chegou mais perto do altar de Deus; o outro, do
-Deus do altar".[^42]
+Deus do altar".[^43]
 
 Todos nós vamos voltar para as nossas casas hoje. Subimos iguais. Todos nós.
 A pergunta é como vamos descer. Spurgeon terminou um sermão sobre este texto
 assim: "Todos vamos voltar para as nossas casas. Que possamos ir
-justificados!".[^43]
+justificados!".[^44]
 
 E o mesmo Jesus que aprovou a oração do publicano "está assentado à direita
-de Deus para receber os pecadores".[^44] Os dois homens ficaram de pé no
+de Deus para receber os pecadores".[^45] Os dois homens ficaram de pé no
 templo. O nosso Sumo Sacerdote está sentado, porque o trabalho dele terminou:
 "tendo oferecido, para sempre, um único sacrifício pelos pecados, assentou-se
 à direita de Deus" (Hb 10.12).
@@ -690,9 +701,13 @@ ao arrependimento" (Lc 5.31-32). Esta é a mesa dos publicanos.
 Mas é a mesa dos publicanos que batem no peito, e não dos que fazem pose.
 Paulo diz: "Que cada um examine a si mesmo e, assim, coma do pão e beba do
 cálice" (1Co 11.28). Examinar-se não é provar que é digno; é reconhecer o
-pecado, voltar-se dele e confiar só em Cristo.[^45] E mesmo esse exame não é a
+pecado, voltar-se dele e confiar só em Cristo.[^46] E mesmo esse exame não é a
 sua senha de entrada. O senso de pecado não dá direito a nada. O que dá
 direito é o sangue.
+
+Lembra do disjuntor? Cada culto é Deus religando em nós o disjuntor do
+evangelho. A Palavra fez isso há pouco. Agora o pão e o cálice fazem de novo,
+por outro caminho: o que você ouviu, você vai ver, tocar e provar.
 
 Se você está em Cristo, se confia só nele, venha. Não como o fariseu, com a
 carteirada. Como o publicano, com as mãos vazias. O pão e o cálice dizem a
@@ -853,17 +868,24 @@ forma de ação concluída que permanece, e na voz passiva: quem declara é Deus
 linguagem de tribunal, não de melhora moral; o ponto dos Evangelhos mais
 próximo do vocabulário de Paulo sobre a justificação.
 
-[^24]: **Grego.** *par' ekeinon* (παρ᾽ ἐκεῖνον), v. 14 — "e não aquele". Alguns
+[^24]: **Grego.** *dedikaiōmai* (δεδικαίωμαι), 1Co 4.4 — "me dou por
+justificado"; perfeito passivo de *dikaioō*, o mesmo verbo do *dedikaiōmenos*
+de Lc 18.14. Paulo, de consciência limpa, não se declara justo: deixa o
+veredito ao Senhor. **Fonte** da aplicação (o "esquecimento de si"): KELLER,
+Timothy. *Ego transformado*. São Paulo: Vida Nova, 2014 [p. a conferir], uma
+exposição de 1Co 3.21–4.7.
+
+[^25]: **Grego.** *par' ekeinon* (παρ᾽ ἐκεῖνον), v. 14 — "e não aquele". Alguns
 leem como comparativo ("mais justificado que aquele"), mas o sentido é de
 exclusão, como traduz a NAA: a justificação não admite graus.
 
-[^25]: **Fonte.** PASCAL, Blaise. *Pensamentos*, fr. 533 (numeração de
+[^26]: **Fonte.** PASCAL, Blaise. *Pensamentos*, fr. 533 (numeração de
 Brunschvicg) [edição em português e numeração de Lafuma a conferir]. Tradução
 livre do original: "Il n'y a que deux sortes d'hommes : les uns justes, qui se
 croient pécheurs ; les autres pécheurs, qui se croient justes" (Banco de
 Citações, CT-184).
 
-[^26]: **Aprofundamento.** A Lei sempre teve os dois lados. O Catecismo Maior
+[^27]: **Aprofundamento.** A Lei sempre teve os dois lados. O Catecismo Maior
 de Westminster ensina que, "onde um pecado é proibido, o dever contrário é
 ordenado" (perg. 99, regra 4); e o Breve Catecismo define pecado como "qualquer
 falta de conformidade com a lei de Deus, ou qualquer transgressão desta lei"
@@ -871,37 +893,37 @@ falta de conformidade com a lei de Deus, ou qualquer transgressão desta lei"
 transgressões; a "falta de conformidade", o amor que não deu, não entra na
 conta dele (cf. Tg 4.17).
 
-[^27]: **Fonte.** RYLE. *Meditações no Evangelho de Lucas*, p. 420-423.
+[^28]: **Fonte.** RYLE. *Meditações no Evangelho de Lucas*, p. 420-423.
 
-[^28]: **Fonte.** A imagem do diploma vem das aulas do Rev. Franklin Ferreira
+[^29]: **Fonte.** A imagem do diploma vem das aulas do Rev. Franklin Ferreira
 (comunicação oral), usada pelo Allan no sermão de jan. 2022.
 
-[^29]: **Aprofundamento.** A tensão é bíblica: Deus não justifica o ímpio (Êx
+[^30]: **Aprofundamento.** A tensão é bíblica: Deus não justifica o ímpio (Êx
 23.7; Pv 17.15), e, no entanto, Paulo chama Deus de "aquele que justifica o
 ímpio" (Rm 4.5). A resposta é a propiciação: Deus é "justo e o justificador"
 porque o castigo foi aplicado ao substituto (Rm 3.25-26).
 
-[^30]: **Grego.** *anebēsan* (ἀνέβησαν), v. 10 — "subiram" (a NAA traduz "foram
+[^31]: **Grego.** *anebēsan* (ἀνέβησαν), v. 10 — "subiram" (a NAA traduz "foram
 ao templo"); no v. 14, *katebē*, "desceu". Em 18.31, Jesus usa o mesmo verbo:
 *anabainomen*, "subimos para Jerusalém".
 
-[^31]: **Grego.** *exoutheneō* (ἐξουθενέω), "tratar como nada", "desprezar" —
+[^32]: **Grego.** *exoutheneō* (ἐξουθενέω), "tratar como nada", "desprezar" —
 em Lc 18.9 (os que "desprezavam os outros") e em Lc 23.11 (Herodes "tratou Jesus
 com desprezo").
 
-[^32]: **Fonte.** Paráfrase de BEGG, Alistair. "The Man on the Middle Cross",
+[^33]: **Fonte.** Paráfrase de BEGG, Alistair. "The Man on the Middle Cross",
 sermão sobre Lc 23.39-43. *Truth For Life* [data e endereço a conferir] (Banco
 de Ilustrações, IL-014).
 
-[^33]: **Grego.** *hilaskesthai* (ἱλάσκεσθαι), Hb 2.17 — "fazer propiciação". É
+[^34]: **Grego.** *hilaskesthai* (ἱλάσκεσθαι), Hb 2.17 — "fazer propiciação". É
 o mesmo verbo da oração do publicano (*hilasthēti*, Lc 18.13), e são os seus
 dois únicos usos no Novo Testamento.
 
-[^34]: **Fonte.** LUTERO, Martinho. Carta a Georg Spenlein, 7 ou 8 abr. 1516.
+[^35]: **Fonte.** LUTERO, Martinho. Carta a Georg Spenlein, 7 ou 8 abr. 1516.
 WA Br 1, 35; em inglês: *Luther's Works*, v. 48 [página a conferir]. Tradução
 livre (Banco de Citações, CT-188).
 
-[^35]: **Aprofundamento.** Calvino define a justificação como "a aceitação com
+[^36]: **Aprofundamento.** Calvino define a justificação como "a aceitação com
 que Deus nos recebe em seu favor como justos", e diz que ela "consiste na
 remissão dos pecados e na imputação da justiça de Cristo" (CALVINO, João. *A
 instituição da religião cristã*, III.11.2 [edição em português e página a
@@ -911,41 +933,41 @@ satisfação de Cristo" (CFW XI.1); e o Breve Catecismo, perg. 33: Deus "perdoa
 todos os nossos pecados e nos aceita como justos" [conferir a redação]. A
 satisfação paga a dívida; a obediência nos dá a justiça.
 
-[^36]: **Grego.** *tapeinoō* (ταπεινόω), "humilhar(-se)" — o verbo de Lc 18.14
+[^37]: **Grego.** *tapeinoō* (ταπεινόω), "humilhar(-se)" — o verbo de Lc 18.14
 ("o que se humilha") é o de Fp 2.8 ("se humilhou"). Na Septuaginta, é também o
 verbo de Lv 16.29, o mandamento do Dia da Expiação ("vocês se humilharão")
 [conferir em Rahlfs].
 
-[^37]: **Fonte.** LEWIS, C. S. *O leão, a feiticeira e o guarda-roupa*. As
+[^38]: **Fonte.** LEWIS, C. S. *O leão, a feiticeira e o guarda-roupa*. As
 Crônicas de Nárnia [edição em português e página a conferir], último capítulo.
 A ideia de usar Edmundo neste texto vem de sermão de Michel Medeiros sobre Lc
 18.9-14 [igreja e data a conferir; ouvido em transcrição de áudio].
 
-[^38]: **Fonte.** KELLER, Timothy. Sermão sobre Lc 18.9-14, Redeemer
+[^39]: **Fonte.** KELLER, Timothy. Sermão sobre Lc 18.9-14, Redeemer
 Presbyterian Church, Nova York [título e data a conferir; ouvido em transcrição
 de áudio].
 
-[^39]: **Fonte.** Os três diagnósticos são de Timothy Keller [obra a conferir;
+[^40]: **Fonte.** Os três diagnósticos são de Timothy Keller [obra a conferir;
 provavelmente o material *Gospel Christianity*, Redeemer], citados pelo Allan
 no sermão de jan. 2022. "O fariseu sem os benefícios" é expressão de M. Scott
 Sherman em sermão sobre o texto [data a conferir].
 
-[^40]: **Fonte.** RYLE. *Meditações no Evangelho de Lucas*, p. 420-423.
+[^41]: **Fonte.** RYLE. *Meditações no Evangelho de Lucas*, p. 420-423.
 
-[^41]: **Fonte.** HENDRIKSEN. *Lucas*, v. 2, p. 355-361 (paráfrase).
+[^42]: **Fonte.** HENDRIKSEN. *Lucas*, v. 2, p. 355-361 (paráfrase).
 
-[^42]: **Fonte.** CRASHAW, Richard. "Two went up into the Temple to pray". In:
+[^43]: **Fonte.** CRASHAW, Richard. "Two went up into the Temple to pray". In:
 *Steps to the Temple*. London, 1646. Tradução livre do último dístico: "One
 nearer to God's altar trod, / The other to the altar's God" (Banco de Citações,
 CT-191).
 
-[^43]: **Fonte.** SPURGEON, Charles H. "Um sermão para o pior homem na terra"
+[^44]: **Fonte.** SPURGEON, Charles H. "Um sermão para o pior homem na terra"
 (*A Sermon for the Worst Man on Earth*), pregado no Metropolitan Tabernacle em
 20 fev. 1887. In: [coletânea em português, editora, ano e página a conferir].
 
-[^44]: **Fonte.** RYLE. *Meditações no Evangelho de Lucas*, p. 420-423.
+[^45]: **Fonte.** RYLE. *Meditações no Evangelho de Lucas*, p. 420-423.
 
-[^45]: **Aprofundamento.** A tradição reformada não convida à Ceia os que se
+[^46]: **Aprofundamento.** A tradição reformada não convida à Ceia os que se
 acham dignos, mas os que, examinando-se, reconhecem o pecado, arrependem-se e
 confiam só em Cristo (Catecismo Maior de Westminster, perg. 171-175; CFW
 XXIX.8). A dúvida sincera sobre a própria condição não impede ninguém de vir;

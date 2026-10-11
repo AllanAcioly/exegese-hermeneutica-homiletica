@@ -76,3 +76,18 @@ Fase 6c.2), e nenhum versículo foi inserido ou alterado.
 > **Introdução** — o manuscrito agora não tem a localização na série. Ela
 > continua necessária na fala (o Allan acumula os sermões anteriores); fica
 > a indicação entre colchetes.
+
+## Acréscimos posteriores (2026-10-11, Apêndice J do estudo)
+
+Validados pelo Allan depois da avaliação da transcrição revisada do sermão
+de 2022. Escritos já no registro polido (sem vocativos, sem metacomentário):
+
+- **Ponto III**, depois de "Deus o declarou": 1Co 4.3-4, a versão
+  verdadeira do "só Deus pode me julgar" (fuga no mundo, descanso em
+  Paulo), com a nova **nota 24** (Grego, *dedikaiōmai*, e Fonte, Keller,
+  *Ego transformado*). As notas 24-45 passaram a 25-46
+- **Transição para a Ceia**: "Cada culto é Deus religando em nós o
+  disjuntor do evangelho… o que você ouviu, você vai ver, tocar e provar"
+
+Parte falada: cerca de **6.850 palavras** (por volta de 45-46 minutos a 150
+palavras por minuto). Total de notas: **46**.
