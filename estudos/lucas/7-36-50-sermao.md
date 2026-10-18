@@ -201,15 +201,9 @@ esse, um verbo de anfitrião.
 Vejam o frasco de alabastro. Era um frasco de pedra fina, e o que havia
 dentro era perfume caro. Lucas usa uma palavra para o perfume dela e
 outra para o azeite que Simão não ofereceu — vamos voltar a isso.[^7]
-Em outra unção, já perto da cruz, Marcos conta que a mulher de Betânia
-chegou "trazendo um frasco feito de alabastro com um perfume muito
-valioso, de nardo puro; e, quebrando o frasco, derramou o perfume sobre a
-cabeça de Jesus" (Mc 14.3). Não é a mesma cena, nem a mesma mulher — mas
-é o mesmo tipo de amor: um amor que quebra o frasco, que não guarda
-nada. E João, contando essa outra unção, diz que "toda a casa se encheu
-com o cheiro do perfume" (Jo 12.3). Imaginem a casa de Simão. Num
-instante, aquele cheiro tomou a sala. Não tinha como ninguém fingir que
-não estava acontecendo nada.
+E repare que ela não trouxe uma amostra: veio "com um frasco feito de
+alabastro cheio de perfume" (v. 37) e derramou nos pés de Jesus. Um amor
+que não guarda nada para si.
 
 Vejam os cabelos. Naquela cultura, uma mulher de respeito não soltava os
 cabelos em público. Era gesto da intimidade de casa. Os comentaristas
@@ -1235,8 +1229,9 @@ frascos de perfume presos ao pescoço (cf. MORRIS, p. 139, citando *m.
 Shabbat* 6.3). Keller supõe que, para uma prostituta, o frasco fosse
 instrumento do ofício. Como o texto não diz qual era o pecado dela, a
 imagem entra no sermão como aplicação ("todo mundo tem um frasco"), não
-como exegese. Em Lucas, aliás, o frasco não é quebrado; quem o quebra é
-a mulher de Betânia (Mc 14.3).
+como exegese. Atenção: Keller também fala em "quebrar o frasco", detalhe
+que vem da unção em Betânia (Mc 14.3), outra cena, em outro momento do
+ministério. Em Lucas o frasco não é quebrado — não usar.
 
 [^36]: **Fonte.** KELLER. *The Two Debtors*. Paráfrase e tradução nossas.
 
