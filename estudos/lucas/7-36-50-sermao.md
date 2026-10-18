@@ -6,10 +6,7 @@
 > termômetro involuntário da graça compreendida: quem pouco se vê devedor
 > cultua com frieza; quem sabe o tamanho do perdão cultua com a vida.
 
-*Versão polida (skill `polir-sermao`) — 2026-10-18. Sermão por extenso,
-culto dominical, ~40 min. Versão do púlpito: NAA (todas as citações
-literais conferidas na Bíblia Online em 2026-10-18). [Slide] remete às
-imagens preparadas pelo Allan.*
+*Versão do púlpito: NAA. [Slide] indica as imagens de apoio.*
 
 ---
 
@@ -78,8 +75,10 @@ O problema é **o que** a gente cultua — e **por quê**.
 Lucas nos põe numa sala de jantar com duas pessoas que querem ver Jesus.
 As duas estão diante dele, ouvem a mesma voz, ficam até o fim. Mas só uma
 sai transformada: perdoada, livre, em paz. Do outro, Lucas nem conta como
-saiu. Tim Keller, pregando este texto, disse que todo mundo diante de
-Jesus sai ou como Simão ou como aquela mulher.[^1]
+saiu. Tim Keller, pregando este texto, disse à sua igreja: "Todos nesta
+sala vão sair daqui como Simão, distantes e indiferentes, um pouco
+confusos e talvez com raiva, ou como a mulher, totalmente
+transformados."[^1]
 
 [Slide: "Dois Buscadores na Mesma Sala"]
 
@@ -90,8 +89,8 @@ saem tão diferentes? A resposta de Jesus cabe numa frase:
 > graça compreendida: quem pouco se vê devedor cultua com frieza; quem
 > sabe o tamanho do perdão cultua com a vida.**
 
-Com as palavras do próprio Jesus: *quem sabe que foi muito perdoado,
-muito ama; quem pouco se vê devedor, pouco ama.*
+O próprio Jesus o diz no v. 47: "aquele a quem pouco se perdoa, pouco
+ama".
 
 ---
 
@@ -101,10 +100,14 @@ muito ama; quem pouco se vê devedor, pouco ama.*
 
 Pouco antes desta cena, Jesus repete o que diziam dele: "Eis aí um glutão
 e bebedor de vinho, amigo de publicanos e pecadores!" (Lc 7.34). E Lucas
-registra a divisão: os publicanos "reconheceram a justiça de Deus", mas
-"os fariseus e os intérpretes da Lei rejeitaram, quanto a si mesmos, o
-plano de Deus" (Lc 7.29-30). Agora o "amigo de pecadores" vai jantar na
-casa de um fariseu.
+registra a divisão que ele provocava:
+
+> "Todo o povo que o ouviu e até os publicanos reconheceram a justiça de
+> Deus, tendo sido batizados com o batismo de João; mas os fariseus e os
+> intérpretes da Lei rejeitaram, quanto a si mesmos, o plano de Deus, não
+> tendo sido batizados por ele." (Lc 7.29-30)
+
+Agora o "amigo de pecadores" vai jantar na casa de um fariseu.
 
 [Slide: "A Arquitetura do Escândalo"]
 
@@ -122,8 +125,8 @@ Simão é fariseu, da elite religiosa que se separava de tudo o que fosse
 impuro. Convidar Jesus não era pouca coisa: havia curiosidade, alguma
 abertura; ele o chama de "Mestre" (v. 40).[^3]
 
-Mas veja a palavra que Simão usa dentro da própria cabeça: "profeta".
-*Se este fosse profeta…* (v. 39). Simão não convidou Jesus para adorá-lo.
+Mas veja a palavra que Simão usa dentro da própria cabeça: "profeta". "Se
+este fosse profeta…" (v. 39). Simão não convidou Jesus para adorá-lo.
 Convidou para avaliá-lo. O jantar era uma auditoria silenciosa: se ele é
 profeta, vai se alinhar às nossas regras de pureza.[^4] Simão senta à mesa
 como **juiz**.
@@ -139,7 +142,8 @@ tipo de mulher".[^5]
 
 Agora, os verbos. James Edwards contou oito ações dela nos vv. 37-38: ela
 **soube**, **trouxe**, **se colocou** aos pés, **chorou**, **molhou**,
-**enxugou**, **beijou** e **ungiu**. De Simão, o texto diz um só: ele o
+**enxugou**, **beijou** e **ungiu** — verbos que, diz ele, "atestam sua
+notável determinação e devoção". De Simão, o texto diz um só: ele o
 **havia convidado**.[^6] Oito verbos contra um. A fé dela se escreve em
 verbos; a religião de Simão cabe num só — e mesmo esse, um verbo de
 anfitrião.
@@ -150,12 +154,13 @@ ofereceu.[^7] E ela não trouxe uma amostra: veio "com um frasco feito de
 alabastro cheio de perfume" (v. 37) e derramou nos pés de Jesus.
 
 E soltou os cabelos. Uma mulher de respeito não fazia isso em público. No
-ritual da mulher suspeita de adultério, o sacerdote "soltará a
-cabeleira dela" (Nm 5.18): era a marca pública da vergonha.[^8] Ela sabia
-que, naquela sala, aquele gesto ia confirmar o rótulo. E soltou assim
-mesmo: o amor por Jesus pesou mais que o olhar da sala. Simão se
-preocupava com a reputação de quem tocava o seu convidado; ela entregou a
-própria reputação aos pés dele.
+ritual da mulher suspeita de adultério, a Lei mandava: "Apresentará a
+mulher diante do Senhor e soltará a cabeleira dela" (Nm 5.18). O cabelo
+solto era a marca pública da vergonha.[^8] Ela sabia que, naquela sala,
+aquele gesto ia confirmar o rótulo. E soltou assim mesmo: o amor por
+Jesus pesou mais que o olhar da sala. Simão se preocupava com a reputação
+de quem tocava o seu convidado; ela entregou a própria reputação aos pés
+dele.
 
 ### O tribunal invisível
 
@@ -169,15 +174,15 @@ Ele opera sob uma lógica rígida de separação: a santidade exige
 isolamento, contaminação zero. Então faz a conta: se Jesus não repele a
 mulher, ou não sabe quem ela é — e não é profeta —, ou sabe e deixa — e
 não é santo. Nos dois casos, reprovou na auditoria. E repare na palavra
-que mais incomoda Simão: *tocando*. Não as lágrimas, não o perfume. O
+que mais incomoda Simão: "tocando". Não as lágrimas, não o perfume. O
 toque. Simão quer uma religião sem toque.
 
 Então vem a ironia do texto. Simão conclui que Jesus não é profeta porque
 não lê o coração da mulher. E o versículo seguinte diz: "Jesus se dirigiu
-ao fariseu e lhe disse…" (v. 40). Jesus responde a um pensamento que
-ninguém ouviu. Ele prova que é profeta lendo o coração de quem duvidava
-dele. A armadilha mudou de alvo: Simão quis revelar quem Jesus era, e ia
-acabar revelando quem ele mesmo era.
+ao fariseu e lhe disse: — Simão, tenho uma coisa para lhe dizer" (v. 40).
+Jesus responde a um pensamento que ninguém ouviu. Ele prova que é profeta
+lendo o coração de quem duvidava dele. A auditoria mudou de alvo: Simão
+quis revelar quem Jesus era, e ia acabar revelando quem ele mesmo era.
 
 ---
 
@@ -185,10 +190,12 @@ acabar revelando quem ele mesmo era.
 
 [Slide: "A Intervenção do Mestre"]
 
-Keller diz que, quando Jesus avisa "tenho uma coisa para lhe dizer", é
-hora de correr: ele está prestes a jogar uma granada espiritual no seu
-colo.[^9] Jesus não repreende Simão de frente. Faz como Natã com Davi (2Sm
-12.1-7): conta uma história e deixa o ouvinte dar a sentença.
+Keller tem um aviso para essa frase de Jesus: "Quando Jesus diz 'tenho
+uma coisa para lhe dizer', corra. Ele está prestes a lhe atirar uma
+granada — uma granada intelectual, espiritual."[^9] Jesus não repreende
+Simão de frente. Faz como o profeta Natã com Davi: conta uma história,
+deixa o ouvinte dar a sentença e só então diz: "Esse homem é você" (2Sm
+12.7).
 
 ### Dois devedores, saldo zero
 
@@ -207,11 +214,11 @@ tamanho da dívida, é o saldo — e o saldo dos dois era zero.
 
 [Slide: "O grande nivelador humano"]
 
-Keller usa uma imagem dura, mas verdadeira: duas pessoas assassinadas,
-uma com um estilete fino entre as costelas, outra com uma rajada de
-metralhadora. Qual está mais morta? Uma está morta "bem-arrumada", a
-outra está morta feia — mas as duas estão mortas.[^11] Simão é o morto
-bem-arrumado. Os dois estão no mesmo cemitério.
+Keller usa uma imagem dura, mas verdadeira. Pense em duas pessoas
+assassinadas: uma com um estilete fino entre as costelas, outra com uma
+rajada de metralhadora. Qual está mais morta? Ele responde: "Um está
+morto bonito, e o outro está morto feio. Mas os dois estão mortos."[^11]
+Simão é o morto bonito. Os dois estão no mesmo cemitério.
 
 ### O verbo da graça
 
@@ -236,13 +243,14 @@ o seu afeto é escasso e formal. É um iceberg: na superfície, uma vida
 irrepreensível; debaixo da água, o desejo de ser o próprio salvador. "Se
 eu cumpro as regras, Deus me deve."
 
-Keller define o pecado como o desejo de viver independente de Deus — e
-mostra que há dois caminhos para isso: rejeitar a religião ou usar a
-própria religião para não precisar de ninguém que pague por você.[^14] A
-mulher fugiu de Deus pela porta da frente; Simão, pela porta da igreja. E
-a diferença entre os dois devedores, diz Keller, **não é que ela
-precisasse mais de salvação, mas que ela percebia que precisava mais de
-salvação**.[^15]
+Keller define: "O pecado é o desejo de viver independente de Deus." E
+mostra que há "dois caminhos básicos para isso: pela religião e pela
+rejeição da religião".[^14] A mulher fugiu de Deus pela porta da frente;
+Simão, pela porta da igreja. E Keller completa:
+
+> "A diferença entre os cinquenta e os quinhentos não é que ela precisa
+> mais de salvação, mas que ela percebe que precisa mais de
+> salvação."[^15]
 
 Para quem acha que deve só cinquenta denários, a cruz parece um exagero.
 
@@ -255,11 +263,11 @@ amor.** O v. 47 diz: "os muitos pecados dela foram perdoados, porque ela
 muito amou". Lido sozinho, parece que o amor comprou o perdão. Mas na
 parábola o credor perdoa primeiro, e só depois vem a pergunta sobre o
 amor. E o fim do versículo confirma: "aquele a quem pouco se perdoa,
-pouco ama".[^16] Darrell Bock ilustra: você olha a janela toda molhada e
-diz "está chovendo, porque a janela está molhada". A janela não causou a
-chuva; ela prova que choveu.[^17] O amor da mulher é a janela molhada. O
-perdão é a chuva. Ryle diz que o amor dela foi "o fruto, e não a raiz, de
-seu perdão".[^18]
+pouco ama".[^16] Darrell Bock ilustra com uma frase: "está chovendo,
+porque as janelas estão molhadas". A janela não causou a chuva; ela prova
+que choveu.[^17] O amor da mulher é a janela molhada. O perdão é a chuva.
+J. C. Ryle diz que o amor dela foi "o fruto, e não a raiz, de seu
+perdão".[^18]
 
 **A segunda: a fé que recebe o perdão aparece.** No fim, Jesus diz: "A
 sua fé salvou você" (v. 50). Não o amor, não o perfume — a fé, a mão vazia
@@ -268,9 +276,12 @@ fala de "uma fé encenada em atos extravagantes de amor".[^19] Jesus tinha
 acabado de ensinar, no fim do Sermão da Planície: "a boca fala do que está
 cheio o coração" (Lc 6.45); e "Por que vocês me chamam 'Senhor,
 Senhor!', e não fazem o que eu mando?" (Lc 6.46). Simão chama Jesus de
-"Mestre" e não faz nada. A mulher não diz uma palavra e faz tudo.
-N. T. Wright resume: a fé é o que acontece quando alguém olha para Jesus e
-descobre o perdão de Deus; "e o sinal e a prova dessa fé são o amor".[^20]
+"Mestre" e não faz nada. A mulher não diz uma palavra e faz tudo. N. T.
+Wright resume:
+
+> "Para Lucas, a verdadeira fé é o que acontece quando alguém olha para
+> Jesus e descobre o perdão de Deus; e o sinal e a prova dessa fé são o
+> amor."[^20]
 
 Se isso é verdade, então o culto pode ser examinado.
 
@@ -283,8 +294,8 @@ Se isso é verdade, então o culto pode ser examinado.
 "E, voltando-se para a mulher, Jesus disse a Simão" (v. 44). Jesus vira o
 corpo para ela, mas continua falando com ele. "Você está vendo esta
 mulher?" Simão não tinha visto outra coisa desde que ela entrou. Mas viu
-uma pecadora; Jesus quer que ele veja *esta mulher*. Campbell Morgan
-disse: "Simão não conseguiu ver aquela mulher conforme então era, porque
+uma pecadora; Jesus quer que ele veja esta mulher. Campbell Morgan disse:
+"Simão não conseguiu ver aquela mulher conforme então era, porque
 olhava-a conforme tinha sido".[^21]
 
 Num só movimento, Jesus inverte os assentos: o juiz da mesa vira réu, a
@@ -317,12 +328,12 @@ Experimente deixar a TV ligada no jogo, olhando de lado para a tela
 enquanto a pessoa fala. Ninguém precisa dizer nada. A TV ligada fala por
 você.[^24]
 
-Keller diz que Simão fica "no controle da entrevista": recebe Jesus como
-quem entrevista um candidato, avaliando se vale a pena tê-lo na vida.
-Mas Jesus não é alguém que você entrevista para o cargo de Senhor e
-Salvador.[^25] Simão se acha o anfitrião; na verdade, é ele quem está
-sentado na casa de Deus. E nós convidamos Jesus para "a nossa vida" como
-donos do terreno — com a TV ligada.
+Keller observa que "Simão fica no controle da entrevista": recebe Jesus
+como quem entrevista um candidato, avaliando se vale a pena tê-lo na
+vida. E adverte: "Jesus não é alguém que você entrevista para o cargo de
+Senhor e Salvador."[^25] Simão se acha o anfitrião; na verdade, é ele quem
+está sentado na casa de Deus. E nós convidamos Jesus para "a nossa vida"
+como donos do terreno — com a TV ligada.
 
 [Slide: "A Ilusão da Autoridade"]
 
@@ -332,8 +343,14 @@ não me alimentou" é frase de Simão.
 
 **E Cristo?** Simão não se abaixou para lavar os pés do convidado. Jesus,
 à mesa da última ceia, disse: "Pois, no meio de vocês, eu sou como quem
-serve" (Lc 22.27) — e pegou a toalha e lavou os pés dos discípulos (Jo
-13.4-5). O verdadeiro Anfitrião se abaixou.
+serve" (Lc 22.27). E João conta o que ele fez naquela noite:
+
+> "levantou-se da ceia, tirou a vestimenta de cima e, pegando uma toalha,
+> cingiu-se com ela. Em seguida Jesus pôs água numa bacia e começou a
+> lavar os pés dos discípulos e a enxugá-los com a toalha com que estava
+> cingido." (Jo 13.4-5)
+
+O verdadeiro Anfitrião se abaixou.
 
 ### 2. O beijo — eu me entrego ou eu só penso?
 
@@ -341,9 +358,11 @@ serve" (Lc 22.27) — e pegou a toalha e lavou os pés dos discípulos (Jo
 não deixou de me beijar os pés" (v. 45). Simão não deu nem o beijo no
 rosto. Ela beijava os pés e não parava.[^26] O beijo fala de **afeição**.
 
-Keller diz que Simão vem a Jesus com a cabeça, e ela, com o ser inteiro. E
-resume: "Simão faz as suas
-orações. A mulher ora. Simão crê intelectualmente. A mulher adora."[^27]
+Keller resume a diferença: "Ele vem com a cabeça. Ela vem com o ser
+inteiro." E completa:
+
+> "Simão faz as suas orações. A mulher ora. Simão crê intelectualmente. A
+> mulher adora."[^27]
 
 Isso pesa sobre nós, presbiterianos. Somos a igreja que ama a doutrina —
 graças a Deus. Mas é possível saber explicar a graça e nunca ter chorado
@@ -352,13 +371,13 @@ O Simão presbiteriano é confessionalmente impecável e afetivamente seco.
 
 [Slide: "A 'Religião de Simão' no Mundo Moderno"]
 
-E não é só um problema de igreja. Keller cita jovens nova-iorquinos que
-diziam: "A gente precisa separar a mensagem do mensageiro" — seguir os
-ensinos de Jesus, sem precisar adorá-lo. O resultado, diz ele, é "uma
-religião sem lágrimas, sem soltar os cabelos e, sobretudo, sem toque".[^28]
-É a religião que Simão queria: Jesus como consultor moral, não como
-Senhor. No Rio, ela diz: "sou espiritualizado, mas não sou religioso".
-Respeitável, segura — e sem beijo.
+E não é só um problema de igreja. Keller conta de jovens nova-iorquinos
+que propunham separar a mensagem de Jesus do mensageiro: seguir os seus
+ensinos sem precisar adorá-lo. O resultado, diz ele, é "uma religião sem
+lágrimas, uma religião sem soltar os cabelos e, acima de tudo, uma
+religião sem toque".[^28] É a religião que Simão queria: Jesus como
+consultor moral, não como Senhor. No Rio, ela diz: "sou espiritualizado,
+mas não sou religioso". Respeitável, segura — e sem beijo.
 
 **O exame**: você tem *opiniões* sobre Jesus, ou *ama* Jesus? Quando foi a
 última vez que a lembrança do que ele fez por você mexeu com alguma coisa
@@ -376,24 +395,29 @@ beijar.
 meus pés" (v. 46). Simão negou o azeite barato na cabeça; ela deu o
 perfume caro nos pés. O óleo fala de **honra** — e de **custo**.
 
-Keller diz que Simão insiste em tratar Jesus "como qualquer outro
-convidado", e a mulher lhe dá a preeminência.[^29] Isso aparece no bolso:
-ninguém derrama perfume caro em quem é só mais um.
+Keller diz que "Simão insiste em tratar Jesus como qualquer outro
+convidado", enquanto "esta mulher dá a Jesus a preeminência".[^29] Isso
+aparece no bolso: ninguém derrama perfume caro em quem é só mais um.
 
 Spurgeon, pregando este texto em 1883, descreveu a tentação de quem está
-falido: fazer um show. E aplicou à religião: há pessoas que "professam
-ser religiosos; frequentam excelentes cultos e pagam sua cota de
-despesas. Quem poderia encontrar qualquer falha em tais boas pessoas?".
-Tentam "dar-se um banho de bronze e se fazer parecer algo quando, na
-realidade, não são nada".[^30] É possível frequentar excelentes cultos e
-pagar a cota de despesas como quem paga o condomínio. Tudo em dia. E nunca
-ter derramado nada.
+falido: fazer um show. E aplicou à religião:
 
-Keller faz uma aplicação imaginativa com o frasco: todo mundo tem um
-frasquinho pendurado no pescoço — aquilo em que você confia para ser
-alguém: a carreira, a aparência, a reputação, o dinheiro, o seu histórico
-de boa pessoa. E você vai derramar esse frasco aos pés de alguém. A
-pergunta é aos pés de quem.[^31]
+> "Há homens com tais maneirismos, que não possuem qualquer coisa que
+> possam oferecer a Deus, mas que, mesmo assim, exibem uma reluzente
+> autojustiça. [...] Além disso, professam ser religiosos; frequentam
+> excelentes cultos e pagam sua cota de despesas. Quem poderia encontrar
+> qualquer falha em tais boas pessoas? [...] por que então tentam dar-se
+> um banho de bronze e se fazer parecer algo quando, na realidade, não
+> são nada?"[^30]
+
+É possível frequentar excelentes cultos e pagar a cota de despesas como
+quem paga o condomínio. Tudo em dia. E nunca ter derramado nada.
+
+Keller faz uma aplicação imaginativa com o frasco: "Todo mundo nesta sala
+tem frasquinhos pendurados no pescoço — as coisas que são importantes
+para você. E você vai derramá-las aos pés de alguém."[^31] A carreira, a
+aparência, a reputação, o dinheiro, o seu histórico de boa pessoa. A
+pergunta é aos pés de quem.
 
 **O exame**: o que o seu culto custa? Quanto do seu dinheiro, do seu
 tempo, da sua reputação já foi derramado aos pés de Jesus? Você já correu
@@ -401,9 +425,10 @@ o risco de ser visto como "crente demais"?
 
 **E Cristo?** Ela derramou perfume nos pés dele. Ele derramou o próprio
 sangue por ela: "Este cálice é a nova aliança no meu sangue derramado por
-vocês" (Lc 22.20). "Cristo nos amou e se entregou por nós, como oferta e
-sacrifício de aroma agradável a Deus" (Ef 5.2). O perfume mais caro da
-história não foi o dela. Foi o dele.
+vocês" (Lc 22.20). Paulo escreve: "E vivam em amor, como também Cristo nos
+amou e se entregou por nós, como oferta e sacrifício de aroma agradável a
+Deus" (Ef 5.2). O perfume mais caro da história não foi o dela. Foi o
+dele.
 
 ### Dois buracos e um jeitinho
 
@@ -411,15 +436,16 @@ Talvez o exame tenha mostrado o diagnóstico de Simão. Há dois buracos
 opostos à sua frente.
 
 **O primeiro é o do termostato**: "Preciso me esforçar mais, chorar mais,
-me entregar mais." Num teste de personalidade, diz Keller, Simão sairia
-como o mais disciplinado. A diferença é que ela entendeu o tamanho do
-pecado e o custo da salvação.[^32] O remédio é voltar à causa.
+me entregar mais." Keller provoca: se a gente aplicasse um teste de
+personalidade nos dois, "adivinhe qual vai parecer mais religioso, mais
+disciplinado"? Simão. A diferença não era a disciplina: ela entendeu o
+tamanho do pecado e o custo da salvação.[^32] O remédio é voltar à causa.
 
 **O segundo é o do "não consigo me perdoar"**. Parece humildade. Keller
-mostra que, muitas vezes, quer dizer: "eu não quero depender da caridade
-de ninguém; eu devia ter sido bom o bastante". É orgulho com roupa de
-humildade.[^33] A mulher não ficou remoendo a culpa. Chorou aos pés de
-quem a tinha perdoado.
+desmascara: "Soa tão nobre dizer 'eu simplesmente não consigo me
+perdoar'. O que isso quer dizer é: eu não quero depender da caridade de
+ninguém."[^33] É orgulho com roupa de humildade. A mulher não ficou
+remoendo a culpa. Chorou aos pés de quem a tinha perdoado.
 
 E há a saída do malandro: "Deus perdoa, é o trabalho dele." Mas o credor
 não fez vista grossa: perdoou "os muitos pecados" (v. 47). Perdão barato
@@ -446,12 +472,17 @@ E a mesa se agita: "Quem é este que até perdoa pecados?" (v. 49).
 ### Só o ofendido pode perdoar
 
 Spurgeon: "A única pessoa que pode perdoar um débito é aquele a quem ele é
-devido".[^35] C. S. Lewis observou que Jesus perdoava pecados sem
-consultar as pessoas que aqueles pecados tinham ferido, como se ele fosse
-a parte principal ofendida em toda ofensa — o que só faz sentido se ele
-for o Deus cujas leis foram quebradas.[^36] Os fariseus já tinham dito: "Quem pode perdoar pecados, a
-não ser um, que é Deus?" (Lc 5.21). Estavam certos na teologia. Erraram a
-pessoa.
+devido".[^35] C. S. Lewis notou o escândalo disso nos Evangelhos:
+
+> "Ele dizia às pessoas que os seus pecados estavam perdoados, e nunca
+> esperava para consultar todas as outras pessoas que esses pecados sem
+> dúvida tinham ferido. Comportava-se, sem hesitar, como se fosse a parte
+> principal interessada, a pessoa principalmente ofendida em todas as
+> ofensas."[^36]
+
+Isso só faz sentido se ele for o Deus cujas leis foram quebradas. Os
+fariseus já tinham dito: "Quem pode perdoar pecados, a não ser um, que é
+Deus?" (Lc 5.21). Estavam certos na teologia. Erraram a pessoa.
 
 [Slide: "A Prerrogativa Divina"]
 
@@ -479,8 +510,8 @@ cultuo pelo que Jesus pode me dar, ou pelo que ele já me deu?
 
 ### O preço do perdão
 
-Mas com que direito o credor perdoa? E a que preço? Keller responde:
-**você não consegue perdoar uma dívida; você só consegue transferi-la**.[^39]
+Mas com que direito o credor perdoa? E a que preço? Keller responde: "Não
+se pode perdoar uma dívida. Só se pode transferi-la."[^39]
 
 [Slide: "A Economia do Perdão"]
 
@@ -489,35 +520,44 @@ absorve o prejuízo. Ou o devedor paga, ou o credor paga.
 
 A parábola não mostra o custo. Paulo mostra como funciona, numa carta de
 uma página. Onésimo, escravo de Filemom, tinha fugido e, ao que parece,
-dado prejuízo. Paulo o manda de volta e escreve: "se ele causou algum dano
-a você ou lhe deve alguma coisa, ponha tudo na minha conta. Eu, Paulo, de
-próprio punho, escrevo isto: Eu pagarei" (Fm 18-19).[^40]
+dado prejuízo. Paulo o manda de volta e escreve:
 
-Isso é o evangelho. Jesus olhou para a nossa conta e disse: "Põe na minha
-conta. Eu pago". E pagou. Deus nos perdoou "todos os nossos pecados.
-Cancelando o escrito de dívida que era contra nós e que constava de
-ordenanças, o qual nos era prejudicial, removeu-o inteiramente,
-cravando-o na cruz" (Cl 2.13-14). Spurgeon imaginava a mão de Deus
-escrevendo sobre a nossa conta, grande ou pequena, uma palavra:
-"CANCELADA".[^41]
+> "E, se ele causou algum dano a você ou lhe deve alguma coisa, ponha tudo
+> na minha conta. Eu, Paulo, de próprio punho, escrevo isto: Eu pagarei."
+> (Fm 18-19)[^40]
+
+Isso é o evangelho. Jesus olhou para a nossa conta e assumiu: *põe na
+minha conta; eu pago*. E pagou. Paulo escreve aos colossenses:
+
+> "E quando vocês estavam mortos nos seus pecados e na incircuncisão da
+> carne, ele lhes deu vida juntamente com Cristo, perdoando todos os
+> nossos pecados. Cancelando o escrito de dívida que era contra nós e que
+> constava de ordenanças, o qual nos era prejudicial, removeu-o
+> inteiramente, cravando-o na cruz." (Cl 2.13-14)
+
+Spurgeon imaginava a mão de Deus escrevendo sobre a nossa conta, grande
+ou pequena, uma única palavra: "CANCELADA".[^41]
 
 Neste jantar, um santo se deixa tocar por uma pecadora. No fim do
-Evangelho, ele diz que é preciso que se cumpra nele o que está escrito:
-"Ele foi contado com os malfeitores" (Lc 22.37). O que se deixou tocar por
-uma pecadora foi contado entre os pecadores — para que pecadores fossem
-contados entre os perdoados. Cristo viveu uma vida que ninguém desejou
-ter, para que quem merecia morrer possa viver uma vida que não merece.
+Evangelho, ele diz: "é preciso que se cumpra em mim o que está escrito:
+'Ele foi contado com os malfeitores'" (Lc 22.37). O que se deixou tocar
+por uma pecadora foi contado entre os pecadores — para que pecadores
+fossem contados entre os perdoados. Cristo viveu uma vida que ninguém
+desejou ter, para que quem merecia morrer possa viver uma vida que não
+merece.
 
 ### O único culto perfeito
 
 O meu culto é frio. O seu, às vezes, também. Mas houve um único culto
-perfeito na história: a vida de Jesus, o único que amou o Pai de todo o
-coração, alma, forças e entendimento (Lc 10.27). E o nosso culto, morno e
-imperfeito, é aceito não pela temperatura, mas porque sobe *nele*:
-oferecemos "sacrifícios espirituais agradáveis a Deus por meio de Jesus
-Cristo" (1Pe 2.5), e ele vive "sempre para interceder" por nós (Hb 7.25).
-O termômetro revela a minha fé; não é ele que decide se sou aceito. Quem
-decide é o sangue.
+perfeito na história: a vida de Jesus, o único que cumpriu o grande
+mandamento: "Ame o Senhor, seu Deus, de todo o seu coração, de toda a sua
+alma, com todas as suas forças e todo o seu entendimento" (Lc 10.27). E o
+nosso culto, morno e imperfeito, é aceito não pela temperatura, mas
+porque sobe *nele*: oferecemos "sacrifícios espirituais agradáveis a Deus
+por meio de Jesus Cristo" (1Pe 2.5), e ele pode "salvar totalmente os
+que por ele se aproximam de Deus, vivendo sempre para interceder por
+eles" (Hb 7.25). O termômetro revela a minha fé; não é ele que decide se
+sou aceito. Quem decide é o sangue.
 
 Se você está em aridez, olha para dentro, acha frio, e isso dói: a frieza
 que dói já não é a de Simão. Simão estava satisfeito. Essa dor é obra do
@@ -535,10 +575,10 @@ paz": os rabinos, segundo Leon Morris, diziam "vá em paz" aos mortos e "vá
 para a paz" aos vivos.[^43] Jesus manda para dentro de uma vida nova de
 *shalom* a mulher que entrou rotulada.
 
-Keller diz que, ao se render a Jesus, ela descobriu que nunca mais
-precisaria se render a mais ninguém.[^44] Não temia mais o julgamento de
-Simão, nem da cidade, nem do céu. E o amor que o perdão produz sai da sala
-em três direções.
+Keller diz: "Ao se render a Jesus, ela descobriu que nunca mais teria de
+se render a ninguém."[^44] Não temia mais o julgamento de Simão, nem da
+cidade, nem do céu. E o amor que o perdão produz sai da sala em três
+direções.
 
 ### A Jesus — o culto que começa antes do culto
 
@@ -553,10 +593,10 @@ Não aumentando a temperatura, mas voltando à causa:
    acontece de novo: Jesus dizendo, diante da mesa, "os seus pecados estão
    perdoados". Não atravesse esse momento no automático. E vá à Ceia como
    quem vê a nota promissória rasgada.
-3. **Prolongue o culto na semana.** "[…] pelas misericórdias de Deus, peço
-   que ofereçam o seu corpo como sacrifício vivo, santo e agradável a Deus.
-   Este é o culto racional de vocês" (Rm 12.1). Trabalho, casa e dinheiro:
-   perfume derramado fora do templo.
+3. **Prolongue o culto na semana.** "Portanto, irmãos, pelas
+   misericórdias de Deus, peço que ofereçam o seu corpo como sacrifício
+   vivo, santo e agradável a Deus. Este é o culto racional de vocês" (Rm
+   12.1). Trabalho, casa e dinheiro: perfume derramado fora do templo.
 
 ### Aos irmãos — a mesa dos insolventes perdoados
 
@@ -564,13 +604,17 @@ Simão não suportava dividir a mesa com "esse tipo de mulher". Mas os dois
 devedores estavam falidos; não há hierarquia de devedores. A igreja é uma
 mesa de insolventes perdoados.
 
-Keller diz: se você vê o quanto é pecador, será humilde demais para
-guardar rancor; se vê o quanto foi perdoado, será alegre demais para
-guardar rancor.[^45] Jesus contou a parábola do servo perdoado de uma
-fortuna que saiu cobrando trocados do colega, e o senhor lhe disse: "Será
-que você também não devia ter compaixão do seu conservo, assim como eu
-tive compaixão de você?" (Mt 18.33). Quem foi perdoado de quinhentos não
-cobra cinquenta do irmão.
+Keller diz:
+
+> "Se você vê o quanto é pecador, será humilde demais para guardar
+> rancor. E se você vê o quanto foi perdoado, será alegre demais para
+> guardar rancor."[^45]
+
+Jesus contou a parábola do servo perdoado de uma fortuna que saiu
+cobrando trocados do colega, e o senhor lhe disse: "Será que você também
+não devia ter compaixão do seu conservo, assim como eu tive compaixão de
+você?" (Mt 18.33). Quem foi perdoado de quinhentos não cobra cinquenta do
+irmão.
 
 Por que estar no culto com os irmãos? Porque Jesus declarou o perdão em
 voz alta, diante da mesa, para que ela fosse recebida. A igreja é o lugar
@@ -580,22 +624,27 @@ Simões na igreja? A mulher também entrou numa casa onde havia um Simão.
 Não ficou em casa por causa do fariseu; foi por causa de Jesus.
 
 O cristão é aquele que deve amor: "Não fiquem devendo nada a ninguém,
-exceto o amor de uns para com os outros" (Rm 13.8). O perdoado sai da
-dívida que condena e entra numa dívida que liberta. Como fazer esta
-semana: **perdoe uma dívida concreta** — ponha nome numa pessoa e numa
-ofensa, e ore por ela todos os dias até o rancor ceder. E **dê o beijo que
-Simão não deu**: no domingo, sente-se ao lado de quem chegou sozinho, de
-quem tem passado conhecido, de quem não se encaixa.
+exceto o amor de uns para com os outros. Pois quem ama o próximo cumpre a
+lei" (Rm 13.8). O perdoado sai da dívida que condena e entra numa dívida
+que liberta. Como fazer esta semana: **perdoe uma dívida concreta** —
+ponha nome numa pessoa e numa ofensa, e ore por ela todos os dias até o
+rancor ceder. E **dê o beijo que Simão não deu**: no domingo, sente-se ao
+lado de quem chegou sozinho, de quem tem passado conhecido, de quem não
+se encaixa.
 
 ### Ao mundo — a casa aberta
 
-Simão abriu a casa e fechou o coração. Jesus manda o contrário: "Quando
-você der um jantar ou uma ceia, não convide os seus amigos, nem os seus
-irmãos, nem os seus parentes, nem os vizinhos ricos [...]. Pelo
-contrário, ao dar um banquete, convide os pobres, os aleijados, os coxos e
-os cegos" (Lc 14.12-13). No mundo de Simão, o banquete punha os
-convidados em dívida com o anfitrião.[^47] O perdoado hospeda como foi
-perdoado: de graça.
+Simão abriu a casa e fechou o coração. Jesus manda o contrário:
+
+> "Quando você der um jantar ou uma ceia, não convide os seus amigos, nem
+> os seus irmãos, nem os seus parentes, nem os vizinhos ricos; para não
+> acontecer que eles retribuam o convite e você seja recompensado. Pelo
+> contrário, ao dar um banquete, convide os pobres, os aleijados, os coxos
+> e os cegos, e você será bem-aventurado, pelo fato de não terem eles com
+> que recompensá-lo." (Lc 14.12-14)
+
+No mundo de Simão, o banquete punha os convidados em dívida com o
+anfitrião.[^47] O perdoado hospeda como foi perdoado: de graça.
 
 A primeira forma de missão é contar a sua história de dívida. Ao homem
 que libertou, Jesus disse: "Volte para a sua casa e conte tudo o que Deus
@@ -609,19 +658,20 @@ ofereceu: serviço, acolhida, honra. E desligue a TV.
 
 [Slide: "O Termômetro Diário do Coração"]
 
-Keller diz que, na vida cristã, há dias de Simão e dias da mulher.[^49] Nos
-dias de Simão, ficamos críticos, autopiedosos, irritados com Deus; nos
-dias da mulher, há paz no caos e paciência com gente quebrada. Um dia de
-Simão não prova que você nunca foi salvo; prova que precisa voltar ao
-evangelho.
+Keller diz que, na vida cristã, "você pode ter os seus dias de Simão e os
+seus dias de mulher".[^49] Nos dias de Simão, ficamos críticos,
+autopiedosos, irritados com Deus; nos dias da mulher, há paz no caos e
+paciência com gente quebrada. Um dia de Simão não prova que você nunca
+foi salvo; prova que precisa voltar ao evangelho.
 
 ### Uma palavra para cada um
 
 **Se você está há muito tempo na igreja**, cuidado com o Simão
 presbiteriano. Se o termômetro estiver frio, não se esforce mais: olhe
 mais — para a cruz, até a dívida aparecer do tamanho que tem. E ore com
-Paulo para compreender o amor de Cristo (Ef 3.18-19): graça compreendida
-se pede; não se fabrica.
+Paulo para que vocês "possam compreender qual é a largura, o comprimento,
+a altura e a profundidade e conhecer o amor de Cristo, que excede todo
+entendimento" (Ef 3.18-19). Graça compreendida se pede; não se fabrica.
 
 **Se você duvida da sua salvação**, repare na ordem do texto: primeiro
 Jesus diz "os seus pecados estão perdoados" (v. 48), depois vêm os frutos.
@@ -649,18 +699,23 @@ Ele se quebrou, ou endureceu diante da graça? A cadeira de Simão fica
 vazia no centro da sala, esperando quem se sente nela e responda.
 
 Simão pode virar Paulo. Lucas conhecia um fariseu muito mais hostil que
-Simão, e que se rendeu à graça.[^51] Paulo era irrepreensível na justiça da
-lei — um Simão perfeito. Quando viu Cristo, escreveu: "Esta palavra é fiel
-e digna de toda aceitação: que Cristo Jesus veio ao mundo para salvar os
-pecadores, dos quais eu sou o principal" (1Tm 1.15). O fariseu que se via
-devedor de cinquenta se descobriu devedor de quinhentos. E cultuou:
-"Assim, ao Rei eterno, imortal, invisível, Deus único, honra e glória
-para todo o sempre. Amém!" (1Tm 1.17).
+Simão, e que se rendeu à graça.[^51] Paulo era irrepreensível na justiça
+da lei — um Simão perfeito. Quando viu Cristo, escreveu: "Esta palavra é
+fiel e digna de toda aceitação: que Cristo Jesus veio ao mundo para
+salvar os pecadores, dos quais eu sou o principal" (1Tm 1.15). O fariseu
+que se via devedor de cinquenta se descobriu devedor de quinhentos. E
+cultuou: "Assim, ao Rei eterno, imortal, invisível, Deus único, honra e
+glória para todo o sempre. Amém!" (1Tm 1.17).
 
-Kenneth Bailey imaginou a resposta certa de Simão: "Eu sou um grande
-pecador. Se Jesus quer mesmo evitar os pecadores, é a mim que ele deveria
-evitar — não a esta mulher que eu desprezei".[^52] Que essa seja a
-resposta de quem se reconheceu em Simão hoje.
+Kenneth Bailey escreveu o que Simão precisava confessar:
+
+> "Sou um grande pecador (assim como era esta mulher). Isto eu não havia
+> percebido. Nem me arrependi, nem ouvi a oferta da graça de Deus como
+> esta mulher ouviu. Fui perdoado pouco, e assim amei pouco o agente de
+> Deus (Jesus). Se Jesus realmente deseja evitar os pecadores, Ele deve me
+> evitar, e não esta mulher a quem desprezei."[^52]
+
+Que essa seja a confissão de quem se reconheceu em Simão hoje.
 
 Frances Havergal escreveu um hino que diz:
 
@@ -705,8 +760,9 @@ perdoados. Amém.
 
 [^1]: **Fonte.** KELLER, Timothy. *The Two Debtors: On Devotion*. Sermão.
 Nova York: Redeemer Presbyterian Church, [data a conferir]. Transcrição;
-tradução nossa. A frase "everybody will be either like Simon or like the
-woman" está no início do sermão.
+tradução nossa: "Everybody in this room, for example, will go away like
+Simon, detached and unaffected, a little confused and maybe angry, or
+like the woman, totally transformed."
 
 [^2]: **Aprofundamento.** Sobre a postura reclinada e a casa aberta aos de
 fora em banquetes com convidado ilustre: BAILEY, Kenneth E. *As parábolas
@@ -716,9 +772,9 @@ ano a conferir]. p. 135-136. Green vê a mulher como intrusa mesmo assim:
 a casa aberta torna a entrada possível, não normal.
 
 [^3]: **Fonte.** KELLER, Timothy. *With the Powerless*. Sermão. Nova York:
-Redeemer Presbyterian Church, [data a conferir]. Transcrição; tradução
-nossa. Keller compara Simão a Nicodemos, que veio a Jesus de noite (Jo
-3.2).
+Redeemer Presbyterian Church, [data a conferir]. Transcrição. Keller
+compara Simão a Nicodemos, que "de noite, foi até Jesus" (Jo 3.2): para
+um fariseu, aproximar-se de Jesus tinha custo.
 
 [^4]: **Aprofundamento.** A intenção de Simão é disputada. Bailey (p. 48),
 Perrin e MacArthur leem o convite como teste ou armadilha; Snodgrass (p.
@@ -731,13 +787,15 @@ texto mostra com certeza é que Simão *avalia* Jesus (v. 39). A imagem da
 
 [^5]: **Aprofundamento.** O texto não diz que ela era prostituta, nem que
 era Maria Madalena (identificação de Gregório Magno, *Homilia* 33, ano
-591; Madalena só é apresentada em Lc 8.2). Perrin e Green a veem como
-prostituta; Morris e Marshall, "provavelmente"; Bock, "possível";
-Edwards (p. 302-303) e Hendriksen não veem evidência. "Da cidade,
-pecadora" basta: era um rótulo público.
+591). Madalena só aparece no capítulo seguinte, como personagem nova:
+"Maria, chamada Madalena, da qual saíram sete demônios" (Lc 8.2). Perrin
+e Green a veem como prostituta; Morris e Marshall, "provavelmente"; Bock,
+"possível"; Edwards (p. 302-303) e Hendriksen não veem evidência. "Da
+cidade, pecadora" basta: era um rótulo público.
 
-[^6]: **Fonte.** EDWARDS. *The Gospel according to Luke*, p. 303. A
-expressão "oito verbos contra um" é nossa, a partir da contagem dele.
+[^6]: **Fonte.** EDWARDS. *The Gospel according to Luke*, p. 303 (ed.
+bras.). A expressão "oito verbos contra um" é nossa, a partir da contagem
+dele.
 
 [^7]: **Grego.** *myron* (μύρον), vv. 37-38, 46 — perfume caro; *elaion*
 (ἔλαιον), v. 46 — azeite comum. Simão negou o barato na cabeça; ela
@@ -753,37 +811,39 @@ sem a *ketubá* [conferir]. Edwards, com C. Cosgrove (*JBL* 124/4, 2005),
 rejeita a leitura erótica do gesto, mas admite a vergonha pública (p.
 302). Daí a formulação do sermão: o custo fica; a malícia sai.
 
-[^9]: **Fonte.** KELLER. *The Two Debtors*, início do sermão. Tradução
-nossa.
+[^9]: **Fonte.** KELLER. *The Two Debtors*. Tradução nossa: "When Jesus
+says, 'I have something to tell you,' you should run. He's about to throw
+you a grenade, an intellectual, spiritual grenade."
 
-[^10]: **Aprofundamento.** Um denário era o salário de um dia de trabalho
-(Mt 20.2). Com a semana de seis dias, 500 denários equivalem a um ano e
-meio a quase dois anos de trabalho; 50, a cerca de dois meses (BOCK,
-Darrell L. *Luke 1:1–9:50*. Grand Rapids: Baker, 1994 [p. a conferir];
-SNODGRASS, p. 136). A proporção é de dez para um.
+[^10]: **Aprofundamento.** Um denário era o salário de um dia de trabalho:
+na parábola dos trabalhadores, o dono da vinha combina "com os
+trabalhadores o pagamento de um denário por dia" (Mt 20.2). Com a semana
+de seis dias, 500 denários equivalem a um ano e meio a quase dois anos de
+trabalho; 50, a cerca de dois meses (BOCK, Darrell L. *Luke 1:1–9:50*.
+Grand Rapids: Baker, 1994 [p. a conferir]; SNODGRASS, p. 136). A
+proporção é de dez para um.
 
-[^11]: **Fonte.** KELLER. *The Two Debtors*. Em *With the Powerless*,
-Keller usa a picada de aranha e o ataque do leão para a mesma ideia
-("one of them is pretty dead and the other one is ugly dead, but you're
-both dead").
-Tradução nossa.
+[^11]: **Fonte.** KELLER. *The Two Debtors*. Tradução nossa: "Now, one's
+pretty dead and one's ugly dead." Em *With the Powerless*, Keller usa a
+picada de aranha e o ataque do leão para a mesma ideia: "one of them is
+pretty dead and the other one is ugly dead, but you're both dead".
 
 [^12]: **Grego.** *echarisato* (ἐχαρίσατο, de χαρίζομαι), vv. 42-43 —
 "perdoou como presente"; da raiz de *charis*, graça. Não é desconto nem
-acordo: é dívida apagada por favor do credor. O mesmo verbo aparece em
-7.21: Jesus "deu vista" (*echarisato blepein*) a muitos cegos.
+acordo: é dívida apagada por favor do credor. O mesmo verbo aparece pouco
+antes, quando Jesus "deu vista a muitos cegos" (Lc 7.21).
 
 [^13]: **Grego.** *hypolambanō* (ὑπολαμβάνω), v. 43 — "suponho, penso que"
 (NAA: "Penso que…"). Resposta certa, dita com reserva.
 
-[^14]: **Fonte.** KELLER. *The Two Debtors*. Keller define o pecado como
-"a desire to live independent of God" e mostra os dois caminhos: a
-rejeição da religião e a própria religião. Tradução nossa. Ver também o
-estudo de Lc 15.1-10 neste projeto (os dois filhos).
+[^14]: **Fonte.** KELLER. *The Two Debtors*. Tradução nossa: "Sin is a
+desire to live independent of God. [...] Now, there's two basic ways to do
+that. Through religion and through the rejection of religion." Ver também
+o estudo de Lucas 15.1-10 neste projeto (os dois filhos).
 
-[^15]: **Fonte.** KELLER. *The Two Debtors*: "The difference in the 50
-and the 500 is not that she needs salvation more, but she realizes she
-needs salvation more." Tradução nossa.
+[^15]: **Fonte.** KELLER. *The Two Debtors*. Tradução nossa: "The
+difference in the 50 and the 500 is not that she needs salvation more,
+but she realizes she needs salvation more."
 
 [^16]: **Grego.** *hoti* (ὅτι), v. 47 — aqui no sentido de "como se vê
 pelo fato de que": o amor é a evidência do perdão, não a causa. O perdão
@@ -791,10 +851,10 @@ já estava concluído: *apheōntai* (ἀφέωνται), "foram perdoados", temp
 perfeito — ação concluída cujo efeito permanece.
 
 [^17]: **Fonte.** BOCK. *Luke 1:1–9:50*, comentário ao v. 47 [p. a
-conferir]. A leitura evidencial do *hoti* é unânime nos comentaristas
-consultados (Bailey, Snodgrass, Green, Marshall, Bock, Rienecker,
-Osborne, Morris, Perrin, Kistemaker, Liefeld & Pao, Stein, Hendriksen,
-Edwards) e é a de Calvino.
+conferir]; tradução nossa. A leitura evidencial do *hoti* é unânime nos
+comentaristas consultados (Bailey, Snodgrass, Green, Marshall, Bock,
+Rienecker, Osborne, Morris, Perrin, Kistemaker, Liefeld & Pao, Stein,
+Hendriksen, Edwards) e é a de Calvino.
 
 [^18]: **Fonte.** RYLE, J. C. *Meditações no Evangelho de Lucas*.
 Organização de Tiago J. Santos Filho. 2. ed. São José dos Campos: Fiel,
@@ -803,7 +863,9 @@ Organização de Tiago J. Santos Filho. 2. ed. São José dos Campos: Fiel,
 [^19]: **Fonte.** PERRIN, Nicholas. *Luke*: an introduction and
 commentary. Tyndale New Testament Commentaries. [Downers Grove: IVP
 Academic, 2022 — conferir]. Comentário a 7.47 [p. a conferir]. Tradução
-nossa. Perrin remete a Gl 5.6, a fé que atua pelo amor.
+nossa. Perrin remete a Gálatas 5.6: "Porque, em Cristo Jesus, nem a
+circuncisão, nem a incircuncisão têm valor algum, mas a fé que atua pelo
+amor."
 
 [^20]: **Fonte.** WRIGHT, N. T. [*Lucas para todos*. Tradução, editora,
 ano e página a conferir]. Comentário a Lc 7.36-50.
@@ -827,49 +889,53 @@ das leituras serve: Jesus o acusa de amar pouco, não de quebrar regras.
 [^24]: **Fonte.** Ilustração própria (Allan), usada nos sermões de 2018 e
 2023 sobre esta perícope.
 
-[^25]: **Fonte.** KELLER. *The Two Debtors*: "Jesus is not someone you can
-interview for the job of Lord and Savior." Tradução nossa.
+[^25]: **Fonte.** KELLER. *The Two Debtors*. Tradução nossa: "Simon stays
+in control of the interview"; "Jesus is not someone you can interview for
+the job of Lord and Savior."
 
 [^26]: **Grego.** *kataphileō* (καταφιλέω), vv. 38, 45 — beijar com
 afeto, repetidas vezes; o tempo do verbo indica ação contínua:
 *continuava* beijando. É o mesmo verbo do pai que beija o filho pródigo
-(Lc 15.20).
+em Lucas 15.20.
 
-[^27]: **Fonte.** KELLER. *The Two Debtors*: "Simon says his prayers. The
-woman prays. Simon believes intellectually. The woman worships." Tradução
-nossa — conferir no áudio.
+[^27]: **Fonte.** KELLER. *The Two Debtors*. Tradução nossa: "He comes
+with a head. She comes with her whole being."; "Simon says his prayers.
+The woman prays. Simon believes intellectually. The woman worships." —
+conferir no áudio.
 
-[^28]: **Fonte.** KELLER. *With the Powerless*: "a religion without tears,
-a religion without letting your hair down, and most of all, a religion
-without touching." Tradução nossa.
+[^28]: **Fonte.** KELLER. *With the Powerless*. Tradução nossa: "a
+religion without tears, a religion without letting your hair down, and
+most of all, a religion without touching."
 
-[^29]: **Fonte.** KELLER. *The Two Debtors*: "Simon insists on treating
-Jesus like any other guest. Whereas this woman gives Jesus the
-preeminence." Tradução nossa.
+[^29]: **Fonte.** KELLER. *The Two Debtors*. Tradução nossa: "Simon
+insists on treating Jesus like any other guest. Whereas this woman gives
+Jesus the preeminence."
 
 [^30]: **Fonte.** SPURGEON, Charles H. Devedores falidos perdoados. In:
 *Sermões de Spurgeon sobre as parábolas*. [Tradução, editora e ano a
 conferir]. Sermão 12, sobre Lc 7.42, pregado no Metropolitan Tabernacle
 em 16 set. 1883 [p. a conferir].
 
-[^31]: **Aprofundamento.** A imagem do frasco "pendurado no pescoço" vem
-de Keller (*The Two Debtors*; *With the Powerless*; *Faith in Jesus*),
-que segue Edersheim e Bailey (p. 45): as mulheres usavam pequenos
-frascos de perfume presos ao pescoço (cf. MORRIS, p. 139, citando *m.
-Shabbat* 6.3). Keller supõe que, para uma prostituta, o frasco fosse
-instrumento do ofício. Como o texto não diz qual era o pecado dela, a
-imagem entra no sermão como aplicação ("todo mundo tem um frasco"), não
-como exegese. Atenção: Keller também fala em "quebrar o frasco", detalhe
-que vem da unção em Betânia (Mc 14.3), outra cena, em outro momento do
-ministério. Em Lucas o frasco não é quebrado — não usar.
+[^31]: **Aprofundamento.** KELLER. *The Two Debtors*; tradução nossa:
+"everybody in this room has got little flasks around their neck. The
+things that are important to them and you're going to pour them out at
+somebody's feet." Keller segue Edersheim e Bailey (p. 45): as mulheres
+usavam pequenos frascos de perfume presos ao pescoço (cf. MORRIS, p.
+139, citando *m. Shabbat* 6.3); e supõe que, para uma prostituta, o
+frasco fosse instrumento do ofício. Como o texto não diz qual era o
+pecado dela, a imagem entra no sermão como aplicação, não como exegese.
+Keller também fala em "quebrar o frasco", detalhe que vem de outra cena —
+a unção em Betânia, onde a mulher, "quebrando o frasco, derramou o
+perfume sobre a cabeça de Jesus" (Mc 14.3). Em Lucas 7 o frasco não é
+quebrado.
 
-[^32]: **Fonte.** KELLER. *The Two Debtors*. Keller usa a imagem dos
-testes de personalidade (Myers-Briggs) para mostrar que Simão pareceria
-o mais disciplinado. Paráfrase nossa.
+[^32]: **Fonte.** KELLER. *The Two Debtors*. Tradução nossa: "Guess which
+one is going to come out looking more religious, more disciplined [...]?
+It'll be Simon."
 
-[^33]: **Fonte.** KELLER. *The Two Debtors*: "What it means is I don't
-want to be dependent on anyone's bleeding charity." Paráfrase e tradução
-nossas.
+[^33]: **Fonte.** KELLER. *The Two Debtors*. Tradução nossa: "It sounds
+so noble to say, I just can't forgive myself. What it means is I don't
+want to be dependent on anyone's bleeding charity."
 
 [^34]: **Aprofundamento.** Green: ela "não precisa do perdão de Deus, mas
 precisa do reconhecimento da sua nova vida e do seu perdão entre o povo
@@ -881,47 +947,56 @@ pedi-la.
 [^35]: **Fonte.** SPURGEON. Devedores falidos perdoados [p. a conferir].
 
 [^36]: **Fonte.** LEWIS, C. S. *Cristianismo puro e simples*. Livro II,
-cap. 3 [edição, tradução e página a conferir]. Paráfrase nossa.
+cap. 3 [edição, tradução e página a conferir]. Tradução nossa do original
+(*Mere Christianity*): "He told people that their sins were forgiven, and
+never waited to consult all the other people whom their sins had
+undoubtedly injured. He unhesitatingly behaved as if He was the party
+chiefly concerned, the person chiefly offended in all offences." Conferir
+a redação na edição brasileira antes de pregar.
 
 [^37]: **Aprofundamento.** STEIN, p. 235, 238-239: a perícope é a
-conclusão cristológica do cap. 7 — o que cura (7.1-10), o que ressuscita
-mortos (7.11-17), o que havia de vir (7.18-35) e o que perdoa pecados
-(7.36-50). Ver também Lc 5.23-24, onde Jesus põe a cura a serviço do
-perdão: "para que vocês saibam que o Filho do Homem tem autoridade sobre
-a terra para perdoar pecados".
+conclusão cristológica do capítulo 7 — o que cura (7.1-10), o que
+ressuscita mortos (7.11-17), o que havia de vir (7.18-35) e o que perdoa
+pecados (7.36-50). Na cura do paralítico, o próprio Jesus põe o milagre a
+serviço do perdão: "Mas isto é para que vocês saibam que o Filho do Homem
+tem autoridade sobre a terra para perdoar pecados" (Lc 5.24).
 
 [^38]: **Fonte.** OSBORNE, Grant R. *Evangelho de Lucas*. Tradução de Renato
 Cunha. Bellingham; São Paulo: Lexham Press; Carisma, 2023. p. 217-225
 [página exata a conferir].
 
-[^39]: **Fonte.** KELLER. *The Two Debtors*: "You cannot forgive a debt.
-You can only transfer it." A ilustração do banco é dele. Em *With the
-Powerless*: "Forgiveness never happens without somebody getting hurt."
-Tradução nossa.
+[^39]: **Fonte.** KELLER. *The Two Debtors*. Tradução nossa: "You cannot
+forgive a debt. You can only transfer it." A ilustração do banco é dele.
+Em *With the Powerless*: "Forgiveness never happens without somebody
+getting hurt."
 
-[^40]: **Fonte.** A aplicação de Fm 18-19 à parábola é de MacARTHUR,
+[^40]: **Fonte.** A aplicação de Filemom 18-19 à parábola é de MacARTHUR,
 John. *Lucas*. Comentario MacArthur del Nuevo Testamento. [Editora e
 ano a conferir]. p. 457-464: ao perdoar, o credor "contraiu essas dívidas
-na sua totalidade".
+na sua totalidade" (tradução nossa do espanhol).
 
 [^41]: **Fonte.** SPURGEON. Devedores falidos perdoados [p. a conferir].
 
 [^42]: **Grego.** *sesōken* (σέσωκεν), v. 50 — "salvou", tempo perfeito:
-salvação realizada e permanente. A mesma frase em Lc 8.48; 17.19; 18.42.
+salvação realizada e permanente. Lucas repete a fórmula em outros
+encontros: "Filha, a sua fé salvou você. Vá em paz" (Lc 8.48);
+"Levante-se e vá; a sua fé salvou você" (Lc 17.19); "Pois, então, veja! A
+sua fé salvou você" (Lc 18.42).
 
 [^43]: **Grego.** *poreuou eis eirēnēn* (πορεύου εἰς εἰρήνην), v. 50 —
 literalmente "vá para a paz". Morris registra que os rabinos diziam "vá
 em paz" ao despedir-se dos mortos e "vá para a paz" aos vivos (*b. Moed
-Katan* 29a) (MORRIS, p. 141). É fórmula de despedida (cf. 1Sm 1.17),
-mas, na boca de Jesus, ganha o sentido pleno do *shalom*.
+Katan* 29a) (MORRIS, p. 141). É fórmula de despedida — Eli diz a Ana:
+"Vá em paz, e que o Deus de Israel lhe conceda o que você pediu" (1Sm
+1.17) —, mas, na boca de Jesus, ganha o sentido pleno do *shalom*.
 
-[^44]: **Fonte.** KELLER. *With the Powerless*: "By surrendering to Jesus,
-she found that she never again will ever have to surrender to anyone
-else." Tradução nossa.
+[^44]: **Fonte.** KELLER. *With the Powerless*. Tradução nossa: "By
+surrendering to Jesus, she found that she never again will ever have to
+surrender to anyone else."
 
-[^45]: **Fonte.** KELLER. *With the Powerless*: "If you see how sinful you
-are, you'll be too humble to keep a grudge. And if you see how forgiven
-you are, you'll be too joyful to keep a grudge." Tradução nossa.
+[^45]: **Fonte.** KELLER. *With the Powerless*. Tradução nossa: "If you
+see how sinful you are, you'll be too humble to keep a grudge. And if you
+see how forgiven you are, you'll be too joyful to keep a grudge."
 
 [^46]: **Aprofundamento.** GREEN, *The Gospel of Luke* [p. a conferir]:
 Lucas fecha a cortina sem dizer se a comunidade a acolheu. A pergunta
@@ -931,14 +1006,14 @@ fica para a igreja que lê.
 mundo greco-romano, oferecer um banquete punha os convidados em dívida
 com o anfitrião (convites recíprocos, retribuições). A parábola do credor
 que cancela "minaria radicalmente" essa contabilidade social (GREEN, [p.
-a conferir]). Lc 14.12-14 é a aplicação explícita de Jesus.
+a conferir]; tradução nossa).
 
 [^48]: **Fonte.** MacARTHUR. *Lucas*, p. 457-464 [página exata a
 conferir]. Tradução nossa do espanhol.
 
-[^49]: **Fonte.** KELLER. *The Two Debtors*: "inside being a Christian,
-you can have your Simon days and you can have your woman days."
-Tradução nossa.
+[^49]: **Fonte.** KELLER. *The Two Debtors*. Tradução nossa: "inside being
+a Christian, you can have your Simon days and you can have your woman
+days" (a transcrição automática traz "women days").
 
 [^50]: **Fonte.** ANYABWILE, Thabiti. *Exaltando Jesus em Lucas*.
 Comentário Cristo-Cêntrico Expositivo. [Editora, ano e página a
@@ -948,7 +1023,7 @@ conferir].
 salvação de Paulo é um prenúncio de esperança para Simão e o irmão mais
 velho."
 
-[^52]: **Fonte.** BAILEY. *As parábolas de Lucas*, p. 60. Paráfrase.
+[^52]: **Fonte.** BAILEY. *As parábolas de Lucas*, p. 60.
 
 [^53]: **Fonte.** HAVERGAL, Frances Ridley. *Nothing to Pay* (hino). In:
 HENDRIKSEN, William. *Lucas*. Tradução de Valter Graciano Martins. 2. ed.

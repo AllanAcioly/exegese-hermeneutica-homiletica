@@ -39,6 +39,142 @@ Nunca forçar uma boa ilustração num lugar que ela não serve.
 
 <!-- Novas entradas entram abaixo desta linha, mais recentes no topo -->
 
+## [IL-024] A TV ligada: a recepção que fala por você
+
+- **Fonte**: Própria (Allan)
+- **Origem específica**: ilustração dos sermões de 2018 e 2023 sobre Lc 7.36-50, retomada em 2026
+- **Tags**: `#culto` `#hospitalidade` `#religião-de-anfitrião` `#Lc7`
+- **Descrição**: quando chega uma visita importante, recebemos na porta, mostramos onde deixar as coisas, oferecemos um café e desligamos a televisão. Deixar a TV ligada no jogo, olhando de lado para a tela enquanto a pessoa fala, diz tudo sem que ninguém precise dizer nada.
+- **Fim homilético**: ilustra que a forma de receber alguém revela o valor que damos a essa pessoa — serve ao ponto que precisa mostrar o culto correto e distraído como sintoma de pouco amor, sem moralizar (o que se diagnostica é o coração, não a etiqueta).
+- **Adicionada em**: 2026-10-18
+
+### Usos
+
+| Data | Sermão/Perícope | Conexão específica que justificou o reuso |
+|------|------------------|---------------------------------------------|
+| 2026-10-18 | Lc 7.36-50 — O Culto Revela a Minha Fé | Exame da "água" (v. 44): Simão recebeu Jesus com a TV ligada; também na aplicação missional ("desligue a TV" ao receber quem não pode retribuir) |
+
+---
+
+## [IL-023] Oito verbos contra um
+
+- **Fonte**: Livro: EDWARDS, James R. *The Gospel according to Luke* (Pillar), comentário a Lc 7.36-50, p. 303 (ed. bras.)
+- **Origem específica**: contagem das ações da mulher nos vv. 37-38 contra a única ação de Simão ("havia convidado")
+- **Tags**: `#fé-e-obras` `#culto` `#fé-encenada` `#Lc7`
+- **Descrição**: a mulher soube, trouxe, se colocou, chorou, molhou, enxugou, beijou e ungiu; de Simão o texto diz só que "havia convidado".
+- **Fim homilético**: ilustra que a fé viva se escreve em atos de amor e a religião de fachada cabe num verbo de protocolo — serve ao ponto sobre a fé que se apropria do perdão e aparece (Gl 5.6; Tg 2.18), sem fazer dos atos o preço do perdão.
+- **Adicionada em**: 2026-10-18
+
+### Usos
+
+| Data | Sermão/Perícope | Conexão específica que justificou o reuso |
+|------|------------------|---------------------------------------------|
+| 2026-10-18 | Lc 7.36-50 — O Culto Revela a Minha Fé | Ponto I: a fé dela se escreve em verbos; a religião de Simão cabe num só |
+
+---
+
+## [IL-022] Dois mortos: o bonito e o feio
+
+- **Fonte**: Pregador: Timothy Keller
+- **Origem específica**: sermões "The Two Debtors: On Devotion" (estilete × metralhadora) e "With the Powerless" (picada de aranha × leão), Redeemer Presbyterian Church
+- **Tags**: `#pecado` `#depravação` `#autojustiça` `#moralismo` `#Lc7`
+- **Descrição**: uma pessoa morta com um estilete fino entre as costelas e outra com uma rajada de metralhadora: uma está "morta bonita", a outra "morta feia" — mas as duas estão mortas.
+- **Fim homilético**: ilustra que a diferença de grau entre pecadores não muda a condição de ambos — serve ao ponto que precisa nivelar o religioso decente e o pecador escandaloso diante de Deus (Lc 7.42; Rm 3.23), sem negar que os pecados diferem em gravidade.
+- **Adicionada em**: 2026-10-18
+
+### Usos
+
+| Data | Sermão/Perícope | Conexão específica que justificou o reuso |
+|------|------------------|---------------------------------------------|
+| 2026-10-18 | Lc 7.36-50 — O Culto Revela a Minha Fé | Ponto II: os dois devedores insolventes; Simão é o morto bonito |
+
+---
+
+## [IL-021] O banco que absorve o prejuízo
+
+- **Fonte**: Pregador: Timothy Keller
+- **Origem específica**: sermões "The Two Debtors" e "With the Powerless" ("You cannot forgive a debt. You can only transfer it.")
+- **Tags**: `#perdão` `#expiação` `#substituição` `#cruz` `#Lc7`
+- **Descrição**: um devedor que não pode pagar pede perdão ao banco. O banco pode perdoar, mas a dívida não evapora: alguém absorve a perda. O perdão nunca acontece sem que alguém saia ferido.
+- **Fim homilético**: ilustra que todo perdão verdadeiro tem custo para quem perdoa — serve ao ponto cristológico que precisa mostrar a cruz como o lugar onde Deus absorve a dívida que cancela (Cl 2.13-14), contra a ideia do perdão como "vista grossa".
+- **Adicionada em**: 2026-10-18
+
+### Usos
+
+| Data | Sermão/Perícope | Conexão específica que justificou o reuso |
+|------|------------------|---------------------------------------------|
+| 2026-10-18 | Lc 7.36-50 — O Culto Revela a Minha Fé | Ponto IV: o preço do perdão; ligado a Fm 18-19 |
+
+---
+
+## [IL-020] "Ponha na minha conta": Paulo, Filemom e Onésimo
+
+- **Fonte**: Livro: MacARTHUR, John. *Lucas* (Comentario MacArthur), p. 457-464 — aplicação de Fm 18-19 à parábola dos devedores
+- **Origem específica**: carta de Paulo a Filemom (Fm 18-19)
+- **Tags**: `#perdão` `#substituição` `#imputação` `#Fm` `#Lc7`
+- **Descrição**: Paulo devolve Onésimo, escravo fugitivo que deu prejuízo, e escreve a Filemom: "se ele causou algum dano a você ou lhe deve alguma coisa, ponha tudo na minha conta. [...] Eu pagarei."
+- **Fim homilético**: ilustra, dentro da própria Escritura, a lógica da substituição: alguém assume na própria conta a dívida de outro — serve ao ponto que mostra como Cristo cancela a dívida pagando-a.
+- **Adicionada em**: 2026-10-18
+
+### Usos
+
+| Data | Sermão/Perícope | Conexão específica que justificou o reuso |
+|------|------------------|---------------------------------------------|
+| 2026-10-18 | Lc 7.36-50 — O Culto Revela a Minha Fé | Ponto IV: a parábola não mostra o custo; Filemom mostra como funciona |
+
+---
+
+## [IL-019] O frasco pendurado no pescoço
+
+- **Fonte**: Pregador: Timothy Keller
+- **Origem específica**: sermões "The Two Debtors", "With the Powerless" e "Faith in Jesus" sobre Lc 7.36-50
+- **Tags**: `#ídolos` `#salvador-funcional` `#culto` `#entrega` `#Lc7`
+- **Descrição**: todo mundo carrega frasquinhos pendurados no pescoço — as coisas em que confia para ser alguém (carreira, aparência, reputação, dinheiro, histórico de boa pessoa) — e vai derramá-los aos pés de alguém. A pergunta é aos pés de quem.
+- **Fim homilético**: ilustra o diagnóstico do salvador funcional e o culto como entrega do que temos de mais valioso — serve ao ponto de aplicação. **Cautela**: apresentar como aplicação, não como exegese (o texto não diz que o frasco era instrumento de prostituição, nem que foi quebrado — isso é Mc 14.3, outra cena).
+- **Adicionada em**: 2026-10-18
+
+### Usos
+
+| Data | Sermão/Perícope | Conexão específica que justificou o reuso |
+|------|------------------|---------------------------------------------|
+| 2026-10-18 | Lc 7.36-50 — O Culto Revela a Minha Fé | Exame do "óleo" (v. 46): quanto Jesus vale para mim |
+
+---
+
+## [IL-018] A entrevista para o cargo de Senhor e Salvador
+
+- **Fonte**: Pregador: Timothy Keller
+- **Origem específica**: sermão "The Two Debtors: On Devotion" ("Simon stays in control of the interview")
+- **Tags**: `#religião-de-anfitrião` `#controle` `#autonomia` `#culto` `#Lc7`
+- **Descrição**: Simão recebe Jesus como quem entrevista um candidato: "estou avaliando se vale a pena ter você na minha vida; preencha estes formulários em três vias". Mas Jesus não é alguém que se entrevista para o cargo de Senhor e Salvador.
+- **Fim homilético**: ilustra a postura de quem avalia Deus em vez de adorá-lo — serve ao ponto que diagnostica o consumo religioso ("hoje o culto não me alimentou") e a religião que mantém o controle.
+- **Adicionada em**: 2026-10-18
+
+### Usos
+
+| Data | Sermão/Perícope | Conexão específica que justificou o reuso |
+|------|------------------|---------------------------------------------|
+| 2026-10-18 | Lc 7.36-50 — O Culto Revela a Minha Fé | Exame da "água" (v. 44): eu sirvo ou eu avalio? |
+
+---
+
+## [IL-017] A janela molhada e a chuva
+
+- **Fonte**: Livro: BOCK, Darrell L. *Luke 1:1–9:50* (BECNT), comentário a Lc 7.47
+- **Origem específica**: ilustração do *hoti* evidencial (com Marshall e Arndt)
+- **Tags**: `#fé-e-obras` `#evidência` `#justificação` `#hoti` `#Lc7`
+- **Descrição**: "Está chovendo, porque as janelas estão molhadas": a janela molhada não causa a chuva; prova que choveu.
+- **Fim homilético**: ilustra a relação entre fé/perdão (causa) e amor/obras (evidência) — serve a qualquer ponto que precise explicar textos em que o fruto parece causa (Lc 7.47; Tg 2), protegendo contra o moralismo.
+- **Adicionada em**: 2026-10-18
+
+### Usos
+
+| Data | Sermão/Perícope | Conexão específica que justificou o reuso |
+|------|------------------|---------------------------------------------|
+| 2026-10-18 | Lc 7.36-50 — O Culto Revela a Minha Fé | Ponto II: por que o culto revela a fé — o amor é a janela molhada; o perdão é a chuva |
+
+---
+
 ## [IL-016] Os castiçais do bispo: a graça que precede a transformação
 
 - **Fonte**: Filme: *Os Miseráveis* (adaptações de *Les Misérables*, romance de

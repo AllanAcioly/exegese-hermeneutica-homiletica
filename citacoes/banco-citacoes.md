@@ -3507,3 +3507,230 @@ Owen — cada voz tem seu peso próprio.
 
 ---
 
+## [CT-184] Simão faz as suas orações; a mulher ora — Timothy Keller
+
+- **Autor**: Timothy Keller (1950-2023), pastor presbiteriano (PCA), fundador da Redeemer Presbyterian Church, Nova York
+- **Origem**: Sermão "The Two Debtors: On Devotion", Redeemer Presbyterian Church [data a conferir]; transcrição — conferir no áudio
+- **Tags**: `#culto` `#adoração` `#religião-de-fachada` `#Lc7`
+- **Texto**:
+  > "Simon says his prayers. The woman prays. Simon believes intellectually. The woman worships." — Tradução: "Simão faz as suas orações. A mulher ora. Simão crê intelectualmente. A mulher adora."
+- **Contexto**: conclusão do sermão sobre Lc 7.36-50, contrastando "mera religião" e cristianismo real
+- **Fim argumentativo**: o culto revela a fé: a mesma prática exterior pode ser protocolo ou adoração; a diferença está no coração que recebeu o perdão
+- **Adicionada em**: 2026-10-18
+
+### Usos
+
+| Data | Sermão/Perícope | Onde entrou | Conexão que justificou |
+|------|------------------|-------------|-----------------------|
+| 2026-10-18 | Lc 7.36-50 — O Culto Revela a Minha Fé | Ponto III, exame do "beijo" | resume o título "O culto revela a minha fé" |
+
+---
+
+## [CT-185] Humilde demais, alegre demais para guardar rancor — Timothy Keller
+
+- **Autor**: Timothy Keller (1950-2023), pastor presbiteriano (PCA), fundador da Redeemer Presbyterian Church, Nova York
+- **Origem**: Sermão "With the Powerless", Redeemer Presbyterian Church [data a conferir]; transcrição
+- **Tags**: `#perdão` `#comunhão` `#rancor` `#humildade` `#alegria`
+- **Texto**:
+  > "If you see how sinful you are, you'll be too humble to keep a grudge. And if you see how forgiven you are, you'll be too joyful to keep a grudge." — Tradução: "Se você vê o quanto é pecador, será humilde demais para guardar rancor. E se você vê o quanto foi perdoado, será alegre demais para guardar rancor."
+- **Contexto**: aplicação de Lc 7.47 à capacidade de amar e perdoar
+- **Fim argumentativo**: a incapacidade de perdoar nasce de ver pouco o próprio pecado ou pouco o próprio perdão; as duas percepções juntas libertam para amar
+- **Adicionada em**: 2026-10-18
+
+### Usos
+
+| Data | Sermão/Perícope | Onde entrou | Conexão que justificou |
+|------|------------------|-------------|-----------------------|
+| 2026-10-18 | Lc 7.36-50 — O Culto Revela a Minha Fé | Ponto V, "aos irmãos" | fundamenta a comunhão como fruto da proporção perdão → amor |
+
+---
+
+## [CT-186] Não se pode perdoar uma dívida; só transferi-la — Timothy Keller
+
+- **Autor**: Timothy Keller (1950-2023), pastor presbiteriano (PCA), fundador da Redeemer Presbyterian Church, Nova York
+- **Origem**: Sermão "The Two Debtors: On Devotion" [data a conferir]; transcrição. Em "With the Powerless": "Forgiveness never happens without somebody getting hurt."
+- **Tags**: `#perdão` `#expiação` `#substituição` `#cruz`
+- **Texto**:
+  > "You cannot forgive a debt. You can only transfer it." — Tradução: "Não se pode perdoar uma dívida. Só se pode transferi-la."
+- **Contexto**: explicação da parábola dos dois devedores (Lc 7.41-42), seguida da ilustração do banco que absorve o prejuízo
+- **Fim argumentativo**: todo perdão tem custo para quem perdoa; a cruz é onde Deus absorve a dívida que cancela
+- **Adicionada em**: 2026-10-18
+
+### Usos
+
+| Data | Sermão/Perícope | Onde entrou | Conexão que justificou |
+|------|------------------|-------------|-----------------------|
+| 2026-10-18 | Lc 7.36-50 — O Culto Revela a Minha Fé | Ponto IV, "O preço do perdão" | liga a parábola (que não mostra o custo) a Cl 2.13-14 e Fm 18-19 |
+
+---
+
+## [CT-187] Dias de Simão e dias da mulher — Timothy Keller
+
+- **Autor**: Timothy Keller (1950-2023), pastor presbiteriano (PCA), fundador da Redeemer Presbyterian Church, Nova York
+- **Origem**: Sermão "The Two Debtors: On Devotion" [data a conferir]; transcrição
+- **Tags**: `#santificação` `#vida-cristã` `#autojustiça` `#evangelho-diário`
+- **Texto**:
+  > "Inside being a Christian, you can have your Simon days and you can have your woman days." — Tradução: "Na vida cristã, você pode ter os seus dias de Simão e os seus dias de mulher."
+- **Contexto**: aplicação aos crentes, contra a leitura de que o texto só fala aos não convertidos
+- **Fim argumentativo**: o crente oscila entre a autojustiça e a graça; a frieza recorrente pede retorno ao evangelho, não dúvida automática da salvação
+- **Adicionada em**: 2026-10-18
+
+### Usos
+
+| Data | Sermão/Perícope | Onde entrou | Conexão que justificou |
+|------|------------------|-------------|-----------------------|
+| 2026-10-18 | Lc 7.36-50 — O Culto Revela a Minha Fé | Ponto V, "O termômetro de todo dia" | aplicação diferenciada ao crente |
+
+---
+
+## [CT-188] O fruto, e não a raiz, do perdão — J. C. Ryle
+
+- **Autor**: J. C. Ryle (1816-1900), bispo anglicano evangélico de Liverpool
+- **Origem**: RYLE, J. C. *Meditações no Evangelho de Lucas*. 2. ed. São José dos Campos: Fiel, 2018. p. 171-174 [página exata a conferir]
+- **Tags**: `#justificação` `#fé-e-obras` `#amor` `#Lc7`
+- **Texto**:
+  > "Seu amor foi o efeito, e não a causa, do perdão que recebeu; a consequência, e não a condição, de seu perdão; o resultado, e não o motivo, de seu perdão; o fruto, e não a raiz, de seu perdão."
+- **Contexto**: comentário a Lc 7.47
+- **Fim argumentativo**: o amor é evidência do perdão, nunca o seu preço — contra a leitura moralista do v. 47
+- **Adicionada em**: 2026-10-18
+
+### Usos
+
+| Data | Sermão/Perícope | Onde entrou | Conexão que justificou |
+|------|------------------|-------------|-----------------------|
+| 2026-10-18 | Lc 7.36-50 — O Culto Revela a Minha Fé | Ponto II, primeira razão | explica o *hoti* evidencial em linguagem de púlpito |
+
+---
+
+## [CT-189] O sinal e a prova da fé são o amor — N. T. Wright
+
+- **Autor**: N. T. Wright (1948-), biblista anglicano, ex-bispo de Durham
+- **Origem**: WRIGHT, N. T. [*Lucas para todos*. Tradução, editora, ano e página a conferir]. Comentário a Lc 7.36-50
+- **Tags**: `#fé` `#amor` `#evidência` `#Lc7`
+- **Texto**:
+  > "Para Lucas, a verdadeira fé é o que acontece quando alguém olha para Jesus e descobre o perdão de Deus; e o sinal e a prova dessa fé são o amor."
+- **Contexto**: comentário popular a Lc 7.36-50
+- **Fim argumentativo**: a fé que recebe o perdão se manifesta em amor — fórmula quase literal de "o culto revela a minha fé"
+- **Adicionada em**: 2026-10-18
+
+### Usos
+
+| Data | Sermão/Perícope | Onde entrou | Conexão que justificou |
+|------|------------------|-------------|-----------------------|
+| 2026-10-18 | Lc 7.36-50 — O Culto Revela a Minha Fé | Ponto II, segunda razão | sustenta o título com um exegeta |
+
+---
+
+## [CT-190] Olhava-a conforme tinha sido — G. Campbell Morgan
+
+- **Autor**: G. Campbell Morgan (1863-1945), pregador congregacional inglês, Westminster Chapel
+- **Origem**: MORGAN apud MORRIS, Leon. *Lucas*: introdução e comentário. São Paulo: Vida Nova, [ano a conferir]. p. 140
+- **Tags**: `#graça` `#identidade` `#julgamento` `#Lc7`
+- **Texto**:
+  > "Simão não conseguiu ver aquela mulher conforme então era, porque olhava-a conforme tinha sido."
+- **Contexto**: citado por Morris ao comentar "Você está vendo esta mulher?" (Lc 7.44)
+- **Fim argumentativo**: quem não conhece a graça vê o outro pelo passado; a graça vê o perdoado pelo que Deus fez dele
+- **Adicionada em**: 2026-10-18
+
+### Usos
+
+| Data | Sermão/Perícope | Onde entrou | Conexão que justificou |
+|------|------------------|-------------|-----------------------|
+| 2026-10-18 | Lc 7.36-50 — O Culto Revela a Minha Fé | Ponto III, abertura do exame | ilumina o "ver" do v. 44 |
+
+---
+
+## [CT-191] Frequentam excelentes cultos e pagam sua cota — C. H. Spurgeon
+
+- **Autor**: Charles H. Spurgeon (1834-1892), pregador batista inglês
+- **Origem**: SPURGEON, C. H. Devedores falidos perdoados (sermão sobre Lc 7.42, 16 set. 1883). In: *Sermões de Spurgeon sobre as parábolas*. [Tradução, editora, ano e página a conferir]
+- **Tags**: `#autojustiça` `#culto` `#religião-de-fachada` `#Lc7`
+- **Texto**:
+  > "Além disso, professam ser religiosos; frequentam excelentes cultos e pagam sua cota de despesas. Quem poderia encontrar qualquer falha em tais boas pessoas? [...] por que então tentam dar-se um banho de bronze e se fazer parecer algo quando, na realidade, não são nada?"
+- **Contexto**: a tentação do falido de "fazer um show" para manter o crédito, aplicada à autojustiça religiosa
+- **Fim argumentativo**: o culto pode ser vitrine de crédito diante de Deus, não resposta ao perdão
+- **Adicionada em**: 2026-10-18
+
+### Usos
+
+| Data | Sermão/Perícope | Onde entrou | Conexão que justificou |
+|------|------------------|-------------|-----------------------|
+| 2026-10-18 | Lc 7.36-50 — O Culto Revela a Minha Fé | Ponto III, exame do "óleo" | diagnóstico do culto correto e sem amor |
+
+---
+
+## [CT-192] Uma fé encenada em atos extravagantes de amor — Nicholas Perrin
+
+- **Autor**: Nicholas Perrin, biblista evangélico (Trinity International University)
+- **Origem**: PERRIN, Nicholas. *Luke* (Tyndale New Testament Commentaries). [IVP Academic, 2022 — conferir; p. a conferir]. Tradução nossa
+- **Tags**: `#fé` `#apropriação` `#amor` `#Lc7`
+- **Texto**:
+  > "Não foi simplesmente a percepção que a mulher tinha da disposição de Jesus para perdoar que a levou a amar, mas a apropriação desse perdão pela fé, uma fé encenada em atos extravagantes de amor."
+- **Contexto**: comentário a Lc 7.47, com Gl 5.6
+- **Fim argumentativo**: não basta saber que o perdão existe; é crer que ele é meu — e essa fé aparece
+- **Adicionada em**: 2026-10-18
+
+### Usos
+
+| Data | Sermão/Perícope | Onde entrou | Conexão que justificou |
+|------|------------------|-------------|-----------------------|
+| 2026-10-18 | Lc 7.36-50 — O Culto Revela a Minha Fé | Ponto II, segunda razão | distingue perceber de apropriar-se |
+
+---
+
+## [CT-193] A confissão que Simão precisava fazer — Kenneth Bailey
+
+- **Autor**: Kenneth E. Bailey (1930-2016), estudioso presbiteriano do Novo Testamento no Oriente Médio
+- **Origem**: BAILEY, Kenneth E. *As parábolas de Lucas*. [Tradução, editora e ano a conferir]. p. 60
+- **Tags**: `#arrependimento` `#autojustiça` `#confissão` `#Lc7`
+- **Texto**:
+  > "Sou um grande pecador (assim como era esta mulher). Isto eu não havia percebido. Nem me arrependi, nem ouvi a oferta da graça de Deus como esta mulher ouviu. Fui perdoado pouco, e assim amei pouco o agente de Deus (Jesus). Se Jesus realmente deseja evitar os pecadores, Ele deve me evitar, e não esta mulher a quem desprezei."
+- **Contexto**: a reação que o ouvinte original (Simão) é levado a confessar ao fim da parábola
+- **Fim argumentativo**: o religioso só ama muito quando se descobre devedor de muito
+- **Adicionada em**: 2026-10-18
+
+### Usos
+
+| Data | Sermão/Perícope | Onde entrou | Conexão que justificou |
+|------|------------------|-------------|-----------------------|
+| 2026-10-18 | Lc 7.36-50 — O Culto Revela a Minha Fé | Conclusão | dá voz à resposta certa do final aberto |
+
+---
+
+## [CT-194] Como se fosse a pessoa principalmente ofendida — C. S. Lewis
+
+- **Autor**: C. S. Lewis (1898-1963), escritor e apologista anglicano
+- **Origem**: LEWIS, C. S. *Mere Christianity*, livro II, cap. 3 (ed. bras.: *Cristianismo puro e simples*) [edição e página a conferir]. Tradução nossa
+- **Tags**: `#divindade-de-Cristo` `#perdão` `#cristologia`
+- **Texto**:
+  > "He told people that their sins were forgiven, and never waited to consult all the other people whom their sins had undoubtedly injured. He unhesitatingly behaved as if He was the party chiefly concerned, the person chiefly offended in all offences." — Tradução: "Ele dizia às pessoas que os seus pecados estavam perdoados, e nunca esperava para consultar todas as outras pessoas que esses pecados sem dúvida tinham ferido. Comportava-se, sem hesitar, como se fosse a parte principal interessada, a pessoa principalmente ofendida em todas as ofensas."
+- **Contexto**: argumento sobre as reivindicações de Jesus
+- **Fim argumentativo**: só o ofendido pode perdoar; ao perdoar todos os pecados, Jesus age como Deus
+- **Adicionada em**: 2026-10-18
+
+### Usos
+
+| Data | Sermão/Perícope | Onde entrou | Conexão que justificou |
+|------|------------------|-------------|-----------------------|
+| 2026-10-18 | Lc 7.36-50 — O Culto Revela a Minha Fé | Ponto IV, "Só o ofendido pode perdoar" | responde à pergunta "Quem é este que até perdoa pecados?" (Lc 7.49) |
+
+---
+
+## [CT-195] O perdão é eterno — Grant Osborne
+
+- **Autor**: Grant R. Osborne (1942-2018), biblista evangélico (Trinity Evangelical Divinity School)
+- **Origem**: OSBORNE, Grant R. *Evangelho de Lucas*. Trad. Renato Cunha. Bellingham; São Paulo: Lexham Press; Carisma, 2023. p. 217-225 [página exata a conferir]
+- **Tags**: `#perdão` `#milagres` `#escatologia` `#Lc7`
+- **Texto**:
+  > "Até mesmo a ressurreição dos mortos produz uma mudança temporária, de maneira terrena. O perdão é eterno e celestial em suas ramificações."
+- **Contexto**: comentário a Lc 7.49, ligando a perícope à ressurreição em Naim (7.11-17)
+- **Fim argumentativo**: o perdão é o maior dos dons de Cristo; cultuar pelo milagre e não pelo perdão inverte a ordem
+- **Adicionada em**: 2026-10-18
+
+### Usos
+
+| Data | Sermão/Perícope | Onde entrou | Conexão que justificou |
+|------|------------------|-------------|-----------------------|
+| 2026-10-18 | Lc 7.36-50 — O Culto Revela a Minha Fé | Ponto IV, "Maior que Naim" | sustenta o crescendo do capítulo 7 |
+
+---
