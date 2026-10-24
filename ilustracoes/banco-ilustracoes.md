@@ -39,6 +39,126 @@ Nunca forçar uma boa ilustração num lugar que ela não serve.
 
 <!-- Novas entradas entram abaixo desta linha, mais recentes no topo -->
 
+## [IL-020] "Deus ajuda quem cedo madruga": o ditado que parece versículo
+
+- **Fonte**: Própria (Allan)
+- **Origem específica**: adaptação brasileira de uma observação de Michael
+  Bird ("Deus ajuda quem se ajuda" não está na Bíblia; Deus não é um guru
+  de autoajuda), citada por Tony Merida, *Exaltando Jesus em Romanos*,
+  sobre Rm 3.21-31
+- **Tags**: `#graça` `#mérito` `#sola-gratia` `#autoajuda`
+  `#cultura-brasileira` `#Rm3.24`
+- **Descrição**: o provérbio "Deus ajuda quem cedo madruga" é repetido
+  como se fosse versículo — e muita gente jura que está na Bíblia. Não
+  está. Ele resume a religião do esforço: Deus entra depois que eu fiz a
+  minha parte.
+- **Fim homilético**: ilustra a mentira do mérito ("você é o que você
+  entrega") na forma em que o brasileiro a carrega sem perceber, e prepara
+  o contraste do evangelho: na graça, Deus ajuda quem não tem como se
+  ajudar (Rm 3.24; 4.5; 5.6). Serve ao ponto de sermão sobre graça que
+  precisa desmontar a teologia popular do esforço sem desprezar o
+  trabalho honesto
+- **Adicionada em**: 2026-10-24
+
+### Usos
+
+| Data | Sermão/Perícope | Conexão específica que justificou o reuso |
+|------|------------------|---------------------------------------------|
+| 2026-10-25 | Rm 3.21-28 — *Reformados pela Palavra* (ICNV Parque Lafaiete), ponto II "só a graça" | Criada para o diagnóstico do mérito no ponto II |
+
+---
+
+## [IL-019] Golias e a origem da vanglória: aquilo que me dá coragem para encarar o dia
+
+- **Fonte**: Livro: Timothy Keller, *Romanos para você*: capítulos 1-7
+  (Vida Nova) [ano a conferir]
+- **Origem específica**: comentário a Rm 3.27, seção "A questão da
+  vanglória", p. 95
+- **Tags**: `#vanglória` `#jactância` `#identidade` `#ídolo-do-coração`
+  `#soli-deo-gloria` `#Rm3.27` `#1Sm17`
+- **Descrição**: Keller observa que a palavra "vanglória" vem do campo de
+  batalha: o soldado que grita ao inimigo "somos maiores, temos mais
+  homens e melhores armas" — como Golias diante de Israel (1Sm 17.8-11).
+  Aquilo de que você se vangloria é o que lhe dá confiança para sair e
+  encarar o dia: "sou alguém porque tenho isso".
+- **Fim homilético**: ilustra que a vanglória não é só falar demais de
+  si, mas a base de confiança e identidade do coração — e por isso a
+  exclusão da jactância (Rm 3.27) atinge o centro da pessoa, não só a
+  boca. Serve ao ponto de sermão que precisa levar o "onde está a
+  vanglória?" da conduta para o coração
+- **Adicionada em**: 2026-10-24
+
+### Usos
+
+| Data | Sermão/Perícope | Conexão específica que justificou o reuso |
+|------|------------------|---------------------------------------------|
+| 2026-10-25 | Rm 3.21-28 — *Reformados pela Palavra* (ICNV Parque Lafaiete), ponto V "só a glória de Deus" | Liga a jactância excluída ao diagnóstico da Fase 3 (a jactância como substituto da glória perdida) |
+
+---
+
+## [IL-018] Bunyan andando pela casa: Rm 3.24 numa vida
+
+- **Fonte**: Livro: John Bunyan, *Grace Abounding to the Chief of
+  Sinners* (1666), §§ 257-258
+- **Origem específica**: citado em português por F. F. Bruce, *Romanos*:
+  introdução e comentário (Vida Nova), p. 52-53; texto original conferido
+  no Project Gutenberg (https://www.gutenberg.org/ebooks/654). Ver também
+  CT-186 no banco de citações
+- **Tags**: `#justificação` `#graça` `#Rm3.24` `#acusação-da-consciência`
+  `#testemunho-histórico`
+- **Descrição**: depois de anos de angústia, Bunyan anda de um lado para
+  o outro em casa quando Rm 3.24 "toma posse" do seu coração; ele ouve
+  Deus dizer, por assim dizer: "Pecador, pensas que por causa dos teus
+  pecados eu não posso te salvar; mas o meu Filho está junto a mim, e é
+  para ele que olho, não para ti."
+- **Fim homilético**: ilustra a justificação gratuita respondendo à
+  acusação da consciência: Deus não avalia o desempenho do pecador, olha
+  para Cristo. Serve ao ponto de sermão sobre a graça (v. 24) e à
+  aplicação a quem chega esmagado pela culpa
+- **Adicionada em**: 2026-10-24
+
+### Usos
+
+| Data | Sermão/Perícope | Conexão específica que justificou o reuso |
+|------|------------------|---------------------------------------------|
+| 2026-10-25 | Rm 3.21-28 — *Reformados pela Palavra* (ICNV Parque Lafaiete), ponto II "só a graça" | Alternativa à autoimplicação, se o Allan não usar causo próprio: é o próprio v. 24 agindo numa vida |
+
+---
+
+## [IL-017] "De César, instrumento de reconciliação": o *hilastērion* do império e o da cruz
+
+- **Fonte**: Livro: Frank S. Thielman, *Romans* (Zondervan Exegetical
+  Commentary on the New Testament) [ano a conferir]
+- **Origem específica**: excurso "Jesus as the Biblical 'Mercy Seat'
+  (ἱλαστήριον)", sobre Rm 3.25 — inscrição num altar em Metrópolis
+  (perto de Éfeso, fim do séc. I a.C.): ΚΑΙΣΑΡΟΣ ΕΙΛΑΣΤΗΡΙΟΥ, "De César,
+  instrumento de reconciliação"; e Josefo, *Ant.* 16.182 (o monumento de
+  mármore que Herodes ergueu como *hilastērion* depois de saquear o
+  túmulo de Davi)
+- **Tags**: `#propiciação` `#hilastērion` `#solus-christus` `#Rm3.25`
+  `#contexto-romano` `#cristo-contra-césar`
+- **Descrição**: no mundo romano, a mesma palavra que Paulo usa em Rm
+  3.25 aparecia num altar dedicado a César Augusto, celebrado como
+  "instrumento de reconciliação" — o imperador como quem traz a paz. E
+  Herodes, depois de roubar o túmulo de Davi, ergueu um monumento caro
+  para aplacar a divindade. Paulo escreve a Roma: o *hilastērion* de Deus
+  não é o imperador no altar nem o monumento que o homem paga — é um
+  judeu crucificado, apresentado publicamente pelo próprio Deus.
+- **Fim homilético**: ilustra que a propiciação cristã é o oposto da
+  religião que tenta comprar a paz com Deus (Herodes) e o oposto do poder
+  humano que se apresenta como mediador (César): é Deus quem apresenta o
+  único mediador (Rm 3.25; 1Tm 2.5). Serve ao ponto de sermão sobre "só
+  Cristo" e sobre o "Deus o apresentou publicamente"
+- **Adicionada em**: 2026-10-24
+
+### Usos
+
+| Data | Sermão/Perícope | Conexão específica que justificou o reuso |
+|------|------------------|---------------------------------------------|
+| 2026-10-25 | Rm 3.21-28 — *Reformados pela Palavra* (ICNV Parque Lafaiete), ponto III "só Cristo" | Reforça o contraste "escondido atrás do véu × apresentado publicamente" e o diagnóstico "Jesus mais alguma coisa" |
+
+---
+
 ## [IL-016] Os castiçais do bispo: a graça que precede a transformação
 
 - **Fonte**: Filme: *Os Miseráveis* (adaptações de *Les Misérables*, romance de
@@ -243,7 +363,7 @@ Nunca forçar uma boa ilustração num lugar que ela não serve.
 
 | Data | Sermão/Perícope | Conexão específica que justificou o reuso |
 |------|------------------|---------------------------------------------|
-| —    | —                | —                                            |
+| 2026-10-25 | Rm 3.21-28 — *Reformados pela Palavra, Centrados em Cristo* (ICNV Parque Lafaiete), ponto IV "só a fé" | O diagnóstico do ponto é a fé tratada como desempenho ("o problema é a quantidade da sua fé"); a corda mostra que a fé salva pelo objeto (Cristo), não pela força com que se agarra — Rm 3.22, 26: fé *em* Jesus |
 
 ---
 

@@ -3507,3 +3507,247 @@ Owen — cada voz tem seu peso próprio.
 
 ---
 
+## [CT-184] "Odiei a expressão 'justiça de Deus'" — Martinho Lutero
+
+- **Autor**: Martinho Lutero (1483-1546), monge agostiniano, reformador
+- **Origem**: Prefácio à edição completa dos escritos latinos (Wittenberg,
+  1545). Tradução inglesa de Andrew Thornton, OSB, a partir de *Luthers
+  Werke in Auswahl*, v. 4, ed. Otto Clemen, 6. ed. Berlim: de Gruyter,
+  1967, p. 421-428 (Internet Modern History Sourcebook, Fordham:
+  https://sourcebooks.web.fordham.edu/mod/1519luther-tower.asp). Edição
+  brasileira: *Obras Selecionadas* [volume e página a conferir]
+- **Tags**: `#justificação` `#justiça-de-deus` `#reforma` `#Rm1.17`
+  `#Rm3.21` `#conversão` `#sola-fide`
+- **Texto** (tradução nossa a partir de Thornton):
+  > "Eu odiava a expressão 'justiça de Deus' [...]. De repente senti que
+  > havia nascido de novo e entrado no próprio paraíso por portas
+  > abertas."
+- **Contexto**: no fim da vida, Lutero conta como lia a "justiça de
+  Deus" (Rm 1.17) como a justiça com que Deus pune o pecador, até
+  entender que é a justiça que Deus dá a quem crê — a "experiência da
+  torre"
+- **Fim argumentativo**: mostra, numa vida concreta, a virada de Rm 3.21
+  — a mesma expressão que condenava passa a libertar quando se entende
+  que a justiça exigida é a justiça dada. Abre sermões da Reforma pelo
+  conflito interno (o medo do juiz justo)
+- **Adicionada em**: 2026-10-24
+
+### Usos
+
+| Data | Sermão/Perícope | Onde entrou | Conexão que justificou |
+|------|------------------|-------------|-----------------------|
+| 2026-10-25 | Rm 3.21-28 — *Reformados pela Palavra, Centrados em Cristo* (ICNV Parque Lafaiete) | Introdução | A virada de Lutero abre o sermão pelo conflito interno (o medo do juiz justo) e prepara o "mas agora" do v. 21 |
+
+---
+
+## [CT-185] "O ponto principal da epístola e da Bíblia inteira" — Martinho Lutero
+
+- **Autor**: Martinho Lutero (1483-1546), monge agostiniano, reformador
+- **Origem**: nota de margem da Bíblia alemã de Lutero, sobre Rm 3.23ss.
+  Citada em: MOO, Douglas J. *Comentário exegético Romanos*. [Vida Nova;
+  ano a conferir], p. 281-282, n. 696
+- **Tags**: `#Rm3.21-26` `#justificação` `#reforma` `#centralidade-do-evangelho`
+- **Texto** (na forma citada por Moo):
+  > "o ponto principal e o próprio lugar central da epístola e da Bíblia
+  > inteira"
+- **Contexto**: anotação de Lutero à margem do texto de Romanos, marcando
+  o parágrafo de 3.21-26 como o centro da carta
+- **Fim argumentativo**: dá peso histórico à afirmação de que Rm 3.21-28
+  é o coração do evangelho — útil na introdução de sermão sobre o
+  parágrafo, sobretudo no culto da Reforma. Citar como *apud* Moo
+- **Adicionada em**: 2026-10-24
+
+### Usos
+
+| Data | Sermão/Perícope | Onde entrou | Conexão que justificou |
+|------|------------------|-------------|-----------------------|
+| —    | —                | —           | — |
+
+---
+
+## [CT-186] "Para Ele olho, e não para ti" — John Bunyan
+
+- **Autor**: John Bunyan (1628-1688), pregador batista puritano inglês,
+  autor de *O Peregrino*
+- **Origem**: *Grace Abounding to the Chief of Sinners* (1666), §§ 257-258
+  (numeração da edição do Project Gutenberg:
+  https://www.gutenberg.org/ebooks/654). Citado em português por BRUCE, F.
+  F. *Romanos*: introdução e comentário. [Vida Nova; ano a conferir], p.
+  52-53
+- **Tags**: `#justificação` `#graça` `#Rm3.24` `#segurança-da-salvação`
+  `#testemunho` `#acusação-da-consciência`
+- **Texto** (tradução de Bruce, levemente abreviada):
+  > "Quando eu estava andando para cima e para baixo na casa, aquela
+  > palavra de Deus tomou posse do meu coração: Vós sois 'justificados
+  > gratuitamente por sua graça, mediante a redenção que há em Cristo
+  > Jesus' [...]. Pecador, pensas que por causa dos teus pecados e
+  > fraquezas eu não posso salvar a tua alma, porém eis que o meu Filho
+  > está junto a mim e é para ele que olho, não para ti."
+- **Contexto**: depois de anos de angústia e de acusação da consciência,
+  Bunyan narra o momento em que Rm 3.24 o alcançou
+- **Fim argumentativo**: mostra o v. 24 funcionando numa vida: a
+  justificação gratuita responde à acusação olhando para Cristo, não
+  para o desempenho do pecador. Serve ao ponto sobre a graça e à
+  aplicação a quem está esmagado pela culpa
+- **Adicionada em**: 2026-10-24
+
+### Usos
+
+| Data | Sermão/Perícope | Onde entrou | Conexão que justificou |
+|------|------------------|-------------|-----------------------|
+| 2026-10-25 | Rm 3.21-28 — *Reformados pela Palavra, Centrados em Cristo* (ICNV Parque Lafaiete) | Ponto II (só a graça) | O v. 24 numa vida: a justificação gratuita responde à acusação olhando para Cristo |
+
+---
+
+## [CT-187] A fé como um vaso vazio — João Calvino
+
+- **Autor**: João Calvino (1509-1564), reformador, teólogo e pastor em Genebra
+- **Origem**: *Institutas da Religião Cristã*, III.11.7 (ed. definitiva,
+  1559). Texto inglês conferido na CCEL
+  (https://ccel.org/ccel/calvin/institutes.v.xii.html) [tradutor e página
+  da edição brasileira a conferir]
+- **Tags**: `#fé` `#sola-fide` `#justificação` `#fé-não-é-obra`
+  `#objeto-da-fé`
+- **Texto** (tradução nossa a partir da CCEL):
+  > "Comparamos a fé a uma espécie de vaso, porque somos incapazes de
+  > receber Cristo se não formos esvaziados e não viermos de boca aberta
+  > para receber a sua graça." [...] A fé, em si, não tem dignidade nem
+  > valor; justifica apenas por nos dar Cristo, "assim como um vaso cheio
+  > de moedas pode dar riqueza".
+- **Contexto**: Calvino responde a Osiandro e explica por que a fé
+  justifica sem ser mérito: o valor está no conteúdo (Cristo), não no
+  recipiente
+- **Fim argumentativo**: sustenta que a fé não é obra nem causa da
+  justificação, mas o instrumento vazio que recebe Cristo — contra a "fé
+  como desempenho" (Rm 3.22, 25, 28)
+- **Adicionada em**: 2026-10-24
+
+### Usos
+
+| Data | Sermão/Perícope | Onde entrou | Conexão que justificou |
+|------|------------------|-------------|-----------------------|
+| 2026-10-25 | Rm 3.21-28 — *Reformados pela Palavra, Centrados em Cristo* (ICNV Parque Lafaiete) | Ponto IV (só a fé) | Paráfrase: a fé como vaso vazio, contra a fé tratada como desempenho |
+
+---
+
+## [CT-188] "Só a fé justifica, mas a fé que justifica não está só" — João Calvino
+
+- **Autor**: João Calvino (1509-1564), reformador, teólogo e pastor em Genebra
+- **Origem**: *Acta Synodi Tridentinae cum Antidoto* (Atas do Concílio de
+  Trento com o Antídoto, 1547), sobre a 6ª sessão, cânon 11. Conferido
+  em: CHRISTIANITY TODAY, "Justification à la John Calvin", 2009
+  (https://christianitytoday.com/2009/08/justification-la-john-calvin) e
+  Goodreads (citações da obra) [edição em português a conferir]
+- **Tags**: `#sola-fide` `#justificação` `#santificação` `#antinomismo`
+  `#combate-duplo` `#reforma`
+- **Texto** (tradução nossa):
+  > "É, pois, somente a fé que justifica; e, no entanto, a fé que
+  > justifica não está sozinha — assim como é somente o calor do sol que
+  > aquece a terra, e, no entanto, no sol ele não está sozinho, porque
+  > está sempre unido à luz."
+- **Contexto**: resposta de Calvino aos decretos de Trento sobre a
+  justificação, que acusavam a Reforma de tornar as obras dispensáveis
+- **Fim argumentativo**: mantém o combate duplo do v. 28 com o v. 31: a
+  fé é o único instrumento da justificação (contra o moralismo), mas a
+  fé verdadeira nunca vem sem fruto (contra a graça barata)
+- **Adicionada em**: 2026-10-24
+
+### Usos
+
+| Data | Sermão/Perícope | Onde entrou | Conexão que justificou |
+|------|------------------|-------------|-----------------------|
+| 2026-10-25 | Rm 3.21-28 — *Reformados pela Palavra, Centrados em Cristo* (ICNV Parque Lafaiete) | Ponto IV (combate duplo) | Só a fé justifica (v. 28) e a fé que justifica não está só (v. 31) |
+
+---
+
+## [CT-189] "O homem pecou e Deus sofreu" — Richard Hooker
+
+- **Autor**: Richard Hooker (c. 1554-1600), teólogo anglicano elisabetano
+- **Origem**: *A Learned Discourse of Justification, Works, and How the
+  Foundation of Faith is Overthrown* (sermão pregado em 1585-1586),
+  seção "Doctrinal disagreement". Texto conferido na CCEL:
+  https://www.ccel.org/ccel/hooker/just.all.html
+- **Tags**: `#justificação` `#dupla-imputação` `#cruz` `#2Co5.21`
+  `#substituição` `#reforma`
+- **Texto** (tradução nossa):
+  > "Que isso seja tido por loucura, ou frenesi, ou fúria, ou o que for.
+  > É a nossa sabedoria e o nosso consolo; não nos importa nenhum outro
+  > conhecimento no mundo senão este: que o homem pecou e Deus sofreu;
+  > que Deus se fez o pecado dos homens, e que os homens são feitos a
+  > justiça de Deus."
+- **Contexto**: Hooker defende a justificação somente pela fé contra a
+  doutrina romana da justiça infusa, e admite que ela soa como loucura
+  aos olhos do mundo
+- **Fim argumentativo**: concentra numa frase a troca da cruz — o Deus
+  justo sofre o que o pecador merece e o pecador recebe a justiça de
+  Deus. Serve ao clímax de "justo e justificador" (Rm 3.26). Atenção: a
+  dupla imputação é complemento canônico (2Co 5.21), não ensino direto
+  de Rm 3.22
+- **Adicionada em**: 2026-10-24
+
+### Usos
+
+| Data | Sermão/Perícope | Onde entrou | Conexão que justificou |
+|------|------------------|-------------|-----------------------|
+| —    | —                | —           | — |
+
+---
+
+## [CT-190] "Ainda não consideraste o peso do pecado" — Anselmo de Cantuária
+
+- **Autor**: Anselmo de Cantuária (1033-1109), monge beneditino, arcebispo
+  de Cantuária, teólogo escolástico
+- **Origem**: *Cur Deus Homo* (1094-1098), livro I, cap. 21. Latim:
+  "Nondum considerasti quanti ponderis sit peccatum". Trad. inglesa de
+  Sidney Norton Deane ("You have not as yet estimated the great burden of
+  sin"): https://logoslibrary.org/anselm/cur/121.html. Citado também em
+  MOO, *Comentário exegético Romanos*, p. 310
+- **Tags**: `#pecado` `#santidade-de-deus` `#expiação` `#propiciação`
+  `#antinomismo` `#Rm3.25-26`
+- **Texto** (tradução nossa):
+  > "Ainda não consideraste quão grande é o peso do pecado."
+- **Contexto**: no diálogo com o discípulo Boso, que achava que o perdão
+  poderia ser concedido sem satisfação, Anselmo mostra que nem um único
+  olhar contra a vontade de Deus pode ser compensado
+- **Fim argumentativo**: desmonta o Deus que "deixa passar" (antinomismo):
+  quem acha a cruz desnecessária ainda não mediu o pecado. Serve ao
+  clímax de Rm 3.25-26 (a *paresis* não era indiferença)
+- **Adicionada em**: 2026-10-24
+
+### Usos
+
+| Data | Sermão/Perícope | Onde entrou | Conexão que justificou |
+|------|------------------|-------------|-----------------------|
+| 2026-10-25 | Rm 3.21-28 — *Reformados pela Palavra, Centrados em Cristo* (ICNV Parque Lafaiete) | Clímax | A paresis (v. 25) não era indiferença: quem acha a cruz desnecessária não mediu o pecado |
+
+---
+
+## [CT-191] A autossubstituição de Deus — John Stott
+
+- **Autor**: John Stott (1921-2011), pastor anglicano evangélico, All
+  Souls Langham Place (Londres), fundador do Movimento de Lausanne
+- **Origem**: *The Cross of Christ* (Leicester/Downers Grove: IVP, 1986),
+  cap. 6, "The Self-Substitution of God". Edição brasileira: *A Cruz de
+  Cristo* [editora, ano e página a conferir]
+- **Tags**: `#substituição` `#propiciação` `#cruz` `#pecado` `#Rm3.25`
+  `#trindade`
+- **Paráfrase** (obra protegida — usar só a expressão-âncora entre
+  aspas): o pecado é o homem pondo-se no lugar de Deus; a salvação é
+  Deus pondo-se no lugar do homem. A cruz não é um Filho aplacando um Pai
+  relutante, mas a "autossubstituição de Deus".
+- **Contexto**: Stott responde às objeções à substituição penal (a
+  imagem de um Pai cruel e de um Filho que o aplaca) mostrando que quem
+  provê o sacrifício é o próprio Deus
+- **Fim argumentativo**: sustenta que a propiciação de Rm 3.25 não é
+  barganha pagã — "Deus o apresentou": o Deus ofendido é o mesmo que se
+  oferece
+- **Adicionada em**: 2026-10-24
+
+### Usos
+
+| Data | Sermão/Perícope | Onde entrou | Conexão que justificou |
+|------|------------------|-------------|-----------------------|
+| 2026-10-25 | Rm 3.21-28 — *Reformados pela Palavra, Centrados em Cristo* (ICNV Parque Lafaiete) | Ponto III (só Cristo) | "Deus o apresentou": o Deus ofendido provê a propiciação |
+
+---
+
