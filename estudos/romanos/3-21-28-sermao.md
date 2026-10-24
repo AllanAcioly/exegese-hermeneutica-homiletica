@@ -460,7 +460,7 @@ escritos latinos (Wittenberg, 1545). Tradução nossa a partir da versão
 inglesa de Andrew Thornton, em *Luthers Werke in Auswahl*, v. 4, ed.
 Otto Clemen. 6. ed. Berlim: de Gruyter, 1967, p. 421-428. Disponível em:
 https://sourcebooks.web.fordham.edu/mod/1519luther-tower.asp. Acesso em:
-24 out. 2026. [Conferir a edição das *Obras Selecionadas*.]
+24 out. 2026.
 
 [^2]: **Grego.** *nyni de* (νυνὶ δέ), v. 21 — "mas agora", com a forma
 enfática de "agora". Não é só a virada do raciocínio: marca a passagem
@@ -468,15 +468,21 @@ da era do pecado para a era da salvação, que volta no "tempo presente"
 do v. 26.
 
 [^3]: **Fonte.** LLOYD-JONES, D. Martyn, citado por MOO, Douglas J.
-*Comentário exegético Romanos*. [São Paulo: Vida Nova, ano a conferir],
-p. 285.
+*Comentário exegético Romanos*, p. 285. Tradução brasileira de *The
+Epistle to the Romans*. 2. ed. Grand Rapids: Eerdmans, 2018 (NICNT)
+[editora e ano da tradução a conferir].
 
-[^4]: **Aprofundamento.** Os reformadores usavam as expressões, mas a
-lista dos "cinco solas" como conjunto fechado é uma organização
-posterior, difundida sobretudo no século XX. Tony Merida, comentando Rm
-3.21-31, observa que o parágrafo contém os cinco, com o v. 27 na
-categoria *Soli Deo Gloria* (MERIDA, Tony. *Exaltando Jesus em Romanos*
-[editora e ano a conferir], sobre 3.21-31).
+[^4]: **Aprofundamento.** Os reformadores usavam as expressões, mas
+nenhum deles as reuniu numa lista. O conjunto só se formou no século XX:
+em 1916, o luterano Theodore Engelder falou de três princípios (*sola
+Scriptura*, *sola gratia*, *sola fide*), e em 1934 Emil Brunner trocou
+*sola Scriptura* por *soli Deo gloria* (FIVE SOLAE. *Wikipedia*.
+Disponível em: https://en.wikipedia.org/wiki/Five_solae. Acesso em: 24
+out. 2026). Tony Merida, comentando Rm 3.21-31, observa que o parágrafo
+contém os cinco, com o v. 27 na categoria *Soli Deo Gloria* (MERIDA,
+Tony. *Exalting Jesus in Romans*. Nashville: B&H, 2021. (Christ-Centered
+Exposition Commentary), sobre 3.21-31; consultado em tradução
+portuguesa).
 
 [^5]: **Grego.** *chōris nomou* (χωρὶς νόμου), v. 21 — "sem lei", "à
 parte da lei". Abre uma moldura que o v. 28 fecha com "sem obras da
@@ -487,7 +493,7 @@ manifestada", no perfeito: foi mostrada e continua à mostra. A justiça
 não é conquistada nem descoberta; é revelada por Deus.
 
 [^7]: **Fonte.** ASSEMBLEIA DE WESTMINSTER. *Confissão de Fé de
-Westminster* (1646), cap. I, § 10. [Conferir a tradução usada pela IPB.]
+Westminster* (1646), cap. I, § 10.
 
 [^8]: **Aprofundamento.** O v. 21 ensina que o evangelho não é novidade
 — é o que a Lei e os Profetas testemunham — e que a Escritura é a
@@ -509,12 +515,13 @@ universalismo: no contexto, são "todos os que creem" (v. 22).
 graça", "sem motivo". É a palavra de Jo 15.25 ("odiaram-me sem
 motivo").
 
-[^12]: **Fonte.** BRUCE, F. F. *Romanos*: introdução e comentário. [São
-Paulo: Vida Nova, ano a conferir], p. 52.
+[^12]: **Fonte.** BRUCE, F. F. *Romanos*: introdução e comentário. São
+Paulo: Vida Nova [ano a conferir; catálogo de livreiro indica 1979], p.
+52.
 
 [^13]: **Fonte.** A observação de que "Deus ajuda quem se ajuda" não está
 na Bíblia — Deus não é um guru de autoajuda — é de Michael Bird, citado
-por MERIDA, *Exaltando Jesus em Romanos*, sobre 3.21-31. A adaptação
+por MERIDA, *Exalting Jesus in Romans*, sobre 3.21-31. A adaptação
 para o ditado brasileiro é nossa.
 
 [^14]: **Fonte.** BUNYAN, John. *Grace Abounding to the Chief of
@@ -536,15 +543,15 @@ Hb 9.5); no contexto de Romanos, inclui a ira de Deus satisfeita (cf.
 "expôs publicamente". Contrasta com o propiciatório escondido atrás do
 véu.
 
-[^18]: **Fonte.** THIELMAN, Frank S. *Romans*. Grand Rapids: Zondervan
-[ano a conferir]. (Zondervan Exegetical Commentary on the New
+[^18]: **Fonte.** THIELMAN, Frank S. *Romans*. Grand Rapids: Zondervan,
+2018. (Zondervan Exegetical Commentary on the New
 Testament), excurso "Jesus as the Biblical 'Mercy Seat'", sobre Rm 3.25:
 inscrição num altar em Metrópolis, perto de Éfeso (fim do séc. I a.C.),
 "De César, instrumento de reconciliação".
 
-[^19]: **Fonte.** STOTT, John. *A Cruz de Cristo*. [Editora e ano a
-conferir], cap. 6, "A autossubstituição de Deus". Original: *The Cross
-of Christ*. Leicester: IVP, 1986.
+[^19]: **Fonte.** STOTT, John. *A Cruz de Cristo*. Tradução de João
+Batista. São Paulo: Vida, 2006, cap. 6, "A autossubstituição de Deus".
+Original: *The Cross of Christ*. Leicester: IVP, 1986.
 
 [^20]: **Fonte.** Sobre os precursores do "somente": Orígenes (STOTT,
 John. *Romanos*. A Bíblia Fala Hoje [editora e ano a conferir], p. 66);
@@ -561,7 +568,7 @@ for distinta da Lei (MOO, *Comentário exegético Romanos*, p. 317-319).
 [^22]: **Fonte.** CALVINO, João. *Institutas da Religião Cristã* (1559),
 III.11.7. Paráfrase a partir da tradução inglesa disponível em:
 https://ccel.org/ccel/calvin/institutes.v.xii.html. Acesso em: 24 out.
-2026. [Conferir edição e página em português.]
+2026.
 
 [^23]: **Grego.** *dia pisteōs* (διὰ πίστεως), vv. 22, 25 — "por meio
 da fé": a fé é o canal, não a causa. Paulo nunca diz "por causa da fé",
@@ -572,7 +579,7 @@ ilustrações (Banco de Ilustrações, IL-010); sermão de origem não
 verificado.
 
 [^25]: **Fonte.** KELLER, Timothy. *Romanos para você*: capítulos 1-7.
-[São Paulo: Vida Nova, ano a conferir], p. 89-90.
+São Paulo: Vida Nova [ano a conferir], p. 89-90.
 
 [^26]: **Fonte.** CALVINO, João. *Atas do Concílio de Trento com o
 Antídoto* (1547), sobre a 6ª sessão, cânon 11. Tradução nossa. Ver:
@@ -596,10 +603,10 @@ excessiva do aoristo (MOO, *Comentário exegético Romanos*, p. 315, n.
 categórica.
 
 [^30]: **Fonte.** ASSEMBLEIA DE WESTMINSTER. *Breve Catecismo* (1647),
-pergunta 1. [Conferir a tradução usada pela IPB.]
+pergunta 1.
 
-[^31]: **Fonte.** KELLER, Timothy. *Ego transformado*. [Editora e ano a
-conferir]. Original: *The Freedom of Self-Forgetfulness*. 10Publishing,
+[^31]: **Fonte.** KELLER, Timothy. *Ego transformado*. São Paulo: Vida
+Nova, 2014. Original: *The Freedom of Self-Forgetfulness*. 10Publishing,
 2012.
 
 [^32]: **Grego.** *paresis* (πάρεσις), v. 25 — "deixar passar",
