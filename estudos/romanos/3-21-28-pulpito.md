@@ -6,8 +6,9 @@
 
 ## Antes de subir
 
-- **Tempo-alvo**: 30-35 min. Introdução 4 · I 4 · II 5 · III 6 · IV 5 · V 3 · Clímax 3 · Aplicação e oração 3.
-- **Se apertar, cortar nesta ordem**: frase da Baixada → Lutero e o "somente" → CFW I.10 → vaso de Calvino. **Proteger o ponto III e o clímax.**
+- **Tempo-alvo**: 33-36 min. Introdução 5 · I 3 · II 4 · III 6 · IV 5 · V 3 · Clímax 3 · Aplicação 5 · Oração 1.
+- **O fio do sermão**: a pergunta do tribunal (Pv 17.15) é lançada na introdução e volta no fim de cada ponto, até ser respondida no clímax.
+- **Se apertar, cortar nesta ordem**: frase da Baixada → Lutero e o "somente" → CFW I.10 → vaso de Calvino → diagnóstico da autoglória (ponto V). **Proteger o ponto III, o clímax e a aplicação.**
 - **Leitura**: Rm 3.21-31, na Bíblia impressa (NAA). Atenção ao v. 27: "orgulho" / "totalmente excluído".
 - **Ao vivo**: agradecimento à ICNV; causo próprio no ponto II (ou Bunyan); bênção no fim.
 
@@ -38,47 +39,48 @@
 - 3.19-20: toda boca se cala; ninguém justificado pelas obras da lei.
 - *O tribunal está montado. O réu está calado. Não sobrou defesa.*
 
+**O nó do Juiz** (o problema não está só do lado do réu):
+
+- Pv 17.15: "O SENHOR detesta quem justifica o ímpio e quem condena o justo; ele detesta tanto um quanto o outro."
+- Um juiz que absolve o culpado é corrupto. *Se Deus me absolver, deixa de ser justo; se continuar justo, eu estou perdido. Não há saída pelo lado de cá.*
+- Horácio e Lutero: não ponha um deus em cena, a menos que o nó seja digno de um deus — o perdão é um nó que só Deus desata.
+- **A pergunta do sermão**: *como Deus pode absolver o culpado sem se tornar um juiz corrupto?* (Não responder agora.)
+
 **"Mas, agora"**[^1] — Lloyd-Jones: não há palavras mais extraordinárias em toda a Escritura. A virada da carta e da história. *Depois da sentença, Deus abre a boca.*
 
-**Os cinco "sós"**: sábado, dia 31. Os reformadores não inventaram — redescobriram Romanos. A briga era sobre o "só". O v. 27 amarra: cada "só" fecha uma porta por onde o orgulho tentaria entrar.
+**Os cinco "sós"**: sábado, dia 31. Os reformadores não inventaram — redescobriram Romanos, e nele a resposta para esse nó. A briga era sobre o "só". O v. 27 amarra: cada "só" fecha uma porta por onde o orgulho tentaria entrar.
 
 **Ideia central** (dizer devagar).
 
-**Cinco perguntas**: Como sabemos? De onde vem? Por meio de quem? Como recebemos? Para quê?
+**Paulo desata o nó em cinco perguntas**: Como sabemos? De onde vem? Por meio de quem? Como recebemos? Para quê?
 
 ---
 
-## I. Ouça a Palavra que já testemunhava: só a Escritura (v. 21) — 4 min
+## I. A testemunha antiga da novidade de Deus (v. 21) — 3 min
 
-**Como sabemos?**
+*Só a Escritura* — **Como sabemos?**
 
 - "Mas, agora, sem lei[^2], a justiça de Deus se manifestou" → por fora da Lei como caminho de salvação.
 - **"Se manifestou"**[^3]: ninguém descobriu. Nenhum filósofo pensando, nenhum santo subindo. Deus mostrou — e continua à mostra.
 - "Sendo testemunhada pela Lei e pelos Profetas": 1.2; cap. 4 — Abraão (Gn 15.6) e Davi (Sl 32.1-2).
 - *A notícia mais nova do mundo é também a mais antiga.*
+- **Deus não improvisou**: a cruz não foi o plano B; foi o plano desde o começo (Moo, via Merida). A Lei que condena o réu já apontava para a absolvição.
 
-**O que o "só" quer dizer**
+**Sola Scriptura** (breve)
 
-- Não é "só eu e minha Bíblia" contra igreja, credos e história.
-- É a Escritura como única regra infalível, que julga tradição, experiência, líder, sentimento. CFW I.10: o Espírito falando na Escritura, "juiz supremo".
-- Honestidade com o texto: o v. 21 mostra a Escritura testemunhando o evangelho; o "única regra" vem de 2Tm 3.16-17.
+- Não "só eu e minha Bíblia" contra igreja, credos e história: a Escritura como única regra infalível, que julga tradição, experiência, líder, sentimento, a "minha verdade". CFW I.10: "juiz supremo".
+- Honestidade: o v. 21 mostra a Escritura testemunhando o evangelho; o "única regra" vem de 2Tm 3.16-17.
+- A Palavra nos encontra de fora — por isso reforma.
 
-**Diagnóstico**
+**Ponte**: o que a Lei e os Profetas testemunham? Uma pessoa — as Escrituras "testificam de mim" (Jo 5.39).
 
-- Ídolo: a autonomia — "a minha verdade".
-- Mentira: você decide o que é verdade sobre Deus.
-- Onde aparece: o Reels de 30 segundos que vira doutrina; o teólogo de internet; o "eu sinto que Deus está me dizendo" que contradiz o que Deus já disse.
-- A versão reformada: citar a Confissão com mais carinho que o texto; ganhar a discussão em vez de ser corrigido.
-
-**Promessa**: a Palavra não depende de nós; nos encontra de fora. Por isso reforma — não é o eco do nosso coração.
-
-**Ponte → ponto II**: o que a Lei e os Profetas testemunham? Uma pessoa. As Escrituras "testificam de mim" (Jo 5.39). *Reformados pela Palavra só se tornam centrados em Cristo porque a Palavra aponta para ele.*
+**Volta ao tribunal**: *uma testemunha, por mais antiga, ainda não desata o nó. O réu continua culpado, e o Juiz continua justo.*
 
 ---
 
-## II. Receba o que é de graça: só a graça (vv. 22b-24) — 5 min
+## II. Um veredito de graça (vv. 22b-24) — 4 min
 
-**De onde vem a salvação?**
+*Só a graça* — **De onde vem a salvação?**
 
 - "Porque não há distinção, pois todos pecaram e carecem da glória de Deus."
 - O religioso de terno e o rapaz da esquina na mesma fila; o crente de quarta geração e o que entrou ontem.
@@ -93,22 +95,23 @@
 
 **Diagnóstico**
 
-- Ídolo: o mérito. Mentira: você é o que você entrega.
-- A meta do mês · o motorista de aplicativo com medo de a nota cair de 4,9 · o currículo · a fé-investimento.
+- Ídolo: o mérito. Mentira: você é o que você entrega. (Desenvolver na aplicação.)
 - "Deus ajuda quem cedo madruga" — parece versículo, não está na Bíblia. *Na graça, Deus ajuda quem não tem como se ajudar.*
 - Rm 4.4 e a CLT: o salário é dívida, não favor. Na graça, ninguém te deve nada — e você recebe.
 
 *[Ao vivo: causo próprio de tentar merecer. Se não houver → Bunyan.]*
 
-**Bunyan** (*Grace Abounding*, §§ 257-258): anos esmagado pela culpa; andando pela casa, o v. 24 "tomou posse" do coração: "Pecador, pensas que por causa dos teus pecados e fraquezas eu não posso salvar a tua alma; mas eis que o meu Filho está junto a mim, e é para ele que olho, não para ti."
+**Bunyan** (§§ 257-258): anos esmagado pela culpa; andando pela casa, o v. 24 "tomou posse" do coração — "Pecador, pensas que por causa dos teus pecados eu não posso salvar a tua alma; mas o meu Filho está junto a mim, e é para ele que olho, não para ti."
 
 **Promessa**: *a graça é a única coisa que não pede que você vire outra pessoa antes de receber.*
 
+**Volta ao tribunal**: *Pv 17.15 volta a gritar — se o Juiz absolve de graça, não é exatamente o que um juiz justo não pode fazer? A resposta está no fim do v. 24 e no v. 25.*
+
 ---
 
-## III. Olhe para o único propiciatório: só Cristo (vv. 24-25) — 6 min · O CENTRO
+## III. O propiciatório exposto (vv. 24-25) — 6 min · O CENTRO
 
-**Por meio de quem?**
+*Só Cristo* — **Por meio de quem?**
 
 **Duas imagens**
 
@@ -140,18 +143,17 @@
 
 **Promessa**: *se Cristo é o propiciatório, não sobrou conta para pagar.* Nenhuma campanha, propósito ou penitência acrescenta um centavo ao que o sangue já cobriu.
 
+**Volta ao tribunal**: *o nó começa a se desatar — a absolvição não é vista grossa. É uma conta paga.*
+
 ---
 
-## IV. Abra as mãos vazias: só a fé (vv. 22, 25-26, 28) — 5 min
+## IV. As mãos vazias (vv. 22, 25-28) — 5 min
 
-**Como recebemos?**
+*Só a fé* — **Como recebemos?**
 
 - A fé quatro vezes: "mediante a fé em Jesus Cristo" (v. 22) · "mediante a fé" (v. 25) · "daquele que tem fé em Jesus" (v. 26) · "o ser humano é justificado pela fé, independentemente das obras da lei" (v. 28).
 
-**Lutero e o "somente"**
-
-- Traduziu o v. 28 com "somente" — acusado de acrescentar. Resposta: se é "independentemente das obras", só sobra a fé.
-- Antes dele: Orígenes, Ambrosiáster, Tomás de Aquino. *Os reformadores recuperaram; não criaram.*
+**Lutero e o "somente"**: traduziu o v. 28 com "somente" — se é "independentemente das obras", só sobra a fé. Antes dele: Orígenes, Ambrosiáster, Tomás de Aquino. *Os reformadores recuperaram; não criaram.*
 
 **"Lei da fé" (v. 27)**: a *regra* de Deus para a justificação. *A regra das obras diz "faça". A regra da fé diz "receba".*
 
@@ -180,9 +182,9 @@
 
 ---
 
-## V. Tranque a porta do orgulho: só a glória de Deus (vv. 26-27) — 3 min
+## V. A porta trancada do orgulho (vv. 26-27) — 3 min
 
-**Para quê?**
+*Só a glória de Deus* — **Para quê?**
 
 - "Onde fica, então, o orgulho?"[^11] — o contar vantagem; aquilo em que me apoio para me sentir alguém.
 - **Keller — Golias**: a palavra vem do campo de batalha. Aquilo de que você se gloria é o que lhe dá coragem para sair de casa na segunda-feira: "sou alguém porque tenho isso". *O orgulho é a base em que o coração se apoia.*
@@ -190,8 +192,7 @@
 
 **A finalidade (v. 26)**: "a fim de que o próprio Deus seja justo e o justificador daquele que tem fé em Jesus." Primeiro Deus mostrando quem ele é; só depois, e por causa disso, nós.
 
-- V. 23: carecíamos da glória → na justificação, a glória volta para o lugar dela; refletimos de glória em glória (2Co 3.18).
-- Breve Catecismo, P. 1: glorificar a Deus e gozá-lo para sempre. *A glória de Deus não concorre com a nossa alegria; ela é a nossa alegria.*
+- V. 23: carecíamos da glória → na justificação, ela volta para o lugar dela (2Co 3.18). Breve Catecismo, P. 1: glorificar a Deus e gozá-lo para sempre. *A glória de Deus é a nossa alegria.*
 
 **Diagnóstico**: autoglória, protagonismo — a *selfie* espiritual; o testemunho em que o herói é o "antes e depois"; a igreja-vitrine.
 
@@ -199,13 +200,12 @@
 
 ---
 
-## Clímax: justo e justificador (v. 26) — 3 min
+## Clímax: o nó desatado — justo e justificador (v. 26) — 3 min
 
-**O dilema**
+**De volta ao nó do começo**
 
-- Pv 17.15: "O SENHOR detesta quem justifica o ímpio e quem condena o justo; ele detesta tanto um quanto o outro."
-- Um juiz que absolve o culpado é corrupto. *Como Deus pode justificar você, culpado, sem se tornar um juiz corrupto?*
-- V. 25: "deixado impunes os pecados anteriormente cometidos"[^13] — parecia vista grossa, parecia que ia acabar em pizza. *Não era esquecimento; era paciência. A conta não foi perdoada — foi adiada.*
+- O Juiz justo não pode absolver o culpado sem se tornar corrupto (Pv 17.15). *Como Deus pode justificar você, culpado, e continuar justo?*
+- O texto torna o problema maior — v. 25: "deixado impunes os pecados anteriormente cometidos"[^13] — parecia vista grossa, parecia que ia acabar em pizza. *Não era esquecimento; era paciência. A conta não foi perdoada — foi adiada.*
 
 **Anselmo**: "Ainda não consideraste quão grande é o peso do pecado."
 
@@ -224,15 +224,27 @@
 
 ---
 
-## Aplicação — 3 min
+## Aplicação — 5 min (dois movimentos, sem pressa)
 
-- **Quem sabe os solas de cor**: a cabeça confessa "só a graça"; e na segunda-feira? Arrepender-se não só dos pecados, mas das *justificações* — do currículo que apresentamos a Deus. *Cabeça desconectada do coração também é fariseu.*
-- **Quem chegou esmagado pela culpa**: "não há distinção" funciona para os dois lados — ninguém bom demais para precisar, ninguém ruim demais para alcançar.
-- **Quem ouviu que a fé é pequena**: descanse no objeto. *Segure a corda.*
-- **Jovens**: entre o algoritmo e a Palavra, quem diz quem vocês são?
-- **Pais e mães**: a herança que importa é ter se sentado com os filhos diante deste texto.
-- **Quem não conhece a Cristo**: o "mas agora" é para você. De graça, mas não barato: abrir mão da própria justiça e confiar só na dele (Fp 3.9).
-- **Como igreja**: ninguém precisa fingir. *Uma comunidade de pecadores declarados justos.*
+### 1. A doença que atravessa as gerações: o mérito
+
+**Pergunta de entrada**: *o orgulho foi totalmente excluído — o que, na sua vida, ainda está tentando forçar essa porta?*
+
+- **Quem cresceu na igreja**: o currículo — anos de casa, cargo, família crente, doutrina certa, os cinco solas de cor. A cabeça confessa "só a graça"; na segunda-feira, o coração vive de desempenho. *Teste: se a crítica te derruba, você estava de pé sobre outra coisa.* Cabeça desconectada do coração também é fariseu.
+- **Quem tem vinte anos**: o perfil que precisa render, as curtidas, o currículo antes dos 25, a vida editada dos outros. *O algoritmo virou tribunal, e a sessão nunca encerra.*
+- **Quem acorda às cinco para pegar o trem**: a meta do mês, o chefe que avalia, o motorista com medo de a nota cair de 4,9.
+- **A mesma sentença por dentro**: *você é o que você entrega.* O incrédulo também tem a sua religião: justificar a própria existência pelo que produz.
+- **Confronto** (Keller): arrepender-se dos pecados até o fariseu faz; cristão é quem se arrepende das suas *justificações*.
+- **Como**: nomeie a sua esta semana (o cargo, a nota, os seguidores, a doutrina certa), deixe-a sobre a mesa do tribunal e ouça o veredito que vem antes do desempenho. ***Se é Cristo e mais o seu currículo, não é Cristo.***
+
+### 2. Para quem chegou esmagado: segure a corda
+
+- *"Meu problema não é orgulho; é que eu não tenho currículo nenhum."* A história que ninguém conhece; o pecado que se repete; a conta do passado que cobra de noite.
+- **De volta à cachoeira**: a correnteza é a culpa. O tronco é grosso e parece firme — a promessa de ser melhor, a penitência, o esforço de compensar, "vou me afastar até merecer voltar". O tronco desce junto. A corda é fina, mas está presa a quem pode puxar.
+- Os pecados do passado não foram esquecidos; foram pagos (v. 25). ***Largue o tronco. Segure a corda.***
+- **Quem não conhece a Cristo**: crer é isso — não prometer vida nova para depois ser aceito, mas soltar a própria justiça e agarrar-se à dele (Fp 3.9). O "mas agora" é para você. Eco de Bunyan: *é para o Filho que Deus olha, não para você.*
+
+**Fecho**: uma comunidade de pecadores declarados justos, onde ninguém precisa fingir — nem o veterano, nem o recém-chegado.
 
 **Tarefa até sábado, 31 — Dia da Reforma**
 
@@ -242,9 +254,12 @@
 
 *[Ao vivo: bênção.]*
 
-## Oração final
+## Oração final (texto completo no sermão)
 
-Pai justo e justificador, obrigado porque a tua Palavra não nos deixou no banco dos réus. Grava em nós o que ouvimos: que não há distinção, que somos justificados de graça, que Cristo é o nosso propiciatório, que a fé apenas recebe. Arranca de nós o gosto pelo orgulho, a mania de pagar o que já foi pago e o medo de quem ainda acha que precisa merecer. Dá-nos força para viver como gente livre: obedecer sem fingir, servir sem contar vantagem, falar de Cristo esta semana a alguém. Abençoa esta igreja, seus pastores e suas famílias, e faz dela um lugar onde pecadores encontram o "mas agora". E em tudo, glorifica o teu Filho amado. Em nome de Jesus, amém.
+- Pai justo e justificador: obrigado porque não nos deixaste no banco dos réus.
+- Grava em nós: não há distinção; somos justificados de graça; Cristo é o propiciatório; a fé apenas recebe.
+- Arranca o orgulho, a mania de pagar o que já foi pago e o medo de quem acha que precisa merecer; dá-nos viver como gente livre.
+- Abençoa esta igreja e seus pastores; que pecadores encontrem aqui o "mas agora". Glorifica o teu Filho. Amém.
 
 ## Notas
 
