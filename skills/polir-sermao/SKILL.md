@@ -225,6 +225,7 @@ Reler o texto revisado como se fosse um texto novo, sem lembrar do que foi corta
 10. **Abertura e fio condutor** *(sermão)* — nos primeiros parágrafos, o ouvinte já sabe que pergunta o texto vai responder e por que isso importa para ele? Todo trecho se liga ao telos (Anderson), ou há desvios?
 11. **Visitante sem formação bíblica** *(sermão)* — lendo como alguém que nunca abriu a Bíblia, há termo não explicado ou salto de raciocínio (a "maldição do conhecimento", Heath)? A ideia central está concreta e repetida nos pontos-chave para ser lembrada?
 12. **Verdade, não astúcia** *(sermão)* — alguma frase pressiona, exagera ou promete o que o texto não promete (2Co 4.2)?
+13. **Arquitetura de tensão e aplicação** *(sermão e estudo — regra permanente da Fase 6a.1 do workflow)* — o nó teológico do texto aparece na introdução como pergunta (o problema, não a solução), volta ao fim de cada ponto e só é desatado no clímax? Molduras externas (tema da igreja, série, data, credo) ficam como eco, com títulos que nascem do texto? A aplicação final está em dois ou três movimentos profundos em torno da doença comum — com a diferenciação crente × incrédulo dentro deles, o "como", Cristo e a ilustração principal retomada com tempo —, e não numa lista de públicos? Se falhar, não corrigir sozinho: registrar em Recomendações, porque mexe na arquitetura e pede decisão do autor.
 
 Se alguma falha aparece aqui, **voltar** e reforçar/reverter — o texto revisado sai só quando todos os pontos aplicáveis passam.
 

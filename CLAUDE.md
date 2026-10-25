@@ -104,7 +104,7 @@ seguir o workflow completo de 6 fases definido em
 | 3. Diagnóstico | Qual o problema/ídolo? Os três níveis do conflito (externo, interno, teológico)? Como Deus resolveu lá? A história e a lição | Adams + Keller |
 | 4. Exegese cultural | Manifestação contemporânea: ídolos atuais, desdobramentos, BCNs — horizonte da humanidade comum + o olhar carioca das principais cidades do RJ | Keller |
 | 5. Aplicação cristológica | O que é exigido e não cumprimos? Como Jesus cumpre? Implementação | Adams + Keller + Simeon Trust |
-| 6. Construção homilética | 6a: triagem (ideia principal → ideias secundárias que a defendem → ordem) e esboço → 6b: pesquisa de citações no banco/web → 6c: rascunho na voz pastoral, já com notas de rodapé e com toda citação bíblica conferida na NAA (Bíblia Online / YouVersion) | Os três + banco de citações + skill de voz |
+| 6. Construção homilética | 6a: triagem (ideia principal → ideias secundárias que a defendem → ordem), arquitetura de tensão e aplicação (6a.1) e esboço → 6b: pesquisa de citações no banco/web → 6c: rascunho na voz pastoral, já com notas de rodapé e com toda citação bíblica conferida na NAA (Bíblia Online / YouVersion) → 6c.3: avaliação final da arquitetura e da aplicação | Os três + banco de citações + skill de voz |
 | 7. Entrega | Formato (DOCX/PDF) para sermão/esboço/estudo, com notas de rodapé reais do Word + registra linha em `estudos/indice.md` | Layout IPE |
 
 ### Saída
@@ -124,6 +124,22 @@ seguir o workflow completo de 6 fases definido em
 O telos é sempre da **perícope selecionada**, independentemente da série de
 sermões. Cada fase deve servir ao telos — se se desviou, corrigir antes de
 avançar.
+
+### Regra permanente: arquitetura de tensão e aplicação
+
+Desde 2026-10-24 (crítica ao sermão de Romanos 3.21-28), todo sermão e
+todo estudo seguem a Fase 6a.1 de `context/workflow-estudo-biblico.md`,
+com avaliação obrigatória na 6c.3:
+
+- **O nó primeiro**: o conflito teológico do texto entra na introdução
+  como pergunta (o problema, não a solução), volta ao fim de cada ponto
+  e só é desatado no clímax
+- **Molduras subordinadas**: tema da igreja, série, data litúrgica ou
+  credo ficam como eco; os títulos nascem do texto
+- **Aplicação em profundidade (exceção à lista de públicos)**: dois ou
+  três movimentos em torno da doença comum (o ídolo da Fase 3), com a
+  diferenciação crente × incrédulo *dentro* deles, o "como" e Cristo —
+  avaliados como profundos, impactantes e confrontadores
 
 ## Princípios hermenêuticos não-negociáveis
 

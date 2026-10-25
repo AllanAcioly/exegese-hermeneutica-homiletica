@@ -440,6 +440,9 @@ criação → queda → redenção → consumação.
 - Para crentes: o que muda na vida de quem já está em Cristo?
 - Para incrédulos: como o evangelho é uma boa notícia para quem ainda
   não creu?
+- **Forma no sermão**: a diferenciação se cumpre *dentro* de dois ou três
+  movimentos profundos, não numa lista de rótulos de público — ver a
+  regra permanente da Fase 6a.1
 
 **Aplicação triperspectival** (Frame, via Keller):
 - **Normativa**: o que o texto ensina sobre Deus, Sua vontade, Sua
@@ -487,6 +490,78 @@ pesquisar e passa a ser organizar. Três perguntas, nesta ordem:
    texto só quando a compreensão oral exigir e sem distorcer o argumento
    do autor — e registrar o motivo no esboço
 
+### 6a.1 Arquitetura de tensão e aplicação (regra permanente)
+
+Regra adotada em 2026-10-24, a partir da análise crítica do sermão de
+Romanos 3.21-28 (ver `estudos/romanos/3-21-28.md`, "Revisão pós-crítica").
+Vale para **todo sermão e todo estudo** daqui em diante. É uma regra de
+arquitetura: não muda o telos nem a exegese, muda a forma como o ouvinte
+atravessa o texto.
+
+**1. O problema antes da solução — o nó como fio do sermão**
+- O conflito central do texto (o nível **teológico** da Fase 3.1a — a
+  tensão sobre Deus que o texto resolve) entra **na introdução**, como
+  pergunta, logo depois que o ouvinte se reconhece no problema humano.
+- Revelar o **problema**, nunca a **solução**: a resposta fica guardada
+  para o clímax. A Big Idea pode anunciar *o quê*; o *como* é o suspense.
+- **Cada ponto termina voltando ao nó** em uma ou duas frases ("isso
+  ainda não responde…"; "aqui o nó começa a se desatar…"), até o clímax
+  desatá-lo.
+- Se o nó só aparece no fim, a tensão não existe durante o sermão e a
+  resposta soa como curiosidade acadêmica, não como salvação.
+- Cuidado de Permanecer na Linha: o que no texto responde a uma objeção
+  específica fica onde o texto a coloca (em Rm 3, Anselmo ficou no
+  clímax porque responde à objeção do v. 25).
+
+**2. Molduras externas subordinadas ao texto**
+- Quando o sermão carrega uma moldura de fora do texto — tema dado pela
+  igreja, série, data litúrgica, credo, os cinco solas —, os **títulos
+  dos pontos nascem do texto** e a moldura entra como eco: subtítulo,
+  fecho, uma frase que amarra.
+- Ponto em que a moldura se apoia num versículo fraco: encurtar e dizer
+  com honestidade de onde vem a doutrina (outro texto do cânon).
+- Digressão que não serve ao nó sai, ainda que seja boa e atual.
+- Risco a vigiar: a "fadiga do familiar" — o ouvinte que reconhece a
+  lista desliga, achando que já sabe o que vem.
+
+**3. Aplicação em profundidade, não em lista (a exceção)**
+- **Exceção ao padrão de aplicação por públicos**: em vez de endereçar
+  em sequência cinco, seis ou sete públicos (veteranos, recém-chegados,
+  jovens, pais, incrédulos…), a aplicação final se concentra em **dois
+  ou, no máximo, três movimentos**, construídos em torno da **doença
+  comum** — o ídolo diagnosticado na Fase 3, que atravessa todos os
+  papéis.
+- A diferenciação exigida pelo método (crente × incrédulo; gerações;
+  situações) continua obrigatória, mas acontece **dentro** de cada
+  movimento, como retratos concretos, não como rótulos.
+- Cada movimento tem:
+  1. uma **pergunta de entrada** que puxa o ouvinte;
+  2. o mesmo ídolo **retratado em duas ou três vidas concretas** (ex.:
+     o veterano de igreja, o jovem do algoritmo, o trabalhador da nota
+     4,9);
+  3. um **confronto** sem anestesia;
+  4. o **"como"** de Adams — um passo nomeável para a semana;
+  5. **Cristo** como a resposta específica do texto.
+- A **ilustração principal** do sermão é retomada na aplicação, com
+  tempo para assentar (ex.: a corda e o tronco).
+- Público ou tema sem ligação com o telos sai ("pais e mães" num sermão
+  sobre justificação), por mais verdadeiro que seja.
+- Uma lista curta de públicos só é aceitável se cada item tiver o mesmo
+  peso de um movimento; senão vira "metralhadora".
+
+**4. Avaliação obrigatória da aplicação**
+- Na 6a (esboço) e de novo antes da Fase 7 (ver 6c.3), avaliar a
+  aplicação contra três critérios: **profunda** (vai à doença sob os
+  papéis?), **impactante** (dá tempo para a imagem assentar?) e
+  **confrontadora** (pega o religioso e o irreligioso no mesmo banco?).
+- Comparar com a alternativa (movimentos × lista) e escolher a que
+  cumpre melhor os três critérios; registrar a decisão no estudo.
+
+**Em estudos e aulas** (documento de estudo, `aula-indutiva-ipe`): o
+mesmo princípio — o nó do texto aparece cedo como a pergunta que guia a
+conversa, e o fechamento converge para uma ou duas descobertas
+profundas, em vez de uma lista de aplicações rápidas.
+
 Produzir um esboço completo do sermão com:
 
 1. **Título** — breve, evocativo, conectado ao telos; não um resumo, mas
@@ -497,21 +572,25 @@ Produzir um esboço completo do sermão com:
    - O problema (Keller: "o que todo mundo sente") — entrar na experiência
      humana comum, de preferência pelo conflito externo ou interno do
      texto (3.1a), que é onde o ouvinte se reconhece
-   - A pergunta que o texto responde — criar expectativa
-4. **Pontos principais** — derivados da estrutura do texto (Fase 1)
+   - O nó do texto (6a.1): o conflito teológico lançado como a pergunta
+     que o sermão vai responder — o problema, não a solução
+4. **Pontos principais** — derivados da estrutura do texto (Fase 1);
+   títulos que nascem do texto, com molduras externas como eco (6a.1)
    - Cada ponto contém:
      - Afirmação clara
      - Desenvolvimento exegético (o texto diz...)
      - Aplicação tecida no ponto (não concentrada no final)
      - Ilustração (do banco, se houver fim compatível; nova, se não houver)
-     - Transição para o próximo ponto
+     - Volta ao nó, em uma ou duas frases, e transição para o próximo
+       ponto
 5. **Ponto cristológico** — como Jesus resolve/cumpre (Fase 5)
    - Pode ser um ponto próprio ou tecido nos demais, conforme o texto
      mais naturalmente indica
-6. **Aplicação final** — implementação prática concreta (Fase 5.4)
+6. **Aplicação final** — implementação prática concreta (Fase 5.4), em
+   dois ou três movimentos profundos em torno da doença comum (6a.1)
 7. **Conclusão**
    - Retorno ao telos com clareza e força
-   - Fechar o arco aberto na introdução
+   - Fechar o arco aberto na introdução: o nó é desatado no clímax
 
 **Verificações do esboço**:
 - O esboço serve ao telos, ou se desviou?
@@ -523,6 +602,12 @@ Produzir um esboço completo do sermão com:
   terceiro texto, Keller)
 - Cada ilustração usada tem fim homilético claro e compatível com o ponto
   onde está encaixada?
+- O nó do texto aparece na introdução e volta ao fim de cada ponto, ou
+  só surge no clímax? (6a.1)
+- Alguma moldura externa está ditando títulos ou puxando digressões?
+  (6a.1)
+- A aplicação é profunda, impactante e confrontadora — em dois ou três
+  movimentos —, ou virou lista de públicos? (6a.1)
 
 **Depois da validação do usuário**: qualquer ilustração nova criada nesta
 fase (não vinda do banco) é registrada em `ilustracoes/banco-ilustracoes.md`
@@ -706,11 +791,30 @@ avisar na pausa — nunca preencher de memória.
 **Na pausa**, informar em uma linha quantas citações foram conferidas e
 listar as que foram corrigidas (como estava → como ficou na NAA).
 
+### 6c.3 Avaliação final da arquitetura e da aplicação (obrigatória)
+
+Depois do rascunho (e do `polir-sermao`, quando usado) e antes da Fase 7,
+reler o texto inteiro contra a regra 6a.1:
+
+- **O nó**: aparece na introdução como pergunta, volta ao fim de cada
+  ponto e só é desatado no clímax?
+- **Molduras**: os títulos nascem do texto? Alguma digressão a serviço da
+  moldura, e não do nó, sobrou?
+- **Aplicação**: está em dois ou três movimentos em torno da doença
+  comum, com a diferenciação crente × incrédulo dentro deles, o "como" e
+  Cristo? É profunda, impactante e confrontadora? A ilustração principal
+  foi retomada com tempo?
+
+Se algum ponto falhar, corrigir antes da pausa e registrar a decisão no
+estudo. **Na pausa**, informar em duas ou três linhas o resultado dessa
+avaliação.
+
 ### → PAUSA
 
 Apresentar o rascunho ao usuário para revisão final — com as notas, para
-que ele valide também o que foi para o rodapé — e o resultado da
-conferência bíblica (6c.2).
+que ele valide também o que foi para o rodapé —, o resultado da
+conferência bíblica (6c.2) e o da avaliação de arquitetura e aplicação
+(6c.3).
 
 ---
 
