@@ -38,17 +38,21 @@ que o texto diz. O texto governa os pressupostos.
 
 Ver `context/adams-hermeneutica-telica.md` para a referência completa. O
 conceito central é o **telos**: o propósito que o Espírito Santo tinha ao
-incluir aquela passagem na Escritura — "consiga o telos; de tudo o que
-adquirir, adquira o propósito."
+incluir aquela passagem na Escritura — "obtenha o telos; de tudo o que
+obtiver, obtenha o propósito."
 
 - Nunca pregar sem ter certeza do *porquê* da passagem existir; nunca impor
   o próprio propósito à passagem — a maioria dos sermões, quando têm
   propósito perceptível, expressa o do pregador, não o do Espírito
-- Identificar **pistas télicas** (declarações do autor, "portanto"/"para
-  que", marcadores de propósito) — ex: Lc 15 não é primariamente
-  evangelística, mas expõe o pecado dos fariseus que murmuravam (vv. 1-3)
+- Identificar **indícios télicos** (termo de Adams; antes chamados aqui de
+  "pistas télicas"): sinais do propósito no próprio texto, como a ocasião
+  narrada e a exortação final — ex: Lc 15 não é primariamente
+  evangelística, mas expõe o pecado dos fariseus que murmuravam (vv. 1-3);
+  1Ts 4.13 informa para que 4.18 anime. Os marcadores "portanto"/"para
+  que" são acréscimo nosso, coerente com Adams
 - Reduzir o telos a **uma frase nítida** (o "teste das 4 da manhã")
-- Três propósitos gerais: informar, persuadir, motivar
+- Três propósitos gerais: informar, convencer (a crer ou a deixar de
+  crer), motivar
 - **Deus já aplicou Sua Palavra** — a tarefa do pregador não é inventar uma
   aplicação nova, mas descobrir a que Deus já fez (Rm 15.4; 1Co 10.6,11);
   buscar as *constantes* por trás da circunstância original, não
@@ -230,6 +234,20 @@ commit/push direto em `main` — só adiciona, nunca remove.
   ponto da mente ao coração e à vontade. Ver
   `skills/polir-sermao/SKILL.md` (fonte no projeto, `.skill` empacotado
   disponível em `skills/polir-sermao.skill`)
+- `homiletica-adams-keller` — base de conhecimento das fontes dos pilares
+  Adams e Keller (gerada em 2026-10-28 com `book-to-skill`; fica em
+  `~/.claude/skills/homiletica-adams-keller/`, fora do repositório): 84
+  arquivos de capítulo de *A verdade aplicada*, *Preaching with Purpose*,
+  *Preaching to the Heart*, *Preaching That Persuades* e *Preaching
+  According to the Holy Spirit* (Adams), *Pregação* e *Pregando para o
+  coração* (Keller) e da tese de Nilsson sobre as BCNs em Keller. O
+  `SKILL.md` liga cada fase do workflow aos capítulos; a `cheatsheet.md`
+  traz as regras de decisão e os conflitos Adams × Keller. Consultar nas
+  Fases 2 a 6 e para notas de rodapé de Fonte. Cuidados: *Preaching with
+  Purpose* é resumido e citado pela edição espanhola (*Predicando con
+  propósito*), porque o PDF em inglês da pasta é tradução automática; e
+  só há página de início de capítulo para *A verdade aplicada*, *Predicando
+  con propósito* e a tese de Nilsson — nunca inventar página
 - `book-to-skill` — converte livros e documentos (PDF, EPUB, DOCX, HTML,
   Markdown, TXT, RTF) em skills estruturadas (frameworks, princípios,
   técnicas, glossário, capítulos sob demanda). Instalada em

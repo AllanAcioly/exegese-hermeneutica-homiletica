@@ -35,9 +35,10 @@ quatro:
 
 ## O núcleo: Determinando o Telos
 
-> "Ao pregador podemos dizer: 'Consiga o telos; de tudo o que adquirir,
-> adquira o propósito.' Nunca se deve pregar sobre uma passagem até estar
+> "Ao pregador podemos dizer: 'Obtenha o telos; de tudo o que obtiver,
+> obtenha o propósito.' Nunca se deve pregar sobre uma passagem até estar
 > seguro de que se compreende por que o Espírito Santo a incluiu na Bíblia."
+> (trad. livre de *Predicando con propósito*, cap. 6; eco de Pv 4.7)
 
 **Telos** = o propósito, fim, meta que o Espírito Santo tinha ao mover o
 autor a escrever aquela passagem — mais amplo do que a intenção imediata do
@@ -61,15 +62,21 @@ que pense que sim. Recomendação prática: escrever essa frase de propósito
 no topo de cada esboço de sermão.
 
 **Três propósitos gerais** possíveis em qualquer passagem: informar,
-persuadir (a crer ou não crer), ou motivar. Frequentemente os três convergem
-numa mensagem, mas um deles será o principal.
+convencer (a crer ou a deixar de crer), ou motivar. Frequentemente os três
+convergem numa mensagem, mas um deles será o principal. O propósito
+específico diz o que exatamente a congregação deve aprender, crer/descrer
+ou fazer (modelo de Adams: "Meu propósito é convencer a congregação de que
+Cristo está agindo para o bem nos problemas").
 
-**Pistas télicas** (*telic clues*): indicadores do propósito que aparecem
-no próprio texto. Exemplos: "Não quero, irmãos, que vocês ignorem..."
-(1Ts 4.13) sinaliza informar; "para que vocês saibam que têm vida eterna"
-(1Jo 5.13) sinaliza segurança; o "portanto" ou "para que" muitas vezes
-introduz a declaração de propósito. Uma vez que se aprende a reconhecê-las,
-"você começará a vê-las em toda parte."
+**Indícios télicos** (*indicios télicos*; antes chamados neste projeto de
+"pistas télicas"): sinais do propósito do livro ou da passagem que
+aparecem no próprio texto. Exemplos de Adams: a ocasião narrada em
+Lc 15.1-3 e o par de 1Ts 4.13 ("não queremos que ignoreis", informar) e
+4.18 ("animai-vos uns aos outros com estas palavras", motivar). Há também
+livros que declaram o próprio telos (Jo 20.30-31, evangelístico; 1Jo 5.13,
+segurança dos crentes). Uma vez que se aprende a reconhecê-los, passa-se a
+vê-los em toda parte. Os marcadores "portanto" e "para que" são acréscimo
+nosso, coerente com Adams, mas não estão na lista dele.
 
 **O exemplo-modelo: Lucas 15.** Muitos pregadores erram ao tratar as três
 parábolas (ovelha perdida, moeda perdida, filho pródigo) isoladamente com

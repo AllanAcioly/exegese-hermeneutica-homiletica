@@ -108,13 +108,19 @@ se um tema parecido já foi tratado, para manter coerência entre estudos
 conexões canônicas legítimas entre passagens). Isso não substitui a
 exegese do texto atual — é uma checagem de coerência, não um atalho.
 
-### 2.1 Identificar pistas télicas
+### 2.1 Identificar indícios télicos
 
-- Declarações explícitas do autor sobre propósito
-- Verbos imperativos, marcadores de propósito ("portanto", "para que",
-  "a fim de que", "por isso")
-- Contexto introdutório que revela a intenção (ex: Lc 15:1-3 como chave
+Termo de Adams (*indicios télicos*); antes chamados aqui de "pistas
+télicas".
+
+- Declarações explícitas do autor sobre propósito (ex: Jo 20.30-31;
+  1Jo 5.13)
+- Contexto introdutório que revela a intenção (ex: Lc 15.1-3 como chave
   télica para as três parábolas)
+- Exortação final que revela para onde o ensino caminha (ex: 1Ts 4.13
+  informa para que 4.18 anime)
+- Verbos imperativos e marcadores de propósito ("portanto", "para que",
+  "a fim de que", "por isso") — acréscimo nosso, coerente com Adams
 - Resposta à pergunta central: *Por que o Espírito Santo incluiu este texto
   na Escritura?*
 
@@ -132,7 +138,8 @@ exegese do texto atual — é uma checagem de coerência, não um atalho.
 Identificar qual dos três propósitos gerais se aplica:
 
 - **Informar** — ensinar algo que o ouvinte não sabe ou não percebeu
-- **Persuadir** — convencer de algo a que o ouvinte resiste ou não crê
+- **Convencer** — levar a crer (ou a deixar de crer) em algo a que o
+  ouvinte resiste ou não crê
 - **Motivar** — impulsionar a uma ação que o ouvinte hesita em tomar
 
 ### → PAUSA
