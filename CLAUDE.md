@@ -230,6 +230,15 @@ commit/push direto em `main` — só adiciona, nunca remove.
   ponto da mente ao coração e à vontade. Ver
   `skills/polir-sermao/SKILL.md` (fonte no projeto, `.skill` empacotado
   disponível em `skills/polir-sermao.skill`)
+- `book-to-skill` — converte livros e documentos (PDF, EPUB, DOCX, HTML,
+  Markdown, TXT, RTF) em skills estruturadas (frameworks, princípios,
+  técnicas, glossário, capítulos sob demanda). Instalada em
+  `.claude/skills/book-to-skill/` a partir do repositório oficial
+  `virgiliojr94/book-to-skill` (origem e commit em `UPSTREAM.md`).
+  Requer Python; PDFs usam `pdftotext`, já presente. Observação: o Acesso
+  controlado a pastas do Windows Defender bloqueia o PowerShell e o Git Bash
+  de gravar em Documentos — gravar arquivos do projeto pela ferramenta de
+  escrita do Claude ou via `git`
 
 ## Nota histórica
 
