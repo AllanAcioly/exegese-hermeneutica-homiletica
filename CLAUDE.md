@@ -248,6 +248,18 @@ commit/push direto em `main` — só adiciona, nunca remove.
   propósito*), porque o PDF em inglês da pasta é tradução automática; e
   só há página de início de capítulo para *A verdade aplicada*, *Predicando
   con propósito* e a tese de Nilsson — nunca inventar página
+- `tolkien-senhor-dos-aneis` — base de conhecimento de *O Senhor dos
+  Anéis* (volume único, trad. Esteves/Pisetta, 2001), gerada em
+  2026-10-30 com `book-to-skill`; fica em
+  `~/.claude/skills/tolkien-senhor-dos-aneis/`, fora do repositório: 65
+  arquivos (Prefácio/Prólogo, 62 capítulos, Apêndices) com enredo em
+  paráfrase, temas, personagens e ilustrações no formato do banco
+  (`patterns.md` por fim homilético; `cheatsheet.md` com "se o sermão
+  precisa de X, use a cena Y" e leituras a evitar). Consultar na Fase 6a
+  para ilustrações e para alimentar `ilustracoes/banco-ilustracoes.md`.
+  Cuidados: ler por **aplicabilidade**, nunca alegoria (nada de "Gandalf
+  é Cristo"); o texto-fonte não tem paginação — conferir editora e página
+  no exemplar impresso antes de nota de Fonte; nunca inventar página
 - `book-to-skill` — converte livros e documentos (PDF, EPUB, DOCX, HTML,
   Markdown, TXT, RTF) em skills estruturadas (frameworks, princípios,
   técnicas, glossário, capítulos sob demanda). Instalada em
