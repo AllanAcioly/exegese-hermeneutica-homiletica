@@ -39,6 +39,226 @@ Nunca forçar uma boa ilustração num lugar que ela não serve.
 
 <!-- Novas entradas entram abaixo desta linha, mais recentes no topo -->
 
+## [IL-027] "Estar matando o pecado, ou ele estará matando você" — Owen
+
+- **Fonte**: Pregador: Puritanos (John Owen)
+- **Origem específica**: *The Mortification of Sin in Believers* (1656), exposição de Rm 8.13
+- **Tags**: `#santificação` `#pecado` `#combate-espiritual` `#Rm8.13`
+  `#antinomismo`
+- **Descrição**: Owen descreve a vida cristã como um combate que não tem
+  pausa: ou o crente está ativamente matando o pecado que ainda vive nele,
+  ou esse pecado — deixado sem combate — vai, pouco a pouco, matando o
+  crente por dentro. Não existe estado neutro, de trégua, entre os dois.
+- **Fim homilético**: ilustra Rm 8.13 de forma concreta e urgente — a
+  mortificação do pecado não é uma opção para cristãos "mais dedicados",
+  mas a condição normal e contínua de quem vive pelo Espírito. Serve ao
+  ponto de sermão sobre santificação que precisa confrontar o antinomismo
+  passivo ("Deus já me aceitou, não preciso lutar contra isso") sem cair
+  no moralismo de uma luta que confia na própria força.
+- **Adicionada em**: 2026-11-01
+
+### Usos
+
+| Data | Sermão/Perícope | Conexão específica que justificou o reuso |
+|------|------------------|---------------------------------------------|
+| —    | —                | —                                            |
+
+---
+
+## [IL-026] "Hallelujah" quebrado: a adoração que não espera estar inteira para louvar
+
+- **Fonte**: Música: Leonard Cohen — "Hallelujah" (álbum *Various
+  Positions*, 1984)
+- **Origem específica**: tema e estrutura da canção (não a letra, que não
+  é reproduzida aqui) — Cohen descreveu o objetivo da canção como afirmar
+  a vida e a possibilidade de reconciliação mesmo em meio à confusão e à
+  queda, contrastando um "hallelujah" de celebração fácil com um
+  "hallelujah frio e quebrado" oferecido depois do fracasso
+- **Tags**: `#adoração` `#lamento` `#quebrantamento` `#graça`
+  `#louvor-em-meio-à-queda`
+- **Descrição**: a canção é lida por comentaristas, cristãos e seculares,
+  como um contraste entre dois tipos de "aleluia": um que só aparece
+  quando tudo vai bem, e outro — o "quebrado" — que ainda assim é erguido
+  a Deus no meio da queda, da culpa e da confusão, sem esperar estar
+  moralmente arrumado primeiro.
+- **Fim homilético**: ilustra que o louvor genuíno a Deus não é
+  condicionado a sentir-se "inteiro" ou merecedor antes de adorar — os
+  salmos de lamento (ex: Sl 51; Sl 130) já modelam esse "aleluia
+  quebrado", erguido do fundo do fracasso, não depois dele resolvido.
+  Serve ao ponto de sermão sobre adoração/arrependimento que precisa
+  libertar quem acha que só pode se aproximar de Deus "depois de se
+  consertar".
+- **Adicionada em**: 2026-11-01
+
+### Usos
+
+| Data | Sermão/Perícope | Conexão específica que justificou o reuso |
+|------|------------------|---------------------------------------------|
+| —    | —                | —                                            |
+
+---
+
+## [IL-025] Andy Dufresne e os dezenove anos atrás do pôster
+
+- **Fonte**: Filme: *Um Sonho de Liberdade* (*The Shawshank Redemption*,
+  dir. Frank Darabont, 1994, baseado em novela de Stephen King)
+- **Origem específica**: a revelação, no final do filme, de que Andy
+  Dufresne escavou um túnel de fuga através da parede de sua cela por
+  quase vinte anos, escondido atrás de pôsteres, sem nunca deixar
+  transparecer a ninguém a esperança que o sustentava
+- **Tags**: `#esperança` `#perseverança` `#paciência` `#fé-que-não-se-vê`
+  `#escatologia`
+- **Descrição**: por quase duas décadas, Andy trabalha em silêncio e sem
+  testemunhas numa fuga que ninguém mais sabe que existe — sustentado não
+  por otimismo vago, mas por um plano concreto em que ele confia, mesmo
+  sem poder mostrar progresso a ninguém. Red resume o risco desse tipo de
+  esperança como perigoso numa prisão que prefere o conformismo; mas é
+  essa esperança obstinada que o filme celebra: "get busy living, or get
+  busy dying" (ocupar-se em viver, ou ocupar-se em morrer).
+- **Fim homilético**: a cena funciona como eco de forma — não
+  equivalência — da esperança que persevera sem evidência visível de
+  progresso; mas a diferença precisa ser nomeada: a esperança de Andy
+  repousa num plano próprio e secreto, enquanto a esperança cristã
+  repousa numa obra já consumada por Cristo e numa promessa já dada
+  publicamente (Rm 8.24-25; Hb 11.1). Serve ao ponto de sermão sobre
+  perseverança em meio a circunstâncias que não mudam visivelmente,
+  cuidando para não transformar a esperança bíblica em mera força de
+  vontade.
+- **Adicionada em**: 2026-11-01
+
+### Usos
+
+| Data | Sermão/Perícope | Conexão específica que justificou o reuso |
+|------|------------------|---------------------------------------------|
+| —    | —                | —                                            |
+
+---
+
+## [IL-024] "Eu te perdoo, irmão": Corrie ten Boom diante do guarda de Ravensbrück
+
+- **Fonte**: Evento histórico / testemunho pessoal: Corrie ten Boom
+- **Origem específica**: relato autobiográfico de Corrie ten Boom
+  (sobrevivente do campo de concentração de Ravensbrück), publicado em
+  artigo na revista *Guideposts* — encontro numa igreja em Munique,
+  Alemanha, 1947, com um ex-guarda do campo que lhe pediu perdão
+- **Tags**: `#perdão` `#graça` `#vontade-vs-sentimento` `#reconciliação`
+  `#sofrimento`
+- **Descrição**: num culto em Munique, dois anos após a guerra, um homem
+  se aproxima de Corrie ten Boom e se identifica como um dos guardas do
+  campo onde sua irmã morreu — e pede perdão. Ela estende a mão e diz
+  "eu te perdoo, irmão", mas relata que a decisão veio antes do
+  sentimento: por semanas depois, ela ainda fervia por dentro, até que o
+  perdão declarado se tornasse real no coração.
+- **Fim homilético**: ilustra que o perdão cristão é, antes de tudo, um
+  ato da vontade que obedece a um mandamento — não a espera por um
+  sentimento de que "já não dói mais" — e que a paz emocional genuína
+  costuma vir depois, não antes, da decisão de perdoar. Serve à aplicação
+  pastoral sobre perdão que precisa confrontar tanto quem usa "ainda não
+  sinto" como desculpa para não perdoar quanto quem finge que perdoar
+  significa deixar de sentir a dor.
+- **Adicionada em**: 2026-11-01
+
+### Usos
+
+| Data | Sermão/Perícope | Conexão específica que justificou o reuso |
+|------|------------------|---------------------------------------------|
+| —    | —                | —                                            |
+
+---
+
+## [IL-023] O "sonho-desejo" de comunidade, de Bonhoeffer
+
+- **Fonte**: Pregador (voz cristã ampla): Dietrich Bonhoeffer
+- **Origem específica**: livro *Vida em Comunhão* (*Gemeinsames Leben*,
+  1939), capítulo de abertura, escrito a partir da experiência de
+  Bonhoeffer no seminário clandestino de Finkenwalde
+- **Tags**: `#comunhão` `#igreja` `#desilusão` `#graça` `#idealismo`
+- **Descrição**: Bonhoeffer descreve o cristão que chega à comunidade
+  cristã carregando um "sonho-desejo" — uma imagem idealizada de como a
+  igreja deveria ser. Ele ensina que Deus precisa despedaçar esse sonho
+  através de desilusões, para que a comunidade real, feita de pecadores e
+  sustentada pela graça, possa nascer; quem ama o próprio sonho de
+  comunhão mais do que a comunhão real e concreta à sua frente acaba,
+  mesmo com boas intenções, destruindo-a.
+- **Fim homilético**: ilustra que a decepção com a igreja real (seus
+  defeitos, suas brigas, sua gente imperfeita) não é prova de que algo
+  deu errado, mas o processo pelo qual Deus substitui um ideal humano por
+  comunhão genuína baseada em graça, não em expectativa. Serve ao ponto
+  de sermão sobre vida em igreja que precisa confrontar tanto o desânimo
+  de quem quer desistir da igreja quanto o idealismo de quem exige dela o
+  que só o céu dará.
+- **Adicionada em**: 2026-11-01
+
+### Usos
+
+| Data | Sermão/Perícope | Conexão específica que justificou o reuso |
+|------|------------------|---------------------------------------------|
+| —    | —                | —                                            |
+
+---
+
+## [IL-022] Chesterton e a cerca na estrada
+
+- **Fonte**: Pregador (voz cristã ampla): G.K. Chesterton
+- **Origem específica**: livro *The Thing: Why I Am a Catholic* (1929),
+  ensaio "The Drift from Domesticity" — a parábola ficou depois conhecida
+  como "a cerca de Chesterton"
+- **Tags**: `#tradição` `#lei-como-graça` `#reforma-presunçosa`
+  `#sabedoria-histórica` `#hermenêutica`
+- **Descrição**: Chesterton imagina um reformador apressado que encontra
+  uma cerca ou portão atravessado numa estrada e, não vendo utilidade
+  imediata, quer derrubá-lo. Chesterton responde que o reformador
+  inteligente primeiro descobre por que a cerca foi erguida — só depois,
+  sabendo a razão, pode julgar com segurança se ela deve mesmo cair.
+- **Fim homilético**: ilustra que descartar um mandamento, uma prática
+  histórica da igreja ou um limite que a Escritura estabelece, só porque
+  sua razão não é imediatamente óbvia, é precipitação, não sabedoria —
+  primeiro é preciso entender por que Deus, ou a igreja através dos
+  séculos, ergueu aquela cerca. Serve ao ponto de sermão sobre a lei de
+  Deus como proteção, ou sobre cautela diante de inovações que descartam
+  prática reformada sem entender seu propósito.
+- **Adicionada em**: 2026-11-01
+
+### Usos
+
+| Data | Sermão/Perícope | Conexão específica que justificou o reuso |
+|------|------------------|---------------------------------------------|
+| —    | —                | —                                            |
+
+---
+
+## [IL-021] C.S. Lewis: a casa que Deus está reconstruindo
+
+- **Fonte**: Pregador (voz cristã ampla): C.S. Lewis
+- **Origem específica**: livro *Mere Christianity* (1952), Livro IV,
+  capítulo 9 "Contando o Custo" (Counting the Cost); Lewis atribui a
+  imagem a George MacDonald
+- **Tags**: `#santificação` `#sofrimento` `#providência` `#transformação`
+  `#confiança-em-deus`
+- **Descrição**: Lewis compara o crente a uma casa velha que Deus está
+  reformando. No início, as reformas parecem razoáveis — Deus conserta o
+  encanamento, remenda o telhado, tudo o que se esperaria de uma "casinha
+  decente". Mas depois Ele começa a derrubar paredes de um jeito que dói
+  e não faz sentido — porque não está construindo uma casinha, está
+  construindo um palácio, pois pretende, nas palavras de Lewis, "vir
+  morar nela Ele mesmo".
+- **Fim homilético**: ilustra que o sofrimento e as mudanças dolorosas e
+  inexplicáveis na vida do crente não são sinal de descuido ou abandono
+  de Deus, mas evidência de que Ele tem um projeto maior do que o próprio
+  crente imaginava para si — a santificação dói precisamente porque o
+  alvo é mais alto do que "ser uma pessoa decente". Serve ao ponto de
+  sermão sobre providência/santificação que precisa responder à pergunta
+  "por que Deus está permitindo isso, se eu já melhorei?"
+- **Adicionada em**: 2026-11-01
+
+### Usos
+
+| Data | Sermão/Perícope | Conexão específica que justificou o reuso |
+|------|------------------|---------------------------------------------|
+| —    | —                | —                                            |
+
+---
+
 ## [IL-020] "Deus ajuda quem cedo madruga": o ditado que parece versículo
 
 - **Fonte**: Própria (Allan)
