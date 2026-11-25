@@ -177,6 +177,9 @@ context/                            — documentos de referência metodológica
                                       escopo amplo (cristãos + seculares, clássicos
                                       + contemporâneos), regra de ≤80 palavras para
                                       citação direta, template do banco
+  calendario-ipe-2026.md            — calendário de sermões e seminários da IPE
+                                      em 2026 (o que a congregação já ouviu);
+                                      consultar na Fase 2.0 junto com o índice
 
 assets/                             — identidade visual e recursos gráficos
   identidade-visual-ipe.md          — especificações de cores, fontes, layout IPE
@@ -195,6 +198,8 @@ citacoes/                           — banco vivo de citações de grandes pens
                                       a construção do sermão (append-only)
 
 estudos/                            — estudos bíblicos completos (saída do workflow)
+  series/                           — planos de série (fio condutor, programação,
+                                      leituras, cuidados de coerência)
   indice.md                         — tabela mestra: perícope, gênero, telos,
                                       ídolo/tema, data, link — consultada na
                                       Fase 2 (coerência) e atualizada na Fase 7

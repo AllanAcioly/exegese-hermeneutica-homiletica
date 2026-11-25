@@ -108,6 +108,10 @@ se um tema parecido já foi tratado, para manter coerência entre estudos
 conexões canônicas legítimas entre passagens). Isso não substitui a
 exegese do texto atual — é uma checagem de coerência, não um atalho.
 
+Consultar também `context/calendario-ipe-2026.md` (o que a congregação
+já ouviu no ano, inclusive sermões sem estudo neste projeto) e, se a
+perícope pertencer a uma série, o plano em `estudos/series/`.
+
 ### 2.1 Identificar indícios télicos
 
 Termo de Adams (*indicios télicos*); antes chamados aqui de "pistas
