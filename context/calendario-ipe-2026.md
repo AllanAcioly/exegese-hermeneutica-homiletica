@@ -97,7 +97,7 @@ Todo seminário do calendário foi um **estudo bíblico** com a congregação
 extra**, realizado no meio da série de finanças (julho, *A economia da
 graça*, livro *Economia do Reino*), que não entrou no documento. O
 conteúdo desses estudos também conta como "o que a congregação já ouviu"
-na Fase 2.0. Textos, datas e título do extra ainda não estão registrados.
+na Fase 2.0, pelo tema: todos foram temáticos, sem texto-base.
 
 | Nº | Tema |
 |----|------|
@@ -112,7 +112,7 @@ na Fase 2.0. Textos, datas e título do extra ainda não estão registrados.
 | 09 | Democracia |
 | 10 | Teologia da amizade |
 | 11 | B.L.E.S.S. (livro) |
-| extra | (título a registrar), no meio da série de finanças, em julho |
+| extra | Estudo temático de finanças, no meio da série *A economia da graça* (julho) |
 
 ## Leituras do ano (para a Fase 2.0)
 

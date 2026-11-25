@@ -1,21 +1,19 @@
-# Advento e Natal 2026 — plano da série
+# O Rei Prometido — Advento e Natal 2026 (plano da série)
 
 IP Esperança, de 29/11 a 27/12/2026. Lecionário Comum Revisado, **Ano B**
 (Evangelho do ano: Marcos). Livro indicado à congregação: *Lecionário
 Cristão* (o diálogo com ele nos sermões é opcional).
 
-**Título da série**: a definir (propostas na conversa de 2026-11-25).
+**Título da série**: **O Rei Prometido** (decisão do Allan, 2026-11-25).
 
 ## Fio condutor
 
-**Promessa → cumprimento**, com **Hb 1.1-2** como chave: Deus falou "pelos
-profetas" (os quatro domingos do Advento) e "nestes últimos dias, pelo
-Filho" (Natal e 27/12).
-
-Proposta em aberto, para validar: **promessa → cumprimento → consumação**.
+**Promessa → cumprimento → consumação** (decisão do Allan, 2026-11-25),
+com **Hb 1.1-2** como chave: Deus falou "pelos profetas" (os quatro
+domingos do Advento) e "nestes últimos dias, pelo Filho" (Natal e 27/12).
 O Advento celebra duas vindas. Algumas promessas (ex.: Is 64.1-3, os céus
 rasgados e os montes tremendo) se cumprem em parte no Natal e só por
-inteiro na volta de Cristo.
+inteiro na volta de Cristo (Mc 13.26; Is 65.17).
 
 Regra 6a.1: o fio, as velas e o livro são **moldura e eco**. O telos é
 sempre o da perícope, e os títulos dos pontos nascem do texto.
@@ -42,12 +40,66 @@ sempre o da perícope, e os títulos dos pontos nascem do texto.
 - **Prazo**: manuscrito pronto no sábado anterior a cada domingo (o
   primeiro até 28/11).
 - **Liturgia**: para cada domingo, propor as leituras complementares do
-  lecionário, um texto curto para o acendimento da vela e sugestões de
-  cânticos.
+  lecionário e um texto curto para o acendimento da vela. **Cânticos ficam
+  para depois**: o Allan vai criar uma pasta ou arquivo de repertório para
+  avaliação futura.
+- **Quem acende as velas**: a IPE costuma variar entre líderes de
+  departamento, oficiais e famílias. O Allan aceita sugestões (abaixo).
 - **Material**: o Allan enviará comentários e material de apoio. Onde o
   material dele divergir, ele prevalece.
 - **Contexto congregacional**: crescimento e chegada de novos membros. É
   o primeiro Advento da IPE como igreja organizada (07/02/2026).
+
+## Sugestão: quem acende cada vela
+
+A sugestão casa o rosto de quem acende com o texto do dia e com o momento
+de crescimento da igreja. Só funciona como eco: não precisa ser explicada
+no sermão.
+
+| Data | Vela | Quem acende | Por quê |
+|------|------|-------------|---------|
+| 29/11 | Esperança | **Uma família recém-recebida** como membro | Is 64.8-9: "todos nós somos obra das tuas mãos… todos nós somos o teu povo". A igreja que cresce é obra do oleiro |
+| 06/12 | Paz | **Oficiais** (um presbítero e um diácono) | Is 40.1-2, 11: o consolo dito ao coração do povo e o Senhor que apascenta "como pastor" |
+| 13/12 | Alegria | **Líderes de departamento** (infantil, jovens) | Is 61.10-11 e Sl 126: alegria que germina |
+| 20/12 | Amor | **Uma família de três gerações** (avós, pais, filhos) | 2Sm 7: Deus promete a Davi uma "casa", uma descendência, e um amor leal que não se retira |
+| 24/12 | Cristo | **O pastor** acende a vela central; depois a luz passa às velas da congregação | Jo 1.4-5, 9: a luz que vem ao mundo e é passada adiante |
+
+Os textos de 06/12 a 24/12 serão conferidos na NAA quando cada liturgia
+for preparada.
+
+## Liturgia do 1º domingo (29/11) — vela da esperança
+
+**Leituras** (sugestão de ordem):
+1. Chamada à adoração: **Sl 80.1-3**, com o refrão do v. 3 dito pela
+   congregação. O refrão volta nos vv. 7 e 19 e responde ao "escondes de
+   nós o teu rosto" de Is 64.7.
+2. Leitura do Evangelho: **Mc 13.24-37** (a vinda do Filho do Homem;
+   "vigiem").
+3. Leitura da Epístola, se houver espaço: **1Co 1.3-9** ("enquanto aguardam
+   a revelação de nosso Senhor Jesus Cristo", v. 7).
+4. Texto do sermão: **Is 64.1-9**.
+
+**Acendimento da vela da esperança** (citações conferidas na NAA):
+
+> **Leitor**: Quando Deus parecia ausente e calado, o seu povo orou:
+> "Ah! Se fendesses os céus e descesses!" (Is 64.1)
+>
+> **Congregação**: "Restaura-nos, ó Deus; faze resplandecer o teu rosto, e
+> seremos salvos." (Sl 80.3)
+>
+> **Leitor**: Acendemos a vela da esperança. A esperança do Advento não é
+> otimismo: é esperar no Deus que já desceu em Jesus Cristo e que voltará
+> "com grande poder e glória" (Mc 13.26).
+>
+> *(A família acende a primeira vela.)*
+>
+> **Congregação**: "Mas agora, Senhor, tu és o nosso Pai. Nós somos o
+> barro, e tu és o nosso oleiro; e todos nós somos obra das tuas mãos."
+> (Is 64.8)
+>
+> **Leitor**: Oremos. Pai, nós não temos justiça para apresentar, mas
+> temos o teu nome para invocar. Desperta-nos para esperar em ti. Vem,
+> Senhor Jesus. Amém.
 
 ## Leituras complementares do lecionário (Ano B)
 
@@ -100,4 +152,4 @@ Natal.
 
 | Data | Estudo | Status |
 |------|--------|--------|
-| 29/11 | `estudos/isaias/64-1-9.md` | a iniciar (Fase 1) |
+| 29/11 | `estudos/isaias/64-1-9.md` | Fase 1 concluída (2026-11-25), aguardando validação |
