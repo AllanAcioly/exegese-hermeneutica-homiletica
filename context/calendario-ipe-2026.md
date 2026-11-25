@@ -2,13 +2,14 @@
 
 Fonte: `ANO 2026 SERMÕES E SEMINÁRIOS — Versão Final 2` (DOCX enviado pelo
 Allan em 2026-11-25). Transcrito aqui para servir de **memória do ano de
-púlpito**: muitos destes sermões foram pregados antes do projeto e não têm
-estudo em `estudos/`.
+púlpito e de ensino**: sermões e seminários (estudos bíblicos), a maioria
+feitos antes do projeto e sem arquivo em `estudos/`.
 
 **Como usar**:
 - **Fase 2.0 (coerência)**: consultar junto com `estudos/indice.md`. O
-  índice traz só o que foi estudado aqui; este calendário mostra o que a
-  congregação já *ouviu* — temas saturados, textos já pregados, títulos.
+  índice traz só o que foi estudado neste projeto; este calendário mostra
+  o que a congregação já *ouviu*, nos sermões e nos 12 estudos bíblicos
+  dos seminários: temas saturados, textos já pregados, títulos.
 - **Fase 4 e 6a**: evitar a "fadiga do familiar" (6a.1): se um tema ou
   ídolo já foi pregado várias vezes no ano, buscar o ângulo próprio do
   texto novo; quando houver eco legítimo com um sermão anterior, ele pode
@@ -89,7 +90,14 @@ estudo em `estudos/`.
 O texto de 31/10 vem de `estudos/romanos/3-21-28.md`; o calendário marca só
 a data.
 
-## Seminários
+## Seminários (estudos bíblicos)
+
+Todo seminário do calendário foi um **estudo bíblico** com a congregação
+(informação do Allan, 2026-11-25). Foram 11 no calendário e mais **um
+extra**, realizado no meio da série de finanças (julho, *A economia da
+graça*, livro *Economia do Reino*), que não entrou no documento. O
+conteúdo desses estudos também conta como "o que a congregação já ouviu"
+na Fase 2.0. Textos, datas e título do extra ainda não estão registrados.
 
 | Nº | Tema |
 |----|------|
@@ -104,6 +112,7 @@ a data.
 | 09 | Democracia |
 | 10 | Teologia da amizade |
 | 11 | B.L.E.S.S. (livro) |
+| extra | (título a registrar), no meio da série de finanças, em julho |
 
 ## Leituras do ano (para a Fase 2.0)
 
