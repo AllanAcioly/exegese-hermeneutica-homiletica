@@ -152,4 +152,4 @@ Natal.
 
 | Data | Estudo | Status |
 |------|--------|--------|
-| 29/11 | `estudos/isaias/64-1-9.md` | Fase 2 concluída (2026-11-27), aguardando validação |
+| 29/11 | `estudos/isaias/64-1-9.md` | Fase 3 concluída (2026-11-28), aguardando validação |
